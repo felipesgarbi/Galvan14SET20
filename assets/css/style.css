@@ -753,7 +753,7 @@ hr {
 /* scrollUp */
 /* line 466, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 #scrollUp, #back-top {
-  background: #FF3514;
+  background: #355b9a;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -1426,7 +1426,7 @@ hr {
 
 /* line 534, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .mr-20 {
-  margin-right: 20px;
+  margin-right: 80px;
 }
 
 /* line 534, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
@@ -2526,7 +2526,7 @@ hr {
   position: relative;
   border-style: solid;
   border-width: 1px;
-  border-top-color: #FF3514;
+  border-top-color: #234e67;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -2795,8 +2795,8 @@ hr {
 
 /* line 839, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .section-padding30 {
-  padding-top: 195px;
-  padding-bottom: 180px;
+  padding-top: 25px;
+  padding-bottom: 60px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2977,8 +2977,8 @@ hr {
 
 /* line 938, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .footer-padding {
-  padding-top: 160px;
-  padding-bottom: 120px;
+  padding-top: 40px;
+  padding-bottom: 5px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -3090,7 +3090,7 @@ hr {
 
 /* line 1016, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .element {
-  background-color: #FF3514;
+  background-color: #234e67;
   color: white;
   margin-right: 5px;
   margin-left: 5px;
@@ -3143,14 +3143,14 @@ hr {
 
 /* line 1065, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .all-btn {
-  color: #FF3514;
+  color: #234e67;
   text-decoration: underline;
   font-size: 16px;
 }
 
 /* line 1069, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .all-btn:hover {
-  color: #FF3514;
+  color: #234e67;
   text-decoration: underline;
   letter-spacing: 1px;
 }
@@ -3185,7 +3185,7 @@ hr {
 
 /* line 69, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_color.scss */
 .theme-bg {
-  background: #FF3514;
+  background: #234e67;
 }
 
 /* line 72, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_color.scss */
@@ -3211,7 +3211,7 @@ hr {
 
 /* line 87, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_color.scss */
 .theme-color {
-  color: #FF3514;
+  color: #234e67;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -3259,7 +3259,7 @@ hr {
 /* line 30, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top {
   background: #140C40;
-  padding: 0px 0px;
+  padding: 2px 2px;
 }
 
 /* line 36, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -3318,10 +3318,10 @@ hr {
   padding: 33px 2px;
   display: block;
   font-size: 16px;
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
-  -o-transition: 0.3s;
-  transition: 0.3s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
   text-transform: capitalize;
 }
 
@@ -3334,7 +3334,8 @@ hr {
 
 /* line 89, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul li:hover > a {
-  color: #FF3514;
+  color: #234e67;
+  font-size: 120%;
 }
 
 /* line 94, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -3353,7 +3354,7 @@ hr {
   content: "";
   width: 100%;
   height: 2px;
-  background: #f04e3c;
+  background:gray;
   bottom: 0;
   margin: 0 auto;
   left: 0;
@@ -3379,7 +3380,7 @@ hr {
 
 /* line 126, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul ul.submenu > li {
-  margin-left: 7px;
+  margin-left: 700px;
   display: block;
 }
 
@@ -3496,7 +3497,7 @@ hr {
 
 /* line 243, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: #FF3514 !important;
+  background-color: #234e67 !important;
 }
 
 /* line 247, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -3507,7 +3508,7 @@ hr {
 /* line 250, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #FF3514;
+  color: #234e67;
 }
 
 /* line 254, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -5376,7 +5377,7 @@ hr {
 
 /* line 141, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-social > a:hover {
-  color: #FF3514;
+  color: #234e76;
 }
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_blog_page.scss */
