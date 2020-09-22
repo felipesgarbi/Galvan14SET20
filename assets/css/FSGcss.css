@@ -17,9 +17,13 @@
 }
 
 .rodapeCorreto{
-    font-size: 13px;
+    font-size: 14px;
     color: white;
     align-items: inherit;
     margin-left: 180px;
     margin-right: 0;
+}
+
+.textoBranco {
+    color: white !important;
 }

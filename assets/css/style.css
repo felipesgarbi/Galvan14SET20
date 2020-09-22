@@ -191,10 +191,11 @@
 /* 1. Theme default css */
 /* line 4, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 body {
-  font-family: "Muli", sans-serif;
-  font-weight: normal;
+  font-family: "Arial MT Condensed", "Muli", sans-serif;
   font-style: normal;
-  font-size: 16px;
+  font-weight: lighter;
+  font-size: 18px;
+  /*ArialMT Condensed*/
 }
 
 /* line 10, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
@@ -204,7 +205,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Muli", sans-serif;
+  font-family: "Arial MT Condensed", "Muli", sans-serif;
   color: #072366;
   margin-top: 0px;
   font-style: normal;
@@ -506,7 +507,7 @@ hr {
   font-size: 16px;
   background-size: 200%;
   transition: 0.6s;
-  background-image: linear-gradient(to left, #FF3514, #d62d12, #FF3514);
+  background-image: linear-gradient(to left, #2b3e4d, #355b9a, #2b3e4d);
   background-position: right;
 }
 
@@ -2977,7 +2978,7 @@ hr {
 
 /* line 938, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .footer-padding {
-  padding-top: 40px;
+  padding-top: 30px;
   padding-bottom: 5px;
 }
 
@@ -3259,7 +3260,7 @@ hr {
 /* line 30, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top {
   background: #140C40;
-  padding: 2px 2px;
+  padding: 3px 3px;
 }
 
 /* line 36, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -3334,8 +3335,8 @@ hr {
 
 /* line 89, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul li:hover > a {
-  color: #234e67;
-  font-size: 120%;
+  color: #969696;
+  font-size: 110%;
 }
 
 /* line 94, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -3437,7 +3438,7 @@ hr {
 
 /* line 186, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top .header-info-right .header-social a:hover i {
-  color: #ff2143;
+  color: #2e4a70;
   transform: rotateY(180deg);
   -webkit-transform: rotateY(180deg);
   -moz-transform: rotateY(180deg);
@@ -5263,7 +5264,7 @@ hr {
 .footer-area .footer-form form input {
   width: 100%;
   height: 43px;
-  padding: 10px 20px;
+ 
   border: 1px solid #C2C5DB;
   background: no-repeat;
   color: #C2C5DB;
