@@ -74,34 +74,18 @@
                 <div class="container-fluid p-0 fix">
                     <div class="row no-gutters">
                         <div class="col-xl-4 col-lg-4 col-md-6">
-
-
-
                             <div class="single-gallery text-center ">
-                                <div class="card text-center " style="background-image: url(assets/img/edificios/ed-contarini.jpg); position: relative; background-size: cover;">
-                                    <div class="card gallery-img text-center" style="background-image: url(assets/img/edificios/ed-contarini.jpg); margin: 25px;">
-                                        <div class="card-header">
-                                            <div class="row">
-                                                <div class="col-6">
-                                                    <h3 style="font-family: Daydream; color: white; font-size: 33px">Edifício Contarini</h3>
-                                                </div>
-                                                <div class="col-6">
-                                                    <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="card-body">
+                                <figure class=" single-gallery effect-layla">
+                                    <img class="w-100 h-100" src="assets/img/edificios/ed-contarini.jpg" alt="img06" />
+                                    <figcaption>
+                                        <h2 style="font-family: Daydream;  color: white;">Edifício Contarini</h2>
+                                        <p>When Layla appears, she brings an eternal summer along.</p>
+                                        <a href="#">Conheça</a>
+                                    </figcaption>
+                                </figure>
 
-                                        </div>
-                                        <div class="card-footer text-muted" style="background-color: rgb(29 28 28 / 78%);">
-                                            <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
 
-                                        </div>
-
-                                    </div>
-                                </div>
                             </div>
-
 
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 ">
