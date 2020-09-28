@@ -198,6 +198,36 @@ body {
   /*ArialMT Condensed*/
 }
 
+@font-face {
+	font-family: Daydream;
+	src: url(../fonts/daydream.ttf)
+}
+
+@font-face {
+	font-family: Ruda;
+	src: url(../fonts/ruda-3.ttf)
+}
+
+@media (max-width: 767px) {
+  .font-daydream{
+    text-align: center;
+  }
+}
+.font-ruda{
+  font-family: Ruda;
+}
+.font-daydream{
+  font-family: Daydream;
+  font-size: 60px;
+}
+
+.textoBranco{
+  margin-left: 15%;
+}
+
+.empre{
+  margin: 5px;
+}
 /* line 10, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 h1,
 h2,
@@ -3336,7 +3366,7 @@ hr {
 /* line 89, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul li:hover > a {
   color: #969696;
-  font-size: 110%;
+  
 }
 
 /* line 94, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -3349,17 +3379,46 @@ hr {
   position: relative;
 }
 
+.font_header{
+  color: #fff !important;
+  display: inline-block;
+  margin-right: 30px;
+  font-size: 15px;
+  font-weight: 100;
+  font-family: "Muli", sans-serif;
+}
+
 /* line 101, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul li.active::before {
   position: absolute;
   content: "";
   width: 100%;
   height: 2px;
-  background:gray;
+  background:#140c40;
   bottom: 0;
   margin: 0 auto;
   left: 0;
   right: 0;
+}
+.linha:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background-color: #140c40;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.linha:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
 }
 
 /* line 114, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -3940,6 +3999,8 @@ hr {
   }
 }
 
+
+
 /* line 1, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_about.scss */
 .about-low-area {
   background: #FFF7F5;
@@ -3948,11 +4009,11 @@ hr {
 
 /* line 15, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_about.scss */
 .about-low-area .about-caption p {
-  font-size: 16px;
+  font-size: 24px;
   color: #64676c;
   line-height: 1.6;
   margin-bottom: 58px;
-  padding-right: 50px;
+ 
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
