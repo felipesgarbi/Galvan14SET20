@@ -74,14 +74,16 @@
                 <div class="container-fluid p-0 fix">
                     <div class="row no-gutters">
                         <div class="col-xl-4 col-lg-4 col-md-6">
-                            <div class="single-gallery text-center ">
-                                <figure class=" single-gallery effect-layla">
-                                    <img class="w-100 h-100" src="assets/img/edificios/ed-contarini.jpg" alt="img06" />
+                            <div class="text-center h-100">
+                                <figure class=" effect-layla h-100" style="background-image: url(assets/img/edificios/ed-contarini437x566.jpg); position: relative; background-size: cover;">
+
                                     <figcaption>
                                         <h2 style="font-family: Daydream;  color: white;">Edifício Contarini</h2>
-                                        <p>When Layla appears, she brings an eternal summer along.</p>
-                                        <a href="#">Conheça</a>
+                                        <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+
+                                        <a href="about.php" class="btn  wantToWork-btn mr-20 textoBranco">CONHEÇA<i class="ti-arrow-right"></i></a>
                                     </figcaption>
+
                                 </figure>
 
 
@@ -89,35 +91,34 @@
 
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 ">
+                            <div class="text-center h-100">
+                                <!--  <figure class=" effect-layla h-100" >
 
-                            <div class="single-gallery text-center ">
+                                    <figcaption>
+                                        <h2 style="font-family: Daydream;  color: white;">Edifício Ouro Verde</h2>
+                                        <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                        <a href="about.php" class="btn  wantToWork-btn mr-20 textoBranco">CONHEÇA<i class="ti-arrow-right"></i></a>
 
-                                <div class="card text-center " style="background-image: url(assets/img/edificios/ed-ouroverde.jpg); position: relative; background-size: cover;">
-                                    <div class="card gallery-img text-center" style="background-image: url(assets/img/edificios/ed-ouroverde.jpg); margin: 25px;">
-                                        <div class="card-header">
-                                            <div class="row">
-                                                <div class="col-6">
-                                                    <h3 style="font-family: Daydream; color: white; font-size: 33px">Edifício Ouro Verde</h3>
-                                                </div>
-                                                <div class="col-6">
-                                                    <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="card-body">
+                                    </figcaption>
 
-                                        </div>
-                                        <div class="card-footer text-muted" style="background-color: rgb(29 28 28 / 78%);">
-                                            <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                    
 
-                                        </div>
+                                </figure>
+-->
 
-                                    </div>
-                                </div>
+                                <figure class="effect-marley h-100" style="background-image: url(assets/img/edificios/ed-ouroverde.jpg); position: relative; background-size: cover;">
+                                    
+                                    <figcaption>
+                                        <h2 style="font-family: Daydream;  color: white;">Edifício Ouro Verde</h2>
+                                        <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                        <br>
+                                        
+                                        <p><a href="about.php" class="btn  wantToWork-btn mr-20 textoBranco">CONHEÇA<i class="ti-arrow-right"></i></a></p>
 
-
+                                    </figcaption>
+                                </figure>
+                          
                             </div>
-
 
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 ">
@@ -151,11 +152,6 @@
 
 
                         </div>
-
-
-
-
-
 
                     </div>
                 </div>

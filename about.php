@@ -105,13 +105,13 @@
                         <div class="col-xl-8 col-lg-8 col-md-8">
                             <div class="wantToWork-caption">
                                 <div class="logo">
-                                    <h1 class="oamanha"><b>O amanhã a gente projeta hoje!</b></h1>
+                                    <h1 class="font-daydream"><b>O seu sonho está aqui</b></h1>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right ">
-                                <a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>
+                                <a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Nossos empreendimentos<i class="ti-arrow-right"></i></a> </div>
                         </div>
                     </div>
                 </div>
