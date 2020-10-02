@@ -47,7 +47,7 @@
         <!-- TESTE DE CAROUSEL FINALIZADO AQUI -->
 
         <!-- CHAMADA SOBRE NÓS INICIO -->
-        <section class="wantToWork-area">
+        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: cover;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
@@ -92,32 +92,19 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 ">
                             <div class="text-center h-100">
-                                <!--  <figure class=" effect-layla h-100" >
-
-                                    <figcaption>
-                                        <h2 style="font-family: Daydream;  color: white;">Edifício Ouro Verde</h2>
-                                        <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-                                        <a href="about.php" class="btn  wantToWork-btn mr-20 textoBranco">CONHEÇA<i class="ti-arrow-right"></i></a>
-
-                                    </figcaption>
-
-                                    
-
-                                </figure>
--->
-
+            
                                 <figure class="effect-marley h-100" style="background-image: url(assets/img/edificios/ed-ouroverde.jpg); position: relative; background-size: cover;">
-                                    
+
                                     <figcaption>
                                         <h2 style="font-family: Daydream;  color: white;">Edifício Ouro Verde</h2>
                                         <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
                                         <br>
-                                        
+
                                         <p><a href="about.php" class="btn  wantToWork-btn mr-20 textoBranco">CONHEÇA<i class="ti-arrow-right"></i></a></p>
 
                                     </figcaption>
                                 </figure>
-                          
+
                             </div>
 
                         </div>

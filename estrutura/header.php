@@ -1,13 +1,3 @@
-<script>
-    $('#ele').hover(
-        alert("");
-
-        function() {
-            $(this).addClass('active')
-        }
-    );
-</script>
-
 <header>
     <!-- Header Start -->
     <div class="header-area">
@@ -45,7 +35,7 @@
                                     <nav>
                                         <ul id="navigation">
                                             <li class="<?php echo $sobreNos ?>"><a href="about.php" class="linha font-ruda">SOBRE NÓS</a></li>
-                                            <li><a href="#" class="linha font-ruda">EMPREENDIMENTOS</a></li>
+                                            <li class="<?php echo $empreend ?>"><a href="empreendimentos.php" class="linha font-ruda">EMPREENDIMENTOS</a></li>
                                             <li><a href="#" class="linha font-ruda">BLOG</a></li>
                                             <li><a href="#" class="linha font-ruda">CONTATO</a></li>
                                         </ul>
