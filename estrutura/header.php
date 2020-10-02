@@ -12,8 +12,8 @@
                         </div>
 
                         <div class="col-6" style="text-align: end;">
-                            <a class="font_header">atendimento@galvanengenharia.com</a>
-                            <a class="font_header">+55 47 9.8919-0606</a>
+                            <a class="font_header"><i class="far fa-envelope"></i> atendimento@galvanengenharia.com</a>
+                            <a class="font_header"><i class="fab fa-whatsapp"></i> +55 47 9.8919-0606</a>
 
                         </div>
                     </div>

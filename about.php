@@ -49,8 +49,17 @@
     include "./estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpeg">
+        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpg">
             <div class="slider-height2 d-flex align-items-center">
+            <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="hero-cap hero-cap2">
+                                <h1 class="font-daydream60">O amanhã a gente projeta hoje!</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- Hero End -->
@@ -62,7 +71,7 @@
                         <div class="about-caption mb-50">
                             <!-- Section Tittle -->
                             <div class="section-tittle mb-35">
-                                <h2 class="font-ruda titulo-sobre">A GALVAN ENGENHARIA</h2>
+                                <h2 class="font-ruda titulo-sobre"><i class="far fa-building"></i> A GALVAN ENGENHARIA</h2>
                             </div>
                             <p>Em 2011, o desejo de unir nossa família através de um sonho começou a se realizar. Desde então, temos construído a Galvan Engenharia para oferecer a você espaços amplos, confortáveis e com acabamento de qualidade. Buscando localizações privilegiadas, valorizamos o seu tempo, proporcionando mais lazer, segurança e praticidade para o seu dia.</p>
                         </div>
@@ -78,40 +87,42 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-xl-6 col-lg-6 col-md-10">
-                    <div class="about-caption mb-50">
+                    <div class="about-caption">
                         <!-- Section Tittle -->
-                        <div class="section-tittle mb-35">
-                            <h2 class="font-ruda titulo-sobre">NOSSOS VALORES</h2>
+                        <div class="section-tittle">
+                            <h2 class="font-ruda titulo-nossosValores"><i class="fas fa-angle-right"></i> NOSSOS VALORES</h2>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <ul>
-            <li><img class="d-block w-100" src="assets/img/valores/1.jpg" alt=""></li>
-            <li><img class="d-block w-100" src="assets/img/valores/2.jpg" alt=""></li>
-            <li><img class="d-block w-100" src="assets/img/valores/3.jpg" alt=""></li>
-            <li><img class="d-block w-100" src="assets/img/valores/4.jpg" alt=""></li>
+            <li><img class="w-100" src="assets/img/valores/V1.png" alt="" background-size="contain"></li>
+            <li><img class="w-100" src="assets/img/valores/V2.png" alt="" background-size="contain"></li>
+            <li><img class="w-100" src="assets/img/valores/V3.png" alt="" background-size="contain"></li>
+            <li><img class="w-100" src="assets/img/valores/V4.png" alt="" background-size="contain"></li>
+            <li><img class="w-100" src="assets/img/valores/V5.png" alt="" background-size="contain"></li>
+            <li><img class="w-100" src="assets/img/valores/V6.png" alt="" background-size="contain"></li>
         </ul>
 
 
         <!-- VALORES FIM-->
 
         <!-- Want To work 2-->
-        <section class="wantToWork-area">
+        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-xl-8 col-lg-8 col-md-8">
                             <div class="wantToWork-caption">
                                 <div class="logo">
-                                    <h1 class="font-daydream"><b>O seu sonho está aqui</b></h1>
+                                    <h1 class="font-daydream40"><b>O seu sonho está aqui!</b></h1>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right ">
-                                <a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Nossos empreendimentos<i class="ti-arrow-right"></i></a> </div>
+                                <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Nossos empreendimentos<i class="ti-arrow-right"></i></a> </div>
                         </div>
                     </div>
                 </div>
@@ -125,51 +136,43 @@
             <div class="footer-area footer-padding">
                 <div class="container">
                 <div class="row">
-                 
-
                     <div class="col-4">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4><b>Entre em contato conosco para agendar uma visita!</b></h4>
-                                <ul class="text-center">
-                                    <li><a href="#"><i class="fab fa-facebook-f "></i></a>
-                                        <a href="#"><i class=" fab fa-instagram"></i></a></li>
-                                </ul>
-
+                            <h4 class="textoCinza">Endereço</h4>
+                                <div class="footer-pera">
+                                    <p class="info1 textoCinza">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
+                                </div>    
+                            
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-4">
-                        <div class="single-footer-caption mb-50">
+                        <div class="col-4">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <ul class="text-center textoCinza">
+                                        <li><a href="#"><i class="fab fa-facebook-f "></i></a>
+                                            <a href="#"><i class=" fab fa-instagram"></i></a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="col-4" style="text-align: end;">
+                            <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Endereço</h4>
-                                <div class="footer-pera">
-                                    <p class="info1">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
+                                    <h4 class="textoCinza">Contato</h4>
+                                    <div class="footer-number">
+                                    <p class="textoCinza">
+                                        <b>Telefone/WhatsApp:
+                                        </b> +55 47 9.8919-0606
+                                        </br>
+                                        <b>Email:
+                                        </b> atendimento@galvanengenharia.com</p>
+                                </div>
                                 </div>
                             </div>
-
-                            
                         </div>
-
-                    </div>
-                    <div class="col-4">
-                        <div class="single-footer-caption mb-50">
-                        <div class="footer-tittle">
-                                <h4>Contato</h4>
-                                <div class="footer-number">
-                                <p>
-                                    <b>Telefone/WhatsApp:
-                                    </b> +55 47 9.8919-0606
-                                    </br>
-                                    <b>Email:
-                                    </b> atendimento@galvanengenharia.com</p>
-                            </div>
-                            </div>
-                        
-                        </div>
-                    </div>
-                </div>
                 </div>
             </div>
             <!-- footer-bottom area -->

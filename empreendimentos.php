@@ -58,7 +58,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-daydream">O seu sonho está aqui</h1>
+                                <h1 class="font-daydream40">O seu sonho está aqui!</h1>
                             </div>
                         </div>
                     </div>

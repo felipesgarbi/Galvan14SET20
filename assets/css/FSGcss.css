@@ -28,6 +28,10 @@
     color: white !important;
 }
 
+.textoCinza {
+    color: #fff !important;
+}
+
  /* The sidebar menu */
  .sidenav {   
     width: 130px; /* Set the width of the sidebar */

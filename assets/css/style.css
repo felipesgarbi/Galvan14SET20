@@ -216,12 +216,23 @@ body {
 .font-ruda{
   font-family: Ruda;
 }
-.font-daydream{
+.font-daydream60{
   font-family: Daydream;
-  font-size: 60px;
+  font-size: 60px !important;
+}
+
+.font-daydream40{
+  font-family: Daydream;
+  font-size: 40px;
 }
 
 .titulo-sobre{
+  font-size: 30px !important;
+}
+
+.titulo-nossosValores{
+  padding-top: 30px;
+  padding-bottom: 10px;
   font-size: 30px !important;
 }
 
@@ -5534,7 +5545,7 @@ hr {
 
 /* line 1, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area {
-  background: #F5F9FB;
+  background: #140C40;
 }
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */

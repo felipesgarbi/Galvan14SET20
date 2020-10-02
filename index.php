@@ -47,14 +47,14 @@
         <!-- TESTE DE CAROUSEL FINALIZADO AQUI -->
 
         <!-- CHAMADA SOBRE NÓS INICIO -->
-        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: cover;">
+        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-xl-8 col-lg-8 col-md-8">
                             <div class="wantToWork-caption">
                                 <div class="logo">
-                                    <h1 class="font-daydream"><b>O amanhã a gente projeta hoje!</b></h1>
+                                    <h1 class="font-daydream40"><b>O amanhã a gente projeta hoje!</b></h1>
                                 </div>
                             </div>
                         </div>
