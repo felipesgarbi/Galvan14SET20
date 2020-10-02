@@ -1,0 +1,29 @@
+ #contactArea:before {
+    background-repeat: repeat !important;
+    background-repeat-x: repeat !important;
+    background-repeat-y: repeat !important;
+}
+#contactArea:before {
+    background-size: auto !important;
+}
+#contactArea:before {
+    background-image: url("assets/img/pattern.png") !important;
+}
+
+.rodapeSmall{
+    font-size: 1px !important;
+    text-align: center;
+    text-decoration: none !important;
+}
+
+.rodapeCorreto{
+    font-size: 14px;
+    color: white;
+    align-items: inherit;
+    margin-left: 180px;
+    margin-right: 0;
+}
+
+.textoBranco {
+    color: white !important;
+}

@@ -221,6 +221,17 @@ body {
   font-size: 60px;
 }
 
+.titulo-sobre{
+  font-size: 30px !important;
+}
+
+.about-low-area .about-caption p{
+  font-size: 18px !important;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    text-align: justify;
+}
+
 .textoBranco{
   margin-left: 15%;
 }

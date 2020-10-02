@@ -49,7 +49,7 @@
     include "./estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpg">
+        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpeg">
             <div class="slider-height2 d-flex align-items-center">
             </div>
         </div>
@@ -62,7 +62,7 @@
                         <div class="about-caption mb-50">
                             <!-- Section Tittle -->
                             <div class="section-tittle mb-35">
-                                <h2>A GALVAN ENGENHARIA</h2>
+                                <h2 class="font-ruda titulo-sobre">A GALVAN ENGENHARIA</h2>
                             </div>
                             <p>Em 2011, o desejo de unir nossa família através de um sonho começou a se realizar. Desde então, temos construído a Galvan Engenharia para oferecer a você espaços amplos, confortáveis e com acabamento de qualidade. Buscando localizações privilegiadas, valorizamos o seu tempo, proporcionando mais lazer, segurança e praticidade para o seu dia.</p>
                         </div>
@@ -81,7 +81,7 @@
                     <div class="about-caption mb-50">
                         <!-- Section Tittle -->
                         <div class="section-tittle mb-35">
-                            <h2>NOSSOS VALORES</h2>
+                            <h2 class="font-ruda titulo-sobre">NOSSOS VALORES</h2>
                         </div>
                     </div>
                 </div>
