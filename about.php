@@ -97,15 +97,76 @@
             </div>
         </div>
         <ul>
-            <li><img class="w-100" src="assets/img/valores/V1.png" alt="" background-size="contain"></li>
-            <li><img class="w-100" src="assets/img/valores/V2.png" alt="" background-size="contain"></li>
-            <li><img class="w-100" src="assets/img/valores/V3.png" alt="" background-size="contain"></li>
-            <li><img class="w-100" src="assets/img/valores/V4.png" alt="" background-size="contain"></li>
-            <li><img class="w-100" src="assets/img/valores/V5.png" alt="" background-size="contain"></li>
-            <li><img class="w-100" src="assets/img/valores/V6.png" alt="" background-size="contain"></li>
+            <li><img class="w-100" src="assets/img/valores/V1.jp" alt="PROXIMIDADE" background-size="contain"></li>
+            <!-- V1 PROXIMIDADE (com você e tudo que te faz bem -->
+            <li><img class="w-100" src="assets/img/valores/V2.jp" alt="QUALIDADE" background-size="contain"></li>
+            <!-- V2 QUALIDADE (em cada detalhe e acabamento -->
+            <li><img class="w-100" src="assets/img/valores/V3.jp" alt="SATISFAÇÃO" background-size="contain"></li>
+            <!-- V3 SATISFAÇÃO (que se contrói a cada obra -->
+            <li><img class="w-100" src="assets/img/valores/V4.jp" alt="COMPROMETIMENTO" background-size="contain"></li>
+            <!-- V4 COMPROMETIMENTO (com prazos e orçamentos -->
+            <li><img class="w-100" src="assets/img/valores/V5.jp" alt="TRANSPARÊNCIA" background-size="contain"></li>
+            <!-- V5 TRANSPARÊNCIA (contratual e empresarial -->
+            <li><img class="w-100" src="assets/img/valores/V6.jp" alt="ESTABILIDADE" background-size="contain"></li>
+            <!-- V6 ESTABILIDADE (financeira e empresarial -->
         </ul>
 
+        <section id="valoresGalvan">
+            <div class="valoresSobre valoresV1">
+                <div class="container">
+                    <div class="row">
+                        <p class="valoresSobre1Esq"><b>PROXIMIDADE</b></p>
+                        <p class="valoresSobre2Esq">com você e tudo que te faz bem</p>
+                    </div>
+                </div>
+            </div>
 
+            <div class="valoresSobre valoresV2">
+                <div class="container">
+                    <div class="row">
+                        <p class="valoresSobre1Dir"><b>QUALIDADE</b></p>
+                        <p class="valoresSobre2Dir">em cada detalhe e acabamento</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="valoresSobre valoresV3">
+                <div class="container">
+                    <div class="row">
+                        <p class="valoresSobre1Esq"><b>SATISFAÇÃO</b></p>
+                        <p class="valoresSobre2Esq">que se contrói a cada obra</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="valoresSobre valoresV4">
+                <div class="container">
+                    <div class="row">
+                        <p class="valoresSobre1Dir"><b>COMPROMETIMENTO</b></p>
+                        <p class="valoresSobre2Dir">com prazos e orçamentos</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="valoresSobre valoresV5">
+                <div class="container">
+                    <div class="row">
+                        <p class="valoresSobre1Esq"><b>TRANSPARÊNCIA</b></p>
+                        <p class="valoresSobre2Esq">contratual e empresarial</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="valoresSobre valoresV6">
+                <div class="container">
+                    <div class="row">
+                        <p class="valoresSobre1Dir"><b>ESTABILIDADE</b></p>
+                        <p class="valoresSobre2Dir">financeira e empresarial</p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
         <!-- VALORES FIM-->
 
         <!-- Want To work 2-->
@@ -130,82 +191,11 @@
         </section>
         <!-- Want To work End 2-->
     </main>
-    <section id="contactArea">
         <footer>
             <!-- Footer Start-->
-            <div class="footer-area footer-padding">
-                <div class="container">
-                <div class="row">
-                    <div class="col-4">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                            <h4 class="textoCinza">Endereço</h4>
-                                <div class="footer-pera">
-                                    <p class="info1 textoCinza">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
-                                </div>    
-                            
-                            </div>
-                        </div>
-                    </div>
-
-                        <div class="col-4">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <ul class="text-center textoCinza">
-                                        <li><a href="#"><i class="fab fa-facebook-f "></i></a>
-                                            <a href="#"><i class=" fab fa-instagram"></i></a></li>
-                                    </ul>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="col-4" style="text-align: end;">
-                            <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                    <h4 class="textoCinza">Contato</h4>
-                                    <div class="footer-number">
-                                    <p class="textoCinza">
-                                        <b>Telefone/WhatsApp:
-                                        </b> +55 47 9.8919-0606
-                                        </br>
-                                        <b>Email:
-                                        </b> atendimento@galvanengenharia.com</p>
-                                </div>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-            </div>
-            <!-- footer-bottom area -->
-    </section>
-    <div class="footer-bottom-area">
-        <div class="container">
-            <div class="footer-border">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-xl-9 col-lg-8">
-                        <div class="footer-copy-right">
-                            <div class="rodapeCorreto">
-                                Copyright © 2020 Todos direitos reservados à Galvan Engenharia | Site Desenvolvido pela Fesper
-                            </div>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            </p>
-                            <p class="rodapeSmall"><i class="" aria-hidden="false"></i><a href="https://colorlib.com/" target="_blank"></a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Footer End-->
-    </footer>
-    <!--? Search model Begin -->
-    <div class="search-model-box">
-        <div class="h-100 d-flex align-items-center justify-content-center">
-            <div class="search-close-btn">+</div>
-            <form class="search-model-form">
-                <input type="text" id="search-input" placeholder="Searching key.....">
-            </form>
-        </div>
-    </div>
+            <?php include "./estrutura/footer.php" ?>
+            <!-- Footer End-->
+        </footer>
     <!-- Scroll Up -->
     <div id="back-top">
         <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>

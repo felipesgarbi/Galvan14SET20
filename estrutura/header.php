@@ -7,8 +7,8 @@
                 <div class="justify-content-between align-items-center">
                     <div class="row">
                         <div class="col-6">
-                            <a href="#" style="margin-left: 30px;"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#" style="margin-left: 10px;"><i class="fab fa-instagram"></i></a>
+                            <a href="#" style="margin-left: 30px;"><i class="fab fa-instagram"></i></a>
+                            <a href="#" style="margin-left: 10px;"><i class="fab fa-facebook-f"></i></a>
                         </div>
 
                         <div class="col-6" style="text-align: end;">
