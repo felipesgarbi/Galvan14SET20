@@ -96,20 +96,7 @@
                 </div>
             </div>
         </div>
-        <ul>
-            <li><img class="w-100" src="assets/img/valores/V1.jp" alt="PROXIMIDADE" background-size="contain"></li>
-            <!-- V1 PROXIMIDADE (com você e tudo que te faz bem -->
-            <li><img class="w-100" src="assets/img/valores/V2.jp" alt="QUALIDADE" background-size="contain"></li>
-            <!-- V2 QUALIDADE (em cada detalhe e acabamento -->
-            <li><img class="w-100" src="assets/img/valores/V3.jp" alt="SATISFAÇÃO" background-size="contain"></li>
-            <!-- V3 SATISFAÇÃO (que se contrói a cada obra -->
-            <li><img class="w-100" src="assets/img/valores/V4.jp" alt="COMPROMETIMENTO" background-size="contain"></li>
-            <!-- V4 COMPROMETIMENTO (com prazos e orçamentos -->
-            <li><img class="w-100" src="assets/img/valores/V5.jp" alt="TRANSPARÊNCIA" background-size="contain"></li>
-            <!-- V5 TRANSPARÊNCIA (contratual e empresarial -->
-            <li><img class="w-100" src="assets/img/valores/V6.jp" alt="ESTABILIDADE" background-size="contain"></li>
-            <!-- V6 ESTABILIDADE (financeira e empresarial -->
-        </ul>
+        
 
         <section id="valoresGalvan">
             <div class="valoresSobre valoresV1">
