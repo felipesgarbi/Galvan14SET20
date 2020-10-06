@@ -220,9 +220,104 @@ body {
 .font-ruda{
   font-family: Ruda;
 }
-.font-daydream{
+.font-daydream60{
   font-family: Daydream;
-  font-size: 60px;
+  font-size: 60px !important;
+}
+
+.font-daydream40{
+  font-family: Daydream;
+  font-size: 40px;
+}
+
+.titulo-sobre{
+  font-size: 30px !important;
+}
+
+.titulo-nossosValores{
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 30px !important;
+}
+
+.valoresSobre{
+  background-size: contain; 
+  background-repeat: no-repeat; 
+  min-height:400px;
+  width:100%;
+}
+
+.valoresV1{
+  background-image: url(../img/valores/V1.jpg);
+}
+.valoresV2{
+  background-image: url(../img/valores/V2.jpg);
+}
+.valoresV3{
+  background-image: url(../img/valores/V3.jpg);
+}
+.valoresV4{
+  background-image: url(../img/valores/V4.jpg);
+}
+.valoresV5{
+  background-image: url(../img/valores/V5.jpg);
+}
+.valoresV6{
+  background-image: url(../img/valores/V6.jpg);
+}
+
+.valoresSobre1Esq{
+  font-family: Ruda;
+  font-size: 40px !important;
+  color: white;
+  text-align: justify;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+.valoresSobre2Esq{
+  font-family: Ruda;
+  font-size: 20px !important;
+  color: gray;
+  text-align: justify;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  margin-left: -20%;
+  margin-top: 18%;
+  margin-bottom: 15%;
+}
+
+.valoresSobre1Dir{
+  font-family: Ruda;
+  font-size: 40px !important;
+  color: white;
+  text-align: justify;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  margin-left: 75%;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+.valoresSobre2Dir{
+  font-family: Ruda;
+  font-size: 20px !important;
+  color: gray;
+  text-align: justify;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  margin-left: -33%;
+  margin-top: 18%;
+  margin-bottom: 15%;
+}
+
+.about-low-area .about-caption p{
+  font-size: 18px !important;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    text-align: justify;
 }
 
 .titulo-sobre{
@@ -5545,14 +5640,14 @@ hr {
 
 /* line 1, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area {
-  background: #F5F9FB;
+  background: #140C40;
 }
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area .footer-pera p {
   color: #3B4855;
   padding-right: 52px;
-  font-size: 16px;
+  font-size: 15px;
   margin-bottom: 31px;
   line-height: 1.8;
 }
@@ -5590,7 +5685,7 @@ hr {
 
 /* line 34, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area .footer-tittle ul li a:hover {
-  color: #FF3514;
+  color: #FFF;
   padding-left: 5px;
 }
 

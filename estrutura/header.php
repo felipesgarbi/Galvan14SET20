@@ -7,13 +7,13 @@
                 <div class="justify-content-between align-items-center">
                     <div class="row">
                         <div class="col-6">
-                            <a href="#" style="margin-left: 30px;"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#" style="margin-left: 10px;"><i class="fab fa-instagram"></i></a>
+                            <a href="#" style="margin-left: 30px;"><i class="fab fa-instagram"></i></a>
+                            <a href="#" style="margin-left: 10px;"><i class="fab fa-facebook-f"></i></a>
                         </div>
 
                         <div class="col-6" style="text-align: end;">
-                            <a class="font_header">atendimento@galvanengenharia.com</a>
-                            <a class="font_header">+55 47 9.8919-0606</a>
+                            <a class="font_header"><i class="far fa-envelope"></i> atendimento@galvanengenharia.com</a>
+                            <a class="font_header"><i class="fab fa-whatsapp"></i> +55 47 9.8919-0606</a>
 
                         </div>
                     </div>
