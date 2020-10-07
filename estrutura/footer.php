@@ -32,7 +32,7 @@
                                 <div class="footer-tittle">
                                         <div class="footer-number">
                                         <p class="textoCinza">
-                                            </b><i class="fab fa-whatsapp"></i> +55 47 9.8919-0606
+                                            </b><i class="fab fa-whatsapp"></i> <a href="https://wa.me/5547989190606"> +55 47 9.8919-0606 </a>
                                             </br>
                                             </b><i class="far fa-envelope"></i> atendimento@galvanengenharia.com</p>
                                     </div>
