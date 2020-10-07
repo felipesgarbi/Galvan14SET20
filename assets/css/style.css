@@ -86,6 +86,10 @@
   color: #FF3514;
 }
 
+.size-empre{
+  height: 600px;
+}
+
 /* line 50, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_variables.scss */
 .boxed-btn {
   background: #fff;
@@ -320,6 +324,13 @@ body {
   font-size: 30px !important;
 }
 
+.localizacao-empre{
+  bottom: 30px;
+  position: absolute;
+  right: 30px;
+  left: 30px;
+  padding: 10px 0;
+}
 .about-low-area .about-caption p{
   font-size: 18px !important;
     letter-spacing: 2px;
@@ -546,7 +557,7 @@ figure.effect-layla figcaption::after {
 }
 
 figure.effect-layla h2 {
-	padding-top: 26%;
+	padding-top: 2%;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 }
@@ -561,8 +572,8 @@ figure.effect-layla p {
 
 figure.effect-layla img,
 figure.effect-layla h2 {
-	-webkit-transform: translate3d(0,-30px,0);
-	transform: translate3d(0,-30px,0);
+	-webkit-transform: translate3d(0,30px,0);
+	transform: translate3d(0,30px,0);
 }
 
 figure.effect-layla img,
