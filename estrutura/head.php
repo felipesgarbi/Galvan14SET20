@@ -28,8 +28,17 @@
 	<link rel="stylesheet" href="assets/css/slick.css">
 	<link rel="stylesheet" href="assets/css/nice-select.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>  
+
+    <!-- CSS INCLUÍDO POR FESPER INÍCIO -->
     <link rel="stylesheet" href="assets/css/efeitoIndicador.css">
     <link rel="stylesheet" href="assets/css/FSGcss.css">
+<!--    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"> -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="tabs/css/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="tabs/css/tabstyles.css" />
+    <script src="tabs/js/modernizr.custom.js"></script>
+    <!-- CSS INCLUÍDO POR FESPER FIM -->
     
 </head>

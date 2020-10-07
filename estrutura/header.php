@@ -13,7 +13,7 @@
 
                         <div class="col-6" style="text-align: end;">
                             <a class="font_header"><i class="far fa-envelope"></i> atendimento@galvanengenharia.com</a>
-                            <a class="font_header"><i class="fab fa-whatsapp"></i> +55 47 9.8919-0606</a>
+                            <a href="https://wa.me/5547989190606" class="font_header"><i class="fab fa-whatsapp"></i> +55 47 9.8919-0606</a>
 
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                                             <li class="<?php echo $sobreNos ?>"><a href="about.php" class="linha font-ruda">SOBRE NÓS</a></li>
                                             <li class="<?php echo $empreend ?>"><a href="empreendimentos.php" class="linha font-ruda">EMPREENDIMENTOS</a></li>
                                             <li><a href="#" class="linha font-ruda">BLOG</a></li>
-                                            <li><a href="#" class="linha font-ruda">CONTATO</a></li>
+                                            <li class="<?php echo $contact ?>"><a href="contact.php" class="linha font-ruda">CONTATO</a></li>
                                         </ul>
                                     </nav>
                                 </div>
