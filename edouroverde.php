@@ -74,7 +74,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 col-md-2">
-                            <div class="about-caption mb-35">
+                            <div class="about-caption mb-15">
                                 <div class="section-tittle">
                                     <h2>Residencial Ouro Verde</h2>
                                     <p class="mb-30 justify-content-between">
@@ -92,7 +92,7 @@
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-5 justify-content-center">
-                            <div class="singel-details-img mb-30">
+                            <div class="singel-details-img">
                                 <img src="assets/img/edOuroVerde/ouroVerdeRight.png" alt="">
                             </div>
                         </div>
@@ -100,8 +100,8 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-8">
-                    <div class="singel-details-img mb-30 pt-50">
+                <div class="col-lg-12">
+                    <div class="mb-30 pt-20">
                         <img src="assets/img/edOuroVerde/ouroVerdePiscina.png" width="1000px" alt="">
                         <img src="assets/img/edOuroVerde/ouroVerdeSalao.png" width="1000px" alt="">
                         <img src="assets/img/edOuroVerde/ouroVerdeBrinquedo.png" width="1000px" alt="">
@@ -133,7 +133,14 @@
                         </div>
                         <div class="item" data-category="architecture">
                             <div class="item-content">
-            
+                                <img src="assets/img/edOuroVerde/ouroVerdePlanta.png" alt="image" width="400px">
+                                <br>- 1 SUÍTE COM CLOSET
+                                <br>- 2 QUARTOS
+                                <br>- COZINHA EM CONCEITO ABERTO
+                                <br>- SACADA COM CHURRASQUEIRA
+                                <br>- XX m2 DE ÁREA PRIVATIVA
+                                <br>- XX m2 DE ÁREA COMUM
+                                <br>- 1 OU 2 VAGAS DE GARAGEM
                             </div>
                         </div>
                         <div class="item" data-category="food">

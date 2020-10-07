@@ -47,14 +47,14 @@
         <!-- TESTE DE CAROUSEL FINALIZADO AQUI -->
 
         <!-- CHAMADA SOBRE NÓS INICIO -->
-        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: cover;">
+        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-xl-8 col-lg-8 col-md-8">
                             <div class="wantToWork-caption">
                                 <div class="logo">
-                                    <h1 class="font-daydream"><b>O amanhã a gente projeta hoje!</b></h1>
+                                    <h1 class="font-daydream40"><b>O amanhã a gente projeta hoje!</b></h1>
                                 </div>
                             </div>
                         </div>
@@ -148,88 +148,11 @@
         <!-- EMPRRENDIMENTOS FIM -->
 
     </main>
-
-    <section id="contactArea">
-        <footer>
+    <footer>
             <!-- Footer Start-->
-            <div class="footer-area footer-padding">
-                <div class="container">
-                    <div class="row">
-
-
-                        <div class="col-4">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4><b>Entre em contato conosco para agendar uma visita!</b></h4>
-                                    <ul class="text-center">
-                                        <li><a href="#"><i class="fab fa-facebook-f "></i></a>
-                                            <a href="#"><i class=" fab fa-instagram"></i></a></li>
-                                    </ul>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-4">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>Endereço</h4>
-                                    <div class="footer-pera">
-                                        <p class="info1">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
-                                    </div>
-                                </div>
-
-
-                            </div>
-
-                        </div>
-                        <div class="col-4">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>Contato</h4>
-                                    <div class="footer-number">
-                                        <p>
-                                            <b>Telefone/WhatsApp:
-                                            </b> +55 47 9.8919-0606
-                                            </br>
-                                            <b>Email:
-                                            </b> atendimento@galvanengenharia.com</p>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- footer-bottom area -->
-    </section>
-
-    <div class="footer-bottom-area">
-        <div class="container">
-            <div class="footer-border">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-xl-9 col-lg-8">
-                        <div class="footer-copy-right">
-                            <div class="rodapeCorreto">
-                                Copyright © 2020 Todos direitos reservados à Galvan Engenharia | Site Desenvolvido pela Fesper
-                            </div>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            </p>
-                            <p class="rodapeSmall"><i class="" aria-hidden="false"></i><a href="https://colorlib.com/" target="_blank"></a></p>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-lg-4">
-                        <!-- Footer Social -->
-                        <div class="footer-social">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Footer End-->
-    </footer>
+            <?php include "./estrutura/footer.php" ?>
+            <!-- Footer End-->
+        </footer>
     <!-- Scroll Up -->
     <div id="back-top">
         <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>

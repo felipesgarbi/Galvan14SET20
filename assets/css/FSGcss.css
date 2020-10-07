@@ -28,6 +28,10 @@
     color: white !important;
 }
 
+.textoCinza {
+    color: gray !important;
+}
+
  /* The sidebar menu */
  .sidenav {   
     width: 130px; /* Set the width of the sidebar */
@@ -82,7 +86,7 @@
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: 12px solid #fff;
+    border: 3px solid #fff;
     position: absolute;
     top: 0;
     left: 0;
@@ -102,7 +106,7 @@
     width: 100%;
     height: 100%;
     background: none;
-    border-width: 12px;
+    border-width: 8px;
     border-style: solid;
     position: absolute;
     top: 0;
@@ -131,39 +135,60 @@
     width: 90%;
     height: 90%;
     border-radius: 50%;
-    background: #44484b;
+    background: #969696;
     font-size: 24px;
-    color: #fff;
+    color: #363636;
     line-height: 135px;
     text-align: center;
     position: absolute;
     top: 5%;
     left: 5%;
 }
-.progress.blue .progress-bar{
-    border-color: #049dff;
-}
-.progress.blue .progress-left .progress-bar{
-    animation: loading-2 1.5s linear forwards 1.8s;
-}
-.progress.yellow .progress-bar{
-    border-color: #fdba04;
-}
-.progress.yellow .progress-left .progress-bar{
-    animation: loading-3 1s linear forwards 1.8s;
-}
-.progress.pink .progress-bar{
-    border-color: #ed687c;
-}
-.progress.pink .progress-left .progress-bar{
-    animation: loading-4 0.4s linear forwards 1.8s;
-}
 .progress.green .progress-bar{
-    border-color: #1abc9c;
+    border-color: #2E8B57;
 }
 .progress.green .progress-left .progress-bar{
-    animation: loading-5 1.2s linear forwards 1.8s;
+    animation: loading-5 1.5s linear forwards 1.8s;
 }
+
+/* LOADING 01 */
+.progress.blueLD1 .progress-bar{
+    border-color: #234e76;
+}
+.progress.blueLD1 .progress-left .progress-bar{
+    animation: loading-1 1s linear forwards 1.8s;
+}
+/* LOADING 01 */
+
+/* LOADING 02 */
+.progress.blueLD1 .progress-bar{
+    border-color: #234e76;
+}
+.progress.blueLD1 .progress-left .progress-bar{
+    animation: loading-2 1s linear forwards 1.8s;
+}
+/* LOADING 02 */
+
+/* LOADING 03 */
+.progress.blueLD2 .progress-bar{
+    border-color: #234e76;
+}
+.progress.blueLD2 .progress-left .progress-bar{
+    animation: loading-3 1s linear forwards 1.8s;
+}
+/* LOADING 03 */
+
+/* LOADING 04 */
+.progress.blueLD3 .progress-bar{
+    border-color: #234e76;
+}
+.progress.blueLD3 .progress-left .progress-bar{
+    animation: loading-4 1s linear forwards 1.8s;
+}
+/* LOADING 04 */
+
+
+
 @keyframes loading-1{
     0%{
         -webkit-transform: rotate(0deg);
@@ -194,6 +219,8 @@
         transform: rotate(90deg);
     }
 }
+/* loading-4 100% CONCLUIDO */
+/* loading-4 100% CONCLUIDO */
 @keyframes loading-4{
     0%{
         -webkit-transform: rotate(0deg);
@@ -204,14 +231,16 @@
         transform: rotate(36deg);
     }
 }
+/* loading-5 100% CONCLUIDO */
+/* loading-5 100% CONCLUIDO */
 @keyframes loading-5{
     0%{
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(126deg);
-        transform: rotate(126deg);
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
     }
 }
 @media only screen and (max-width: 990px){
