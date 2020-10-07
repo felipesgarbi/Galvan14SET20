@@ -217,6 +217,12 @@ body {
     text-align: center;
   }
 }
+
+@media (max-width: 575px) {
+  .textoCinza{
+    text-align: center;
+  }
+}
 .font-ruda{
   font-family: Ruda;
 }
@@ -268,7 +274,7 @@ body {
 
 .valoresSobre1Esq{
   font-family: Ruda;
-  font-size: 40px !important;
+  font-size: 25px !important;
   color: white;
   text-align: justify;
   letter-spacing: 2px;
@@ -284,19 +290,18 @@ body {
   text-align: justify;
   letter-spacing: 2px;
   word-spacing: 2px;
-  margin-left: -20%;
-  margin-top: 18%;
+
   margin-bottom: 15%;
 }
 
 .valoresSobre1Dir{
   font-family: Ruda;
-  font-size: 40px !important;
+  font-size: 25px !important;
   color: white;
-  text-align: justify;
+  text-align: end;
   letter-spacing: 2px;
   word-spacing: 2px;
-  margin-left: 75%;
+ 
   margin-top: 15%;
   margin-bottom: 15%;
 }
@@ -5646,7 +5651,7 @@ hr {
 /* line 4, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area .footer-pera p {
   color: #3B4855;
-  padding-right: 52px;
+  /*padding-right: 52px;*/
   font-size: 15px;
   margin-bottom: 31px;
   line-height: 1.8;

@@ -42,16 +42,16 @@
             </div>
         </div>
     </div>
-    
+
     <!-- Preloader Start -->
-    <?php 
+    <?php
     $sobreNos = "active";
     include "./estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpeg">
             <div class="slider-height2 d-flex align-items-center">
-            <div class="container">
+                <div class="container">
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
@@ -76,7 +76,7 @@
                             <p>Em 2011, o desejo de unir nossa família através de um sonho começou a se realizar. Desde então, temos construído a Galvan Engenharia para oferecer a você espaços amplos, confortáveis e com acabamento de qualidade. Buscando localizações privilegiadas, valorizamos o seu tempo, proporcionando mais lazer, segurança e praticidade para o seu dia.</p>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </section>
@@ -96,14 +96,18 @@
                 </div>
             </div>
         </div>
-        
+
 
         <section id="valoresGalvan">
             <div class="valoresSobre valoresV1">
                 <div class="container">
                     <div class="row">
-                        <p class="valoresSobre1Esq"><b>PROXIMIDADE</b></p>
-                        <p class="valoresSobre2Esq">com você e tudo que te faz bem</p>
+                        <div class="valoresSobre1Esq">
+                            <b>PROXIMIDADE</b>
+                            <p class="valoresSobre2Esq">com você e tudo que te faz bem</p>
+                        </div>
+                        <br>
+
                     </div>
                 </div>
             </div>
@@ -120,17 +124,26 @@
             <div class="valoresSobre valoresV3">
                 <div class="container">
                     <div class="row">
-                        <p class="valoresSobre1Esq"><b>SATISFAÇÃO</b></p>
-                        <p class="valoresSobre2Esq">que se contrói a cada obra</p>
+                        <div class="valoresSobre1Esq">
+                            <b>SATISFAÇÃO</b>
+                            <p class="valoresSobre2Esq">que se contrói a cada obra</p>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
 
             <div class="valoresSobre valoresV4">
                 <div class="container">
-                    <div class="row">
-                        <p class="valoresSobre1Dir"><b>COMPROMETIMENTO</b></p>
-                        <p class="valoresSobre2Dir">com prazos e orçamentos</p>
+                    <div class="row float-right">
+                        
+                   
+                        <div class="valoresSobre1Dir">
+                            <b>COMPROMETIMENTO</b>
+                            <p class="valoresSobre2Dir">com prazos e orçamentos</p>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -138,8 +151,11 @@
             <div class="valoresSobre valoresV5">
                 <div class="container">
                     <div class="row">
-                        <p class="valoresSobre1Esq"><b>TRANSPARÊNCIA</b></p>
-                        <p class="valoresSobre2Esq">contratual e empresarial</p>
+                        <div class="valoresSobre1Esq">
+                            <b>TRANSPARÊNCIA</b>
+                            <p class="valoresSobre2Esq">contratual e empresarial</p>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -178,11 +194,11 @@
         </section>
         <!-- Want To work End 2-->
     </main>
-        <footer>
-            <!-- Footer Start-->
-            <?php include "./estrutura/footer.php" ?>
-            <!-- Footer End-->
-        </footer>
+    <footer>
+        <!-- Footer Start-->
+        <?php include "./estrutura/footer.php" ?>
+        <!-- Footer End-->
+    </footer>
     <!-- Scroll Up -->
     <div id="back-top">
         <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>

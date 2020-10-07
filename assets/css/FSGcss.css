@@ -20,8 +20,9 @@
     font-size: 14px;
     color: white;
     align-items: inherit;
-    margin-left: 180px;
+    /*margin-left: 180px;*/
     margin-right: 0;
+    text-align: center;
 }
 
 .textoBranco {
