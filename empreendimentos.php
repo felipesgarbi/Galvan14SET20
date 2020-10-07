@@ -388,11 +388,26 @@
             <?php include "./estrutura/footer.php" ?>
             <!-- Footer End-->
         </footer>
-    <!-- Scroll Up -->
-    <div id="back-top">
-        <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
-    </div>
+    <!-- BOTÃO DO WHATSAPP INÍCIO -->
+    <a href="https://wa.me/5547989190606" style="
+            position:fixed;
+            width:60px;
+            height:60px;
+            bottom:40px;
+            right:40px;
+            background-color:#25d366;
+            color:#FFF;
+            border-radius:50px;
+            text-align:center;
+            font-size:30px;
+            box-shadow: 1px 1px 2px #888;
+            z-index:1000;" 
+        target="_blank">
+        
+        <i style="margin-top:16px" class="fab fa-whatsapp"></i></a>
 
+    <!-- BOTÃO DO WHATSAPP FIM -->
+    
     <!-- JS here -->
 
     <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>

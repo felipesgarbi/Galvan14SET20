@@ -237,29 +237,30 @@ body {
 }
 
 .valoresSobre{
-  background-size: contain; 
-  background-repeat: no-repeat; 
+  background-size: contain;
+  background-repeat: no-repeat;
   min-height:400px;
   width:100%;
+  top:0;
 }
 
 .valoresV1{
-  background-image: url(../img/valores/V1.jpg);
+  background-image: url(../img/valores/V1-.jpg);
 }
 .valoresV2{
-  background-image: url(../img/valores/V2.jpg);
+  background-image: url(../img/valores/V2-.jpg);
 }
 .valoresV3{
-  background-image: url(../img/valores/V3.jpg);
+  background-image: url(../img/valores/V3-.jpg);
 }
 .valoresV4{
-  background-image: url(../img/valores/V4.jpg);
+  background-image: url(../img/valores/V4-.jpg);
 }
 .valoresV5{
-  background-image: url(../img/valores/V5.jpg);
+  background-image: url(../img/valores/V5-.jpg);
 }
 .valoresV6{
-  background-image: url(../img/valores/V6.jpg);
+  background-image: url(../img/valores/V6-.jpg);
 }
 
 .valoresSobre1Esq{
@@ -5623,9 +5624,9 @@ hr {
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area .footer-pera p {
-  color: #3B4855;
-  padding-right: 52px;
-  font-size: 15px;
+  color: #ffffff;
+  padding-right: 50px;
+  font-size: 13px;
   margin-bottom: 31px;
   line-height: 1.8;
 }
@@ -5669,7 +5670,7 @@ hr {
 
 /* line 42, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area .footer-tittle p {
-  color: #3B4855;
+  color: #fff;
 }
 
 /* line 46, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */

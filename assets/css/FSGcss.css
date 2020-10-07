@@ -24,8 +24,9 @@
     margin-right: 0;
 }
 
-.textoBranco {
+.textoBrancoFooter {
     color: white !important;
+    font-size: 13px;
 }
 
 .textoCinza {

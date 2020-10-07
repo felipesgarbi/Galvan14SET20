@@ -9,7 +9,7 @@
                             <div class="single-footer-caption mb-50">
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
-                                        <p class="info1 textoCinza">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
+                                        <p class="info1 textoBranco font-ruda">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
                                     </div>    
                                 
                                 </div>
@@ -31,7 +31,7 @@
                                 <div class="single-footer-caption mb-50">
                                 <div class="footer-tittle">
                                         <div class="footer-number">
-                                        <p class="textoCinza">
+                                        <p class="textoBrancoFooter font-ruda">
                                             </b><i class="fab fa-whatsapp"></i> <a href="https://wa.me/5547989190606"> +55 47 9.8919-0606 </a>
                                             </br>
                                             </b><i class="far fa-envelope"></i> atendimento@galvanengenharia.com</p>
