@@ -29,7 +29,7 @@
                             </div>
                         </div>
                         <div class="col-xl-9 col-lg-8">
-                            <div class="menu-wrapper  d-flex align-items-center justify-content-center">
+                            <div class="menu-wrapper d-flex align-items-center justify-content-center">
                                 <!-- Main-menu -->
                                 <div class="main-menu d-none d-lg-block">
                                     <nav>

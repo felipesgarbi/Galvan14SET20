@@ -33,6 +33,53 @@
     color: gray !important;
 }
 
+.textoAzul {
+    color: #10285d !important;
+}
+
+.formContact{
+    height:50px;
+    border-color:rgba(56, 56, 56, 0.651);
+    font-size:14px;
+    color:#999999;
+    padding-left:10px;
+    border-radius:20;
+    border-right:0;
+    border-left: 0;
+    border-top: 0;
+    border-bottom: 1;
+    min-width: 100%;
+}
+
+.formContact::placeholder{
+    color:#999999;
+}
+
+.btnContact {
+    border: none;
+    padding: 10px 31px 10px 31px;
+    text-transform: capitalize;
+    border-radius: 0px;
+    cursor: pointer;
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+    background-size: 200%;
+    transition: 0.6s;
+    background-image: linear-gradient(to left, #2b3e4d, #355b9a, #2b3e4d);
+    background-position: right;
+  }
+
+  .btnContact:hover i {
+    left: 30px;
+  }
+  
+  /* line 275, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
+  .btnContact:hover {
+    background-position: left;
+  }
+  
  /* The sidebar menu */
  .sidenav {   
     width: 130px; /* Set the width of the sidebar */
@@ -188,6 +235,20 @@
 }
 /* LOADING 04 */
 
+.paddingContact{
+    padding: 5px 5px;
+}
+
+.paddingLeft {
+    padding-left: 5px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 20px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
 
 
 @keyframes loading-1{
