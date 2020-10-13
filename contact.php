@@ -2,6 +2,7 @@
 <html class="no-js" lang="zxx">
 
 <head>
+    <meta http-equiv="Content-Language" content="pt-br" />
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Galvan Engenharia | O Amanhã a gente projeta hoje | Joinville</title>

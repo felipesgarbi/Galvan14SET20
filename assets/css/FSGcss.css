@@ -37,6 +37,10 @@
     color: #10285d !important;
 }
 
+.textoBrancoNeutro{
+    color: #fff !important;
+}
+
 .formContact{
     height:50px;
     border-color:rgba(56, 56, 56, 0.651);
@@ -307,4 +311,18 @@ input[type=text] {
 }
 @media only screen and (max-width: 990px){
     .progress{ margin-bottom: 20px; }
+}
+
+.topBlog{
+    background-image:url(../img/predinhos.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: contain;
+}
+
+@media only screen and (min-width: 1000px){
+    .progressTelaMenor{ 
+        margin-left: 15%;
+        width: 70%;
+     }
 }
