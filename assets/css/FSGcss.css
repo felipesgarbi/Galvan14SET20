@@ -314,7 +314,7 @@ input[type=text] {
 }
 
 .topBlog{
-    background-image:url(../img/predinhos.png);
+    background-image:url(../img/12125-NNZAB6-3.png);
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: contain;
@@ -324,5 +324,11 @@ input[type=text] {
     .progressTelaMenor{ 
         margin-left: 15%;
         width: 70%;
+     }
+}
+
+@media only screen and (min-width: 969px){
+    .ajustePt140EdOuroVerdeTitulo .pt-140{ 
+        margin-top: 20px;
      }
 }

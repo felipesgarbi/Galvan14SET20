@@ -86,7 +86,7 @@
 
         <section id="valores">
         <div class="container">
-            <div class="row justify-content-between">
+            <div class="row justify-content-between border-bottom">
                 <div class="col-xl-6 col-lg-6 col-md-10">
                     <div class="about-caption">
                         <!--Section Tittle-->
@@ -98,12 +98,12 @@
             </div>
         </div>
             <div class="valoresSobre">
-                <img src="assets/img/valores/V1-.jpg" width="100%">
-                <img src="assets/img/valores/V2-.jpg" width="100%">
-                <img src="assets/img/valores/V3-.jpg" width="100%">
-                <img src="assets/img/valores/V4-.jpg" width="100%">
-                <img src="assets/img/valores/V5-.jpg" width="100%">
-                <img src="assets/img/valores/V6-.jpg" width="100%">
+                <img src="assets/img/valores/proximidadeV1.jpg" alt="valores-proximidade" width="100%">
+                <img src="assets/img/valores/qualidadeV2.jpg" alt="valores-qualidade" width="100%">
+                <img src="assets/img/valores/satisfacaoV3.jpg" alt="valores-satisfacao" width="100%">
+                <img src="assets/img/valores/comprometimentoV4.jpg" alt="valores-comprometimento" width="100%">
+                <img src="assets/img/valores/transparenciaV5.jpg" alt="valores-transparencia" width="100%">
+                <img src="assets/img/valores/estabilidadeV6.jpg" alt="valores-estabilidade" width="100%">
             </div>
         </section>
         <!-- VALORES FIM-->
@@ -131,11 +131,9 @@
         </section>
         <!-- Want To work End 2-->
     </main>
-        <footer>
             <!-- Footer Start-->
             <?php include "./estrutura/footer.php" ?>
             <!-- Footer End-->
-        </footer>
         
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="

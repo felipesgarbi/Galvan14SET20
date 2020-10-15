@@ -26,7 +26,7 @@
         <!--? Categories Area Start -->
         <div class="container">
             <div class="row">
-                <div class="col-md-6 pt-100 text-justify">
+                <div class="col-md-6 pt-140 text-justify ajustePt140EdOuroVerdeTitulo">
                     <div class="section-tittle">
                         <h2 class="font-ruda">Residencial Ouro Verde</h2>
                     </div>
@@ -44,20 +44,39 @@
                         festas.</p>
                 </div>
                 <div class="col-md-6 pt-20 text-center">
-                    <img src="assets/img/edOuroVerde/ouroVerdeRight457.png" alt="edificio-ouro-verde" width="100%">
+                    <!-- <img src="assets/img/edOuroVerde/ouroVerdeRight457.png" alt="edificio-ouro-verde" width="100%"> -->
+                    <!--<img src="FOTOS Ouro Verde /outraFachada.jpg" alt="ed-ouro-verde" style="max-height: 60%; max-width: 80%;">-->
+                    <video width="60%" controls="controls" autoplay="autoplay">
+                        <source src="FOTOS Ouro Verde /Vídeo.mp4" type="video/mp4">
+                        <object data="" width="60%">
+                            <embed width="60%" src="FOTOS Ouro Verde /Vídeo.mp4">
+                        </object>
+                    </video>
                 </div>
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="mb-10 pt-10 bg-light">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="mb-10 pt-10 bg-light w-100">
+                        <!--
                     <img src="assets/img/edOuroVerde/ouroVerdePiscina.png" alt="" class="w-100">
                     <img src="assets/img/edOuroVerde/ouroVerdeSalao.png" alt="" class="w-100">
                     <img src="assets/img/edOuroVerde/ouroVerdeBrinquedo.png" alt="" class="w-100">
+                -->
+                        <img src="FOTOS Ouro Verde /Academia.png" alt="academia-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Brinquedoteca.png" alt="brinquedoteca-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Giardino.jpg" alt="giardino-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Hall de Entrada.png" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Living.jpg" alt="living-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Piscina.png" alt="piscina-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Salão de festas 1.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Salão de Festas 2.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Suite.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                    </div>
                 </div>
             </div>
-        </div>
         </div>
 
         <!--
@@ -237,7 +256,7 @@
                 </div>
             </div>
 
-            
+
             <div class="row progressTelaMenor">
                 <!-- ****************************** -->
                 <!-- SERVIÇOS ALVENARIA - FIM ***** -->
@@ -254,7 +273,7 @@
                         <span class="progress-right">
                             <span class="progress-bar"></span>
                         </span>
-                        <div class="progress-value">75%</div>
+                        <div class="progress-value">85%</div>
                     </div>
                     <p>
                         <div class="col-md-12 text-center">
@@ -280,7 +299,7 @@
                         <span class="progress-right">
                             <span class="progress-bar"></span>
                         </span>
-                        <div class="progress-value">85%</div>
+                        <div class="progress-value">75%</div>
                     </div>
                     <p>
                         <div class="col-md-12 text-center">
@@ -326,11 +345,9 @@
 
     </main>
     <section id="contactArea">
-        <footer>
             <!-- Footer Start-->
             <?php include "./estrutura/footer.php" ?>
             <!-- Footer End-->
-        </footer>
 
         <!-- BOTÃO DO WHATSAPP INÍCIO -->
         <a href="https://wa.me/5547989190606" style="
