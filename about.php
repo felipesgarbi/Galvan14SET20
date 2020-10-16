@@ -107,7 +107,7 @@
             </div>
         </section>
         <!-- VALORES FIM-->
-        <div class="mb-5"></div>
+        <div class="mb-4"></div>
 
         <!-- Want To work 2-->
         <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">

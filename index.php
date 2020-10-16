@@ -46,7 +46,7 @@
         </div>
         <!-- TESTE DE CAROUSEL FINALIZADO AQUI -->
 
-        <div class="mb-5"></div>
+        <div class="mb-4"></div>
 
         <!-- CHAMADA SOBRE NÓS INICIO -->
         <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
@@ -62,7 +62,8 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right ">
-                                <a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>
+                                <!--<a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>-->
+                                <a href="about.php" class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn mr-20">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>
                         </div>
                     </div>
                 </div>

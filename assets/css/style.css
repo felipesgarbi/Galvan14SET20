@@ -1405,6 +1405,15 @@ hr {
 
 /*-- Margin Bottom --*/
 /* line 525, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
+
+.mb-2 {
+  margin-bottom: 3px;
+}
+
+.mb-4 {
+  margin-bottom: 4px;
+}
+
 .mb-5 {
   margin-bottom: 5px;
 }
