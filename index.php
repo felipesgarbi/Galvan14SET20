@@ -72,78 +72,102 @@
         <section id="services">
             <div class="gallery-area">
                 <div class="container-fluid p-0 fix">
-                    <div class="row no-gutters size-empre">
-                        <div class="col-xl-4 col-lg-4 col-md-6">
-                            <div class="text-center h-100">
-                                <figure class=" effect-layla h-100" style="background-image: url(assets/img/edificios/ed-contarini437x566.jpg); position: relative; background-size: cover;">
+                    <div class="row no-gutters ">
+                        <div class="col-xl-4 col-lg-4">
 
-                                    <figcaption>
+                            <div class="grid">
+                                <figure class="effect-bubba">
+
+                                    <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpg" alt="img02" />
+
+                                    <figcaption style="margin-left: 10px;">
+
                                         <h2 style="font-family: Daydream;  color: white;">Edifício Contarini</h2>
-                                        <div class="row">
-                                            <p class="localizacao-empre" style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-                                        </div>
+
+
+                                        <p class="localizacao-empre" style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
 
                                     </figcaption>
 
                                 </figure>
-
-
                             </div>
-
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 ">
-                            <div class="text-center h-100">
-                                <figure class=" effect-layla h-100" style="background-image: url(assets/img/edificios/ed-ouroverde.jpg); position: relative; background-size: cover;">
+                        <div class="col-xl-4 col-lg-4">
+                            <div class="grid">
+                                <a href="edouroverde.php">
+                                    <figure class="effect-bubba ">
 
-                                    <figcaption>
-                                        <h2 style="font-family: Daydream;  color: white;">Edifício Ouro Verde</h2>
-                                        <div class="row">
+                                        <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+
+                                        <figcaption class="ml-10">
+
+                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+
+
                                             <p class="localizacao-empre" style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-                                        </div>
 
-                                    </figcaption>
+                                        </figcaption>
 
-                                </figure>
-
-
+                                    </figure>
+                                </a>
                             </div>
+
+
                         </div>
 
 
 
-                        <div class="col-xl-4 col-lg-4 col-md-6 ">
-                            <div class="text-center h-100">
-                                <figure class=" effect-layla h-100" style="background-image: url(assets/img/edificios/ed-dipietra.jpg); position: relative; background-size: cover;">
+                        <div class="col-xl-4 col-lg-4 ">
+                            <div class="grid">
+                                <a href="edouroverde.php">
+                                    <figure class="effect-bubba">
 
-                                    <figcaption>
-                                        <h2 style="font-family: Daydream;  color: white;">Edifício Di Pietra</h2>
-                                        <div class="row">
+                                        <img class="img_fundo" src="assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
+
+                                        <figcaption>
+
+                                            <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+
+
                                             <p class="localizacao-empre" style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-                                        </div>
 
-                                    </figcaption>
+                                        </figcaption>
 
-                                </figure>
-
-
+                                    </figure>
+                                </a>
                             </div>
-                        </div>
 
+
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+            </div>
+        </section>
+        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+            <div class="container">
+                <div class="wants-wrapper w-padding3">
+                    <div class="row align-items-center justify-content-between">
+
+
+                        <div class="double-btn f-right ">
+                            <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Ver todos emprendimentos<i class="ti-arrow-right"></i></a> </div>
 
                     </div>
                 </div>
             </div>
-            </div>
         </section>
-        <!-- EMPRRENDIMENTOS FIM -->
 
     </main>
     <footer>
-            <!-- Footer Start-->
-            <?php include "./estrutura/footer.php" ?>
-            <!-- Footer End-->
-        </footer>
-        
+        <!-- Footer Start-->
+        <?php include "./estrutura/footer.php" ?>
+        <!-- Footer End-->
+    </footer>
+
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="
             position:fixed;
@@ -157,9 +181,8 @@
             text-align:center;
             font-size:30px;
             box-shadow: 1px 1px 2px #888;
-            z-index:1000;" 
-        target="_blank">
-        
+            z-index:1000;" target="_blank">
+
         <i style="margin-top:16px" class="fab fa-whatsapp"></i></a>
 
     <!-- BOTÃO DO WHATSAPP FIM -->
