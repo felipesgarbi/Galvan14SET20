@@ -24,6 +24,7 @@
         </div>
         <!-- Hero End -->
         <!--? Categories Area Start -->
+        <div class="about-low-area">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 pt-140 text-justify ajustePt140EdOuroVerdeTitulo">
@@ -54,6 +55,7 @@
                     </video>
                 </div>
             </div>
+        </div>
         </div>
 
         <div class="container-fluid">

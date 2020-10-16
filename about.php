@@ -123,7 +123,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right ">
-                                <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">EMPREENDIMENTOS<i class="ti-arrow-right"></i></a> </div>
+                                <a href="empreendimentos.php" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">EMPREENDIMENTOS<i class="ti-arrow-right"></i></a> </div>
                         </div>
                     </div>
                 </div>
