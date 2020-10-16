@@ -49,7 +49,7 @@
     include "./estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpeg">
+        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/topSobreNos.jpg">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -64,11 +64,11 @@
         </div>
         <!-- Hero End -->
         <!--? About 1 Start-->
-        <section class="about-low-area section-padding30">
+        <section class="about-low-area section-padding30 border-bottom">
             <div class="container">
                 <div class="row justify-content-between">
                     <div class="col-12">
-                        <div class="about-caption mb-50">
+                        <div class="about-caption">
                             <!-- Section Tittle -->
                             <div class="section-tittle mb-35">
                                 <h2 class="font-ruda titulo-sobre"><i class="far fa-building"></i> A GALVAN ENGENHARIA</h2>
@@ -86,7 +86,7 @@
 
         <section id="valores">
         <div class="container">
-            <div class="row justify-content-between">
+            <div class="row justify-content-between border-bottom">
                 <div class="col-xl-6 col-lg-6 col-md-10">
                     <div class="about-caption">
                         <!--Section Tittle-->
@@ -98,18 +98,19 @@
             </div>
         </div>
             <div class="valoresSobre">
-                <img src="assets/img/valores/V1-.jpg" width="100%">
-                <img src="assets/img/valores/V2-.jpg" width="100%">
-                <img src="assets/img/valores/V3-.jpg" width="100%">
-                <img src="assets/img/valores/V4-.jpg" width="100%">
-                <img src="assets/img/valores/V5-.jpg" width="100%">
-                <img src="assets/img/valores/V6-.jpg" width="100%">
+                <img src="assets/img/valores/proximidadeV1.jpg" alt="valores-proximidade" width="100%">
+                <img src="assets/img/valores/qualidadeV2.jpg" alt="valores-qualidade" width="100%">
+                <img src="assets/img/valores/satisfacaoV3.jpg" alt="valores-satisfacao" width="100%">
+                <img src="assets/img/valores/comprometimentoV4.jpg" alt="valores-comprometimento" width="100%">
+                <img src="assets/img/valores/transparenciaV5.jpg" alt="valores-transparencia" width="100%">
+                <img src="assets/img/valores/estabilidadeV6.jpg" alt="valores-estabilidade" width="100%">
             </div>
         </section>
         <!-- VALORES FIM-->
+        <div class="mb-5"></div>
 
         <!-- Want To work 2-->
-        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+        <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
@@ -122,7 +123,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right ">
-                                <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Nossos empreendimentos<i class="ti-arrow-right"></i></a> </div>
+                                <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">EMPREENDIMENTOS<i class="ti-arrow-right"></i></a> </div>
                         </div>
                     </div>
                 </div>
@@ -130,11 +131,9 @@
         </section>
         <!-- Want To work End 2-->
     </main>
-        <footer>
             <!-- Footer Start-->
             <?php include "./estrutura/footer.php" ?>
             <!-- Footer End-->
-        </footer>
         
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="

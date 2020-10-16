@@ -46,8 +46,10 @@
         </div>
         <!-- TESTE DE CAROUSEL FINALIZADO AQUI -->
 
+        <div class="mb-5"></div>
+
         <!-- CHAMADA SOBRE NÓS INICIO -->
-        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+        <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
@@ -162,12 +164,10 @@
         </section>
 
     </main>
-    <footer>
-        <!-- Footer Start-->
+    <!-- Footer Start-->
         <?php include "./estrutura/footer.php" ?>
-        <!-- Footer End-->
-    </footer>
-
+    <!-- Footer End-->
+        
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="
             position:fixed;

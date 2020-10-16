@@ -2,6 +2,7 @@
 <html class="no-js" lang="zxx">
 
 <head>
+    <meta http-equiv="Content-Language" content="pt-br" />
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Galvan Engenharia | O Amanhã a gente projeta hoje | Joinville</title>
@@ -42,74 +43,107 @@
             </div>
         </div>
     </div>
-    
+
     <!-- Preloader Start -->
-    <?php 
+    <?php
     $contact = "active";
     include "./estrutura/header.php" ?>
     <main>
-        <!--? Hero Start
+        <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpg">
             <div class="slider-height2 d-flex align-items-center">
-            <div class="container">
+                <div class="container">
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-daydream60">O amanhã a gente projeta hoje!</h1>
+                                <h1 class="font-ruda" style="font-size:60px">CONTATO</h1>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        Hero End -->
-        <!--? About 1 Start
-        <section class="about-low-area section-padding30">
-            <div class="container">
-                <div class="row justify-content-between">
-                    <div class="col-12">
-                        <div class="about-caption mb-50">
-                             Section Tittle 
-                            <div class="section-tittle mb-35">
-                                <h2 class="font-ruda titulo-sobre"><i class="far fa-building"></i> A GALVAN ENGENHARIA</h2>
-                            </div>
-                            <p>Em 2011, o desejo de unir nossa família através de um sonho começou a se realizar. Desde então, temos construído a Galvan Engenharia para oferecer a você espaços amplos, confortáveis e com acabamento de qualidade. Buscando localizações privilegiadas, valorizamos o seu tempo, proporcionando mais lazer, segurança e praticidade para o seu dia.</p>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-        </section>
-         About  End-->
 
-        <!-- Want To work 2
-        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+        <!--Section: Contact v.2-->
+
+        <section class="mb-4">
             <div class="container">
-                <div class="wants-wrapper w-padding3">
-                    <div class="row align-items-center justify-content-between">
-                        <div class="col-xl-8 col-lg-8 col-md-8">
-                            <div class="wantToWork-caption">
-                                <div class="logo">
-                                    <h1 class="font-daydream40"><b>O seu sonho está aqui!</b></h1>
+                <!--Section heading-->
+                <h1 class="h1-responsive font-weight-bold text-center my-4 pt-30 font-ruda">FALE COM A GALVAN</h1>
+                <!--Section description-->
+                <p class="text-center w-responsive mx-auto font-ruda">
+                    Ficou com alguma dúvida? Entre em contato conosco.
+                    Nossa equipe está preparada para receber a sua mensagem.
+                    Retornaremos o mais rápido possível.
+                </p>
+
+                <div class="container">
+                    <div class="row pt-40">
+                        <div class="col-lg-9 mb-40">
+                            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+                                <div class="row">
+                                    <div class="col-lg-4 mb-10">
+                                        <div class="md-form mb-0">
+                                            <input type="text" id="nome" name="nome" class="formContact" placeholder="Seu nome (obrigatório)" required="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-4 mb-10">
+                                        <div class="md-form mb-0">
+                                            <input type="text" id="telefone" name="telefone" class="formContact" placeholder="Seu telefone (obrigatório)" required="">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-4 mb-10">
+                                        <div class="md-form mb-0">
+                                            <input type="text" id="email" name="email" class="formContact" placeholder="Seu e-mail">
+                                        </div>
+                                    </div>
+
                                 </div>
-                            </div>
+
+                                <div class="row">
+                                    <div class="col-lg-12 tp-10 mb-40">
+                                        <div class="md-form">
+                                            <textarea type="text" id="mensagem" name="mensagem" rows="5" class="formContact contact-form" placeholder="Digite aqui a sua mensagem :)" style="min-height:100px;"></textarea>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-2 mb-40 paddingContact">
+                                    <button type="submit" class="font-ruda btnContact">Enviar</button>
+                                </div>
+                                <div class="font-ruda textoAzul"><?php echo $msg ?></div>
+
+                            </form>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-4">
-                            <div class="double-btn f-right ">
-                                <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Nossos empreendimentos<i class="ti-arrow-right"></i></a> </div>
+
+                        <div class="col-md-3 text-center">
+                            <ul class="list-unstyled mb-0">
+                                <li><i class="textoCinza fas fa-map-marker-alt fa-2x"></i>
+                                    <p class="font-ruda">Joinville/SC</p>
+                                </li>
+
+                                <li><i class="textoCinza fab fa-whatsapp mt-4 fa-2x"></i>
+                                    <p class="font-ruda">+55 47 9.8919-0606</p>
+                                </li>
+
+                                <li><i class="textoCinza fas fa-envelope mt-4 fa-2x"></i>
+                                    <p class="font-ruda">atendimento@galvanengenharia.com</p>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
-            </div>
         </section>
-        Want To work End 2-->
     </main>
-        <footer>
-            <!-- Footer Start-->
-            <?php include "./estrutura/footer.php" ?>
-            <!-- Footer End-->
-        </footer>
-        
+    <footer>
+        <!-- Footer Start-->
+        <?php include "./estrutura/footer.php" ?>
+        <!-- Footer End-->
+    </footer>
+
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="
             position:fixed;
@@ -123,9 +157,8 @@
             text-align:center;
             font-size:30px;
             box-shadow: 1px 1px 2px #888;
-            z-index:1000;" 
-        target="_blank">
-        
+            z-index:1000;" target="_blank">
+
         <i style="margin-top:16px" class="fab fa-whatsapp"></i></a>
 
     <!-- BOTÃO DO WHATSAPP FIM -->
