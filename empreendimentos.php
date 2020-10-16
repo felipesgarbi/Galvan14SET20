@@ -81,86 +81,129 @@
                     <section id="section-linebox-1">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
-                                <div class="row no-gutters">
-                                    <div class="col-xl-4 col-lg-4 col-md-6">
-                                        <div class="text-center h-100">
-                                            <figure class=" effect-layla h-100" style="background-image: url(assets/img/edificios/ed-contarini437x566.jpg); position: relative; background-size: cover;">
+                                <div class="row no-gutters ">
+                                    <div class="col-xl-12 col-lg-12">
+
+                                        <div class="grid">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpg" alt="img02" />
 
                                                 <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white;">Edifício Contarini</h2>
-                                                    <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
 
-                                                    <a href="about.php" class="btn  wantToWork-btn mr-20 textoBranco">CONHEÇA<i class="ti-arrow-right"></i></a>
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px">Edifício Contarini</h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+
                                                 </figcaption>
 
                                             </figure>
-
-
                                         </div>
-
                                     </div>
-                                    <div class="col-xl-4 col-lg-4 col-md-6 ">
-                                        <div class="text-center h-100">
-
-                                            <figure class="effect-marley h-100" style="background-image: url(assets/img/edificios/ed-ouroverde.jpg); position: relative; background-size: cover;">
-
-                                                <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white;">Edifício Ouro Verde</h2>
-                                                    <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-                                                    <br>
-
-                                                    <p><a href="about.php" class="btn  wantToWork-btn mr-20 textoBranco">CONHEÇA<i class="ti-arrow-right"></i></a></p>
-
-                                                </figcaption>
-                                            </figure>
-
-                                        </div>
-
-                                    </div>
-                                    <div class="col-xl-4 col-lg-4 col-md-6 ">
-
-                                        <div class="single-gallery text-center ">
-
-                                            <div class="card text-center " style="background-image: url(assets/img/edificios/ed-dipietra.jpg); position: relative; background-size: cover;">
-                                                <div class="card gallery-img text-center" style="background-image: url(assets/img/edificios/ed-dipietra.jpg); margin: 25px;">
-                                                    <div class="card-header">
-                                                        <div class="row">
-                                                            <div class="col-6">
-                                                                <h3 style="font-family: Daydream; color: white; font-size: 33px">Edifício Di Pietra</h3>
-                                                            </div>
-                                                            <div class="col-6">
-                                                                <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="card-body">
-
-                                                    </div>
-                                                    <div class="card-footer text-muted" style="background-color: rgb(29 28 28 / 78%);">
-                                                        <p style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-
-                                                    </div>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-
-
-                                    </div>
-
                                 </div>
                             </div>
                         </div>
                     </section>
                     <section id="section-linebox-2">
-                        <p>2</p>
+                        <div class="gallery-area">
+                            <div class="container-fluid p-0 fix">
+                                <div class="row no-gutters ">
+                                    <div class="col-xl-12 col-lg-12">
+
+                                        <div class="grid">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpg" alt="img02" />
+
+                                                <figcaption>
+
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px">Edifício Contarini</h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-3">
-                        <p>3</p>
+                        <div class="gallery-area">
+                            <div class="container-fluid p-0 fix">
+                                <div class="row no-gutters ">
+                                    <div class="col-xl-12 col-lg-12">
+
+                                        <div class="grid">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+
+                                                <figcaption>
+
+                                                    <h2 style="font-family: Daydream;  color: white; "><img class="img_logo" style="width: 30%" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-4">
-                        <p>4</p>
+                        <div class="gallery-area">
+                            <div class="container-fluid p-0 fix">
+                                <div class="row no-gutters ">
+                                    <div class="col-xl-6 col-lg-6">
+
+                                        <div class="grid">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+
+                                                <figcaption>
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-6 col-lg-6">
+
+                                        <div class="grid">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
+
+                                                <figcaption>
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </section>
 
                 </div><!-- /content -->
@@ -384,10 +427,10 @@
 
     </main>
     <footer>
-            <!-- Footer Start-->
-            <?php include "./estrutura/footer.php" ?>
-            <!-- Footer End-->
-        </footer>
+        <!-- Footer Start-->
+        <?php include "./estrutura/footer.php" ?>
+        <!-- Footer End-->
+    </footer>
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="
             position:fixed;
@@ -401,13 +444,12 @@
             text-align:center;
             font-size:30px;
             box-shadow: 1px 1px 2px #888;
-            z-index:1000;" 
-        target="_blank">
-        
+            z-index:1000;" target="_blank">
+
         <i style="margin-top:16px" class="fab fa-whatsapp"></i></a>
 
     <!-- BOTÃO DO WHATSAPP FIM -->
-    
+
     <!-- JS here -->
 
     <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>

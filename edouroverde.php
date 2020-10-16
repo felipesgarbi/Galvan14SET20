@@ -45,11 +45,11 @@
                 </div>
                 <div class="col-md-6 pt-20 text-center">
                     <!-- <img src="assets/img/edOuroVerde/ouroVerdeRight457.png" alt="edificio-ouro-verde" width="100%"> -->
-                    <!--<img src="FOTOS Ouro Verde /outraFachada.jpg" alt="ed-ouro-verde" style="max-height: 60%; max-width: 80%;">-->
+                    <!--<img src="FotosOuroVerde/outraFachada.jpg" alt="ed-ouro-verde" style="max-height: 60%; max-width: 80%;">-->
                     <video width="60%" controls="controls" autoplay="autoplay">
-                        <source src="FOTOS Ouro Verde /Vídeo.mp4" type="video/mp4">
+                        <source src="FotosOuroVerde/Vídeo.mp4" type="video/mp4">
                         <object data="" width="60%">
-                            <embed width="60%" src="FOTOS Ouro Verde /Vídeo.mp4">
+                            <embed width="60%" src="FotosOuroVerde/Vídeo.mp4">
                         </object>
                     </video>
                 </div>
@@ -65,15 +65,15 @@
                     <img src="assets/img/edOuroVerde/ouroVerdeSalao.png" alt="" class="w-100">
                     <img src="assets/img/edOuroVerde/ouroVerdeBrinquedo.png" alt="" class="w-100">
                 -->
-                        <img src="FOTOS Ouro Verde /Academia.png" alt="academia-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Brinquedoteca.png" alt="brinquedoteca-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Giardino.jpg" alt="giardino-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Hall de Entrada.png" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Living.jpg" alt="living-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Piscina.png" alt="piscina-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Salão de festas 1.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Salão de Festas 2.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Suite.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Academia.png" alt="academia-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Brinquedoteca.png" alt="brinquedoteca-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Giardino.jpg" alt="giardino-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Hall de Entrada.png" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Living.jpg" alt="living-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Piscina.png" alt="piscina-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Salão de festas 1.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Salão de Festas 2.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img src="FotosOuroVerde/Suite.jpg" alt="suite-ouro-verde" alt="" width="100%">
                     </div>
                 </div>
             </div>
