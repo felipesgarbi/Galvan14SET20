@@ -24,6 +24,7 @@
         </div>
         <!-- Hero End -->
         <!--? Categories Area Start -->
+        <div class="about-low-area">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 pt-140 text-justify ajustePt140EdOuroVerdeTitulo">
@@ -34,11 +35,11 @@
                     <p class="mb-20 justify pt-40 textoCinza font-ruda" style="text-align: justify;">
                         Você merece viver num lugar completo como Residencial Ouro Verde!</p>
 
-                    <p class="mb-20 textoCinza" style="text-align: justify;">Localizado num dos melhores bairros de Joinville, o Saguaçu tem tudo que você
+                    <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">Localizado num dos melhores bairros de Joinville, o Saguaçu tem tudo que você
                         precisa: escolas, mercados, bancos, academias, bares e restaurantes e parques
                         e áreas de lazer.</p>
 
-                    <p class="textoCinza" style="text-align: justify;">Criado para atender diversos públicos, o Residencial Ouro
+                    <p class="textoCinza font-ruda" style="text-align: justify;">Criado para atender diversos públicos, o Residencial Ouro
                         Verde oferece diversos tipos de plantas para famílias de todos os tipos.
                         Um edifício completo com academia, piscina, brinquedoteca e amplo salão de
                         festas.</p>
@@ -55,6 +56,7 @@
                 </div>
             </div>
         </div>
+        </div>
 
         <div class="container-fluid">
             <div class="row">
@@ -65,15 +67,16 @@
                     <img src="assets/img/edOuroVerde/ouroVerdeSalao.png" alt="" class="w-100">
                     <img src="assets/img/edOuroVerde/ouroVerdeBrinquedo.png" alt="" class="w-100">
                 -->
-                        <img src="FotosOuroVerde/Academia.png" alt="academia-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Brinquedoteca.png" alt="brinquedoteca-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Giardino.jpg" alt="giardino-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Hall de Entrada.png" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Living.jpg" alt="living-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Piscina.png" alt="piscina-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Salão de festas 1.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Salão de Festas 2.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img src="FotosOuroVerde/Suite.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Academia.png" alt="academia-ouro-verde" alt="" width="100%">
+                        <span class="mb-2"></span>
+                        <img src="FOTOS Ouro Verde /Brinquedoteca.png" alt="brinquedoteca-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Giardino.jpg" alt="giardino-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Hall de Entrada.png" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Living.jpg" alt="living-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Piscina.png" alt="piscina-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Salão de festas 1.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Salão de Festas 2.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img src="FOTOS Ouro Verde /Suite.jpg" alt="suite-ouro-verde" alt="" width="100%">
                     </div>
                 </div>
             </div>

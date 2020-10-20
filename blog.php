@@ -185,7 +185,7 @@
                                             <input type="text" class="form-control" placeholder='Digite aqui o que deseja encontrar...' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite aqui o que deseja encontrar...'">
                                         </div>
                                     </div>
-                                    <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" type="submit">Pesquisar</button>
+                                    <button class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
                                 </form>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">

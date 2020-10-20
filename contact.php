@@ -112,12 +112,9 @@
                                 </div>
 
                                 <div class="col-lg-2 mb-40 paddingContact">
-                                    <button type="submit" class="font-ruda btnContact">Enviar</button>
+                                    <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
                                 </div>
-                                <div class="font-ruda textoAzul"><?php 
-                                $msg = "";
-                                echo $msg ;
-                                ?></div>
+                                <!--<div class="font-ruda textoAzul"><php echo $msg ></div>-->
 
                             </form>
                         </div>
