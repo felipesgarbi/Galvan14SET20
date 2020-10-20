@@ -76,7 +76,6 @@
                 <div class="container-fluid p-0 fix">
                     <div class="row no-gutters ">
                         <div class="col-xl-4 col-lg-4">
-
                             <div class="grid">
                                 <figure class="effect-bubba">
 
@@ -113,12 +112,7 @@
                                     </figure>
                                 </a>
                             </div>
-
-
                         </div>
-
-
-
                         <div class="col-xl-4 col-lg-4 ">
                             <div class="grid">
                                 <a href="edouroverde.php">
@@ -138,23 +132,15 @@
                                     </figure>
                                 </a>
                             </div>
-
-
                         </div>
                     </div>
-
-
                 </div>
-
-
             </div>
         </section>
         <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
-
-
                         <div class="double-btn f-right ">
                             <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Ver todos emprendimentos<i class="ti-arrow-right"></i></a> </div>
 
