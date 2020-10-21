@@ -20,7 +20,8 @@
         <!-- CAROUSEL INICIADO AQUI -->
         <div id="carouselFade" class="carousel slide carousel-fade" data-ride="carousel">
             <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
+                </li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
@@ -164,7 +165,7 @@
         <?php include "./estrutura/footer.php" ?>
     </div>
     <!-- Footer End-->
-        
+
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="
             position:fixed;

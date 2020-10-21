@@ -39,8 +39,8 @@
         <div class="col-md-12 border mb-5 topBlog">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 font-ruda textoCentralizado pt-40 mb-5">
-                        <h1><b class="textoAzul">BLOG - GALVAN ENGENHARIA</b></h1>
+                    <div class="col-md-12 textoCentralizado pt-40 mb-5">
+                        <h1><b class="font-ruda textoAzul"> BLOG DA GALVAN</b></h1>
                     </div>
                 </div>
             </div>
