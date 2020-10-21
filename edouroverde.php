@@ -46,9 +46,9 @@
                     </div>
                     <div class="col-md-6 pt-20 text-center">
                         <video width="60%" controls="controls" autoplay="autoplay">
-                            <source src="FOTOS Ouro Verde /Vídeo.mp4" type="video/mp4">
+                            <source src="FotosOuroVerde/Vídeo.mp4" type="video/mp4">
                             <object data="" width="60%">
-                                <embed width="60%" src="FOTOS Ouro Verde /Vídeo.mp4">
+                                <embed width="60%" src="FotosOuroVerde/Vídeo.mp4">
                             </object>
                         </video>
                     </div>
@@ -60,59 +60,68 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="mb-10 pt-10 bg-light w-100">
-                        <img class="mb-2" src="FotosOuroVerde/HALLENTRADA-.JPG" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS1-.JPG" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS2-.JPG" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/PISCINA-.JPG" alt="piscina-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/BRINQUEDOTECA-.JPG" alt="brinquedoteca-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/ACADEMIA-.JPG" alt="academia-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/GIARDINO-.JPG" alt="giardino-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/LIVING-.JPG" alt="living-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/HALLENTRADA-.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS1-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS2-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/PISCINA-.jpg" alt="piscina-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/BRINQUEDOTECA-.jpg" alt="brinquedoteca-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/ACADEMIA-.jpg" alt="academia-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/GIARDINO-.jpg" alt="giardino-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/LIVING-.jpg" alt="living-ouro-verde" alt="" width="100%">
                         <img class="mb-2" src="FotosOuroVerde/SUITE-.jpg" alt="suite-ouro-verde" alt="" width="100%">
                     </div>
                 </div>
             </div>
         </div>
-
         <section>
-            <div class="tabs tabs-style-linebox">
+            <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                 <nav>
-                    <div class="container">
-                        <div class="col-xl-6" style="float: right;">
-                            <ul>
-                                <li><a href="#section-linebox-5"><span class="font-ruda">02 QUARTOS - TIPO 01</span></a></li>
-                                <li><a href="#section-linebox-4"><span class="font-ruda">02 QUARTOS - TIPO 02</span></a></li>
-                                <li><a href="#section-linebox-2"><span class="font-ruda">03 QUARTOS</span></a></li>
-                                <li><a href="#section-linebox-3"><span class="font-ruda">COBERTURA</span></a></li>
-                                <li><a href="#section-linebox-3"><span class="font-ruda">DUPLEX</span></a></li>
-                                <li><a href="#section-linebox-3"><span class="font-ruda">GIARDINO 01</span></a></li>
-                                <li><a href="#section-linebox-3"><span class="font-ruda">GIARDINO 02</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
+                    <ul>
+                        <li><a href="#section-linebox-1"><span class="font-ruda" >02 QUARTOS - TIPO 01</span></a></li>
+                        <li><a href="#section-linebox-2"><span class="font-ruda">02 QUARTOS - TIPO 02</span></a></li>
+                        <li><a href="#section-linebox-3"><span class="font-ruda">03 QUARTOS</span></a></li>
+                        <li><a href="#section-linebox-4"><span class="font-ruda">COBERTURA</span></a></li>
+                        <li><a href="#section-linebox-5"><span class="font-ruda">DUPLEX</span></a></li>
+                        <li><a href="#section-linebox-6"><span class="font-ruda">GIARDINO 01</span></a></li>
+                        <li><a href="#section-linebox-7"><span class="font-ruda">GIARDINO 02</span></a></li>
+                    </ul>
                 </nav>
                 <div class="content-wrap">
                     <section id="section-linebox-1">
-                        <div class="col-lg-6" style="float: left;">
-                            <p>DESCRIÇÃO DA PLANTA</p>
-                        </div>
-                        <div class="col-lg-6" style="float: right;">
-                            <p>IMAGEM DA PLANTA</p>
-                        </div>
+                        <p>2</p>
                     </section>
                     <section id="section-linebox-2">
                         <p>2</p>
                     </section>
                     <section id="section-linebox-3">
-                        <p>3</p>
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-4 bg-light w-100 ">
+                                    s
+                                </div>
+                                <div class="col-8 bg-dark w-100">
+                                    s
+                                </div>
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-4">
                         <p>4</p>
+                    </section>
+                    <section id="section-linebox-5">
+                        <p>5</p>
+                    </section>
+                    <section id="section-linebox-6">
+                        <p>6</p>
+                    </section>
+                    <section id="section-linebox-7">
+                        <p>7</p>
                     </section>
 
                 </div><!-- /content -->
             </div><!-- /tabs -->
         </section>
+    
 
         <!--?  Map Area start  -->
 
@@ -395,7 +404,16 @@
         <script src="./assets/js/plugins.js"></script>
         <script src="./assets/js/main.js"></script>
 
+        <script src="tabs/js/cbpFWTabs.js"></script>
+        <script>
+            (function() {
 
+                [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
+                    new CBPFWTabs(el);
+                });
+
+            })();
+        </script>
 </body>
 
 </html>

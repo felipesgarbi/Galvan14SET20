@@ -81,7 +81,7 @@
                             <div class="grid">
                                 <figure class="effect-bubba">
 
-                                    <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpg" alt="img02" />
+                                    <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
 
                                     <figcaption style="margin-left: 10px;">
 

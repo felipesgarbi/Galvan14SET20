@@ -58,7 +58,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-daydream40">O seu sonho está aqui!</h1>
+                                <h1 class="font-vagnotie">O seu sonho está aqui!</h1>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                                         <div class="grid">
                                             <figure class="effect-bubba">
 
-                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpg" alt="img02" />
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
 
                                                 <figcaption>
 
@@ -162,7 +162,7 @@
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
 
                                                 </figcaption>
-                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpg" alt="img02" />
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
 
                                             </figure>
                                         </div>
@@ -180,7 +180,7 @@
                                         <div class="grid">
                                             <figure class="effect-bubba tamanho-empreendimento1" >
 
-                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpg" alt="img02" />
+                                                <img class="img_fundo ml-0" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
 
                                                 <figcaption>
 
@@ -249,7 +249,7 @@
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
-
+                                    <a href="edouroverde.php">
                                         <div class="grid">
                                             <figure class="effect-bubba tamanho-empreendimento2" >
 
@@ -266,6 +266,7 @@
 
                                             </figure>
                                         </div>
+                                    </a>
                                     </div>
                                 </div>
                             </div>

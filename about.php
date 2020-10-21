@@ -46,7 +46,7 @@
     <!-- Preloader Start -->
     <?php
     $sobreNos = "active";
-    include "./estrutura/header.php" ?>
+    include $_SERVER['DOCUMENT_ROOT'] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/topSobreNos.jpg">

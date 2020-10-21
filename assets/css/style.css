@@ -3914,7 +3914,7 @@ hr {
 
 /* line 30, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top {
-  background: #140C40;
+  background: #174264;
   padding: 3px 3px;
 }
 
@@ -4019,7 +4019,7 @@ hr {
   content: "";
   width: 100%;
   height: 2px;
-  background:#140c40;
+  background:#174264 ;
   bottom: 0;
   margin: 0 auto;
   left: 0;
@@ -4032,7 +4032,7 @@ hr {
   height: 3px;
   bottom: 0;
   left: 0;
-  background-color: #140c40;
+  background-color: #174264;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -4050,7 +4050,7 @@ hr {
 .main-header .main-menu ul ul.submenu {
   position: absolute;
   width: 170px;
-  background: #140C40;
+  background: #174264;
   left: 0;
   top: 90%;
   visibility: hidden;
@@ -4786,7 +4786,7 @@ hr {
 /* line 114, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_about.scss */
 .about-low-area .about-right-cap p {
   font-size: 22px;
-  color: #140C40;
+  color: #174264;
   font-weight: 300;
   padding-right: 13px;
   line-height: 1.5;
@@ -5809,7 +5809,7 @@ hr {
 .testimonial-area .testimonial-caption p {
   font-size: 28px;
   color: #072366;
-  color: #140C40;
+  color: #174264;
   line-height: 45px;
   line-height: 1.5;
   margin-bottom: 37px;
@@ -5882,7 +5882,7 @@ hr {
 
 /* line 1, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area {
-  background: #140C40;
+  background: #174264;
 }
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
@@ -5977,7 +5977,7 @@ hr {
 
 /* line 80, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-bottom-area {
-  background: #140C40;
+  background: #174264;
 }
 
 /* line 82, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
@@ -7647,7 +7647,7 @@ hr {
 
 /* line 30, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_contact.scss */
 .contact-info .media-body h3 a:hover {
-  color: #140C40;
+  color: #174264;
 }
 
 /* line 36, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_contact.scss */
@@ -7777,7 +7777,7 @@ hr {
 
 /* line 146, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_contact.scss */
 .contact-section .btn_2:hover {
-  background-color: #140C40;
+  background-color: #174264;
 }
 
 /* line 1, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_bradcam.scss */
@@ -8096,7 +8096,7 @@ sup,
 sub,
 u,
 del {
-  color: #140C40;
+  color: #174264;
 }
 
 /* line 95, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
@@ -8228,28 +8228,28 @@ del {
 /* line 185, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .genric-btn.primary {
   color: #fff;
-  background: #140C40;
+  background: #174264;
   border: 1px solid transparent;
 }
 
 /* line 189, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .genric-btn.primary:hover {
-  color: #140C40;
-  border: 1px solid #140C40;
+  color: #174264;
+  border: 1px solid #174264;
   background: #fff;
 }
 
 /* line 195, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .genric-btn.primary-border {
-  color: #140C40;
-  border: 1px solid #140C40;
+  color: #174264;
+  border: 1px solid #174264;
   background: #fff;
 }
 
 /* line 199, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #140C40;
+  background: #174264;
   border: 1px solid transparent;
 }
 
@@ -8407,7 +8407,7 @@ del {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #140C40;
+  border-left: 2px solid #174264;
 }
 
 /* line 321, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
@@ -8562,7 +8562,7 @@ del {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #140C40;
+  border: 3px solid #174264;
   background: #fff;
   top: 4px;
   left: 0;
@@ -8577,7 +8577,7 @@ del {
 /* line 443, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #140C40;
+  color: #174264;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -8592,7 +8592,7 @@ del {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #140C40;
+  color: #174264;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -8607,7 +8607,7 @@ del {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #140C40;
+  color: #174264;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -8690,7 +8690,7 @@ del {
 /* line 536, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #140C40;
+  border: 1px solid #174264;
 }
 
 /* line 542, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
@@ -8758,7 +8758,7 @@ del {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #140C40;
+  background: #174264;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -8849,7 +8849,7 @@ del {
 
 /* line 664, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .primary-switch input:checked + label:before {
-  background: #140C40;
+  background: #174264;
 }
 
 /* line 672, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
@@ -9236,13 +9236,13 @@ del {
 
 /* line 990, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .default-select .nice-select .list .option.selected {
-  color: #140C40;
+  color: #174264;
   background: transparent;
 }
 
 /* line 994, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .default-select .nice-select .list .option:hover {
-  color: #140C40;
+  color: #174264;
   background: transparent;
 }
 
@@ -9299,13 +9299,13 @@ del {
 
 /* line 1035, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .form-select .nice-select .list .option.selected {
-  color: #140C40;
+  color: #174264;
   background: transparent;
 }
 
 /* line 1039, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_elements.scss */
 .form-select .nice-select .list .option:hover {
-  color: #140C40;
+  color: #174264;
   background: transparent;
 }
 
