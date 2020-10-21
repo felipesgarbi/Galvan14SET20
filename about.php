@@ -55,7 +55,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-daydream60">O amanhã a gente projeta hoje!</h1>
+                                <h1 class="font-vagnotie">O amanhã a gente projeta hoje!</h1>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                         <div class="col-xl-8 col-lg-8 col-md-8">
                             <div class="wantToWork-caption">
                                 <div class="logo">
-                                    <h1 class="font-daydream40"><b>O seu sonho está aqui!</b></h1>
+                                    <h1 class="font-vagnotie">O seu sonho está aqui!</h1>
                                 </div>
                             </div>
                         </div>

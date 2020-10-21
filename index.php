@@ -56,7 +56,7 @@
                         <div class="col-xl-8 col-lg-8 col-md-8">
                             <div class="wantToWork-caption">
                                 <div class="logo">
-                                    <h1 class="font-daydream40"><b>O amanhã a gente projeta hoje!</b></h1>
+                                    <h1 class="font-vagnotie">O amanhã a gente projeta hoje!</h1>
                                 </div>
                             </div>
                         </div>
@@ -138,13 +138,21 @@
                 </div>
             </div>
         </section>
-        <section class="wantToWork-area" style="background-image: url(assets/img/predinhos.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+        <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
-                        <div class="double-btn f-right ">
-                            <a href="empreendimentos.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">Ver todos emprendimentos<i class="ti-arrow-right"></i></a> </div>
-
+                        <div class="col-xl-8 col-lg-8 col-md-8">
+                            <div class="wantToWork-caption">
+                                <div class="logo">
+                                    <h1 class="font-vagnotie">O seu sonho está aqui!</h1>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="double-btn f-right ">
+                                <a href="empreendimentos.php" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">EMPREENDIMENTOS<i class="ti-arrow-right"></i></a> </div>
+                        </div>
                     </div>
                 </div>
             </div>

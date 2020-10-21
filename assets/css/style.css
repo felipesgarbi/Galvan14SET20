@@ -295,6 +295,11 @@ body {
 }
 
 @font-face {
+	font-family: Vagnotie;
+	src: url(../fonts/vagnotie.otf)
+}
+
+@font-face {
 	font-family: Ruda;
 	src: url(../fonts/ruda-3.ttf)
 }
@@ -321,6 +326,16 @@ body {
 .font-daydream40{
   font-family: Daydream;
   font-size: 40px;
+}
+
+.font-vagnotie{
+  font-family: Vagnotie;
+  font-size: 60px;
+}
+
+.font-vagnotie80{
+  font-family: Vagnotie;
+  font-size: 80px;
 }
 
 .titulo-sobre{
@@ -745,6 +760,8 @@ figure.effect-bubba {
   background-position: right;
 }
 
+
+
 figure.effect-bubba img {
 	opacity: 0.8;
 	-webkit-transition: opacity 0.35s;
@@ -1044,6 +1061,20 @@ hr {
 .mb-90 {
   margin-bottom: 90px;
 }
+
+@media (min-width: 767px) {
+  
+  .tamanho-empreendimento1{
+    width: 437px !important;  
+    margin-left: 30%;
+  }
+
+  .tamanho-empreendimento2{
+    width: 437px !important;  
+    margin-left: 12.5%;
+  }
+}
+
 
 @media (max-width: 767px) {
   /* line 182, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
@@ -3974,7 +4005,7 @@ hr {
 }
 
 .font_header{
-  color: #fff !important;
+  color: #F1F1F1  !important;
   display: inline-block;
   margin-right: 30px;
   font-size: 15px;
