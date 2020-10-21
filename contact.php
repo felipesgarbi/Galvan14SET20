@@ -50,13 +50,13 @@
     include "./estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/sobrenostop.jpg">
+        <div class="slider-area2 section-bg2" data-background="assets/img/contact.jpg" style="background-size: cover;">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-ruda" style="font-size:60px">CONTATO</h1>
+                                <h1 class="font-ruda text-white" style="font-size:60px">CONTATO</h1>
                             </div>
                         </div>
                     </div>
@@ -69,12 +69,10 @@
         <section class="mb-4">
             <div class="container">
                 <!--Section heading-->
-                <h1 class="h1-responsive font-weight-bold text-center my-4 pt-30 font-ruda">FALE COM A GALVAN</h1>
+                <h1 class="h1-responsive font-weight-bold text-center my-4 pt-30 font-ruda">QUEREMOS OUVIR VOCÊ!</h1>
                 <!--Section description-->
                 <p class="text-center w-responsive mx-auto font-ruda">
-                    Ficou com alguma dúvida? Entre em contato conosco.
-                    Nossa equipe está preparada para receber a sua mensagem.
-                    Retornaremos o mais rápido possível.
+                    Tire suas dúvidas, agende visitas, envie sugestões ou comentários.
                 </p>
 
                 <div class="container">

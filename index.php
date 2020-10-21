@@ -20,7 +20,8 @@
         <!-- CAROUSEL INICIADO AQUI -->
         <div id="carouselFade" class="carousel slide carousel-fade" data-ride="carousel">
             <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
+                </li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
@@ -95,7 +96,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 ">
                             <div class="text-center h-100">
-            
+
                                 <figure class="effect-marley h-100" style="background-image: url(assets/img/edificios/ed-ouroverde.jpg); position: relative; background-size: cover;">
 
                                     <figcaption>
@@ -156,7 +157,7 @@
         <?php include "./estrutura/footer.php" ?>
     </div>
     <!-- Footer End-->
-        
+
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="
             position:fixed;
@@ -170,9 +171,8 @@
             text-align:center;
             font-size:30px;
             box-shadow: 1px 1px 2px #888;
-            z-index:1000;" 
-        target="_blank">
-        
+            z-index:1000;" target="_blank">
+
         <i style="margin-top:16px" class="fab fa-whatsapp"></i></a>
 
     <!-- BOTÃO DO WHATSAPP FIM -->

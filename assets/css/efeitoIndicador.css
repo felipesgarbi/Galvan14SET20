@@ -66,21 +66,21 @@ body{
         width:100%;
       } 
       .item:nth-child(1) {
-    background: url('../img/inicial/FirstSlide.jpg');
+    background: url('../img/inicial/1-cont.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
       }
   
       .item:nth-child(2) {
-    background: url('../img/inicial/SecondSlide.jpg');
-    background-size: cover;
+    background: url('../img/inicial/2-apr.png');
+    background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
       }
   
       .item:nth-child(3) {
-        background: url('../img/inicial/ThirdSlide.jpg');
+        background: url('../img/inicial/3-felic.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;

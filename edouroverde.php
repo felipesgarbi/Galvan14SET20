@@ -25,113 +25,94 @@
         <!-- Hero End -->
         <!--? Categories Area Start -->
         <div class="about-low-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 pt-140 text-justify ajustePt140EdOuroVerdeTitulo">
-                    <div class="section-tittle">
-                        <h2 class="font-ruda">Residencial Ouro Verde</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 pt-140 text-justify ajustePt140EdOuroVerdeTitulo">
+                        <div class="section-tittle">
+                            <h2 class="font-ruda">Residencial Ouro Verde</h2>
+                        </div>
+
+                        <p class="mb-20 justify pt-40 textoCinza font-ruda" style="text-align: justify;">
+                            Você merece viver num lugar completo como Residencial Ouro Verde!</p>
+
+                        <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">Localizado num dos melhores bairros de Joinville, o Saguaçu tem tudo que você
+                            precisa: escolas, mercados, bancos, academias, bares e restaurantes e parques
+                            e áreas de lazer.</p>
+
+                        <p class="textoCinza font-ruda" style="text-align: justify;">Criado para atender diversos públicos, o Residencial Ouro
+                            Verde oferece diversos tipos de plantas para famílias de todos os tipos.
+                            Um edifício completo com academia, piscina, brinquedoteca e amplo salão de
+                            festas.</p>
                     </div>
-
-                    <p class="mb-20 justify pt-40 textoCinza font-ruda" style="text-align: justify;">
-                        Você merece viver num lugar completo como Residencial Ouro Verde!</p>
-
-                    <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">Localizado num dos melhores bairros de Joinville, o Saguaçu tem tudo que você
-                        precisa: escolas, mercados, bancos, academias, bares e restaurantes e parques
-                        e áreas de lazer.</p>
-
-                    <p class="textoCinza font-ruda" style="text-align: justify;">Criado para atender diversos públicos, o Residencial Ouro
-                        Verde oferece diversos tipos de plantas para famílias de todos os tipos.
-                        Um edifício completo com academia, piscina, brinquedoteca e amplo salão de
-                        festas.</p>
-                </div>
-                <div class="col-md-6 pt-20 text-center">
-                    <!-- <img src="assets/img/edOuroVerde/ouroVerdeRight457.png" alt="edificio-ouro-verde" width="100%"> -->
-                    <!--<img src="FOTOS Ouro Verde /outraFachada.jpg" alt="ed-ouro-verde" style="max-height: 60%; max-width: 80%;">-->
-                    <video width="60%" controls="controls" autoplay="autoplay">
-                        <source src="FOTOS Ouro Verde /Vídeo.mp4" type="video/mp4">
-                        <object data="" width="60%">
-                            <embed width="60%" src="FOTOS Ouro Verde /Vídeo.mp4">
-                        </object>
-                    </video>
+                    <div class="col-md-6 pt-20 text-center">
+                        <video width="60%" controls="controls" autoplay="autoplay">
+                            <source src="FOTOS Ouro Verde /Vídeo.mp4" type="video/mp4">
+                            <object data="" width="60%">
+                                <embed width="60%" src="FOTOS Ouro Verde /Vídeo.mp4">
+                            </object>
+                        </video>
+                    </div>
                 </div>
             </div>
-        </div>
         </div>
 
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="mb-10 pt-10 bg-light w-100">
-                        <!--
-                    <img src="assets/img/edOuroVerde/ouroVerdePiscina.png" alt="" class="w-100">
-                    <img src="assets/img/edOuroVerde/ouroVerdeSalao.png" alt="" class="w-100">
-                    <img src="assets/img/edOuroVerde/ouroVerdeBrinquedo.png" alt="" class="w-100">
-                -->
-                        <img src="FOTOS Ouro Verde /Academia.png" alt="academia-ouro-verde" alt="" width="100%">
-                        <span class="mb-2"></span>
-                        <img src="FOTOS Ouro Verde /Brinquedoteca.png" alt="brinquedoteca-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Giardino.jpg" alt="giardino-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Hall de Entrada.png" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Living.jpg" alt="living-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Piscina.png" alt="piscina-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Salão de festas 1.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Salão de Festas 2.png" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img src="FOTOS Ouro Verde /Suite.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/HALLENTRADA-.JPG" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS1-.JPG" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS2-.JPG" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/PISCINA-.JPG" alt="piscina-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/BRINQUEDOTECA-.JPG" alt="brinquedoteca-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/ACADEMIA-.JPG" alt="academia-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/GIARDINO-.JPG" alt="giardino-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/LIVING-.JPG" alt="living-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="FotosOuroVerde/SUITE-.jpg" alt="suite-ouro-verde" alt="" width="100%">
                     </div>
                 </div>
             </div>
         </div>
 
-        <!--
-            <div class="row">
-                <div class="filter filter-basic">
-                    <div class="filter-nav">
-                        <button class="btn btn-success active" data-filter="">Todos</button>
-                        <button class="btn btn-primary" data-filter="nature">02 Quartos</button>
-                        <button class="btn btn-primary" data-filter="food">Duplex</button>
-                        <button class="btn btn-primary" data-filter="architecture">Giardino</button>
-                        <button class="btn btn-primary" data-filter="architecture">Cobertura</button>
-                    </div>
-                    <div class="filter-gallery">
-                        <div class="item" data-category="nature">
-                            <div class="item-content">
-                                <img src="assets/img/edOuroVerde/ouroVerdePlanta.png" alt="image" width="400px">
-                                <br>- 1 SUÍTE COM CLOSET
-                                <br>- 2 QUARTOS
-                                <br>- COZINHA EM CONCEITO ABERTO
-                                <br>- SACADA COM CHURRASQUEIRA
-                                <br>- XX m2 DE ÁREA PRIVATIVA
-                                <br>- XX m2 DE ÁREA COMUM
-                                <br>- 1 OU 2 VAGAS DE GARAGEM
-                            </div>
-                        </div>
-                        <div class="item" data-category="architecture">
-                            <div class="item-content">
-                                <img src="assets/img/edOuroVerde/ouroVerdePlanta.png" alt="image" width="400px">
-                                <br>- 1 SUÍTE COM CLOSET
-                                <br>- 2 QUARTOS
-                                <br>- COZINHA EM CONCEITO ABERTO
-                                <br>- SACADA COM CHURRASQUEIRA
-                                <br>- XX m2 DE ÁREA PRIVATIVA
-                                <br>- XX m2 DE ÁREA COMUM
-                                <br>- 1 OU 2 VAGAS DE GARAGEM
-                            </div>
-                        </div>
-                        <div class="item" data-category="food">
-                            <div class="item-content">
-            
-                            </div>
-                        </div>
-                        <div class="item" data-category="architecture">
-                            <div class="item-content">
-            
-                            </div>
+        <section>
+            <div class="tabs tabs-style-linebox">
+                <nav>
+                    <div class="container">
+                        <div class="col-xl-6" style="float: right;">
+                            <ul>
+                                <li><a href="#section-linebox-5"><span class="font-ruda">02 QUARTOS - TIPO 01</span></a></li>
+                                <li><a href="#section-linebox-4"><span class="font-ruda">02 QUARTOS - TIPO 02</span></a></li>
+                                <li><a href="#section-linebox-2"><span class="font-ruda">03 QUARTOS</span></a></li>
+                                <li><a href="#section-linebox-3"><span class="font-ruda">COBERTURA</span></a></li>
+                                <li><a href="#section-linebox-3"><span class="font-ruda">DUPLEX</span></a></li>
+                                <li><a href="#section-linebox-3"><span class="font-ruda">GIARDINO 01</span></a></li>
+                                <li><a href="#section-linebox-3"><span class="font-ruda">GIARDINO 02</span></a></li>
+                            </ul>
                         </div>
                     </div>
-                </div>
-            </div>
+                </nav>
+                <div class="content-wrap">
+                    <section id="section-linebox-1">
+                        <div class="col-lg-6" style="float: left;">
+                            <p>DESCRIÇÃO DA PLANTA</p>
+                        </div>
+                        <div class="col-lg-6" style="float: right;">
+                            <p>IMAGEM DA PLANTA</p>
+                        </div>
+                    </section>
+                    <section id="section-linebox-2">
+                        <p>2</p>
+                    </section>
+                    <section id="section-linebox-3">
+                        <p>3</p>
+                    </section>
+                    <section id="section-linebox-4">
+                        <p>4</p>
+                    </section>
 
-            -->
+                </div><!-- /content -->
+            </div><!-- /tabs -->
+        </section>
 
         <!--?  Map Area start  -->
 
@@ -348,9 +329,9 @@
 
     </main>
     <section id="contactArea">
-            <!-- Footer Start-->
-            <?php include "./estrutura/footer.php" ?>
-            <!-- Footer End-->
+        <!-- Footer Start-->
+        <?php include "./estrutura/footer.php" ?>
+        <!-- Footer End-->
 
         <!-- BOTÃO DO WHATSAPP INÍCIO -->
         <a href="https://wa.me/5547989190606" style="

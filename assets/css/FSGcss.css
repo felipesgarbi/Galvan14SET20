@@ -337,10 +337,10 @@ input[type=text] {
 }
 
 .topBlog{
-    background-image:url(../img/12125-NNZAB6-3.png);
+    background-image:url(../img/bg-topo.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
-    background-size: contain;
+    background-size: cover;
 }
 
 @media only screen and (min-width: 1000px){
