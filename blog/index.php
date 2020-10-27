@@ -1,7 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
-<?php include "./estrutura/head.php" ?>
 
+<?php 
+include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
+?>
 <body>
     <!--? Preloader Start -->
     <div id="preloader-active">
@@ -17,7 +19,7 @@
     <!-- Preloader Start -->
     <?php 
     $blog = "active";
-    include "./estrutura/header.php" ?>
+    include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
         <!--
@@ -341,7 +343,7 @@
         <!-- Blog Area End -->
     </main>
     <!-- Footer Start-->
-    <?php include "./estrutura/footer.php" ?>
+    <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/footer.php" ?>
     <!-- Footer End-->
 
     <!-- BOTÃO DO WHATSAPP INÍCIO -->

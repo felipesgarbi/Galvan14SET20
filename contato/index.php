@@ -1,35 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<head>
-    <meta http-equiv="Content-Language" content="pt-br" />
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Galvan Engenharia | O Amanhã a gente projeta hoje | Joinville</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
-
-    <!-- CSS here -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/slicknav.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/progressbar_barfiller.css">
-    <link rel="stylesheet" href="assets/css/gijgo.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/animated-headline.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/themify-icons.css">
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/nice-select.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <!-- CSS INCLUÍDO POR FESPER INÍCIO -->
-    <link rel="stylesheet" href="assets/css/FSGcss.css">
-    <!-- CSS INCLUÍDO POR FESPER FIM -->
-</head>
+<?php 
+include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
+?>
 
 <body>
     <!-- ? Preloader Start -->
@@ -47,7 +21,7 @@
     <!-- Preloader Start -->
     <?php
     $contact = "active";
-    include "./estrutura/header.php" ?>
+    include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="assets/img/contact.jpg" style="background-size: cover;">
@@ -138,7 +112,7 @@
     </main>
     <footer>
         <!-- Footer Start-->
-        <?php include "./estrutura/footer.php" ?>
+        <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/footer.php" ?>
         <!-- Footer End-->
     </footer>
 

@@ -64,7 +64,7 @@
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right">
                                 <!--<a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>-->
-                                <a href="about.php" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>
+                                <a href="/sobrenos" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>
                         </div>
                     </div>
                 </div>
