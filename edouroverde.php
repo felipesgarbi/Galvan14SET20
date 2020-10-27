@@ -46,9 +46,9 @@
                     </div>
                     <div class="col-md-6 pt-20 text-center">
                         <video width="60%" controls="controls" autoplay="autoplay">
-                            <source src="FotosOuroVerde/Vídeo.mp4" type="video/mp4">
+                            <source src="assets/img/FotosOuroVerde/Vídeo.mp4" type="video/mp4">
                             <object data="" width="60%">
-                                <embed width="60%" src="FotosOuroVerde/Vídeo.mp4">
+                                <embed width="60%" src="assets/img/FotosOuroVerde/Vídeo.mp4">
                             </object>
                         </video>
                     </div>
@@ -60,15 +60,15 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="mb-10 pt-10 bg-light w-100">
-                        <img class="mb-2" src="FotosOuroVerde/HALLENTRADA-.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS1-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/SALAOFESTAS2-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/PISCINA-.jpg" alt="piscina-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/BRINQUEDOTECA-.jpg" alt="brinquedoteca-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/ACADEMIA-.jpg" alt="academia-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/GIARDINO-.jpg" alt="giardino-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/LIVING-.jpg" alt="living-ouro-verde" alt="" width="100%">
-                        <img class="mb-2" src="FotosOuroVerde/SUITE-.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/HALLENTRADA-.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/SALAOFESTAS1-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/SALAOFESTAS2-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/PISCINA-.jpg" alt="piscina-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/BRINQUEDOTECA-.jpg" alt="brinquedoteca-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/ACADEMIA-.jpg" alt="academia-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/GIARDINO-.jpg" alt="giardino-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/LIVING-.jpg" alt="living-ouro-verde" alt="" width="100%">
+                        <img class="mb-2" src="assets/img/FotosOuroVerde/SUITE-.jpg" alt="suite-ouro-verde" alt="" width="100%">
                     </div>
                 </div>
             </div>
@@ -94,16 +94,7 @@
                         <p>2</p>
                     </section>
                     <section id="section-linebox-3">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col-4 bg-light w-100 ">
-                                    s
-                                </div>
-                                <div class="col-8 bg-dark w-100">
-                                    s
-                                </div>
-                            </div>
-                        </div>
+                    <p>2</p>
                     </section>
                     <section id="section-linebox-4">
                         <p>4</p>
@@ -404,7 +395,7 @@
         <script src="./assets/js/plugins.js"></script>
         <script src="./assets/js/main.js"></script>
 
-        <script src="tabs/js/cbpFWTabs.js"></script>
+        <script src="./assets/tabs/js/cbpFWTabs.js"></script>
         <script>
             (function() {
 
