@@ -12,7 +12,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+                    <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php"; ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/topSobreNos.jpg">
+        <div class="slider-area2 section-bg2" data-background="../assets/img/sobrenos/topSobreNos.jpg">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -73,12 +73,12 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
             </div>
         </div>
             <div class="valoresSobre">
-                <img src="assets/img/valores/proximidadeV1.jpg" alt="valores-proximidade" width="100%">
-                <img src="assets/img/valores/qualidadeV2.jpg" alt="valores-qualidade" width="100%">
-                <img src="assets/img/valores/satisfacaoV3.jpg" alt="valores-satisfacao" width="100%">
-                <img src="assets/img/valores/comprometimentoV4.jpg" alt="valores-comprometimento" width="100%">
-                <img src="assets/img/valores/transparenciaV5.jpg" alt="valores-transparencia" width="100%">
-                <img src="assets/img/valores/estabilidadeV6.jpg" alt="valores-estabilidade" width="100%">
+                <img src="../assets/img/valores/proximidadeV1.jpg" alt="valores-proximidade" width="100%">
+                <img src="../assets/img/valores/qualidadeV2.jpg" alt="valores-qualidade" width="100%">
+                <img src="../assets/img/valores/satisfacaoV3.jpg" alt="valores-satisfacao" width="100%">
+                <img src="../assets/img/valores/comprometimentoV4.jpg" alt="valores-comprometimento" width="100%">
+                <img src="../assets/img/valores/transparenciaV5.jpg" alt="valores-transparencia" width="100%">
+                <img src="../assets/img/valores/estabilidadeV6.jpg" alt="valores-estabilidade" width="100%">
             </div>
         </section>
         <!-- VALORES FIM-->
@@ -132,46 +132,46 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
 
     <!-- JS here -->
 
-    <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="../assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
-    <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="./assets/js/popper.min.js"></script>
-    <script src="./assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="../assets/js/popper.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
     <!-- Jquery Mobile Menu -->
-    <script src="./assets/js/jquery.slicknav.min.js"></script>
+    <script src="../assets/js/jquery.slicknav.min.js"></script>
 
     <!-- Jquery Slick , Owl-Carousel Plugins -->
-    <script src="./assets/js/owl.carousel.min.js"></script>
-    <script src="./assets/js/slick.min.js"></script>
+    <script src="../assets/js/owl.carousel.min.js"></script>
+    <script src="../assets/js/slick.min.js"></script>
     <!-- One Page, Animated-HeadLin -->
-    <script src="./assets/js/wow.min.js"></script>
-    <script src="./assets/js/animated.headline.js"></script>
-    <script src="./assets/js/jquery.magnific-popup.js"></script>
+    <script src="../assets/js/wow.min.js"></script>
+    <script src="../assets/js/animated.headline.js"></script>
+    <script src="../assets/js/jquery.magnific-popup.js"></script>
 
     <!-- Date Picker -->
-    <script src="./assets/js/gijgo.min.js"></script>
+    <script src="../assets/js/gijgo.min.js"></script>
     <!-- Nice-select, sticky -->
-    <script src="./assets/js/jquery.nice-select.min.js"></script>
-    <script src="./assets/js/jquery.sticky.js"></script>
+    <script src="../assets/js/jquery.nice-select.min.js"></script>
+    <script src="../assets/js/jquery.sticky.js"></script>
     <!-- Progress -->
-    <script src="./assets/js/jquery.barfiller.js"></script>
+    <script src="../assets/js/jquery.barfiller.js"></script>
 
     <!-- counter , waypoint,Hover Direction -->
-    <script src="./assets/js/jquery.counterup.min.js"></script>
-    <script src="./assets/js/waypoints.min.js"></script>
-    <script src="./assets/js/jquery.countdown.min.js"></script>
-    <script src="./assets/js/hover-direction-snake.min.js"></script>
+    <script src="../assets/js/jquery.counterup.min.js"></script>
+    <script src="../assets/js/waypoints.min.js"></script>
+    <script src="../assets/js/jquery.countdown.min.js"></script>
+    <script src="../assets/js/hover-direction-snake.min.js"></script>
 
     <!-- contact js -->
-    <script src="./assets/js/contact.js"></script>
-    <script src="./assets/js/jquery.form.js"></script>
-    <script src="./assets/js/jquery.validate.min.js"></script>
-    <script src="./assets/js/mail-script.js"></script>
-    <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="../assets/js/contact.js"></script>
+    <script src="../assets/js/jquery.form.js"></script>
+    <script src="../assets/js/jquery.validate.min.js"></script>
+    <script src="../assets/js/mail-script.js"></script>
+    <script src="../assets/js/jquery.ajaxchimp.min.js"></script>
 
     <!-- Jquery Plugins, main Jquery -->
-    <script src="./assets/js/plugins.js"></script>
-    <script src="./assets/js/main.js"></script>
+    <script src="../assets/js/plugins.js"></script>
+    <script src="../assets/js/main.js"></script>
 
 
 
