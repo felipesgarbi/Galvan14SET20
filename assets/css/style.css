@@ -464,6 +464,20 @@ body {
 .empre{
   margin: 5px;
 }
+
+
+.titulo-planta{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+.fundo-planta{
+  background-color: #f1f1f1;
+}
+.duvidas-contato{
+  margin-top: 30px;
+  font-size: 21px;
+}
 /*---------------*/
 /***** Marley *****/
 /*---------------*/

@@ -77,7 +77,7 @@
             <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                 <nav>
                     <ul>
-                        <li><a href="#section-linebox-1"><span class="font-ruda" >02 QUARTOS - TIPO 01</span></a></li>
+                        <li><a href="#section-linebox-1"><span class="font-ruda">02 QUARTOS - TIPO 01</span></a></li>
                         <li><a href="#section-linebox-2"><span class="font-ruda">02 QUARTOS - TIPO 02</span></a></li>
                         <li><a href="#section-linebox-3"><span class="font-ruda">03 QUARTOS</span></a></li>
                         <li><a href="#section-linebox-4"><span class="font-ruda">COBERTURA</span></a></li>
@@ -88,31 +88,157 @@
                 </nav>
                 <div class="content-wrap">
                     <section id="section-linebox-1">
-                        <p>2</p>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Apto05e06.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                </div>
+                                <div class="col-sm-3 fundo-planta">
+                                    <h1 class="titulo-planta font-ruda">Descrição</h1>
+
+                                    <p>- 69,36 m2 de área privativa </p>
+                                    <p>- 1 suíte + 1 dormitório</p>    
+                                    <p>- 1 ou 2 vagas de garagem</p>    
+                                    <p>- Ambientes integrados</p>    
+                                    <p>- Área de serviço</p>    
+                                    <p>- Sacada com churrasqueira</p>
+
+                                </div>
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-2">
-                        <p>2</p>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Apto01e04.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                </div>
+                                <div class="col-sm-3 fundo-planta">
+                                    <h1 class="titulo-planta font-ruda">Descrição</h1>
+
+                                    <p>- 76,36 m2 de área privativa </p>
+                                    <p>- 1 suíte + 1 dormitório</p>    
+                                    <p>- 1 ou 2 vagas de garagem</p>    
+                                    <p>- Ambientes integrados</p>    
+                                    <p>- Área de serviço</p>    
+                                    <p>- Sacada com churrasqueira</p>
+
+                                </div>
+                                
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-3">
-                    <p>2</p>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Apto02e03.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                </div>
+                                <div class="col-sm-3 fundo-planta">
+                                    <h1 class="titulo-planta font-ruda">Descrição</h1>
+
+                                    <p>- 86,71 m2 de área privativa </p>
+                                    <p>- 1 suíte + 2 dormitório</p>    
+                                    <p>- 1 ou 2 vagas de garagem</p>    
+                                    <p>- Ambientes integrados</p>    
+                                    <p>- Área de serviço</p>    
+                                    <p>- Sacada com churrasqueira</p>
+
+                                </div>
+                               
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-4">
-                        <p>4</p>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Cobertura02e03.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                </div>
+                                <div class="col-sm-3 fundo-planta">
+                                    <h1 class="titulo-planta font-ruda">Descrição</h1>
+
+                                    <p>- 128,77 m2 de área privativa </p>
+                                    <p>- 1 suíte + 2 dormitório</p>    
+                                    <p>- 1 ou 2 vagas de garagem</p>    
+                                    <p>- Ambientes integrados</p>    
+                                    <p>- Área de serviço</p>    
+                                    <p>- Ampla sacada com vista da cidade</p>
+                                    <p>- Cobertura externa de 38,42m2 com churrasqueira e preparo para jacuzzi</p>
+                                </div>
+                                
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-5">
-                        <p>5</p>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Apto07A.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Apto07B.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                </div>
+                                <div class="col-sm-3 fundo-planta">
+                                    <h1 class="titulo-planta font-ruda">Descrição</h1>
+
+                                    <p>- 117,48 m2 de área privativa </p>
+                                    <p>- 1 suíte + 1 dormitório</p>    
+                                    <p>- 1 ou 2 vagas de garagem</p>    
+                                    <p>- Planta em conceito aberto</p>    
+                                    <p>- Ampla sacada com vista da xxx</p>    
+                                    <p>- Área de serviço</p>
+                                    <p>- Mezanino</p>
+                                </div>
+                                
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-6">
-                        <p>6</p>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Giardino01.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                </div>
+                                <div class="col-sm-3 fundo-planta">
+                                    <h1 class="titulo-planta font-ruda">Descrição</h1>
+
+                                    <p>- 125,79 m2 de área privativa </p>
+                                    <p>- 1 suíte + 1 dormitório</p>    
+                                    <p>- 1 ou 2 vagas de garagem</p>    
+                                    <p>- Planta em conceito aberto</p>    
+                                    <p>- Área verde externa de 49,43 m2 com churrasqueira</p>    
+                                    <p>- Área de serviço</p>
+                                    
+                                </div>
+                               
+                            </div>
+                        </div>
                     </section>
                     <section id="section-linebox-7">
-                        <p>7</p>
+                    <div class="container">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <img class="mb-2" src="assets/img/FotosOuroVerde/planta/Giardino02.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                                </div>
+                                <div class="col-sm-3 fundo-planta">
+                                    <h1 class="titulo-planta font-ruda">Descrição</h1>
+
+                                    <p>- 134,56 m2 de área privativa </p>
+                                    <p>- 1 suíte + 2 dormitório</p>    
+                                    <p>- 1 ou 2 vagas de garagem</p>    
+                                    <p>- Planta em conceito aberto</p>    
+                                    <p>- Área verde externa de 50,82 m2 com churrasqueira</p>    
+                                    <p>- Área de serviço</p>
+                                    
+                                </div>
+                              
+                            </div>
+                        </div>
                     </section>
 
                 </div><!-- /content -->
             </div><!-- /tabs -->
         </section>
-    
+
 
         <!--?  Map Area start  -->
 

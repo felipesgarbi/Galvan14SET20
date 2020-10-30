@@ -11,7 +11,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+                    <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     <main>
         <!--? Hero Start -->
         <!--
-            <div class="slider-area2 section-bg2" data-background="assets/img/hero/hero7.png">
+            <div class="slider-area2 section-bg2" data-background="../assets/img/hero/hero7.png">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -58,7 +58,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                         <div class="blog_left_sidebar">
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_1.png" alt="">
+                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_1.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>14</h3>
                                         <p>OUT</p>
@@ -78,7 +78,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                             </article>
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_2.png" alt="">
+                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_2.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>14</h3>
                                         <p>OUT</p>
@@ -98,7 +98,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                             </article>
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_3.png" alt="">
+                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_3.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>14</h3>
                                         <p>OUT</p>
@@ -118,7 +118,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                             </article>
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
+                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_4.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>14</h3>
                                         <p>OUT</p>
@@ -138,7 +138,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                             </article>
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_5.png" alt="">
+                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_5.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>14</h3>
                                         <p>OUT</p>
@@ -222,7 +222,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                             <!--<aside class="single_sidebar_widget popular_post_widget">
                                 <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_1.png" alt="post">
+                                    <img src="../assets/img/post/post_1.png" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.html">
                                             <h3 style="color: #2d2d2d;">From life was you fish...</h3>
@@ -231,7 +231,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_2.png" alt="post">
+                                    <img src="../assets/img/post/post_2.png" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.html">
                                             <h3 style="color: #2d2d2d;">The Amazing Hubble</h3>
@@ -240,7 +240,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_3.png" alt="post">
+                                    <img src="../assets/img/post/post_3.png" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.html">
                                             <h3 style="color: #2d2d2d;">Astronomy Or Astrology</h3>
@@ -249,7 +249,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_4.png" alt="post">
+                                    <img src="../assets/img/post/post_4.png" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.html">
                                             <h3 style="color: #2d2d2d;">Asteroids telescope</h3>
@@ -293,32 +293,32 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                 <ul class="instagram_row flex-wrap">
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_5.png" alt="">
+                                            <img class="img-fluid" src="../assets/img/post/post_5.png" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_6.png" alt="">
+                                            <img class="img-fluid" src="../assets/img/post/post_6.png" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_7.png" alt="">
+                                            <img class="img-fluid" src="../assets/img/post/post_7.png" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_8.png" alt="">
+                                            <img class="img-fluid" src="../assets/img/post/post_8.png" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_9.png" alt="">
+                                            <img class="img-fluid" src="../assets/img/post/post_9.png" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_10.png" alt="">
+                                            <img class="img-fluid" src="../assets/img/post/post_10.png" alt="">
                                         </a>
                                     </li>
                                 </ul>
@@ -367,44 +367,44 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
 
     <!-- JS here -->
 
-    <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="../assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
-    <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="./assets/js/popper.min.js"></script>
-    <script src="./assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="../assets/js/popper.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
     <!-- Jquery Mobile Menu -->
-    <script src="./assets/js/jquery.slicknav.min.js"></script>
+    <script src="../assets/js/jquery.slicknav.min.js"></script>
 
     <!-- Jquery Slick , Owl-Carousel Plugins -->
-    <script src="./assets/js/owl.carousel.min.js"></script>
-    <script src="./assets/js/slick.min.js"></script>
+    <script src="../assets/js/owl.carousel.min.js"></script>
+    <script src="../assets/js/slick.min.js"></script>
     <!-- One Page, Animated-HeadLin -->
-    <script src="./assets/js/wow.min.js"></script>
-    <script src="./assets/js/animated.headline.js"></script>
-    <script src="./assets/js/jquery.magnific-popup.js"></script>
+    <script src="../assets/js/wow.min.js"></script>
+    <script src="../assets/js/animated.headline.js"></script>
+    <script src="../assets/js/jquery.magnific-popup.js"></script>
 
     <!-- Date Picker -->
-    <script src="./assets/js/gijgo.min.js"></script>
+    <script src="../assets/js/gijgo.min.js"></script>
     <!-- Nice-select, sticky -->
-    <script src="./assets/js/jquery.nice-select.min.js"></script>
-    <script src="./assets/js/jquery.sticky.js"></script>
+    <script src="../assets/js/jquery.nice-select.min.js"></script>
+    <script src="../assets/js/jquery.sticky.js"></script>
 
     <!-- counter , waypoint,Hover Direction -->
-    <script src="./assets/js/jquery.counterup.min.js"></script>
-    <script src="./assets/js/waypoints.min.js"></script>
-    <script src="./assets/js/jquery.countdown.min.js"></script>
-    <script src="./assets/js/hover-direction-snake.min.js"></script>
+    <script src="../assets/js/jquery.counterup.min.js"></script>
+    <script src="../assets/js/waypoints.min.js"></script>
+    <script src="../assets/js/jquery.countdown.min.js"></script>
+    <script src="../assets/js/hover-direction-snake.min.js"></script>
 
     <!-- contact js -->
-    <script src="./assets/js/contact.js"></script>
-    <script src="./assets/js/jquery.form.js"></script>
-    <script src="./assets/js/jquery.validate.min.js"></script>
-    <script src="./assets/js/mail-script.js"></script>
-    <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="../assets/js/contact.js"></script>
+    <script src="../assets/js/jquery.form.js"></script>
+    <script src="../assets/js/jquery.validate.min.js"></script>
+    <script src="../assets/js/mail-script.js"></script>
+    <script src="../assets/js/jquery.ajaxchimp.min.js"></script>
 
     <!-- Jquery Plugins, main Jquery -->
-    <script src="./assets/js/plugins.js"></script>
-    <script src="./assets/js/main.js"></script>
+    <script src="../assets/js/plugins.js"></script>
+    <script src="../assets/js/main.js"></script>
 
 
 </body>
