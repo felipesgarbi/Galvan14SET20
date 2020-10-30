@@ -9,7 +9,7 @@
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <div class="footer-pera">
-                                    <p class="info1 textoBranco font-ruda">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
+                                    <p class="textoBranco font-ruda">Rua Armando Andrade, 97, </br>Bairro Bom Retiro, Joinville/SC - 89.223-066</p>
                                 </div>
 
                             </div>
@@ -20,8 +20,8 @@
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <ul class="text-center textoBrancoFooter">
-                                    <li><a href="#"><i class="fab fa-instagram fa-3x" style="color: #848282"></i></a>
-                                        <a href="#"><i class="fab fa-facebook-f fa-3x" style="color: #848282"></i></a></li>
+                                    <li><a href="https://www.instagram.com/galvan_engenharia/"><i class="fab fa-instagram fa-3x" style="color: #848282"></i></a>
+                                        <a href="https://www.facebook.com/Construtoragalvanengenharia"><i class="fab fa-facebook-f fa-3x" style="color: #848282"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -31,7 +31,7 @@
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <div class="footer-pera">
-                                    <p class="info1 textoBranco font-ruda"><i class="fab fa-whatsapp"></i> <a href="https://wa.me/5547989190606"> +55 47 9.8919-0606 </a> </br><i class="far fa-envelope"></i> atendimento@galvanengenharia.com</p>
+                                    <p class="textoBranco font-ruda"><i class="fab fa-whatsapp"></i> <a href="https://wa.me/5547989190606"> +55 47 9.8919-0606 </a> </br><i class="far fa-envelope"></i> atendimento@galvanengenharia.com</p>
                                 </div>
 
                             </div>

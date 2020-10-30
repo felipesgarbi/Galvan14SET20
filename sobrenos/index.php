@@ -2,7 +2,7 @@
 <html class="no-js" lang="zxx">
 
 <?php 
-include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
+include "../estrutura/head.php";
 ?>
 
 <body>
@@ -21,7 +21,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     <!-- Preloader Start -->
     <?php
     $sobreNos = "active";
-    include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php"; ?>
+    include "../estrutura/header.php"; ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="../assets/img/sobrenos/topSobreNos.jpg">

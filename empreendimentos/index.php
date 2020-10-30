@@ -2,7 +2,7 @@
 <html class="no-js" lang="zxx">
 
 <?php
-include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
+include "../estrutura/head.php";
 ?>
 
 <body>
@@ -20,7 +20,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     <!-- Preloader Start -->
     <?php
     $empreend = "active";
-    include $_SERVER["DOCUMENT_ROOT"] . '/estrutura/header.php';
+    include "../estrutura/header.php";
     ?>
     <main>
         <!--? Hero Start -->
@@ -471,7 +471,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     </main>
     <footer>
         <!-- Footer Start-->
-        <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/footer.php" ?>
+        <?php include "../estrutura/footer.php" ?>
         <!-- Footer End-->
     </footer>
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
