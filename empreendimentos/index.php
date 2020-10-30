@@ -67,7 +67,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                                     <h2 style="font-family: Daydream;  color: white; font-size: 30px">Edifício Contarini</h2>
 
 
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
 
                                                 </figcaption>
 
@@ -86,7 +86,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                                     <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
 
 
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
 
                                                 </figcaption>
 
@@ -105,7 +105,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                                     <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
 
 
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
 
                                                 </figcaption>
 

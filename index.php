@@ -64,7 +64,7 @@
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right">
                                 <!--<a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>-->
-                                <a href="/sobrenos" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>
+                                <a href="/sobrenos" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">CONHEÇA A GALVAN</a> </div>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                                         <h2 style="font-family: Daydream;  color: white;">Edifício Contarini</h2>
 
 
-                                        <p class="localizacao-empre" style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                        <p class="localizacao-empre" style="color: white;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
 
                                     </figcaption>
 
@@ -107,7 +107,7 @@
                                         <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
 
 
-                                            <p class="localizacao-empre" style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                            <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
 
                                         </figcaption>
 
@@ -127,7 +127,7 @@
                                             <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
 
 
-                                            <p class="localizacao-empre" style="color: white;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                            <p class="localizacao-empre" style="color: white;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
 
                                         </figcaption>
 
@@ -139,6 +139,7 @@
                 </div>
             </div>
         </section>
+        <div class="mb-4"></div>
         <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">

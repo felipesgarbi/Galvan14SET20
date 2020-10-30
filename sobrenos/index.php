@@ -21,7 +21,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     <!-- Preloader Start -->
     <?php
     $sobreNos = "active";
-    include $_SERVER['DOCUMENT_ROOT'] . "/estrutura/header.php" ?>
+    include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php"; ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="assets/img/sobrenos/topSobreNos.jpg">
@@ -107,7 +107,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
         <!-- Want To work End 2-->
     </main>
             <!-- Footer Start-->
-            <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/footer.php" ?>
+            <?php "../estrutura/footer.php" ?>
             <!-- Footer End-->
         
     <!-- BOTÃO DO WHATSAPP INÍCIO -->

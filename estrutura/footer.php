@@ -50,7 +50,7 @@
                     <div class="col-xl-9 col-lg-8">
                         <div class="footer-copy-right">
                             <div class="rodapeCorreto">
-                                Copyright © 2020 Todos direitos reservados à Galvan Engenharia | <a href="#">Site Desenvolvido pela Fesper</a>
+                                Copyright © 2020 Todos direitos reservados | <a href="https://fesper.com.br">Desenvolvido por Fesper</a>
                             </div>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             </p>

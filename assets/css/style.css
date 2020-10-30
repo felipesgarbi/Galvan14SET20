@@ -5927,8 +5927,8 @@ hr {
 
 /* line 34, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
 .footer-area .footer-tittle ul li a:hover {
-  color: #FFF;
   padding-left: 5px;
+  font-size: 110%;
 }
 
 /* line 42, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_footer.scss */
