@@ -1,6 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
-<?php include "./estrutura/head.php" ?>
+<?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php" ?>
 
 <body>
     <!-- ? Preloader Start -->

@@ -34,10 +34,10 @@
                                 <div class="main-menu d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
-                                            <li class="<?php echo $sobreNos ?>"><a href="sobrenos" class="linha font-ruda">SOBRE NÓS</a></li>
-                                            <li class="<?php echo $empreend ?>"><a href="empreendimentos" class="linha font-ruda">EMPREENDIMENTOS</a></li>
-                                            <li class="<?php echo $blog ?>"><a href="blog" class="linha font-ruda">BLOG</a></li>
-                                            <li class="<?php echo $contact ?>"><a href="contato" class="linha font-ruda">CONTATO</a></li>
+                                            <li class="<?php echo $sobreNos ?>"><a href="/sobrenos" class="linha font-ruda">SOBRE NÓS</a></li>
+                                            <li class="<?php echo $empreend ?>"><a href="/empreendimentos" class="linha font-ruda">EMPREENDIMENTOS</a></li>
+                                            <li class="<?php echo $blog ?>"><a href="/blog" class="linha font-ruda">BLOG</a></li>
+                                            <li class="<?php echo $contact ?>"><a href="/contato" class="linha font-ruda">CONTATO</a></li>
                                         </ul>
                                     </nav>
                                 </div>

@@ -159,10 +159,11 @@
 .content-wrap section p {
 	margin: 0;
 	padding: 0.75em 0;
-	color: rgba(40,44,42,0.05);
-	font-weight: 900;
-	font-size: 4em;
+	color: rgb(44 66 95);
+	font-weight: 500;
+	font-size: 1em;
 	line-height: 1;
+	text-align: initial;
 }
 
 /* Fallback */

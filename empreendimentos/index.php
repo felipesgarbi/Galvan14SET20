@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php 
+<?php
 include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
 ?>
 
@@ -12,7 +12,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="/assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+                    <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
                 </div>
             </div>
         </div>
@@ -58,6 +58,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     <div class="col-xl-4 col-lg-4">
 
                                         <div class="grid">
+
                                             <figure class="effect-bubba">
 
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
@@ -72,25 +73,28 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                                 </figcaption>
 
                                             </figure>
+
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-4">
 
                                         <div class="grid">
-                                            <figure class="effect-bubba">
+                                            <a href="edouroverde.php">
+                                                <figure class="effect-bubba">
 
-                                                <img class="img_fundo ml-0" src="../assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
 
-                                                <figcaption>
+                                                    <figcaption>
 
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+                                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
 
 
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
 
-                                                </figcaption>
+                                                    </figcaption>
 
-                                            </figure>
+                                                </figure>
+                                            </a>
                                         </div>
                                     </div>
                                     <div class="col-xl-4 col-lg-4">
@@ -125,7 +129,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         <div class="grid">
                                             <figure class="effect-bubba tamanho-empreendimento1">
 
-                                              
+
                                                 <figcaption>
 
                                                     <h2 style="font-family: Daydream;  color: white; font-size: 30px">Edifício Contarini</h2>
@@ -150,7 +154,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     <div class="col-xl-12 col-lg-12">
 
                                         <div class="grid">
-                                            <figure class="effect-bubba tamanho-empreendimento1" >
+                                            <figure class="effect-bubba tamanho-empreendimento1">
 
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
 
@@ -204,7 +208,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     <div class="col-xl-6 col-lg-6">
 
                                         <div class="grid">
-                                            <figure class="effect-bubba tamanho-empreendimento2" >
+                                            <figure class="effect-bubba tamanho-empreendimento2">
 
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
 
@@ -221,24 +225,24 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
-                                    <a href="edouroverde.php">
-                                        <div class="grid">
-                                            <figure class="effect-bubba tamanho-empreendimento2" >
+                                        <a href="edouroverde.php">
+                                            <div class="grid">
+                                                <figure class="effect-bubba tamanho-empreendimento2">
 
-                                                <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
+                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
 
-                                                <figcaption>
+                                                    <figcaption>
 
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+                                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
 
 
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
 
-                                                </figcaption>
+                                                    </figcaption>
 
-                                            </figure>
-                                        </div>
-                                    </a>
+                                                </figure>
+                                            </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
