@@ -21,18 +21,44 @@
         <!-- CAROUSEL INICIADO AQUI -->
         <div id="carouselFade" class="carousel slide carousel-fade" data-ride="carousel">
             <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
-                </li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
-                <div class="item active">
+                <div class="item active w-100">
+                    <!--<div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="hero-cap hero-cap2">
+                                    <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Deixe-se encantar ao abrir as portas do Residencial Contarini!</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
                 </div>
-                <div class="item">
+                <div class="item w-100">
+                    <!--<div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="hero-cap hero-cap2">
+                                    <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Aproximando você ao que realmente importa!</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
                 </div>
-                <div class="item">
+                <div class="item w-100">
+                    <!--<div class="container">
+                        <div class="row">
+                            <div class="col-xl-12">
+                                <div class="hero-cap hero-cap2">
+                                    <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Mais felicidade por m²!</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
                 </div>
             </div>
 
@@ -64,8 +90,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right">
-                                <!--<a href="about.php" class="btn w-btn wantToWork-btn mr-20 textoBranco">CONHEÇA A GALVAN<i class="ti-arrow-right"></i></a> </div>-->
-                                <a href="/sobrenos" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">CONHEÇA A GALVAN</a> </div>
+                                <a href="/sobrenos" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">CONHEÇA A GALVAN</a> </div>
                         </div>
                     </div>
                 </div>
@@ -105,7 +130,7 @@
 
                                         <figcaption class="ml-10">
 
-                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+                                            <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
 
 
                                             <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
@@ -154,7 +179,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right ">
-                                <a href="empreendimentos.php" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">EMPREENDIMENTOS</a> </div>
+                                <a href="empreendimentos.php" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">EMPREENDIMENTOS</a> </div>
                         </div>
                     </div>
                 </div>

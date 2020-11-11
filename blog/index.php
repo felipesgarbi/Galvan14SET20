@@ -1,9 +1,8 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php 
-include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
-?>
+<?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php"; ?>
+
 <body>
     <!--? Preloader Start -->
     <div id="preloader-active">
@@ -22,20 +21,6 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <!--
-            <div class="slider-area2 section-bg2" data-background="../assets/img/hero/hero7.png">
-            <div class="slider-height2 d-flex align-items-center">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="hero-cap hero-cap2 text-center">
-                                <h2>Blog</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>-->
 
         <!-- TOP DO BLOG INICIO -->
         <div class="col-md-12 border mb-5 topBlog">
@@ -50,12 +35,15 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
         <!-- TOP DO BLOG FIM -->
 
         <!-- Hero End -->
+
         <!--? Blog Area Start-->
         <section class="blog_area section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mb-5 mb-lg-0">
                         <div class="blog_left_sidebar">
+
+                        <!-- POST 01 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="../assets/img/blog/single_blog_1.png" alt="">
@@ -70,12 +58,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                         he earth it first without heaven in place seed it second morning saying.</p>
-                                    <!--<ul class="blog-info-link">
-                                        <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                        <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                    </ul>-->
                                 </div>
                             </article>
+                        <!-- POST 01 FIM -->
+
+                        <!-- POST 02 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="../assets/img/blog/single_blog_2.png" alt="">
@@ -90,12 +77,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                         he earth it first without heaven in place seed it second morning saying.</p>
-                                    <!--<ul class="blog-info-link">
-                                        <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                        <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                    </ul>-->
                                 </div>
                             </article>
+                        <!-- POST 02 FIM -->
+
+                        <!-- POST 03 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="../assets/img/blog/single_blog_3.png" alt="">
@@ -110,12 +96,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                         he earth it first without heaven in place seed it second morning saying.</p>
-                                    <!--<ul class="blog-info-link">
-                                        <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                        <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                    </ul>-->
                                 </div>
                             </article>
+                        <!-- POST 03 FIM -->
+
+                        <!-- POST 04 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="../assets/img/blog/single_blog_4.png" alt="">
@@ -130,12 +115,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                         he earth it first without heaven in place seed it second morning saying.</p>
-                                    <!--<ul class="blog-info-link">
-                                        <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                        <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                    </ul>-->
                                 </div>
                             </article>
+                        <!-- POST 04 FIM -->
+
+                        <!-- POST 05 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="../assets/img/blog/single_blog_5.png" alt="">
@@ -150,12 +134,10 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                     </a>
                                     <p>That dominion stars lights dominion divide years for fourth have don't stars is that
                                         he earth it first without heaven in place seed it second morning saying.</p>
-                                    <!--<ul class="blog-info-link">
-                                        <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                        <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                    </ul>-->
                                 </div>
                             </article>
+                        <!-- POST 05 FIM -->
+
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">
@@ -178,6 +160,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                             </nav>
                         </div>
                     </div>
+
                     <div class="col-lg-4">
                         <div class="blog_right_sidebar">
                             <aside class="single_sidebar_widget search_widget">
@@ -195,146 +178,60 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                 <ul class="list cat-list">
                                     <li>
                                         <a href="#" class="d-flex">
-                                            <p>Construção</p>
-                                            <p> (37)</p>
+                                            <p>Galvan Engenharia</p>
+                                            <p> (01)</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#" class="d-flex">
-                                            <p>Sustentabilidade</p>
-                                            <p> (10)</p>
+                                            <p>Joinville</p>
+                                            <p> (01)</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#" class="d-flex">
-                                            <p>Inovação</p>
-                                            <p> (03)</p>
+                                            <p>Construção Civil</p>
+                                            <p> (01)</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#" class="d-flex">
-                                            <p>Produtos</p>
-                                            <p> (11)</p>
+                                            <p>Engenharia e tecnologia</p>
+                                            <p> (01)</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="d-flex">
+                                            <p>Mercado imobiliário</p>
+                                            <p> (01)</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="d-flex">
+                                            <p>Arquitetura e Decoração</p>
+                                            <p> (01)</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="d-flex">
+                                            <p>Estilo de Vida</p>
+                                            <p> (01)</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="d-flex">
+                                            <p>Curiosidades</p>
+                                            <p> (01)</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="d-flex">
+                                            <p>Eventos/Reconhecimento</p>
+                                            <p> (01)</p>
                                         </a>
                                     </li>
                                 </ul>
                             </aside>
-                            <!--<aside class="single_sidebar_widget popular_post_widget">
-                                <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
-                                <div class="media post_item">
-                                    <img src="../assets/img/post/post_1.png" alt="post">
-                                    <div class="media-body">
-                                        <a href="blog_details.html">
-                                            <h3 style="color: #2d2d2d;">From life was you fish...</h3>
-                                        </a>
-                                        <p>January 12, 2019</p>
-                                    </div>
-                                </div>
-                                <div class="media post_item">
-                                    <img src="../assets/img/post/post_2.png" alt="post">
-                                    <div class="media-body">
-                                        <a href="blog_details.html">
-                                            <h3 style="color: #2d2d2d;">The Amazing Hubble</h3>
-                                        </a>
-                                        <p>02 Hours ago</p>
-                                    </div>
-                                </div>
-                                <div class="media post_item">
-                                    <img src="../assets/img/post/post_3.png" alt="post">
-                                    <div class="media-body">
-                                        <a href="blog_details.html">
-                                            <h3 style="color: #2d2d2d;">Astronomy Or Astrology</h3>
-                                        </a>
-                                        <p>03 Hours ago</p>
-                                    </div>
-                                </div>
-                                <div class="media post_item">
-                                    <img src="../assets/img/post/post_4.png" alt="post">
-                                    <div class="media-body">
-                                        <a href="blog_details.html">
-                                            <h3 style="color: #2d2d2d;">Asteroids telescope</h3>
-                                        </a>
-                                        <p>01 Hours ago</p>
-                                    </div>
-                                </div>
-                            </aside> 
-                            <aside class="single_sidebar_widget tag_cloud_widget">
-                                <h4 class="widget_title" style="color: #2d2d2d;">Tag Clouds</h4>
-                                <ul class="list">
-                                    <li>
-                                        <a href="#">project</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">love</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">technology</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">travel</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">restaurant</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">life style</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">design</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">illustration</a>
-                                    </li>
-                                </ul>
-                            </aside>-->
-                            <!--
-                            <aside class="single_sidebar_widget instagram_feeds">
-                                <h4 class="widget_title" style="color: #2d2d2d;">Instagram Feeds</h4>
-                                <ul class="instagram_row flex-wrap">
-                                    <li>
-                                        <a href="#">
-                                            <img class="img-fluid" src="../assets/img/post/post_5.png" alt="">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img class="img-fluid" src="../assets/img/post/post_6.png" alt="">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img class="img-fluid" src="../assets/img/post/post_7.png" alt="">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img class="img-fluid" src="../assets/img/post/post_8.png" alt="">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img class="img-fluid" src="../assets/img/post/post_9.png" alt="">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <img class="img-fluid" src="../assets/img/post/post_10.png" alt="">
-                                        </a>
-                                    </li>
-                                </ul>
-                            </aside>-->
-                            <!--
-                            <aside class="single_sidebar_widget newsletter_widget">
-                                <h4 class="widget_title" style="color: #2d2d2d;">Newsletter</h4>
-                                <form action="#">
-                                    <div class="form-group">
-                                        <input type="email" class="form-control" onfocus="this.placeholder = ''"
-                                            onblur="this.placeholder = 'Enter email'" placeholder='Enter email' required>
-                                    </div>
-                                    <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
-                                        type="submit">Subscribe</button>
-                                </form>
-                            </aside>-->
                         </div>
                     </div>
                 </div>

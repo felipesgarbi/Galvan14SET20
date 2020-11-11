@@ -17,7 +17,8 @@
     </div>
 
     <!-- Preloader Start -->
-    <?php $sobreNos = "active"; include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php"; ?>
+    <?php $sobreNos = "active";
+    include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php"; ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="../assets/img/sobrenos/topSobreNos.jpg">
@@ -38,7 +39,7 @@
         <section class="about-low-area section-padding30 border-bottom">
             <div class="container">
                 <div class="row justify-content-between">
-                    <div class="col-12">
+                    <div class="col-xl-12">
                         <div class="about-caption">
                             <!-- Section Tittle -->
                             <div class="section-tittle mb-35">
@@ -56,25 +57,27 @@
         <!-- VALORES INICIO -->
 
         <section id="valores">
-        <div class="container">
-            <div class="row justify-content-between border-bottom">
-                <div class="col-xl-6 col-lg-6 col-md-10">
-                    <div class="about-caption">
-                        <!--Section Tittle-->
-                        <div class="section-tittle">
-                            <h2 class="font-ruda titulo-nossosValores"><i class="fas fa-angle-right"></i> NOSSOS VALORES</h2>
+            <div class="container">
+                <div class="row border-bottom">
+                    <div class="col-xl-6 col-lg-6 col-md-10">
+                        <div class="about-caption">
+                            <!--Section Tittle-->
+                            <div class="section-tittle">
+                                <h2 class="font-ruda titulo-nossosValores"><i class="fas fa-angle-right"></i> NOSSOS VALORES</h2>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-            <div class="valoresSobre">
-                <img src="../assets/img/valores/proximidadeV1.jpg" alt="valores-proximidade" width="100%">
-                <img src="../assets/img/valores/qualidadeV2.jpg" alt="valores-qualidade" width="100%">
-                <img src="../assets/img/valores/satisfacaoV3.jpg" alt="valores-satisfacao" width="100%">
-                <img src="../assets/img/valores/comprometimentoV4.jpg" alt="valores-comprometimento" width="100%">
-                <img src="../assets/img/valores/transparenciaV5.jpg" alt="valores-transparencia" width="100%">
-                <img src="../assets/img/valores/estabilidadeV6.jpg" alt="valores-estabilidade" width="100%">
+            <div class="container-fluid">
+                <div class="valoresSobre">
+                    <img src="../assets/img/valores/proximidadeV1.jpg" alt="valores-proximidade" width="100%">
+                    <img src="../assets/img/valores/qualidadeV2.jpg" alt="valores-qualidade" width="100%">
+                    <img src="../assets/img/valores/satisfacaoV3.jpg" alt="valores-satisfacao" width="100%">
+                    <img src="../assets/img/valores/comprometimentoV4.jpg" alt="valores-comprometimento" width="100%">
+                    <img src="../assets/img/valores/transparenciaV5.jpg" alt="valores-transparencia" width="100%">
+                    <img src="../assets/img/valores/estabilidadeV6.jpg" alt="valores-estabilidade" width="100%">
+                </div>
             </div>
         </section>
         <!-- VALORES FIM-->
@@ -93,8 +96,8 @@
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
-                            <div class="double-btn f-right ">
-                                <a href="/empreendimentos" class="button primary-bg text-white w-100 btn_1 boxed-btn mr-20" style="border-radius: 10px;">EMPREENDIMENTOS<i class="ti-arrow-right"></i></a> </div>
+                            <div class="double-btn f-right">
+                                <a href="/empreendimentos" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">EMPREENDIMENTOS</a> </div>
                         </div>
                     </div>
                 </div>
@@ -102,10 +105,10 @@
         </section>
         <!-- Want To work End 2-->
     </main>
-            <!-- Footer Start-->
-            <?php "../estrutura/footer.php" ?>
-            <!-- Footer End-->
-        
+    <!-- Footer Start-->
+    <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/footer.php" ?>
+    <!-- Footer End-->
+
     <!-- BOTÃO DO WHATSAPP INÍCIO -->
     <a href="https://wa.me/5547989190606" style="
             position:fixed;
@@ -119,10 +122,9 @@
             text-align:center;
             font-size:30px;
             box-shadow: 1px 1px 2px #888;
-            z-index:1000;" 
-        target="_blank">
-        
-        <i style="margin-top:16px" class="fab fa-whatsapp"></i></a>
+            z-index:1000;" class="botaoWhats" target="_blank">
+
+        <i style="margin-top:16px;" class="fab fa-whatsapp"></i></a>
 
     <!-- BOTÃO DO WHATSAPP FIM -->
 

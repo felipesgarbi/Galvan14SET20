@@ -24,7 +24,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
     include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="../assets/img/contact.jpg" style="background-size: cover;">
+        <div class="slider-area2 section-bg2" data-background="../assets/img/Contact.jpg" style="background-size: cover;">
             <div class="slider-height2 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
@@ -128,9 +128,9 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
             text-align:center;
             font-size:30px;
             box-shadow: 1px 1px 2px #888;
-            z-index:1000;" target="_blank">
+            z-index:1000;" class="botaoWhats" target="_blank">
 
-        <i style="margin-top:16px" class="fab fa-whatsapp"></i></a>
+        <i style="margin-top:16px;" class="fab fa-whatsapp"></i></a>
 
     <!-- BOTÃO DO WHATSAPP FIM -->
 
