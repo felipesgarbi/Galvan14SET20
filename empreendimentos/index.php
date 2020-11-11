@@ -52,9 +52,9 @@ include "../estrutura/head.php";
                     </ul>
                 </nav>
 
-            <!-- ################################ -->
-            <!-- FILTRO TODOS OS EDIFÍCIOS INÍCIO -->
-            <!-- ################################ -->
+                <!-- ################################ -->
+                <!-- FILTRO TODOS OS EDIFÍCIOS INÍCIO -->
+                <!-- ################################ -->
 
                 <div class="content-wrap">
                     <section id="section-linebox-6">
@@ -63,29 +63,31 @@ include "../estrutura/head.php";
                                 <div class="row no-gutters">
 
 
-                <!-- ################################ -->
-                <!-- ## EDIFICIO CONTARINI INÍCIO ### -->
-                <!-- ################################ -->
+                                    <!-- ################################ -->
+                                    <!-- ## EDIFICIO CONTARINI INÍCIO ### -->
+                                    <!-- ################################ -->
 
                                     <div class="col-xl-4 col-lg-4">
                                         <div class="grid">
-                                            <figure class="effect-bubba">
-                                                <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
-                                                <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
-                                                </figcaption>
-                                            </figure>
+                                            <a href="../edificio-contarini">
+                                                <figure class="effect-bubba">
+                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
+                                                    <figcaption>
+                                                        <h2 style="font-family: Daydream;  color: white; font-size: 30px"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
+                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+                                                    </figcaption>
+                                                </figure>
+                                            </a>
                                         </div>
                                     </div>
 
-                <!-- ################################ -->
-                <!-- #### EDIFICIO CONTARINI FIM #### -->
-                <!-- ################################ -->
+                                    <!-- ################################ -->
+                                    <!-- #### EDIFICIO CONTARINI FIM #### -->
+                                    <!-- ################################ -->
 
-                <!-- ################################ -->
-                <!-- ## EDIFICIO OURO VERDE INÍCIO ## -->
-                <!-- ################################ -->
+                                    <!-- ################################ -->
+                                    <!-- ## EDIFICIO OURO VERDE INÍCIO ## -->
+                                    <!-- ################################ -->
 
                                     <div class="col-xl-4 col-lg-4">
                                         <div class="grid">
@@ -94,72 +96,88 @@ include "../estrutura/head.php";
                                                     <img class="img_fundo ml-0" src="../assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
                                                     <figcaption>
                                                         <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
+                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
                                                     </figcaption>
                                                 </figure>
                                             </a>
                                         </div>
                                     </div>
 
-                <!-- ################################ -->
-                <!-- #### EDIFICIO OURO VERDE FIM ### -->
-                <!-- ################################ -->
+                                    <!-- ################################ -->
+                                    <!-- #### EDIFICIO OURO VERDE FIM ### -->
+                                    <!-- ################################ -->
 
-                <!-- ################################ -->
-                <!-- ### EDIFICIO DI PIETRA INICIO ## -->
-                <!-- ################################ -->
+                                    <!-- ################################ -->
+                                    <!-- ### EDIFICIO DI PIETRA INICIO ## -->
+                                    <!-- ################################ -->
 
                                     <div class="col-xl-4 col-lg-4">
                                         <div class="grid">
-                                            <figure class="effect-bubba">
-                                                <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
-                                                <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
-                                                </figcaption>
-                                            </figure>
+                                            <a href="../edificio-di-pietra">
+                                                <figure class="effect-bubba">
+                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
+                                                    <figcaption>
+                                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
+                                                    </figcaption>
+                                                </figure>
+                                            </a>
                                         </div>
                                     </div>
 
-                <!-- ################################ -->
-                <!-- #### EDIFICIO DI PIETRA FIM #### -->
-                <!-- ################################ -->
+                                    <!-- ################################ -->
+                                    <!-- #### EDIFICIO DI PIETRA FIM #### -->
+                                    <!-- ################################ -->
 
                                 </div>
                             </div>
                         </div>
                     </section>
 
-            <!-- ################################ -->
-            <!-- # FILTRO TODOS OS EDIFÍCIOS FIM #-->
-            <!-- ################################ -->
+                    <!-- ################################ -->
+                    <!-- # FILTRO TODOS OS EDIFÍCIOS FIM #-->
+                    <!-- ################################ -->
 
+                    <!-- ################################################################ -->
 
-            <!-- ################################ -->
-            <!-- # FILTRO TODOS OS EDIFÍCIOS FIM #-->
-            <!-- ################################ -->
+                    <!-- ################################ -->
+                    <!-- ### FILTRO LANÇAMENTO INICIO ### -->
+                    <!-- ################################ -->
 
                     <section id="section-linebox-1">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
-                                <div class="row no-gutters ">
+                                <div class="row no-gutters">
                                     <div class="col-xl-12 col-lg-12">
 
                                         <div class="grid">
+                                        <a href="../edificio-contarini">
                                             <figure class="effect-bubba tamanho-empreendimento1">
                                                 <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px">Edifício Contarini</h2>
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
 
                                             </figure>
+                                        </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
+
+                    <!-- ################################ -->
+                    <!-- ##### FILTRO LANÇAMENTO FIM #### -->
+                    <!-- ################################ -->
+
+                    <!-- ################################################################ -->
+
+                    <!-- ################################ -->
+                    <!-- ## FILTRO EM CONSTRUÇÃO INICIO # -->
+                    <!-- ################################ -->
+
                     <section id="section-linebox-2">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
@@ -167,26 +185,32 @@ include "../estrutura/head.php";
                                     <div class="col-xl-12 col-lg-12">
 
                                         <div class="grid">
+                                        <a href="../edificio-contarini">
                                             <figure class="effect-bubba tamanho-empreendimento1">
-
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
-
                                                 <figcaption>
-
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px">Edifício Contarini</h2>
-
-
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
-
                                             </figure>
+                                        </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
+
+                    <!-- ################################ -->
+                    <!-- ## FILTRO EM CONSTRUÇÃO FIM #### -->
+                    <!-- ################################ -->
+
+                    <!-- ################################################################ -->
+
+                    <!-- ################################ -->
+                    <!--  FILTRO PRONTO PRA MORAR INICIO  -->
+                    <!-- ################################ -->
+
                     <section id="section-linebox-3">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
@@ -194,26 +218,33 @@ include "../estrutura/head.php";
                                     <div class="col-xl-12 col-lg-12">
 
                                         <div class="grid">
+                                        <a href="../edificio-ouro-verde">
                                             <figure class="effect-bubba tamanho-empreendimento1">
-
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
-
                                                 <figcaption>
-
                                                     <h2 style="font-family: Daydream;  color: white; "><img class="img_logo" src="../assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
-
-
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
-
                                             </figure>
+                                        </a>
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
+
+                    <!-- ################################ -->
+                    <!-- # FILTRO PRONTO PRA MORAR FIM ## -->
+                    <!-- ################################ -->
+
+                    <!-- ################################################################ -->
+
+                    <!-- ################################ -->
+                    <!-- #### FILTRO ENTREGUES INICIO ### -->
+                    <!-- ################################ -->
+
                     <section id="section-linebox-4">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
@@ -221,63 +252,59 @@ include "../estrutura/head.php";
                                     <div class="col-xl-6 col-lg-6">
 
                                         <div class="grid">
+                                        <a href="../edificio-ouro-verde">
                                             <figure class="effect-bubba tamanho-empreendimento2">
-
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
-
                                                 <figcaption>
-
                                                     <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
-
-
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
-
                                             </figure>
+                                        </a>
                                         </div>
                                     </div>
+
                                     <div class="col-xl-6 col-lg-6">
                                         <a href="../edificio-ouro-verde">
+
                                             <div class="grid">
+                                            <a href="../edificio-di-pietra">
                                                 <figure class="effect-bubba tamanho-empreendimento2">
-
                                                     <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
-
                                                     <figcaption>
-
                                                         <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
-
-
-                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px;">Rua exemplo, 123, </br>Bairro Exemplo, Joinville - SC</p>
-
+                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
                                                     </figcaption>
-
                                                 </figure>
+                                            </a>
                                             </div>
+
                                         </a>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
                     </section>
 
+                    <!-- ################################ -->
+                    <!-- ##### FILTRO ENTREGUES FIM ##### -->
+                    <!-- ################################ -->
+
                 </div><!-- /content -->
             </div><!-- /tabs -->
         </section>
-        <!-- Want To work -->
+        <!-- ################################################################ -->
+        <!-- ################################################################ -->
+        <!-- ################################################################ -->
 
-        <!-- Want To work End -->
-        <!-- Contact form Start -->
-
-        <!-- Contact form End -->
         <!--?  Map Area start  -->
         <section class="Map-area mb-20">
-                <div class="d-none d-sm-block w-100">
-                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WeOaP32M5FZGQk6UZQhtBiSLW2FZUK4s" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
-                    </iframe>
-                </div>
-            </section>
+            <div class="d-none d-sm-block w-100">
+                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WeOaP32M5FZGQk6UZQhtBiSLW2FZUK4s" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+                </iframe>
+            </div>
+        </section>
         <!-- Map Area End -->
 
     </main>

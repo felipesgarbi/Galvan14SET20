@@ -18,7 +18,7 @@
     <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="edificio-ouro-verde/topOuroVerde04111250.png">
+        <div class="slider-area2 section-bg2" data-background="edificio-contarini/topContarini.png">
             <div class="slider-height2 d-flex align-items-center">
             </div>
         </div>
@@ -29,32 +29,29 @@
                 <div class="row">
                     <div class="col-md-6 pt-30 text-justify ajustePt140EdOuroVerdeTitulo">
                         <div class="section-tittle">
-                            <h2 class="font-ruda">Residencial Ouro Verde</h2>
+                            <h2 class="font-ruda">Residencial Contarini</h2>
                         </div>
 
                         <p class="mb-20 justify pt-40 textoCinza font-ruda" style="text-align: justify;">
-                            Você merece viver num lugar completo como Residencial Ouro Verde!</p>
+                        Um lugar para você viver intensamente!</p>
 
-                        <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">Localizado num dos melhores bairros de Joinville, o Saguaçu tem tudo que você
-                            precisa: escolas, mercados, bancos, academias, bares e restaurantes e parques
-                            e áreas de lazer.</p>
+                        <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">Localizado no bairro Saguaçu, o Residencial Contarini oferece uma experiência única, de beleza exuberante, com espaços fascinantes, espaços encatandores,</p>
 
-                        <p class="textoCinza font-ruda" style="text-align: justify;">Criado para atender diversos públicos, o Residencial Ouro
-                            Verde oferece diversos tipos de plantas para famílias de todos os tipos.
-                            Um edifício completo com academia, piscina, brinquedoteca e amplo salão de
-                            festas.</p>
+                        <p class="textoCinza font-ruda" style="text-align: justify;">São 3 tipos de plantas com layout moderno e excelente distribuição de espaço. Escolha o</p>
                     </div>
+
                     <!-- VIDEO DO EMPREENDIMENTO INÍCIO -->
-                    <div class="col-md-6 pt-20 text-center mb-20">
+                    <div class="col-md-6 pt-20 text-center mb-40">
                         <iframe 
                             width="100%" 
                             height="110%" 
-                            src="https://www.youtube.com/embed/20J2d28tcEY" 
+                            src="https://www.youtube.com/embed/2X6QAL5kTSQ" 
                             frameborder="0" 
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                             allowfullscreen>
                         </iframe>
                     </div>
+
                     <!-- VIDEO DO EMPREENDIMENTO FIM -->
                 </div>
             </div>
@@ -62,16 +59,11 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="mb-10 pt-10 bg-light w-100">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/HALLENTRADA-.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/SALAOFESTAS1-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/SALAOFESTAS2-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/PISCINA-.jpg" alt="piscina-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/BRINQUEDOTECA-.jpg" alt="brinquedoteca-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/ACADEMIA-.jpg" alt="academia-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/GIARDINO-.jpg" alt="giardino-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/LIVING-.jpg" alt="living-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosOuroVerde/SUITE-.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                        <div class="mb-10 w-100">
+                            <img class="mb-2" src="assets/img/FotosContarini/1-HALLENTRADA-.jpg" alt="hall-de-entrada-contarini" alt="" width="100%">
+                            <img class="mb-2" src="assets/img/FotosContarini/4-PISCINA-.jpg" alt="piscina-contarini" alt="" width="100%">
+                            <img class="mb-2" src="assets/img/FotosContarini/5-APARTAMENTO-.jpg" alt="apartamento-contarini" alt="" width="100%">
+                            <img class="mb-2" src="assets/img/FotosContarini/7-SUITE-.jpg" alt="suite-contarini" alt="" width="100%">
                         </div>
                     </div>
                 </div>
@@ -94,7 +86,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/02Q-tipo01.jpg" alt="02-quartos-tipo-01" width="80%">
+                                        <img class="mb-2" src="edificio-ouro-verde/02Q-tipo01-06111038.png" alt="02-quartos-tipo-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 69,36 m2 de área privativa </p>
@@ -112,7 +104,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/02Q-tipo02.jpg" alt="02-quartos-tipo-02" width="80%">
+                                        <img class="mb-2" src="edificio-ouro-verde/02Q-tipo02-06111038.png" alt="02-quartos-tipo-02" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 76,36 m2 de área privativa </p>
@@ -131,7 +123,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/03Q.jpg" alt="03-quartos" width="80%">
+                                        <img class="mb-2" src="edificio-ouro-verde/03Q-06111038.png" alt="03-quartos" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 86,71 m2 de área privativa </p>
@@ -150,7 +142,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/cobertura.jpg" alt="apto-cobertura" width="80%">
+                                        <img class="mb-2" src="edificio-ouro-verde/cobertura-06111038.png" alt="apto-cobertura" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 128,77 m2 de área privativa </p>
@@ -169,7 +161,8 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-9">
-                                        <img class="mb-2" src="edificio-ouro-verde/duplex01.jpg" alt="apto-duplex" width="80%">
+                                        <img class="mb-2" src="edificio-ouro-verde/duplex01A-06111038.png" alt="apto-duplex" width="45%">
+                                        <img class="mb-2" src="edificio-ouro-verde/duplex01B-06111038.png" alt="apto-duplex" width="45%">
                                     </div>
                                     <div class="col-sm-3 fundo-planta">
                                         <p>- 117,48 m2 de área privativa </p>
@@ -188,7 +181,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/giardino01.jpg" alt="apto-giardino-01" width="80%">
+                                        <img class="mb-2" src="edificio-ouro-verde/giardino01-06111038.png" alt="apto-giardino-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 125,79 m2 de área privativa </p>
@@ -207,7 +200,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/giardino02.jpg" alt="apto-giardino-02" width="80%">
+                                        <img class="mb-2" src="edificio-ouro-verde/giardino02-06111038.png" alt="apto-giardino-02" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 134,56 m2 de área privativa </p>
@@ -232,7 +225,7 @@
 
             <section class="Map-area mb-20">
                 <div class="d-none d-sm-block w-100">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.6442105233255!2d-48.84670938517154!3d-26.273208273162545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94deafd17f092387%3A0x28fc8e499443ecee!2sR.%20Ouro%20Verde%2C%2098%20-%20Sagua%C3%A7u%2C%20Joinville%20-%20SC%2C%2089221-540!5e0!3m2!1spt-BR!2sbr!4v1604507333951!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.6329934998066!2d-48.84583904999246!3d-26.27357217309511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94deafd3c707665b%3A0x2cb71c02be5d03d!2sR.%20Indaial%2C%201003%20-%20Sagua%C3%A7u%2C%20Joinville%20-%20SC%2C%2089221-400!5e0!3m2!1spt-BR!2sbr!4v1605112927841!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
                     </iframe>
                 </div>
             </section>
@@ -444,7 +437,7 @@
     </main>
     <section id="contactArea">
         <!-- Footer Start-->
-        <?php include "./estrutura/footer.php" ?>
+        <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/footer.php" ?>
         <!-- Footer End-->
 
         <!-- BOTÃO DO WHATSAPP INÍCIO -->
