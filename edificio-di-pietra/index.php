@@ -1,7 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
-<?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php" ?>
 
+<?php
+include "../estrutura/head.php";
+?>
 <body>
     <!-- ? Preloader Start -->
     <div id="preloader-active">
@@ -9,16 +11,16 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+                    <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
                 </div>
             </div>
         </div>
     </div>
     <!-- Preloader Start -->
-    <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
+    <?php include "../estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="edificio-di-pietra/TOP.png">
+        <div class="slider-area2 section-bg2" data-background="./top.png">
             <div class="slider-height2 d-flex align-items-center">
             </div>
         </div>
@@ -49,17 +51,17 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mb-10 w-100">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/1-ENTRADA-.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/1-ENTRADA-2.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/2-SALAODEFESTAS1-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/3-SALAODEFESTAS2-.jpg" alt="piscina-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/4-ORQUIDARIO-.jpg" alt="brinquedoteca-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/5-ESPACOKIDS-.jpg" alt="academia-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/6-SALADEJOGOS-.jpg" alt="giardino-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/7-APARTAMENTO-.jpg" alt="living-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/8-SACADA-.jpg" alt="suite-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/9-LIVING-.jpg" alt="suite-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosDiPietra/10-SUITE-.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/1-ENTRADA-.jpg" alt="hall-de-entrada-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/1-ENTRADA-2.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/2-SALAODEFESTAS1-.jpg" alt="salão-de-festas-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/3-SALAODEFESTAS2-.jpg" alt="piscina-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/4-ORQUIDARIO-.jpg" alt="brinquedoteca-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/5-ESPACOKIDS-.jpg" alt="academia-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/6-SALADEJOGOS-.jpg" alt="giardino-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/7-APARTAMENTO-.jpg" alt="living-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/8-SACADA-.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/9-LIVING-.jpg" alt="suite-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/10-SUITE-.jpg" alt="suite-ouro-verde" alt="" width="100%">
                         </div>
                     </div>
                 </div>
@@ -80,7 +82,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-di-pietra/02Q-1111201432.png" alt="02-quartos" width="80%">
+                                        <img class="mb-2" src="../edificio-di-pietra/02Q-1111201432.png" alt="02-quartos" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 70,99 m2 de área privativa</p>
@@ -98,7 +100,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-di-pietra/03Q-tipo01-1111201432.png" alt="03-quartos-tipo-01" width="80%">
+                                        <img class="mb-2" src="../edificio-di-pietra/03Q-tipo01-1111201432.png" alt="03-quartos-tipo-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 89,32 m2 de área privativa </p>
@@ -115,7 +117,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-di-pietra/03Q-tipo02-1111201432.png" alt="03-quartos-tipo-02" width="80%">
+                                        <img class="mb-2" src="../edificio-di-pietra/03Q-tipo02-1111201432.png" alt="03-quartos-tipo-02" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 83,22 m2 de área privativa</p>
@@ -132,7 +134,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-di-pietra/cobertura01-1111201432.png" alt="apto-cobertura01" width="80%">
+                                        <img class="mb-2" src="../edificio-di-pietra/cobertura01-1111201432.png" alt="apto-cobertura01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 119,05 m2 de área privativa</p>
@@ -149,7 +151,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-di-pietra/cobertura02-1111201432.png" alt="apto-cobertura02" width="80%">
+                                        <img class="mb-2" src="../edificio-di-pietra/cobertura02-1111201432.png" alt="apto-cobertura02" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 123,31 m2 de área privativa</p>
@@ -405,48 +407,48 @@
 
         <!-- JS here -->
 
-        <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="./../assets/js/vendor/modernizr-3.5.0.min.js"></script>
         <!-- Jquery, Popper, Bootstrap -->
-        <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-        <script src="./assets/js/popper.min.js"></script>
-        <script src="./assets/js/bootstrap.min.js"></script>
+        <script src="./../assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="./../assets/js/popper.min.js"></script>
+        <script src="./../assets/js/bootstrap.min.js"></script>
         <!-- Jquery Mobile Menu -->
-        <script src="./assets/js/jquery.slicknav.min.js"></script>
+        <script src="./../assets/js/jquery.slicknav.min.js"></script>
 
         <!-- Jquery Slick , Owl-Carousel Plugins -->
-        <script src="./assets/js/owl.carousel.min.js"></script>
-        <script src="./assets/js/slick.min.js"></script>
+        <script src="./../assets/js/owl.carousel.min.js"></script>
+        <script src="./../assets/js/slick.min.js"></script>
         <!-- One Page, Animated-HeadLin -->
-        <script src="./assets/js/wow.min.js"></script>
-        <script src="./assets/js/animated.headline.js"></script>
-        <script src="./assets/js/jquery.magnific-popup.js"></script>
+        <script src="./../assets/js/wow.min.js"></script>
+        <script src="./../assets/js/animated.headline.js"></script>
+        <script src="./../assets/js/jquery.magnific-popup.js"></script>
 
         <!-- Date Picker -->
-        <script src="./assets/js/gijgo.min.js"></script>
+        <script src="./../assets/js/gijgo.min.js"></script>
         <!-- Nice-select, sticky -->
-        <script src="./assets/js/jquery.nice-select.min.js"></script>
-        <script src="./assets/js/jquery.sticky.js"></script>
+        <script src="./../assets/js/jquery.nice-select.min.js"></script>
+        <script src="./../assets/js/jquery.sticky.js"></script>
         <!-- Progress -->
-        <script src="./assets/js/jquery.barfiller.js"></script>
+        <script src="./../assets/js/jquery.barfiller.js"></script>
 
         <!-- counter , waypoint,Hover Direction -->
-        <script src="./assets/js/jquery.counterup.min.js"></script>
-        <script src="./assets/js/waypoints.min.js"></script>
-        <script src="./assets/js/jquery.countdown.min.js"></script>
-        <script src="./assets/js/hover-direction-snake.min.js"></script>
+        <script src="./../assets/js/jquery.counterup.min.js"></script>
+        <script src="./../assets/js/waypoints.min.js"></script>
+        <script src="./../assets/js/jquery.countdown.min.js"></script>
+        <script src="./../assets/js/hover-direction-snake.min.js"></script>
 
         <!-- contact js -->
-        <script src="./assets/js/contact.js"></script>
-        <script src="./assets/js/jquery.form.js"></script>
-        <script src="./assets/js/jquery.validate.min.js"></script>
-        <script src="./assets/js/mail-script.js"></script>
-        <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="./../assets/js/contact.js"></script>
+        <script src="./../assets/js/jquery.form.js"></script>
+        <script src="./../assets/js/jquery.validate.min.js"></script>
+        <script src="./../assets/js/mail-script.js"></script>
+        <script src="./../assets/js/jquery.ajaxchimp.min.js"></script>
 
         <!-- Jquery Plugins, main Jquery -->
-        <script src="./assets/js/plugins.js"></script>
-        <script src="./assets/js/main.js"></script>
+        <script src="./../assets/js/plugins.js"></script>
+        <script src="./../assets/js/main.js"></script>
 
-        <script src="./assets/tabs/js/cbpFWTabs.js"></script>
+        <script src="./../assets/tabs/js/cbpFWTabs.js"></script>
         <script>
             (function() {
 

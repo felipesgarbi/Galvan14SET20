@@ -25,7 +25,8 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo">
-                                <a href="/"><img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia"></a>
+                                
+                                <a href="/"><img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia"></a>
                             </div>
                         </div>
                         <div class="col-xl-9 col-lg-8">

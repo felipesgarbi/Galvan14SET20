@@ -1,7 +1,9 @@
-<!doctype html>
+<!Doctype html>
 <html class="no-js" lang="zxx">
+<?php 
+include_once $_SERVER["DOCUMENT_ROOT"]."/estrutura/head.php"
 
-<?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php"; ?>
+?>
 
 <body>
     <!-- ? Preloader Start -->
@@ -10,7 +12,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+                    <img src="/assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
                 </div>
             </div>
         </div>
@@ -18,7 +20,8 @@
 
     <!-- Preloader Start -->
     <?php $sobreNos = "active";
-    include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php"; ?>
+    include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php";
+    ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 section-bg2" data-background="../assets/img/sobrenos/topSobreNos.jpg">

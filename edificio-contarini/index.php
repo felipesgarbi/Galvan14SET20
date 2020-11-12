@@ -1,6 +1,9 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
-<?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php" ?>
+
+<?php
+include "../estrutura/head.php";
+?>
 
 <body>
     <!-- ? Preloader Start -->
@@ -9,7 +12,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+                    <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
                 </div>
             </div>
         </div>
@@ -18,7 +21,7 @@
     <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="edificio-contarini/topContarini.png">
+        <div class="slider-area2 section-bg2" data-background="../edificio-contarini/topContarini.png">
             <div class="slider-height2 d-flex align-items-center">
             </div>
         </div>
@@ -33,7 +36,7 @@
                         </div>
 
                         <p class="mb-20 justify pt-40 textoCinza font-ruda" style="text-align: justify;">
-                        Um lugar para você viver intensamente!</p>
+                            Um lugar para você viver intensamente!</p>
 
                         <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">Localizado no bairro Saguaçu, o Residencial Contarini oferece uma experiência única, de beleza exuberante, com espaços fascinantes, espaços encatandores,</p>
 
@@ -42,13 +45,7 @@
 
                     <!-- VIDEO DO EMPREENDIMENTO INÍCIO -->
                     <div class="col-md-6 pt-20 text-center mb-40">
-                        <iframe 
-                            width="100%" 
-                            height="110%" 
-                            src="https://www.youtube.com/embed/2X6QAL5kTSQ" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                            allowfullscreen>
+                        <iframe width="100%" height="110%" src="https://www.youtube.com/embed/2X6QAL5kTSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                         </iframe>
                     </div>
 
@@ -60,10 +57,10 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mb-10 w-100">
-                            <img class="mb-2" src="assets/img/FotosContarini/1-HALLENTRADA-.jpg" alt="hall-de-entrada-contarini" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosContarini/4-PISCINA-.jpg" alt="piscina-contarini" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosContarini/5-APARTAMENTO-.jpg" alt="apartamento-contarini" alt="" width="100%">
-                            <img class="mb-2" src="assets/img/FotosContarini/7-SUITE-.jpg" alt="suite-contarini" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/1-HALLENTRADA-.jpg" alt="hall-de-entrada-contarini" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/4-PISCINA-.jpg" alt="piscina-contarini" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/5-APARTAMENTO-.jpg" alt="apartamento-contarini" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/7-SUITE-.jpg" alt="suite-contarini" alt="" width="100%">
                         </div>
                     </div>
                 </div>
@@ -86,7 +83,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/02Q-tipo01-06111038.png" alt="02-quartos-tipo-01" width="80%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo01-06111038.png" alt="02-quartos-tipo-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 69,36 m2 de área privativa </p>
@@ -104,7 +101,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/02Q-tipo02-06111038.png" alt="02-quartos-tipo-02" width="80%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo02-06111038.png" alt="02-quartos-tipo-02" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 76,36 m2 de área privativa </p>
@@ -123,7 +120,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/03Q-06111038.png" alt="03-quartos" width="80%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/03Q-06111038.png" alt="03-quartos" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 86,71 m2 de área privativa </p>
@@ -142,7 +139,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/cobertura-06111038.png" alt="apto-cobertura" width="80%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/cobertura-06111038.png" alt="apto-cobertura" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 128,77 m2 de área privativa </p>
@@ -161,8 +158,8 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-9">
-                                        <img class="mb-2" src="edificio-ouro-verde/duplex01A-06111038.png" alt="apto-duplex" width="45%">
-                                        <img class="mb-2" src="edificio-ouro-verde/duplex01B-06111038.png" alt="apto-duplex" width="45%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/duplex01A-06111038.png" alt="apto-duplex" width="45%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/duplex01B-06111038.png" alt="apto-duplex" width="45%">
                                     </div>
                                     <div class="col-sm-3 fundo-planta">
                                         <p>- 117,48 m2 de área privativa </p>
@@ -181,7 +178,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/giardino01-06111038.png" alt="apto-giardino-01" width="80%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/giardino01-06111038.png" alt="apto-giardino-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 125,79 m2 de área privativa </p>
@@ -200,7 +197,7 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="edificio-ouro-verde/giardino02-06111038.png" alt="apto-giardino-02" width="80%">
+                                        <img class="mb-2" src="../edificio-ouro-verde/giardino02-06111038.png" alt="apto-giardino-02" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 134,56 m2 de área privativa </p>
@@ -461,48 +458,48 @@
 
         <!-- JS here -->
 
-        <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="./../assets/js/vendor/modernizr-3.5.0.min.js"></script>
         <!-- Jquery, Popper, Bootstrap -->
-        <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-        <script src="./assets/js/popper.min.js"></script>
-        <script src="./assets/js/bootstrap.min.js"></script>
+        <script src="./../assets/js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="./../assets/js/popper.min.js"></script>
+        <script src="./../assets/js/bootstrap.min.js"></script>
         <!-- Jquery Mobile Menu -->
-        <script src="./assets/js/jquery.slicknav.min.js"></script>
+        <script src="./../assets/js/jquery.slicknav.min.js"></script>
 
         <!-- Jquery Slick , Owl-Carousel Plugins -->
-        <script src="./assets/js/owl.carousel.min.js"></script>
-        <script src="./assets/js/slick.min.js"></script>
+        <script src="./../assets/js/owl.carousel.min.js"></script>
+        <script src="./../assets/js/slick.min.js"></script>
         <!-- One Page, Animated-HeadLin -->
-        <script src="./assets/js/wow.min.js"></script>
-        <script src="./assets/js/animated.headline.js"></script>
-        <script src="./assets/js/jquery.magnific-popup.js"></script>
+        <script src="./../assets/js/wow.min.js"></script>
+        <script src="./../assets/js/animated.headline.js"></script>
+        <script src="./../assets/js/jquery.magnific-popup.js"></script>
 
         <!-- Date Picker -->
-        <script src="./assets/js/gijgo.min.js"></script>
+        <script src="./../assets/js/gijgo.min.js"></script>
         <!-- Nice-select, sticky -->
-        <script src="./assets/js/jquery.nice-select.min.js"></script>
-        <script src="./assets/js/jquery.sticky.js"></script>
+        <script src="./../assets/js/jquery.nice-select.min.js"></script>
+        <script src="./../assets/js/jquery.sticky.js"></script>
         <!-- Progress -->
-        <script src="./assets/js/jquery.barfiller.js"></script>
+        <script src="./../assets/js/jquery.barfiller.js"></script>
 
         <!-- counter , waypoint,Hover Direction -->
-        <script src="./assets/js/jquery.counterup.min.js"></script>
-        <script src="./assets/js/waypoints.min.js"></script>
-        <script src="./assets/js/jquery.countdown.min.js"></script>
-        <script src="./assets/js/hover-direction-snake.min.js"></script>
+        <script src="./../assets/js/jquery.counterup.min.js"></script>
+        <script src="./../assets/js/waypoints.min.js"></script>
+        <script src="./../assets/js/jquery.countdown.min.js"></script>
+        <script src="./../assets/js/hover-direction-snake.min.js"></script>
 
         <!-- contact js -->
-        <script src="./assets/js/contact.js"></script>
-        <script src="./assets/js/jquery.form.js"></script>
-        <script src="./assets/js/jquery.validate.min.js"></script>
-        <script src="./assets/js/mail-script.js"></script>
-        <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="./../assets/js/contact.js"></script>
+        <script src="./../assets/js/jquery.form.js"></script>
+        <script src="./../assets/js/jquery.validate.min.js"></script>
+        <script src="./../assets/js/mail-script.js"></script>
+        <script src="./../assets/js/jquery.ajaxchimp.min.js"></script>
 
         <!-- Jquery Plugins, main Jquery -->
-        <script src="./assets/js/plugins.js"></script>
-        <script src="./assets/js/main.js"></script>
+        <script src="./../assets/js/plugins.js"></script>
+        <script src="./../assets/js/main.js"></script>
 
-        <script src="./assets/tabs/js/cbpFWTabs.js"></script>
+        <script src="./../assets/tabs/js/cbpFWTabs.js"></script>
         <script>
             (function() {
 
