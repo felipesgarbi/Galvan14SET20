@@ -20,7 +20,7 @@ include "../estrutura/head.php";
     <?php include "../estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="./top.png">
+        <div class="slider-area2 top-ouro section-bg2" data-background="./top.png">
             <div class="slider-height2 d-flex align-items-center">
             </div>
         </div>
@@ -41,7 +41,7 @@ include "../estrutura/head.php";
                     </div>
                     <!-- VIDEO DO EMPREENDIMENTO INÍCIO -->
                     <div class="col-md-6 pt-20 text-center mb-40">
-                        <img src="edificio-di-pietra/lateralTexto.png" style="max-height:450px;" />
+                        <img src="../edificio-di-pietra/lateralTexto.png" style="max-height:450px;" />
                     </div>
                     <!-- VIDEO DO EMPREENDIMENTO FIM -->
                 </div>

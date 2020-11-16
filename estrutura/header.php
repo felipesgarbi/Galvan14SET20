@@ -7,8 +7,8 @@
                 <div class="container-fluid">
                     <div class="row justify-content-between align-items-center">
                         <div class="col-lg-6">
-                            <a href="#" style="margin-left: 30px;"><i class="fab fa-instagram"></i></a>
-                            <a href="#" style="margin-left: 10px;"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/galvan_engenharia/" style="margin-left: 30px;"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.facebook.com/Construtoragalvanengenharia" style="margin-left: 10px;"><i class="fab fa-facebook-f"></i></a>
                         </div>
 
                         <div class="col-lg-6" style="text-align: end;">

@@ -32,9 +32,9 @@ $texto = "<h3> Formulário </h3><br>
 
 //AQUI ENVIO O PRIMEIRO EMAIL PARA O DESTINATARIO
 $emailDestino = "contato@gestordegabinete.com.br";
-$headers = "MIME-Version: 1.0\r\n";
-$headers .= "Content-type: text/html; charset=UTF-8";
-$headers .= "From:" . $email . "\r\n";
+$headers =  'MIME-Version: 1.0' . "\r\n"; 
+$headers .= 'From: Your name <info@address.com>' . "\r\n";
+$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
 mail($emailDestino, 'Olá, seu cliente preencheu um formulário de contato no site da Galvan Engenharia.', $texto, $headers);
 
@@ -55,7 +55,7 @@ $texto .= "Olá, Tudo bem? Seu e-mail foi recebido por um de nossos atendentes,<
 mail($email, 'Olá, somos da Galvan Engenharia. Já recebemos a sua mensagem.', $texto, $headers2);
 
 //REDIRECIONO PARA PAGINA CONTATO.PHP
-print '<script>location.href= "contact.php";</script>';
+//print '<script>location.href="./contato";</script>';
 echo "Mensagem enviada com sucesso!";
 
 ?>

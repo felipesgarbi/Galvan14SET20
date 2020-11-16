@@ -21,7 +21,7 @@ include "../estrutura/head.php";
     <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 section-bg2" data-background="../edificio-contarini/topContarini.png">
+        <div class="slider-area2 top-ouro section-bg2" data-background="../edificio-contarini/topContarini.png">
             <div class="slider-height2 d-flex align-items-center">
             </div>
         </div>
@@ -65,7 +65,7 @@ include "../estrutura/head.php";
                     </div>
                 </div>
             </div>
-            <section>
+            <!--<section>
                 <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                     <nav>
                         <ul>
@@ -213,9 +213,9 @@ include "../estrutura/head.php";
                             </div>
                         </section>
 
-                    </div><!-- /content -->
-                </div><!-- /tabs -->
-            </section>
+                    </div>
+                </div>
+            </section>-->
 
 
             <!--?  Map Area start  -->

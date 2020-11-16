@@ -155,7 +155,7 @@ include "../estrutura/head.php";
                                         <a href="../edificio-contarini">
                                             <figure class="effect-bubba tamanho-empreendimento1">
                                                 <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
@@ -190,7 +190,7 @@ include "../estrutura/head.php";
                                             <figure class="effect-bubba tamanho-empreendimento1">
                                                 <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
                                                 <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
                                             </figure>

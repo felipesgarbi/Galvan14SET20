@@ -19,25 +19,32 @@
     <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php"; ?>
     <main>
         <!-- CAROUSEL INICIADO AQUI -->
-        <div id="carouselFade" class="carousel slide carousel-fade" data-ride="carousel">
+        <div id="carouselFade" class="carousel slide carousel-fade carousel-inicio" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active w-100">
+                <a href="/edificio-contarini"> <div style="width: 100%; height: 100%;"> </div></a>
                     <!--<div class="container">
-                        <div class="row">
-                            <div class="col-xl-12">
-                                <div class="hero-cap hero-cap2">
-                                    <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Deixe-se encantar ao abrir as portas do Residencial Contarini!</h1>
-                                </div>
-                            </div>
-                        </div>
-                    </div>-->
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="hero-cap hero-cap2">
+                <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Deixe-se encantar ao abrir as portas do Residencial Contarini!</h1>
+            </div>
+        </div>
+    </div>
+</div>-->
                 </div>
+
+
+       
+
+
                 <div class="item w-100">
                     <!--<div class="container">
                         <div class="row">
@@ -89,8 +96,8 @@
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
-                            <div class="double-btn f-right">
-                                <a href="/sobrenos" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">CONHEÇA A GALVAN</a> </div>
+                            <div class="double-btn f-right alinha-30">
+                                <a href="/sobrenos" class="button primary-bg text-white w-100 btn_1 boxed-btn " style="border-radius: 10px;">CONHEÇA A GALVAN</a> </div>
                         </div>
                     </div>
                 </div>
@@ -105,30 +112,32 @@
                     <div class="row no-gutters ">
                         <div class="col-xl-4 col-lg-4">
                             <div class="grid">
-                                <figure class="effect-bubba">
+                                <a href="/edificio-contarini">
+                                    <figure class="effect-bubba">
 
-                                    <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
+                                        <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
 
-                                    <figcaption style="margin-left: 10px;">
+                                        <figcaption class="margin-figcaption">
 
-                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
+                                            <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
 
 
-                                        <p class="localizacao-empre" style="color: white;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+                                            <p class="localizacao-empre" style="color: white;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
 
-                                    </figcaption>
+                                        </figcaption>
 
-                                </figure>
+                                    </figure>
+                                </a>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4">
                             <div class="grid">
-                                <a href="edouroverde.php">
+                                <a href="/edificio-ouro-verde">
                                     <figure class="effect-bubba ">
 
                                         <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
 
-                                        <figcaption class="ml-10">
+                                        <figcaption class="margin-figcaption">
 
                                             <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
 
@@ -143,7 +152,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-4 ">
                             <div class="grid">
-                                <a href="edouroverde.php">
+                                <a href="/edificio-di-pietra">
                                     <figure class="effect-bubba">
 
                                         <img class="img_fundo" src="assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
@@ -173,12 +182,12 @@
                         <div class="col-xl-8 col-lg-8 col-md-8">
                             <div class="wantToWork-caption">
                                 <div class="logo">
-                                    <h1 class="font-vagnotie">O seu sonho está aqui!</h1>
+                                    <h1 class="font-vagnotie ml-50">O seu sonho está aqui!</h1>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
-                            <div class="double-btn f-right ">
+                            <div class="double-btn f-right alinha-30">
                                 <a href="/empreendimentos" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">EMPREENDIMENTOS</a> </div>
                         </div>
                     </div>
@@ -211,7 +220,7 @@
         <i style="margin-top:16px;" class="fab fa-whatsapp"></i></a>
 
     <!-- BOTÃO DO WHATSAPP FIM -->
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <!-- JS here -->
     <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
