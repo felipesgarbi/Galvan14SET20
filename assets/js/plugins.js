@@ -22,5 +22,3 @@
 }());
 
 // Place any jQuery/helper plugins in here.
-
-$('.filter-basic').mdbFilter();

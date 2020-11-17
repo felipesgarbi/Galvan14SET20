@@ -127,6 +127,20 @@
 	opacity: 0.9;
 }
 
+@media (max-width: 575px) {
+  .grid figure img {
+  margin-left: 10px;
+  }
+  .top-ouro{
+
+    background-size: contain !important;
+  }
+}
+
+.top-ouro{
+
+  background-size: contain !important;
+}
 .grid figure figcaption {
 	padding: 2em;
 
@@ -327,12 +341,26 @@ body {
   font-family: Daydream;
   font-size: 40px;
 }
-
 .font-vagnotie{
   font-family: Vagnotie;
   font-size: 60px;
 }
+@media (max-width: 575px) {
+  .font-vagnotie{
+    font-family: Vagnotie;
+    font-size: 40px;
+    margin-left: 15px;
+    margin-top: -20px;
+  }
 
+  .carousel-inicio{
+    height: 330px !important;
+  }
+
+  .alinha-30{
+    margin-left: 30px;
+  }
+}
 .font-vagnotie80{
   font-family: Vagnotie;
   font-size: 80px;
@@ -457,10 +485,26 @@ body {
     text-align: justify;
 }
 
+@media (max-width: 575px) {
 .textoBranco{
-  margin-left: 15%;
+margin-left: 0%;
+    padding-right: 0px;
+    text-align: center;
 }
 
+.margin-figcaption{
+
+  margin-left: 0px !important;
+}
+}
+
+.margin-figcaption{
+
+  margin-left: 10px;
+}
+.textoBranco{
+  margin-left: 15%;
+  }
 .empre{
   margin: 5px;
 }

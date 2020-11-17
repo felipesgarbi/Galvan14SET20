@@ -65,6 +65,20 @@ body{
         height: 538px;
         width:100%;
       } 
+
+
+      @media (max-width: 575px) {
+        html,
+        body,
+        .carousel,
+        .carousel-inner,
+        .carousel-inner .item {
+          height: 330px !important;
+          width:100%;
+        } 
+
+      }
+
       .item:nth-child(1) {
     background: url('../img/inicial/Conta4.png');
     background-size: contain;
