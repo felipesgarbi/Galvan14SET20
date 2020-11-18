@@ -46,18 +46,25 @@
                         <!-- POST 01 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_1.png" alt="">
+                                    <img class="card-img rounded-0" src="arquitetura-decoracao/CAPA.png" alt="">
                                     <span class="blog_item_date">
-                                        <h3>14</h3>
-                                        <p>OUT</p>
+                                        <h3>18</h3>
+                                        <p>NOV</p>
                                     </span>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.php">
-                                        <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
+                                    <a class="d-inline-block" href="arquitetura-decoracao">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">
+                                        DICAS FÁCEIS e BARATAS para trazer mais CONFORTO 
+                                        para a sua casa durante DISTÂNCIAMENTO SOCIAL
+                                    </h2>
                                     </a>
-                                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                        he earth it first without heaven in place seed it second morning saying.</p>
+                                    <p>
+                                        O distanciamento social trouxe um novo olhar para dentro das nossas casas. 
+                                        Se antes passávamos poucas horas desfrutando do nosso lar, hoje ele se 
+                                        tornou nosso ambiente de trabalho, nosso espaço de lazer e até mesmo escola 
+                                        e playground para quem tem filhos.
+                                    </p>
                                 </div>
                             </article>
                         <!-- POST 01 FIM -->
@@ -65,18 +72,20 @@
                         <!-- POST 02 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_2.png" alt="">
+                                    <img class="card-img rounded-0" src="apartamento-ideal/CAPA.png" alt="">
                                     <span class="blog_item_date">
-                                        <h3>14</h3>
-                                        <p>OUT</p>
+                                        <h3>18</h3>
+                                        <p>NOV</p>
                                     </span>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.php">
-                                        <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
+                                    <a class="d-inline-block" href="apartamento-ideal">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">5 PASSOS para encontrar o APARTAMENTO IDEAL</h2>
                                     </a>
-                                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                        he earth it first without heaven in place seed it second morning saying.</p>
+                                    <p>
+                                        Está pensando em comprar um apartamento mas não sabe o que escolher diante de 
+                                        tantas opções disponíveis no mercado?
+                                    </p>
                                 </div>
                             </article>
                         <!-- POST 02 FIM -->
@@ -84,59 +93,25 @@
                         <!-- POST 03 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_3.png" alt="">
+                                    <img class="card-img rounded-0" src="apartamento-na-planta/CAPA.png" alt="">
                                     <span class="blog_item_date">
-                                        <h3>14</h3>
-                                        <p>OUT</p>
+                                        <h3>18</h3>
+                                        <p>NOV</p>
                                     </span>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.php">
-                                        <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
+                                    <a class="d-inline-block" href="apartamento-na-planta">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h2>
                                     </a>
-                                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                        he earth it first without heaven in place seed it second morning saying.</p>
+                                    <p>
+                                        A compra de um imóvel é um grande passo na vida de qualquer pessoa. 
+                                        O sonho de ter um apartamento totalmente novo, com instalações modernas 
+                                        e com um preço acessível pode estar ao seu alcance muito antes do que 
+                                        você imagina!
+                                    </p>
                                 </div>
                             </article>
                         <!-- POST 03 FIM -->
-
-                        <!-- POST 04 INÍCIO -->
-                            <article class="blog_item">
-                                <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_4.png" alt="">
-                                    <span class="blog_item_date">
-                                        <h3>14</h3>
-                                        <p>OUT</p>
-                                    </span>
-                                </div>
-                                <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.php">
-                                        <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
-                                    </a>
-                                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                        he earth it first without heaven in place seed it second morning saying.</p>
-                                </div>
-                            </article>
-                        <!-- POST 04 FIM -->
-
-                        <!-- POST 05 INÍCIO -->
-                            <article class="blog_item">
-                                <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../assets/img/blog/single_blog_5.png" alt="">
-                                    <span class="blog_item_date">
-                                        <h3>14</h3>
-                                        <p>OUT</p>
-                                    </span>
-                                </div>
-                                <div class="blog_details">
-                                    <a class="d-inline-block" href="blog_details.php">
-                                        <h2 class="blog-head" style="color: #2d2d2d;">Google inks pact for new 35-storey office</h2>
-                                    </a>
-                                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                        he earth it first without heaven in place seed it second morning saying.</p>
-                                </div>
-                            </article>
-                        <!-- POST 05 FIM -->
 
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">

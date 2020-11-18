@@ -100,8 +100,8 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 69,36 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 suíte + 01 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Sacada com churrasqueira</p>
@@ -118,8 +118,8 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 76,36 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 suíte + 01 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Sacada com churrasqueira</p>
@@ -137,8 +137,8 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 86,71 m2 de área privativa </p>
-                                        <p>- 1 suíte + 2 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Sacada com churrasqueira</p>
@@ -156,8 +156,8 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 128,77 m2 de área privativa </p>
-                                        <p>- 1 suíte + 2 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Ampla sacada com vista da cidade</p>
@@ -176,8 +176,8 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-3 fundo-planta">
                                         <p>- 117,48 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 suíte + 01 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Planta em conceito aberto</p>
                                         <p>- Ampla sacada com vista para a serra</p>
                                         <p>- Área de serviço</p>
@@ -195,8 +195,8 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 125,79 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 suíte + 01 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Planta em conceito aberto</p>
                                         <p>- Área verde externa de 49,43 m2 com churrasqueira</p>
                                         <p>- Área de serviço</p>
@@ -214,8 +214,8 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 134,56 m2 de área privativa </p>
-                                        <p>- 1 suíte + 2 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Planta em conceito aberto</p>
                                         <p>- Área verde externa de 50,82 m2 com churrasqueira</p>
                                         <p>- Área de serviço</p>
@@ -259,7 +259,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS PRELIMINARES - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress green">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -285,7 +285,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FUNDAÇÃO - INICIO *** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD1">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -299,7 +299,7 @@ include "../estrutura/head.php";
                                 <h5><b>FUNDAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 15/02/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -311,7 +311,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ESTRUTURA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD2">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -325,7 +325,7 @@ include "../estrutura/head.php";
                                 <h5><b>ESTRUTURA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 15/04/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -337,7 +337,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ALVENARIA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD3">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -351,7 +351,7 @@ include "../estrutura/head.php";
                                 <h5><b>ALVENARIA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 17/05/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -367,7 +367,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS REVESTIMENTO - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD1">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -381,7 +381,7 @@ include "../estrutura/head.php";
                                 <h5><b>REVESTIMENTO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 20/08/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -393,7 +393,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ACABAMENTO - INICIO * -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD2">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -407,7 +407,7 @@ include "../estrutura/head.php";
                                 <h5><b>ACABAMENTO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 02/09/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -419,7 +419,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FINALIZAÇÃO - INICIO  -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD3">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -433,7 +433,7 @@ include "../estrutura/head.php";
                                 <h5><b>FINALIZAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 30/12/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>

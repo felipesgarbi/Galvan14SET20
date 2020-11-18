@@ -20,7 +20,7 @@ include "../estrutura/head.php";
     <?php include "../estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
-        <div class="slider-area2 top-ouro section-bg2" data-background="./top.png">
+        <div class="slider-area2 top-ouro section-bg2" data-background="../edificio-di-pietra/TOP.png">
             <div class="slider-height2 d-flex align-items-center">
             </div>
         </div>
@@ -105,7 +105,7 @@ include "../estrutura/head.php";
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 89,32 m2 de área privativa </p>
                                         <p>- 01 suítes + 02 quartos</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviç separadao</p>
                                         <p>- Sacada com churrasqueira e vista da cidade</p>
@@ -122,7 +122,7 @@ include "../estrutura/head.php";
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 83,22 m2 de área privativa</p>
                                         <p>- 01 suítes + 02 quartos</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista da cidade</p>
@@ -195,7 +195,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS PRELIMINARES - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress green">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -221,7 +221,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FUNDAÇÃO - INICIO *** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD1">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -235,7 +235,7 @@ include "../estrutura/head.php";
                                 <h5><b>FUNDAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 15/02/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -247,7 +247,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ESTRUTURA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD2">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -261,7 +261,7 @@ include "../estrutura/head.php";
                                 <h5><b>ESTRUTURA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 15/04/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -273,7 +273,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ALVENARIA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD3">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -287,7 +287,7 @@ include "../estrutura/head.php";
                                 <h5><b>ALVENARIA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 17/05/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -303,7 +303,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS REVESTIMENTO - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD1">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -317,7 +317,7 @@ include "../estrutura/head.php";
                                 <h5><b>REVESTIMENTO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 20/08/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -329,7 +329,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ACABAMENTO - INICIO * -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD2">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -343,7 +343,7 @@ include "../estrutura/head.php";
                                 <h5><b>ACABAMENTO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 02/09/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -355,7 +355,7 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FINALIZAÇÃO - INICIO  -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD3">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
@@ -369,7 +369,7 @@ include "../estrutura/head.php";
                                 <h5><b>FINALIZAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 30/12/2020</h6>
+                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
                             </div>
                         </p>
                     </div>

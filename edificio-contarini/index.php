@@ -38,9 +38,16 @@ include "../estrutura/head.php";
                         <p class="mb-20 justify pt-40 textoCinza font-ruda" style="text-align: justify;">
                             Um lugar para você viver intensamente!</p>
 
-                        <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">Localizado no bairro Saguaçu, o Residencial Contarini oferece uma experiência única, de beleza exuberante, com espaços fascinantes, espaços encatandores,</p>
+                        <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">
+                        Localizado no bairro Saguaçu, o Residencial Contarini é um verdadeiro refúgio no 
+                        coração pulsante da cidade. Seus espaços comuns são únicos e encantadores, 
+                        envolvendo natureza, conforto e qualidade de vida.</p>
 
-                        <p class="textoCinza font-ruda" style="text-align: justify;">São 3 tipos de plantas com layout moderno e excelente distribuição de espaço. Escolha o</p>
+                        <p class="textoCinza font-ruda" style="text-align: justify;">
+                        São 3 tipos de plantas com excelente distribuição de espaço, 
+                        com ambientes integrados e sacadas amplas privilegiando a iluminação natural. 
+                        Escolha o que melhor se encaixa ao seu estilo!</p>
+
                     </div>
 
                     <!-- VIDEO DO EMPREENDIMENTO INÍCIO -->
@@ -65,17 +72,15 @@ include "../estrutura/head.php";
                     </div>
                 </div>
             </div>
-            <!--<section>
+            <section>
                 <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                     <nav>
                         <ul>
-                            <li><a href="#section-linebox-1"><span class="font-ruda">02 QUARTOS - TIPO 01</span></a></li>
-                            <li><a href="#section-linebox-2"><span class="font-ruda">02 QUARTOS - TIPO 02</span></a></li>
-                            <li><a href="#section-linebox-3"><span class="font-ruda">03 QUARTOS</span></a></li>
-                            <li><a href="#section-linebox-4"><span class="font-ruda">COBERTURA</span></a></li>
-                            <li><a href="#section-linebox-5"><span class="font-ruda">DUPLEX</span></a></li>
-                            <li><a href="#section-linebox-6"><span class="font-ruda">GIARDINO 01</span></a></li>
-                            <li><a href="#section-linebox-7"><span class="font-ruda">GIARDINO 02</span></a></li>
+                            <li><a href="#section-linebox-1"><span class="font-ruda">03 QUARTOS - TIPO 01</span></a></li>
+                            <li><a href="#section-linebox-2"><span class="font-ruda">03 QUARTOS - TIPO 03</span></a></li>
+                            <li><a href="#section-linebox-3"><span class="font-ruda">03 SUÍTES - TIPO 02</span></a></li>
+                            <li><a href="#section-linebox-4"><span class="font-ruda">GIARDINO 01</span></a></li>
+                            <li><a href="#section-linebox-5"><span class="font-ruda">GIARDINO 02</span></a></li>
                         </ul>
                     </nav>
                     <div class="content-wrap">
@@ -83,15 +88,17 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo01-06111038.png" alt="02-quartos-tipo-01" width="80%">
+                                        <img class="mb-2" src="../edificio-contarini/03Q-TP01.png" alt="03-quartos-tipo-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        <p>- 69,36 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
-                                        <p>- Ambientes integrados</p>
-                                        <p>- Área de serviço</p>
-                                        <p>- Sacada com churrasqueira</p>
+
+                                        <p>- 107,05 m2 de área privativa </p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
+                                        <p>- Área de serviço separada</p>
+                                        <p>- Sacada com churrasqueira e vista para a serra</p>
+                                        <p>- Ventilação cruzada</p>
 
                                     </div>
                                 </div>
@@ -101,14 +108,15 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo02-06111038.png" alt="02-quartos-tipo-02" width="80%">
+                                        <img class="mb-2" src="../edificio-contarini/03Q-TP03.png" alt="03-quartos-tipo-03" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        <p>- 76,36 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
-                                        <p>- Ambientes integrados</p>
-                                        <p>- Área de serviço</p>
+                                        
+                                        <p>- 99,10 m2 de área privativa</p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
+                                        <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira</p>
 
                                     </div>
@@ -120,15 +128,16 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/03Q-06111038.png" alt="03-quartos" width="80%">
+                                        <img class="mb-2" src="../edificio-contarini/03S-TP01.png" alt="03-suites-tipo-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        <p>- 86,71 m2 de área privativa </p>
-                                        <p>- 1 suíte + 2 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
-                                        <p>- Ambientes integrados</p>
-                                        <p>- Área de serviço</p>
-                                        <p>- Sacada com churrasqueira</p>
+                                        
+                                        <p>- 104,58 m2 de área privativa</p>
+                                        <p>- 03 suítes</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
+                                        <p>- Área de serviço separada</p>
+                                        <p>- Sacada com churrasqueira e vista para a serra</p>
 
                                     </div>
 
@@ -139,16 +148,19 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/cobertura-06111038.png" alt="apto-cobertura" width="80%">
+                                        <img class="mb-2" src="../edificio-contarini/GIARDINO01.png" alt="giardino-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        <p>- 128,77 m2 de área privativa </p>
-                                        <p>- 1 suíte + 2 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
-                                        <p>- Ambientes integrados</p>
-                                        <p>- Área de serviço</p>
-                                        <p>- Ampla sacada com vista da cidade</p>
-                                        <p>- Cobertura externa de 38,42m2 com churrasqueira e preparo para jacuzzi</p>
+                                        
+                                        <p>- 140,36 m2 de área privativa</p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
+                                        <p>- Área de serviço separada</p>
+                                        <p>- Lavabo</p>
+                                        <p>- Área externa de 36,25 m2 com churrasqueira e espera para instalação de jacuzzi</p>
+                                        <p>- Ventiação cruzada</p>
+                                        
                                     </div>
 
                                 </div>
@@ -157,56 +169,18 @@ include "../estrutura/head.php";
                         <section id="section-linebox-5">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-sm-9">
-                                        <img class="mb-2" src="../edificio-ouro-verde/duplex01A-06111038.png" alt="apto-duplex" width="45%">
-                                        <img class="mb-2" src="../edificio-ouro-verde/duplex01B-06111038.png" alt="apto-duplex" width="45%">
-                                    </div>
-                                    <div class="col-sm-3 fundo-planta">
-                                        <p>- 117,48 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
-                                        <p>- Planta em conceito aberto</p>
-                                        <p>- Ampla sacada com vista para a serra</p>
-                                        <p>- Área de serviço</p>
-                                        <p>- Mezanino</p>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </section>
-                        <section id="section-linebox-6">
-                            <div class="container">
-                                <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/giardino01-06111038.png" alt="apto-giardino-01" width="80%">
+                                        <img class="mb-2" src="../edificio-contarini/GIARDINO02.png" alt="giardino-02" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        <p>- 125,79 m2 de área privativa </p>
-                                        <p>- 1 suíte + 1 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
-                                        <p>- Planta em conceito aberto</p>
-                                        <p>- Área verde externa de 49,43 m2 com churrasqueira</p>
-                                        <p>- Área de serviço</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                        </section>
-                        <section id="section-linebox-7">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/giardino02-06111038.png" alt="apto-giardino-02" width="80%">
-                                    </div>
-                                    <div class="col-sm-4 fundo-planta">
-                                        <p>- 134,56 m2 de área privativa </p>
-                                        <p>- 1 suíte + 2 dormitório</p>
-                                        <p>- 1 ou 2 vagas de garagem</p>
-                                        <p>- Planta em conceito aberto</p>
-                                        <p>- Área verde externa de 50,82 m2 com churrasqueira</p>
-                                        <p>- Área de serviço</p>
-
+                                        
+                                        <p>- 124,47 m2 de área privativa</p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
+                                        <p>- Área de serviço separada</p>
+                                        <p>- Área externa de 24,95 m2 com churrasqueira e espera para instalação de jacuzzi</p>
+                                    
                                     </div>
 
                                 </div>
@@ -215,7 +189,7 @@ include "../estrutura/head.php";
 
                     </div>
                 </div>
-            </section>-->
+            </section>
 
 
             <!--?  Map Area start  -->
@@ -246,21 +220,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS PRELIMINARES - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress green">
+                        <div class="progress dezPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">100%</div>
+                            <div class="progress-value">10%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>SERVIÇOS PRELIMINARES</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 31/01/2020</h6>
+                                <h6 class="textoCinza">atualizado em 17/11/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -272,21 +246,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FUNDAÇÃO - INICIO *** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD1">
+                        <div class="progress zeroPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">100%</div>
+                            <div class="progress-value">0%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>FUNDAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 15/02/2020</h6>
+                                <h6 class="textoCinza">não iniciado</h6>
                             </div>
                         </p>
                     </div>
@@ -298,21 +272,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ESTRUTURA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD2">
+                        <div class="progress zeroPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">100%</div>
+                            <div class="progress-value">0%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>ESTRUTURA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 15/04/2020</h6>
+                                <h6 class="textoCinza">não iniciado</h6>
                             </div>
                         </p>
                     </div>
@@ -324,21 +298,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ALVENARIA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress blueLD3">
+                        <div class="progress zeroPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">100%</div>
+                            <div class="progress-value">0%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>ALVENARIA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 17/05/2020</h6>
+                                <h6 class="textoCinza">não iniciado</h6>
                             </div>
                         </p>
                     </div>
@@ -354,21 +328,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS REVESTIMENTO - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD1">
+                        <div class="progress zeroPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">100%</div>
+                            <div class="progress-value">0%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>REVESTIMENTO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 20/08/2020</h6>
+                                <h6 class="textoCinza">não iniciado</h6>
                             </div>
                         </p>
                     </div>
@@ -380,21 +354,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ACABAMENTO - INICIO * -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD2">
+                        <div class="progress zeroPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">100%</div>
+                            <div class="progress-value">0%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>ACABAMENTO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 02/09/2020</h6>
+                                <h6 class="textoCinza">não iniciado</h6>
                             </div>
                         </p>
                     </div>
@@ -406,21 +380,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FINALIZAÇÃO - INICIO  -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress blueLD3">
+                        <div class="progress zeroPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">100%</div>
+                            <div class="progress-value">0%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>FINALIZAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 30/12/2020</h6>
+                                <h6 class="textoCinza">não iniciado</h6>
                             </div>
                         </p>
                     </div>
