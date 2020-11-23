@@ -1,61 +1,47 @@
 <?php
-/* Envio de E-mail mail()
-Arquivo enviaContato.php - PHP
-criado: 16/08/2018
-atualizado: 12/05/2020
-Criado por: @Bross
-www.tosempreai.com.br
-mlvpirani@gmail.com
- ***********************************************************
- */
+// Import PHPMailer classes into the global namespace
+// These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
 
+// Load Composer's autoloader
+require '../vendor/autoload.php';
 
-// Altera Aqui
+// Instantiation and passing `true` enables exceptions
+$mail = new PHPMailer(true);
 
-$site= "www.galvanengenharia.com";
-$nomeEmpresa = "Galvan Engenharia | O Amanhã a gente projeta hoje | Joinville/SC";
-$telefoneEmpresa = "+55 47 9.8919-0606";
-$urlLogo = "http://tosempreai.com.br/wp-content/uploads/2017/06/tosempreai.png";
+try {
+	//Server settings
+//	$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+	$mail->isSMTP();                                            // Send using SMTP
+	$mail->Host       = 'smtp.live.com';                    // Set the SMTP server to send through
+	$mail->SMTPAuth   = true;                                   // Enable SMTP authentication
+	$mail->Username   = 'thyago-asp@hotmail.com';                     // SMTP username
+	$mail->Password   = 'hostname#281092';                               // SMTP password
+	$mail->SMTPSecure = 'ssl';
+	$mail->Port = 465;                                 // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
+	//Recipients
+	$mail->setFrom('thyago-asp@hotmail.com', 'Mailer');
+	$mail->addAddress('thyago-asp@hotmail.com', 'Joe User');     // Add a recipient
+	$mail->addAddress('ellen@example.com');               // Name is optional
+	$mail->addReplyTo('info@example.com', 'Information');
+	$mail->addCC('cc@example.com');
+	$mail->addBCC('bcc@example.com');
 
-// Aqui simplesmente estou pegando os input do formulário via post
+	// Attachments
+	//  $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+	//  $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
 
-$nome = $_POST["nome"];
-$telefone = $_POST["telefone"];
-$email = $_POST["email"];
-$mensagem = $_POST["mensagem"];
-$texto = "<h3> Formulário </h3><br>
-			<b>Nome do Cliente:</b> $nome<br>
-			<b>Telefone:</b> $telefone<br>
-			<b>E-mail:</b> $email<br>
-			<b>Mensagem:</b> $mensagem<br>";
+	// Content
+	$mail->isHTML(true);                                  // Set email format to HTML
+	$mail->Subject = 'Here is the subject';
+	$mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+	$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
-//AQUI ENVIO O PRIMEIRO EMAIL PARA O DESTINATARIO
-$emailDestino = "contato@gestordegabinete.com.br";
-$headers =  'MIME-Version: 1.0' . "\r\n"; 
-$headers .= 'From: Your name <info@address.com>' . "\r\n";
-$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-
-mail($emailDestino, 'Olá, seu cliente preencheu um formulário de contato no site da Galvan Engenharia.', $texto, $headers);
-
-//AQUI ENVIO O PARA O CLIENTE
-
-$headers2 = "MIME-Version: 1.0\r\n";
-$headers2 .= "Content-type: text/html; charset=UTF-8";
-$headers2 .= "From:" . $emailDestino . " \r\n";
-$texto .= "Olá, Tudo bem? Seu e-mail foi recebido por um de nossos atendentes,<br>
-			em breve responderemos!<br>
-			<br>
-			Departamento Comercial | Galvan Engenharia<br>
-			".$site."<br>
-			".$telefoneEmpresa."<br>
-			<br>
-			<img src='".$urlLogo."'>";
-
-mail($email, 'Olá, somos da Galvan Engenharia. Já recebemos a sua mensagem.', $texto, $headers2);
-
-//REDIRECIONO PARA PAGINA CONTATO.PHP
-//print '<script>location.href="./contato";</script>';
-echo "Mensagem enviada com sucesso!";
-
-?>
+	$mail->send();
+	echo 'Message has been sent';
+} catch (Exception $e) {
+	echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+}

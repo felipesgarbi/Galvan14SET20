@@ -51,7 +51,7 @@ include "../estrutura/head.php";
                 <div class="container">
                     <div class="row pt-40">
                         <div class="col-lg-9 mb-40">
-                            <form id="contact-form" name="contact-form" action="./contato/mail.php" method="POST">
+                            <form id="contact-form" name="contact-form" action="./mail.php" method="POST">
 
                                 <div class="row">
                                     <div class="col-lg-4 mb-10">
