@@ -30,7 +30,7 @@ include "../estrutura/head.php";
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-vagnotie text-white font-vagnotieEMP" style="font-size:68px">Queremos ouvir você!</h1>
+                                <h1 class="font-vagnotie text-white font-vagnotieCONT" style="font-size:68px">Queremos ouvir você!</h1>
                             </div>
                         </div>
                     </div>

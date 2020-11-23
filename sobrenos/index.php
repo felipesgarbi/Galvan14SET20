@@ -30,7 +30,7 @@ include_once $_SERVER["DOCUMENT_ROOT"]."/estrutura/head.php"
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-vagnotie font-vagnotieEMP">O amanhã a gente projeta hoje!</h1>
+                                <h1 class="font-vagnotie font-vagnotieSOBRE">O amanhã a gente projeta hoje!</h1>
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ include_once $_SERVER["DOCUMENT_ROOT"]."/estrutura/head.php"
         <div class="mb-4"></div>
 
         <!-- Want To work 2-->
-        <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+        <section class="wantToWork-area" style="background-image: url(../assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">

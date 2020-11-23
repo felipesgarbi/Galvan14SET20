@@ -308,7 +308,7 @@ include "../estrutura/head.php";
         </section>
         <!-- Map Area End -->
 
-        <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+        <section class="wantToWork-area" style="background-image: url(../assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">

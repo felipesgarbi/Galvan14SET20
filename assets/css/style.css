@@ -358,6 +358,18 @@ body {
       margin-top: 105px;
   }
 
+  .font-vagnotieSOBRE{
+    margin-left: 3px;
+    margin-top: 115px;
+    font-size: 35px;
+    text-align: center;
+  }
+
+  .font-vagnotieCONT{
+  margin-left: 125px;
+  margin-top: 105px;
+  }
+
   .alinha-30{
     margin-left: 30px;
   }
@@ -369,7 +381,6 @@ body {
 
 .titulo-nossosValores{
   padding-top: 30px;
-  padding-bottom: 10px;
   font-size: 30px !important;
 }
 
@@ -398,51 +409,6 @@ body {
 }
 .valoresV6{
   background-image: url(../img/valores/V6-.jpg);
-}
-
-.valoresSobre1Esq{
-  font-family: Ruda;
-  font-size: 25px !important;
-  color: white;
-  text-align: justify;
-  letter-spacing: 2px;
-  word-spacing: 2px;
-  margin-top: 15%;
-  margin-bottom: 15%;
-}
-
-.valoresSobre2Esq{
-  font-family: Ruda;
-  font-size: 20px !important;
-  color: gray;
-  text-align: justify;
-  letter-spacing: 2px;
-  word-spacing: 2px;
-  margin-bottom: 15%;
-}
-
-.valoresSobre1Dir{
-  font-family: Ruda;
-  font-size: 25px !important;
-  color: white;
-  text-align: end;
-  letter-spacing: 2px;
-  word-spacing: 2px;
- 
-  margin-top: 15%;
-  margin-bottom: 15%;
-}
-
-.valoresSobre2Dir{
-  font-family: Ruda;
-  font-size: 20px !important;
-  color: gray;
-  text-align: justify;
-  letter-spacing: 2px;
-  word-spacing: 2px;
-  margin-left: -33%;
-  margin-top: 18%;
-  margin-bottom: 15%;
 }
 
 .textoCentralizado{
@@ -3506,7 +3472,6 @@ hr {
 /* line 839, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 .section-padding30 {
   padding-top: 25px;
-  padding-bottom: 60px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3526,14 +3491,6 @@ hr {
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  /* line 839, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
-  .section-padding30 {
-    padding-top: 65px;
-    padding-bottom: 70px;
-  }
-}
-
-@media (max-width: 575px) {
   /* line 839, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
   .section-padding30 {
     padding-top: 65px;
@@ -4876,13 +4833,6 @@ hr {
   /* line 121, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_about.scss */
   .about-low-area .about-right-cap .about-right-cap2 {
     margin-bottom: 0px;
-  }
-}
-
-@media (max-width: 575px) {
-  /* line 138, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_about.scss */
-  .about-caption {
-    margin-bottom: 35px;
   }
 }
 
