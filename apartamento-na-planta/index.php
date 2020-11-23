@@ -38,7 +38,7 @@
                   <div class="single-post">
                      <div class="feature-img">
                         <h5>16/10/2020 - Por: Galvan Engenharia</h5>
-                        <img class="img-fluid" src="../apartamento-na-planta/capa.png" alt="">
+                        <img class="img-fluid" src="../apartamento-na-planta/CAPA.png" alt="">
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
@@ -181,7 +181,7 @@
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
                                  <a href="#">
-                                    <img class="" src="../apartamento-ideal/capa.png" alt="" height="80px">
+                                    <img class="" src="../apartamento-ideal/CAPA.png" alt="" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">

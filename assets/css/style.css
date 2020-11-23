@@ -354,8 +354,9 @@ body {
   }
 
   .font-vagnotieEMP{
-      margin-left: 125px;
-      margin-top: 105px;
+      margin-left: 40px;
+      margin-top: 139px;
+      font-size: 37px;
   }
 
   .font-vagnotieSOBRE{
@@ -470,7 +471,6 @@ margin-left: 0%;
 .empre{
   margin: 5px;
 }
-
 
 .titulo-planta{
   margin-top: 20px;

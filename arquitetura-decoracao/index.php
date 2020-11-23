@@ -38,7 +38,7 @@
                   <div class="single-post">
                         <h5>29/07/2020 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../arquitetura-decoracao/capa.png" alt="" />
+                        <img class="img-fluid" src="../arquitetura-decoracao/CAPA.png" alt="" />
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">

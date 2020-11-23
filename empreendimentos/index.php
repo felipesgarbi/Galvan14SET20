@@ -154,12 +154,11 @@ include "../estrutura/head.php";
                                         <div class="grid">
                                         <a href="../edificio-contarini">
                                             <figure class="effect-bubba tamanho-empreendimento1">
+                                            <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02"/>
                                                 <figcaption>
                                                     <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
-                                                <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
-
                                             </figure>
                                         </a>
                                         </div>
@@ -182,7 +181,7 @@ include "../estrutura/head.php";
                     <section id="section-linebox-2">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
-                                <div class="row no-gutters ">
+                                <div class="row no-gutters">
                                     <div class="col-xl-12 col-lg-12">
 
                                         <div class="grid">
@@ -273,7 +272,7 @@ include "../estrutura/head.php";
                                                 <figure class="effect-bubba tamanho-empreendimento2">
                                                     <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
                                                     <figcaption>
-                                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+                                                        <h2 style="font-family: Daydream; color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
                                                         <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
                                                     </figcaption>
                                                 </figure>
@@ -321,7 +320,7 @@ include "../estrutura/head.php";
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right">
-                                <a href="/empreendimentos" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">FALE COM A GALVAN</a> </div>
+                                <a href="/contato" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">FALE COM A GALVAN</a> </div>
                         </div>
                     </div>
                 </div>
