@@ -9,7 +9,7 @@
          <div class="preloader-inner position-relative">
             <div class="preloader-circle"></div>
             <div class="preloader-img pere-text">
-               <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+               <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
             </div>
          </div>
       </div>
@@ -38,7 +38,7 @@
                   <div class="single-post">
                         <h5>29/07/2020 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="arquitetura-decoracao/CAPA.png" alt="">
+                        <img class="img-fluid" src="../arquitetura-decoracao/capa.png" alt="" />
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
@@ -77,7 +77,7 @@
                            indireta para garantir o conforto e aconchego necessário.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="arquitetura-decoracao/IMG1.jpg" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../arquitetura-decoracao/IMG1.jpg" style="max-width:750px;" alt=""/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">2. MAIS VERDE</h2>
@@ -91,7 +91,7 @@
                            manutenção e tenham boa resistência como as suculentas, cactos ou jiboias.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="arquitetura-decoracao/IMG2.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../arquitetura-decoracao/IMG2.png" style="max-width:750px;" alt=""/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">3. MAIS TEXTURA</h2>
@@ -100,7 +100,7 @@
                            ajudam a conferir melhor conforto sonoro e térmico ao ambiente.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="arquitetura-decoracao/IMG3.jpg" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../arquitetura-decoracao/IMG3.jpg" style="max-width:750px;" alt=""/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">4. MAIS COR</h2>
@@ -114,7 +114,7 @@
                            trazr cor utilizando quadros e outros objetos decorativos.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="arquitetura-decoracao/IMG4.jpg" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../arquitetura-decoracao/IMG4.jpg" style="max-width:750px;" alt=""/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">5. MAIS ESPAÇO</h2>
@@ -127,7 +127,7 @@
                            evita que eles fiquem espalhados pelos outros ambientes e ainda ajuda na limpeza.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="arquitetura-decoracao/IMG5.jpg" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../arquitetura-decoracao/IMG5.jpg" style="max-width:750px;" alt=""/>
                         </div>
                         <p class="pt-20" style="text-align:justify;">
                            Abuse das caixas e cestos organizadores, eles facilitam a classificação e
@@ -275,44 +275,44 @@
 
    <!-- JS here -->
 
-   <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+   <script src="../assets/js/vendor/modernizr-3.5.0.min.js"></script>
    <!-- Jquery, Popper, Bootstrap -->
-   <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-   <script src="./assets/js/popper.min.js"></script>
-   <script src="./assets/js/bootstrap.min.js"></script>
+   <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
+   <script src="../assets/js/popper.min.js"></script>
+   <script src="../assets/js/bootstrap.min.js"></script>
    <!-- Jquery Mobile Menu -->
-   <script src="./assets/js/jquery.slicknav.min.js"></script>
+   <script src="../assets/js/jquery.slicknav.min.js"></script>
 
    <!-- Jquery Slick , Owl-Carousel Plugins -->
-   <script src="./assets/js/owl.carousel.min.js"></script>
-   <script src="./assets/js/slick.min.js"></script>
+   <script src="../assets/js/owl.carousel.min.js"></script>
+   <script src="../assets/js/slick.min.js"></script>
    <!-- One Page, Animated-HeadLin -->
-   <script src="./assets/js/wow.min.js"></script>
-   <script src="./assets/js/animated.headline.js"></script>
-   <script src="./assets/js/jquery.magnific-popup.js"></script>
+   <script src="../assets/js/wow.min.js"></script>
+   <script src="../assets/js/animated.headline.js"></script>
+   <script src="../assets/js/jquery.magnific-popup.js"></script>
 
    <!-- Date Picker -->
-   <script src="./assets/js/gijgo.min.js"></script>
+   <script src="../assets/js/gijgo.min.js"></script>
    <!-- Nice-select, sticky -->
-   <script src="./assets/js/jquery.nice-select.min.js"></script>
-   <script src="./assets/js/jquery.sticky.js"></script>
+   <script src="../assets/js/jquery.nice-select.min.js"></script>
+   <script src="../assets/js/jquery.sticky.js"></script>
 
    <!-- counter , waypoint,Hover Direction -->
-   <script src="./assets/js/jquery.counterup.min.js"></script>
-   <script src="./assets/js/waypoints.min.js"></script>
-   <script src="./assets/js/jquery.countdown.min.js"></script>
+   <script src="../assets/js/jquery.counterup.min.js"></script>
+   <script src="../assets/js/waypoints.min.js"></script>
+   <script src="../assets/js/jquery.countdown.min.js"></script>
    <script src="./assets/js/hover-direction-snake.min.js"></script>
 
    <!-- contact js -->
-   <script src="./assets/js/contact.js"></script>
-   <script src="./assets/js/jquery.form.js"></script>
-   <script src="./assets/js/jquery.validate.min.js"></script>
-   <script src="./assets/js/mail-script.js"></script>
-   <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+   <script src="../assets/js/contact.js"></script>
+   <script src="../assets/js/jquery.form.js"></script>
+   <script src="../assets/js/jquery.validate.min.js"></script>
+   <script src="../assets/js/mail-script.js"></script>
+   <script src="../assets/js/jquery.ajaxchimp.min.js"></script>
 
    <!-- Jquery Plugins, main Jquery -->
-   <script src="./assets/js/plugins.js"></script>
-   <script src="./assets/js/main.js"></script>
+   <script src="../assets/js/plugins.js"></script>
+   <script src="../assets/js/main.js"></script>
 
 
 </body>

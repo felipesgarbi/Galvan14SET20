@@ -9,7 +9,7 @@
          <div class="preloader-inner position-relative">
             <div class="preloader-circle"></div>
             <div class="preloader-img pere-text">
-               <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+               <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
             </div>
          </div>
       </div>
@@ -38,7 +38,7 @@
                   <div class="single-post">
                      <div class="feature-img">
                         <h5>16/10/2020 - Por: Galvan Engenharia</h5>
-                        <img class="img-fluid" src="apartamento-na-planta/CAPA.png" alt="">
+                        <img class="img-fluid" src="../apartamento-na-planta/capa.png" alt="">
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
@@ -90,7 +90,7 @@
                            Multas por atraso na entrega e cláusulas rescisórias devem fazer parte do contrato.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-na-planta/1.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/1.png" style="max-width:750px;" alt="">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">2. SERÁ QUE VOU TER O RECURSO FINANCEIRO NECESSÁRIO?</h2>
@@ -109,7 +109,7 @@
                            Ter um fundo de reserva também traz mais tranquilidade nessa hora.
                         </p>
                         <div class="feature-img">
-                        <img class="img-fluid" src="apartamento-na-planta/2.png" style="max-width:750px;" alt="">
+                        <img class="img-fluid" src="../apartamento-na-planta/2.png" style="max-width:750px;" alt="">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">3. SERÁ QUE VOU CONSEGUIR FINANCIAR?</h2>
@@ -125,7 +125,7 @@
                            Evite fazer outras dívidas durante a construção.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-na-planta/3.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/3.png" style="max-width:750px;" alt="">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">4. E SE O APARTAMENTO FOR MUITO PEQUENO OU O ACABAMENTO NÃO ME AGRADAR?</h2>
@@ -141,7 +141,7 @@
                            revestimento ou ainda alterar alguns espaços, então APROVEITE!
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-na-planta/4.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/4.png" style="max-width:750px;" alt="">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">5. SERÁ QUE É REALMENTE UM BOM NEGÓCIO?</h2>
@@ -160,7 +160,7 @@
                            bem inferiores às cobradas pelos bancos.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-na-planta/5.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/5.png" style="max-width:750px;" alt="">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">AINDA TEM DÚVIDA?</h2>
@@ -181,7 +181,7 @@
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
                                  <a href="#">
-                                    <img class="" src="apartamento-ideal/CAPA.png" alt="" height="80px">
+                                    <img class="" src="../apartamento-ideal/capa.png" alt="" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
@@ -323,44 +323,44 @@
 
    <!-- JS here -->
 
-   <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+   <script src="../assets/js/vendor/modernizr-3.5.0.min.js"></script>
    <!-- Jquery, Popper, Bootstrap -->
-   <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-   <script src="./assets/js/popper.min.js"></script>
-   <script src="./assets/js/bootstrap.min.js"></script>
+   <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
+   <script src="../assets/js/popper.min.js"></script>
+   <script src="../assets/js/bootstrap.min.js"></script>
    <!-- Jquery Mobile Menu -->
-   <script src="./assets/js/jquery.slicknav.min.js"></script>
+   <script src="../assets/js/jquery.slicknav.min.js"></script>
 
    <!-- Jquery Slick , Owl-Carousel Plugins -->
-   <script src="./assets/js/owl.carousel.min.js"></script>
-   <script src="./assets/js/slick.min.js"></script>
+   <script src="../assets/js/owl.carousel.min.js"></script>
+   <script src="../assets/js/slick.min.js"></script>
    <!-- One Page, Animated-HeadLin -->
-   <script src="./assets/js/wow.min.js"></script>
-   <script src="./assets/js/animated.headline.js"></script>
-   <script src="./assets/js/jquery.magnific-popup.js"></script>
+   <script src="../assets/js/wow.min.js"></script>
+   <script src="../assets/js/animated.headline.js"></script>
+   <script src="../assets/js/jquery.magnific-popup.js"></script>
 
    <!-- Date Picker -->
-   <script src="./assets/js/gijgo.min.js"></script>
+   <script src="../assets/js/gijgo.min.js"></script>
    <!-- Nice-select, sticky -->
-   <script src="./assets/js/jquery.nice-select.min.js"></script>
-   <script src="./assets/js/jquery.sticky.js"></script>
+   <script src="../assets/js/jquery.nice-select.min.js"></script>
+   <script src="../assets/js/jquery.sticky.js"></script>
 
    <!-- counter , waypoint,Hover Direction -->
-   <script src="./assets/js/jquery.counterup.min.js"></script>
-   <script src="./assets/js/waypoints.min.js"></script>
-   <script src="./assets/js/jquery.countdown.min.js"></script>
-   <script src="./assets/js/hover-direction-snake.min.js"></script>
+   <script src="../assets/js/jquery.counterup.min.js"></script>
+   <script src="../assets/js/waypoints.min.js"></script>
+   <script src="../assets/js/jquery.countdown.min.js"></script>
+   <script src="../assets/js/hover-direction-snake.min.js"></script>
 
    <!-- contact js -->
-   <script src="./assets/js/contact.js"></script>
-   <script src="./assets/js/jquery.form.js"></script>
-   <script src="./assets/js/jquery.validate.min.js"></script>
-   <script src="./assets/js/mail-script.js"></script>
-   <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+   <script src="../assets/js/contact.js"></script>
+   <script src="../assets/js/jquery.form.js"></script>
+   <script src="../assets/js/jquery.validate.min.js"></script>
+   <script src="../assets/js/mail-script.js"></script>
+   <script src="../assets/js/jquery.ajaxchimp.min.js"></script>
 
    <!-- Jquery Plugins, main Jquery -->
-   <script src="./assets/js/plugins.js"></script>
-   <script src="./assets/js/main.js"></script>
+   <script src="../assets/js/plugins.js"></script>
+   <script src="../assets/js/main.js"></script>
 
 
 </body>
