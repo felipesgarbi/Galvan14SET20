@@ -46,14 +46,14 @@
                         <!-- POST 01 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="apartamento-na-planta/CAPA.png" alt="">
+                                    <img class="card-img rounded-0" src="../apartamento-na-planta/capa.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>16</h3>
                                         <p>OUT</p>
                                     </span>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="apartamento-na-planta">
+                                    <a class="d-inline-block" href="/apartamento-na-planta">
                                         <h2 class="blog-head" style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h2>
                                     </a>
                                     <p>
@@ -69,14 +69,14 @@
                         <!-- POST 02 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="apartamento-ideal/CAPA.png" alt="">
+                                    <img class="card-img rounded-0" src="../apartamento-ideal/capa.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>08</h3>
                                         <p>SET</p>
                                     </span>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="apartamento-ideal">
+                                    <a class="d-inline-block" href="/apartamento-ideal">
                                         <h2 class="blog-head" style="color: #2d2d2d;">5 PASSOS para encontrar o APARTAMENTO IDEAL</h2>
                                     </a>
                                     <p>
@@ -90,14 +90,14 @@
                         <!-- POST 03 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="arquitetura-decoracao/CAPA.png" alt="">
+                                    <img class="card-img rounded-0" src="../arquitetura-decoracao/capa.png" alt="">
                                     <span class="blog_item_date">
                                         <h3>29</h3>
                                         <p>JUL</p>
                                     </span>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="arquitetura-decoracao">
+                                    <a class="d-inline-block" href="/arquitetura-decoracao">
                                         <h2 class="blog-head" style="color: #2d2d2d;">
                                         DICAS FÁCEIS e BARATAS para trazer mais CONFORTO 
                                         para a sua casa durante DISTÂNCIAMENTO SOCIAL

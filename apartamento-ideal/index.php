@@ -9,7 +9,7 @@
          <div class="preloader-inner position-relative">
             <div class="preloader-circle"></div>
             <div class="preloader-img pere-text">
-               <img src="assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
+               <img src="../assets/img/logo-galvan/logo-galvan.png" alt="logo-galvan-engenharia">
             </div>
          </div>
       </div>
@@ -38,7 +38,7 @@
                   <div class="single-post">
                      <h5>08/09/2020 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="apartamento-ideal/CAPA.png" alt="">
+                        <img class="img-fluid" src="../apartamento-ideal/capa.png" alt="">
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
@@ -68,7 +68,7 @@
                         </div>-->
                         <h2 class="pt-40" style="color: #2d2d2d;">1. DEFINA A LOCALIZAÇÃO</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-ideal/img1.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img1.png" style="max-width:750px;" alt="">
                         </div>
                         <p style="text-align:justify;">
                            Comece definindo quais os bairros e regiões melhor atendem as suas expectativas. 
@@ -78,7 +78,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">2. DEFINA SEU ORÇAMENTO</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-ideal/img2.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img2.png" style="max-width:750px;" alt="">
                         </div>
                         <p style="text-align:justify;">
                            Pesquise o preço médio dos imóveis na região escolhida e avalie se eles cabem 
@@ -91,7 +91,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">3. O QUE É ESSENCIAL?</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-ideal/img3.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img3.png" style="max-width:750px;" alt="">
                         </div>
                         <p style="text-align:justify;">
                            É hora de definir o tipo de imóvel que você precisa. Número de quartos, 
@@ -101,7 +101,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">4. O QUE VOCÊ VALORIZA?</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-ideal/img4.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img4.png" style="max-width:750px;" alt="">
                         </div>
                         <p style="text-align:justify;">
                            Nem tudo é essencial, mas algumas coisas podem fazer toda diferença no 
@@ -111,7 +111,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">5. HORA DA VISITA</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="apartamento-ideal/img5.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img5.png" style="max-width:750px;" alt="">
                         </div>
                         <p style="text-align:justify;">
                            É hora de escolher 3 imóveis que te agradaram e agendar as visitas.
@@ -135,7 +135,7 @@
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
                                  <a href="#">
-                                    <img class="" src="arquitetura-decoracao/CAPA.png" alt="" height="80px">
+                                    <img class="" src="../arquitetura-decoracao/capa.png" alt="" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
@@ -153,7 +153,7 @@
                            <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div class="details">
                                  <p>Próximo Post</p>
-                                 <a href="#">
+                                 <a href="/apartamento-na-planta">
                                     <h4 style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h4>
                                  </a>
                               </div>
@@ -164,7 +164,7 @@
                               </div>
                               <div class="thumb">
                                  <a href="/apartamento-na-planta">
-                                    <img class="" src="apartamento-na-planta/CAPA.png" alt="" height="80px">
+                                    <img class="" src="../apartamento-na-planta/capa.png" alt="" height="80px">
                                  </a>
                               </div>
                            </div>
@@ -277,44 +277,44 @@
 
    <!-- JS here -->
 
-   <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+   <script src="../assets/js/vendor/modernizr-3.5.0.min.js"></script>
    <!-- Jquery, Popper, Bootstrap -->
-   <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-   <script src="./assets/js/popper.min.js"></script>
-   <script src="./assets/js/bootstrap.min.js"></script>
+   <script src="../assets/js/vendor/jquery-1.12.4.min.js"></script>
+   <script src="../assets/js/popper.min.js"></script>
+   <script src="../assets/js/bootstrap.min.js"></script>
    <!-- Jquery Mobile Menu -->
-   <script src="./assets/js/jquery.slicknav.min.js"></script>
+   <script src="../assets/js/jquery.slicknav.min.js"></script>
 
    <!-- Jquery Slick , Owl-Carousel Plugins -->
-   <script src="./assets/js/owl.carousel.min.js"></script>
-   <script src="./assets/js/slick.min.js"></script>
+   <script src="../assets/js/owl.carousel.min.js"></script>
+   <script src="../assets/js/slick.min.js"></script>
    <!-- One Page, Animated-HeadLin -->
-   <script src="./assets/js/wow.min.js"></script>
-   <script src="./assets/js/animated.headline.js"></script>
-   <script src="./assets/js/jquery.magnific-popup.js"></script>
+   <script src="../assets/js/wow.min.js"></script>
+   <script src="../assets/js/animated.headline.js"></script>
+   <script src="../assets/js/jquery.magnific-popup.js"></script>
 
    <!-- Date Picker -->
-   <script src="./assets/js/gijgo.min.js"></script>
+   <script src="../assets/js/gijgo.min.js"></script>
    <!-- Nice-select, sticky -->
-   <script src="./assets/js/jquery.nice-select.min.js"></script>
-   <script src="./assets/js/jquery.sticky.js"></script>
+   <script src="../assets/js/jquery.nice-select.min.js"></script>
+   <script src="../assets/js/jquery.sticky.js"></script>
 
    <!-- counter , waypoint,Hover Direction -->
-   <script src="./assets/js/jquery.counterup.min.js"></script>
-   <script src="./assets/js/waypoints.min.js"></script>
-   <script src="./assets/js/jquery.countdown.min.js"></script>
-   <script src="./assets/js/hover-direction-snake.min.js"></script>
+   <script src="../assets/js/jquery.counterup.min.js"></script>
+   <script src="../assets/js/waypoints.min.js"></script>
+   <script src="../assets/js/jquery.countdown.min.js"></script>
+   <script src="../assets/js/hover-direction-snake.min.js"></script>
 
    <!-- contact js -->
-   <script src="./assets/js/contact.js"></script>
-   <script src="./assets/js/jquery.form.js"></script>
-   <script src="./assets/js/jquery.validate.min.js"></script>
-   <script src="./assets/js/mail-script.js"></script>
-   <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+   <script src="../assets/js/contact.js"></script>
+   <script src="../assets/js/jquery.form.js"></script>
+   <script src="../assets/js/jquery.validate.min.js"></script>
+   <script src="../assets/js/mail-script.js"></script>
+   <script src="../assets/js/jquery.ajaxchimp.min.js"></script>
 
    <!-- Jquery Plugins, main Jquery -->
-   <script src="./assets/js/plugins.js"></script>
-   <script src="./assets/js/main.js"></script>
+   <script src="../assets/js/plugins.js"></script>
+   <script src="../assets/js/main.js"></script>
 
 
 </body>

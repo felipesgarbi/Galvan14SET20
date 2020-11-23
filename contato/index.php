@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php 
+<?php
 include "../estrutura/head.php";
 ?>
 
@@ -42,7 +42,20 @@ include "../estrutura/head.php";
 
         <section class="mb-4">
             <div class="container">
-               
+                <?php
+                if (isset($_GET["r"])) {
+                    if ($_GET["r"] == 1) {
+
+
+                ?>
+                        <div class="alert alert-success text-center mt-20" role="alert">
+                            Seu contato foi registrado com sucesso.
+                        </div>
+
+                <?php
+                    }
+                }
+                ?>
                 <!--Section description-->
                 <p class="text-center w-responsive mx-auto font-ruda duvidas-contato">
                     Tire suas dúvidas, agende visitas, envie sugestões ou comentários.
@@ -51,7 +64,9 @@ include "../estrutura/head.php";
                 <div class="container">
                     <div class="row pt-40">
                         <div class="col-lg-9 mb-40">
-                            <form id="contact-form" name="contact-form" action="./contato/mail.php" method="POST">
+
+
+                            <form id="contact-form" name="contact-form" action="./mail.php" method="POST">
 
                                 <div class="row">
                                     <div class="col-lg-4 mb-10">
