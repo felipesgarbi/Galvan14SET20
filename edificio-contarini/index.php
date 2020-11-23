@@ -76,9 +76,9 @@ include "../estrutura/head.php";
                 <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                     <nav>
                         <ul>
-                            <li><a href="#section-linebox-1"><span class="font-ruda">03 QUARTOS - TIPO 01</span></a></li>
-                            <li><a href="#section-linebox-2"><span class="font-ruda">03 QUARTOS - TIPO 03</span></a></li>
-                            <li><a href="#section-linebox-3"><span class="font-ruda">03 SUÍTES - TIPO 02</span></a></li>
+                            <li><a href="#section-linebox-1"><span class="font-ruda">3 QUARTOS - TIPO 01</span></a></li>
+                            <li><a href="#section-linebox-2"><span class="font-ruda">3 SUÍTES - TIPO 02</span></a></li>
+                            <li><a href="#section-linebox-3"><span class="font-ruda">3 QUARTOS - TIPO 03</span></a></li>
                             <li><a href="#section-linebox-4"><span class="font-ruda">GIARDINO 01</span></a></li>
                             <li><a href="#section-linebox-5"><span class="font-ruda">GIARDINO 02</span></a></li>
                         </ul>
@@ -108,26 +108,6 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-contarini/03Q-TP03.png" alt="03-quartos-tipo-03" width="80%">
-                                    </div>
-                                    <div class="col-sm-4 fundo-planta">
-                                        
-                                        <p>- 99,10 m2 de área privativa</p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
-                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
-                                        <p>- Área de serviço separada</p>
-                                        <p>- Sacada com churrasqueira</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                        </section>
-                        <section id="section-linebox-3">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-8">
                                         <img class="mb-2" src="../edificio-contarini/03S-TP01.png" alt="03-suites-tipo-01" width="80%">
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
@@ -144,6 +124,27 @@ include "../estrutura/head.php";
                                 </div>
                             </div>
                         </section>
+                        <section id="section-linebox-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <img class="mb-2" src="../edificio-contarini/03Q-TP03.png" alt="03-quartos-tipo-03" width="80%">
+                                    </div>
+                                    <div class="col-sm-4 fundo-planta">
+                                        
+                                        <p>- 99,10 m2 de área privativa</p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
+                                        <p>- Área de serviço separada</p>
+                                        <p>- Sacada com churrasqueira</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </section>
+                        
                         <section id="section-linebox-4">
                             <div class="container">
                                 <div class="row">
