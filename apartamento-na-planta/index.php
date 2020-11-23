@@ -37,6 +37,7 @@
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
                      <div class="feature-img">
+                        <h5>16/10/2020 - Por: Galvan Engenharia</h5>
                         <img class="img-fluid" src="apartamento-na-planta/CAPA.png" alt="">
                      </div>
                      <div class="blog_details">
@@ -173,11 +174,6 @@
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
                         </div>
-                        <!--
-                        <ul class="social-icons">
-                           <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                           <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        </ul>-->
                      </div>
                      
                      <div class="navigation-area">
@@ -185,7 +181,7 @@
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
                                  <a href="#">
-                                    <img class="img-fluid" src="assets/img/post/preview.png" alt="">
+                                    <img class="" src="apartamento-ideal/CAPA.png" alt="" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
@@ -193,15 +189,15 @@
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
-                              <div class="detials">
+                              <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="#">
-                                    <h4 style="color: #2d2d2d;">Space The Final Frontier</h4>
+                                 <a href="/apartamento-ideal">
+                                    <h4 style="color: #2d2d2d;">5 PASSOS para encontrar o APARTAMENTO IDEAL</h4>
                                  </a>
                               </div>
                            </div>
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
-                              <div class="detials">
+                           <!--<div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                              <div class="details">
                                  <p>Próximo Post</p>
                                  <a href="#">
                                     <h4 style="color: #2d2d2d;">Telescopes 101</h4>
@@ -217,7 +213,7 @@
                                     <img class="img-fluid" src="assets/img/post/next.png" alt="">
                                  </a>
                               </div>
-                           </div>
+                           </div>-->
                         </div>
                      </div>
                      

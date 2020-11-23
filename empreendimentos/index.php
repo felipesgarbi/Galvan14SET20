@@ -31,7 +31,7 @@ include "../estrutura/head.php";
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-vagnotie">O seu sonho está aqui!</h1>
+                                <h1 class="font-vagnotie font-vagnotieEMP">O seu sonho está aqui!</h1>
                             </div>
                         </div>
                     </div>
@@ -307,6 +307,26 @@ include "../estrutura/head.php";
             </div>
         </section>
         <!-- Map Area End -->
+
+        <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+            <div class="container">
+                <div class="wants-wrapper w-padding3">
+                    <div class="row align-items-center justify-content-between">
+                        <div class="col-xl-8 col-lg-8 col-md-8">
+                            <div class="wantToWork-caption">
+                                <div class="logo">
+                                    <h1 class="font-vagnotie">Entre em contato conosco!</h1>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="double-btn f-right">
+                                <a href="/empreendimentos" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">FALE COM A GALVAN</a> </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
     </main>
     <footer>

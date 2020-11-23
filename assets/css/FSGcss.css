@@ -595,3 +595,9 @@ input[type=text] {
         margin-top: 20px;
      }
 }
+
+@media only screen and (min-width: 969px){
+    .ajusteBarraCarrossel{ 
+        min-height: 20px;
+     }
+}

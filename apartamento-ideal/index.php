@@ -36,6 +36,7 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
+                     <h5>08/09/2020 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
                         <img class="img-fluid" src="apartamento-ideal/CAPA.png" alt="">
                      </div>
@@ -83,7 +84,7 @@
                            Pesquise o preço médio dos imóveis na região escolhida e avalie se eles cabem 
                            no seu orçamento.
                            </br>
-                           Comprar um apartamento na planta pode significar uma boa economia <a href="apartamento-na-planta"><b style="color:seagreen">(para saber mais clique AQUI).</b></a>
+                           Comprar um apartamento na planta pode significar uma boa economia (para saber mais<a href="apartamento-na-planta"><b style="color:seagreen"> CLIQUE AQUI</b></a>).
                            </br>
                            Avalie também as opções de financiamento.
                         </p>
@@ -127,11 +128,6 @@
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
                         </div>
-                        <!--
-                        <ul class="social-icons">
-                           <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                           <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        </ul>-->
                      </div>
                      
                      <div class="navigation-area">
@@ -139,7 +135,7 @@
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
                                  <a href="#">
-                                    <img class="img-fluid" src="assets/img/post/preview.png" alt="">
+                                    <img class="" src="arquitetura-decoracao/CAPA.png" alt="" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
@@ -147,18 +143,18 @@
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
-                              <div class="detials">
+                              <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="#">
-                                    <h4 style="color: #2d2d2d;">Space The Final Frontier</h4>
+                                 <a href="/arquitetura-decoracao">
+                                    <h4 style="color: #2d2d2d;">DICAS FÁCEIS e BARATAS para trazer mais CONFORTO para a sua casa durante DISTÂNCIAMENTO SOCIAL</h4>
                                  </a>
                               </div>
                            </div>
                            <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
-                              <div class="detials">
+                              <div class="details">
                                  <p>Próximo Post</p>
                                  <a href="#">
-                                    <h4 style="color: #2d2d2d;">Telescopes 101</h4>
+                                    <h4 style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h4>
                                  </a>
                               </div>
                               <div class="arrow">
@@ -167,8 +163,8 @@
                                  </a>
                               </div>
                               <div class="thumb">
-                                 <a href="#">
-                                    <img class="img-fluid" src="assets/img/post/next.png" alt="">
+                                 <a href="/apartamento-na-planta">
+                                    <img class="" src="apartamento-na-planta/CAPA.png" alt="" height="80px">
                                  </a>
                               </div>
                            </div>
@@ -187,7 +183,7 @@
                                             <input type="text" class="form-control" placeholder='Digite aqui o que deseja encontrar...' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite aqui o que deseja encontrar...'">
                                         </div>
                                     </div>
-                                    <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" type="submit">Pesquisar</button>
+                                    <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
                                 </form>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">

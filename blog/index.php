@@ -44,12 +44,56 @@
                         <div class="blog_left_sidebar">
 
                         <!-- POST 01 INÍCIO -->
+                        <article class="blog_item">
+                                <div class="blog_item_img">
+                                    <img class="card-img rounded-0" src="apartamento-na-planta/CAPA.png" alt="">
+                                    <span class="blog_item_date">
+                                        <h3>16</h3>
+                                        <p>OUT</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="apartamento-na-planta">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h2>
+                                    </a>
+                                    <p>
+                                        A compra de um imóvel é um grande passo na vida de qualquer pessoa. 
+                                        O sonho de ter um apartamento totalmente novo, com instalações modernas 
+                                        e com um preço acessível pode estar ao seu alcance muito antes do que 
+                                        você imagina!
+                                    </p>
+                                </div>
+                            </article>    
+                        <!-- POST 01 FIM -->
+
+                        <!-- POST 02 INÍCIO -->
                             <article class="blog_item">
+                                <div class="blog_item_img">
+                                    <img class="card-img rounded-0" src="apartamento-ideal/CAPA.png" alt="">
+                                    <span class="blog_item_date">
+                                        <h3>08</h3>
+                                        <p>SET</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="apartamento-ideal">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">5 PASSOS para encontrar o APARTAMENTO IDEAL</h2>
+                                    </a>
+                                    <p>
+                                        Está pensando em comprar um apartamento mas não sabe o que escolher diante de 
+                                        tantas opções disponíveis no mercado?
+                                    </p>
+                                </div>
+                            </article>
+                        <!-- POST 02 FIM -->
+
+                        <!-- POST 03 INÍCIO -->
+                        <article class="blog_item">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="arquitetura-decoracao/CAPA.png" alt="">
                                     <span class="blog_item_date">
-                                        <h3>18</h3>
-                                        <p>NOV</p>
+                                        <h3>29</h3>
+                                        <p>JUL</p>
                                     </span>
                                 </div>
                                 <div class="blog_details">
@@ -67,50 +111,6 @@
                                     </p>
                                 </div>
                             </article>
-                        <!-- POST 01 FIM -->
-
-                        <!-- POST 02 INÍCIO -->
-                            <article class="blog_item">
-                                <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="apartamento-ideal/CAPA.png" alt="">
-                                    <span class="blog_item_date">
-                                        <h3>18</h3>
-                                        <p>NOV</p>
-                                    </span>
-                                </div>
-                                <div class="blog_details">
-                                    <a class="d-inline-block" href="apartamento-ideal">
-                                        <h2 class="blog-head" style="color: #2d2d2d;">5 PASSOS para encontrar o APARTAMENTO IDEAL</h2>
-                                    </a>
-                                    <p>
-                                        Está pensando em comprar um apartamento mas não sabe o que escolher diante de 
-                                        tantas opções disponíveis no mercado?
-                                    </p>
-                                </div>
-                            </article>
-                        <!-- POST 02 FIM -->
-
-                        <!-- POST 03 INÍCIO -->
-                            <article class="blog_item">
-                                <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="apartamento-na-planta/CAPA.png" alt="">
-                                    <span class="blog_item_date">
-                                        <h3>18</h3>
-                                        <p>NOV</p>
-                                    </span>
-                                </div>
-                                <div class="blog_details">
-                                    <a class="d-inline-block" href="apartamento-na-planta">
-                                        <h2 class="blog-head" style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h2>
-                                    </a>
-                                    <p>
-                                        A compra de um imóvel é um grande passo na vida de qualquer pessoa. 
-                                        O sonho de ter um apartamento totalmente novo, com instalações modernas 
-                                        e com um preço acessível pode estar ao seu alcance muito antes do que 
-                                        você imagina!
-                                    </p>
-                                </div>
-                            </article>
                         <!-- POST 03 FIM -->
 
                             <nav class="blog-pagination justify-content-center d-flex">
@@ -123,9 +123,11 @@
                                     <li class="page-item">
                                         <a href="#" class="page-link">1</a>
                                     </li>
+                                    <!--
                                     <li class="page-item active">
                                         <a href="#" class="page-link">2</a>
                                     </li>
+                                    -->
                                     <li class="page-item">
                                         <a href="#" class="page-link" aria-label="Next">
                                             <i class="ti-angle-right"></i>

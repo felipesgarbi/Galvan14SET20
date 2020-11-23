@@ -353,8 +353,9 @@ body {
     margin-top: -20px;
   }
 
-  .carousel-inicio{
-    height: 330px !important;
+  .font-vagnotieEMP{
+      margin-left: 125px;
+      margin-top: 105px;
   }
 
   .alinha-30{
@@ -366,14 +367,10 @@ body {
   font-size: 80px;
 }
 
-.titulo-sobre{
-  font-size: 40px !important;
-}
-
 .titulo-nossosValores{
   padding-top: 30px;
   padding-bottom: 10px;
-  font-size: 40px !important;
+  font-size: 30px !important;
 }
 
 .valoresSobre{
@@ -421,7 +418,6 @@ body {
   text-align: justify;
   letter-spacing: 2px;
   word-spacing: 2px;
-
   margin-bottom: 15%;
 }
 
@@ -896,7 +892,7 @@ h4,
 h5,
 h6 {
   font-family: "Arial MT Condensed", "Muli", sans-serif;
-  color: #072366;
+  color: #174264;
   margin-top: 0px;
   font-style: normal;
   font-weight: 500;
@@ -4370,7 +4366,7 @@ hr {
 
 /* line 18, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_h1-hero.scss */
 .slider-height2 {
-  height: 400px;
+  height: 410px;
   background-size: cover;
 }
 
@@ -4384,14 +4380,14 @@ hr {
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 18, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_h1-hero.scss */
   .slider-height2 {
-    height: 260px;
+    height: 208px;
   }
 }
 
 @media (max-width: 575px) {
   /* line 18, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_h1-hero.scss */
   .slider-height2 {
-    height: 260px;
+    height: 165px;
   }
 }
 

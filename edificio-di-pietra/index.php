@@ -57,7 +57,7 @@ include "../estrutura/head.php";
                             <img class="mb-2" src="../assets/img/FotosDiPietra/3-SALAODEFESTAS2-.jpg" alt="piscina-ouro-verde" alt="" width="100%">
                             <img class="mb-2" src="../assets/img/FotosDiPietra/4-ORQUIDARIO-.jpg" alt="brinquedoteca-ouro-verde" alt="" width="100%">
                             <img class="mb-2" src="../assets/img/FotosDiPietra/5-ESPACOKIDS-.jpg" alt="academia-ouro-verde" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosDiPietra/6-SALADEJOGOS-.jpg" alt="giardino-ouro-verde" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosDiPietra/6-SALADEJOGOS-23111051.jpg" alt="giardino-ouro-verde" alt="" width="100%">
                             <img class="mb-2" src="../assets/img/FotosDiPietra/7-APARTAMENTO-.jpg" alt="living-ouro-verde" alt="" width="100%">
                             <img class="mb-2" src="../assets/img/FotosDiPietra/8-SACADA-.jpg" alt="suite-ouro-verde" alt="" width="100%">
                             <img class="mb-2" src="../assets/img/FotosDiPietra/9-LIVING-.jpg" alt="suite-ouro-verde" alt="" width="100%">
@@ -107,7 +107,7 @@ include "../estrutura/head.php";
                                         <p>- 01 suítes + 02 quartos</p>
                                         <p>- 01 ou 02 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
-                                        <p>- Área de serviç separadao</p>
+                                        <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista da cidade</p>
                                     </div>
                                 </div>
