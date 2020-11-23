@@ -62,7 +62,7 @@ body{
       .carousel,
       .carousel-inner,
       .carousel-inner .item {
-        height: 538px;
+        /*height: 538px;*/
         width:100%;
       } 
 
@@ -73,28 +73,28 @@ body{
         .carousel,
         .carousel-inner,
         .carousel-inner .item {
-          height: 330px !important;
+          /*height: 330px !important;*/
           width:100%;
         } 
 
       }
 
       .item:nth-child(1) {
-    background: url('../img/inicial/Conta4.png');
+    /*background: url('../img/inicial/Conta4.png');*/
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
       }
   
       .item:nth-child(2) {
-    background: url('../img/inicial/IMG2.png');
+    /*background: url('../img/inicial/IMG2.png');*/
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
       }
   
       .item:nth-child(3) {
-    background: url('../img/inicial/IMG3.png');
+    /*background: url('../img/inicial/IMG3.png');*/
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;

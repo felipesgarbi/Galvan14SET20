@@ -22,50 +22,21 @@
         <div id="carouselFade" class="carousel slide carousel-fade carousel-inicio" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active w-100">
-                <a href="/edificio-contarini"> <div style="width: 100%; height: 100%;"> </div></a>
-                    <!--<div class="container">
-    <div class="row">
-        <div class="col-xl-12">
-            <div class="hero-cap hero-cap2">
-                <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Deixe-se encantar ao abrir as portas do Residencial Contarini!</h1>
-            </div>
-        </div>
-    </div>
-</div>-->
-                </div>
-
-
-       
-
-
-                <div class="item w-100">
-                    <!--<div class="container">
-                        <div class="row">
-                            <div class="col-xl-12">
-                                <div class="hero-cap hero-cap2">
-                                    <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Aproximando você ao que realmente importa!</h1>
-                                </div>
-                            </div>
-                        </div>
-                    </div>-->
+                <a href="/edificio-contarini"><div style="width: 100%; height: 100%;">
+                    <img src="assets/img/inicial/Conta4.png" alt="" style="width: 100%;">
+            </div></a>
                 </div>
                 <div class="item w-100">
-                    <!--<div class="container">
-                        <div class="row">
-                            <div class="col-xl-12">
-                                <div class="hero-cap hero-cap2">
-                                    <h1 class="font-vagnotie" style="margin-left:50px; margin-top:180px; font-size:44px">Mais felicidade por m²!</h1>
-                                </div>
-                            </div>
-                        </div>
-                    </div>-->
+                    <img src="assets/img/inicial/IMG2.png" alt="" style="width: 100%;">
+                </div>
+                <div class="item w-100">
+                <img src="assets/img/inicial/IMG3.png" alt="" style="width: 100%;">
                 </div>
             </div>
 

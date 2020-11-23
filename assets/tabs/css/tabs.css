@@ -183,9 +183,9 @@
 }
 
 @media screen and (max-width: 58em) {
-	.tabs nav a.icon span {
+	/*.tabs nav a.icon span {
 		display: none;
-	}
+	}*/
 	.tabs nav a:before {
 		margin-right: 0;
 	}

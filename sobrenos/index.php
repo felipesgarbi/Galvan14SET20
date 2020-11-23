@@ -30,7 +30,7 @@ include_once $_SERVER["DOCUMENT_ROOT"]."/estrutura/head.php"
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-vagnotie">O amanhã a gente projeta hoje!</h1>
+                                <h1 class="font-vagnotie font-vagnotieEMP">O amanhã a gente projeta hoje!</h1>
                             </div>
                         </div>
                     </div>
