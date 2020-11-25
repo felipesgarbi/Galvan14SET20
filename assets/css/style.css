@@ -354,27 +354,34 @@ body {
   }
 
   .font-vagnotieEMP{
-      margin-left: 40px;
+      margin-left: 73px;
       margin-top: 139px;
       font-size: 37px;
+      color: white;
+      text-shadow: black 0.1em 0.1em 0.2em;      
   }
 
   .font-vagnotieSOBRE{
     margin-left: 3px;
-    margin-top: 115px;
+    margin-top: 128px;
     font-size: 35px;
     text-align: center;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;      
   }
 
   .font-vagnotieCONT{
-  margin-left: 125px;
-  margin-top: 105px;
-  }
-
-  .alinha-30{
-    margin-left: 30px;
+  margin-left: 58px;
+  margin-top: 113px;
+  font-size: 50px !important;
+  text-shadow: black 0.1em 0.1em 0.2em;
   }
 }
+
+.alinha-30{
+    margin-left: 30px;
+}
+
 .font-vagnotie80{
   font-family: Vagnotie;
   font-size: 80px;

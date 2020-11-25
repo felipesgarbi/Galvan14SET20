@@ -31,14 +31,14 @@
       <!-- TOP DO BLOG FIM -->
 
       <!--? Blog Area Start -->
-      <section class="blog_area single-post-area section-padding">
+      <section class="blog_area single-post-area">
          <div class="container">
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
                      <h5>08/09/2020 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../apartamento-ideal/CAPA.png" alt="">
+                        <img class="img-fluid" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="apartamento-ideal-capa">
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
@@ -68,7 +68,7 @@
                         </div>-->
                         <h2 class="pt-40" style="color: #2d2d2d;">1. DEFINA A LOCALIZAÇÃO</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-ideal/img1.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img1-2511201059.jpg" style="max-width:100%;" alt="defina-a-localizacao">
                         </div>
                         <p style="text-align:justify;">
                            Comece definindo quais os bairros e regiões melhor atendem as suas expectativas. 
@@ -78,7 +78,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">2. DEFINA SEU ORÇAMENTO</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-ideal/img2.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img2-2511201059.jpg" style="max-width:100%;" alt="defina-seu-orcamento">
                         </div>
                         <p style="text-align:justify;">
                            Pesquise o preço médio dos imóveis na região escolhida e avalie se eles cabem 
@@ -91,7 +91,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">3. O QUE É ESSENCIAL?</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-ideal/img3.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img3-2511201059.jpg" style="max-width:100%;" alt="o-que-e-essencial">
                         </div>
                         <p style="text-align:justify;">
                            É hora de definir o tipo de imóvel que você precisa. Número de quartos, 
@@ -101,7 +101,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">4. O QUE VOCÊ VALORIZA?</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-ideal/img4.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img4-2511201059.jpg" style="max-width:100%;" alt="o-que-voce-valoriza">
                         </div>
                         <p style="text-align:justify;">
                            Nem tudo é essencial, mas algumas coisas podem fazer toda diferença no 
@@ -111,7 +111,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">5. HORA DA VISITA</h2>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-ideal/img5.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-ideal/img5-2511201059.jpg" style="max-width:100%;" alt="hora-da-visita">
                         </div>
                         <p style="text-align:justify;">
                            É hora de escolher 3 imóveis que te agradaram e agendar as visitas.
@@ -134,12 +134,12 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="#">
-                                    <img class="" src="../arquitetura-decoracao/CAPA.png" alt="" height="80px">
+                                 <a href="/arquitetura-decoracao">
+                                    <img class="" src="../arquitetura-decoracao/CAPA-2511201059.jpg" alt="arquitetura-decoracao-post-anterior" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="#">
+                                 <a href="/arquitetura-decoracao">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
@@ -158,13 +158,13 @@
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="#">
+                                 <a href="/apartamento-na-planta">
                                     <span class="lnr text-white ti-arrow-right"></span>
                                  </a>
                               </div>
                               <div class="thumb">
                                  <a href="/apartamento-na-planta">
-                                    <img class="" src="../apartamento-na-planta/CAPA.png" alt="" height="80px">
+                                    <img class="" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta-proximo-post" height="80px">
                                  </a>
                               </div>
                            </div>
@@ -183,7 +183,7 @@
                                             <input type="text" class="form-control" placeholder='Digite aqui o que deseja encontrar...' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite aqui o que deseja encontrar...'">
                                         </div>
                                     </div>
-                                    <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
+                                    <button class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
                                 </form>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">

@@ -116,6 +116,12 @@ body{
     margin-left:20%;
     list-style:none
 }
+
+@media (max-width: 575px) {
+  .carousel-indicators{
+    display: none;
+  }
+}
    
 .carousel-indicators li{
         position:relative;

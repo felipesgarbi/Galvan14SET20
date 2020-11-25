@@ -31,14 +31,14 @@
       <!-- TOP DO BLOG FIM -->
 
       <!--? Blog Area Start -->
-      <section class="blog_area single-post-area section-padding">
+      <section class="blog_area single-post-area">
          <div class="container">
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
                      <div class="feature-img">
                         <h5>16/10/2020 - Por: Galvan Engenharia</h5>
-                        <img class="img-fluid" src="../apartamento-na-planta/CAPA.png" alt="">
+                        <img class="img-fluid" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta-capa">
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
@@ -90,7 +90,7 @@
                            Multas por atraso na entrega e cláusulas rescisórias devem fazer parte do contrato.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/1.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/img1-2511201059.jpg" style="max-width:100%;" alt="se-a-obra-atrasar">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">2. SERÁ QUE VOU TER O RECURSO FINANCEIRO NECESSÁRIO?</h2>
@@ -109,7 +109,7 @@
                            Ter um fundo de reserva também traz mais tranquilidade nessa hora.
                         </p>
                         <div class="feature-img">
-                        <img class="img-fluid" src="../apartamento-na-planta/2.png" style="max-width:750px;" alt="">
+                        <img class="img-fluid" src="../apartamento-na-planta/img2-2511201059.jpg" style="max-width:100%;" alt="vou-ter-recurso-financeiro">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">3. SERÁ QUE VOU CONSEGUIR FINANCIAR?</h2>
@@ -125,7 +125,7 @@
                            Evite fazer outras dívidas durante a construção.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/3.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/img3-2511201059.jpg" style="max-width:100%;" alt="financiar-imovel">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">4. E SE O APARTAMENTO FOR MUITO PEQUENO OU O ACABAMENTO NÃO ME AGRADAR?</h2>
@@ -141,7 +141,7 @@
                            revestimento ou ainda alterar alguns espaços, então APROVEITE!
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/4.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/img4-2511201059.jpg" style="max-width:100%;" alt="apartamento-pequeno-acabamento">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">5. SERÁ QUE É REALMENTE UM BOM NEGÓCIO?</h2>
@@ -160,7 +160,7 @@
                            bem inferiores às cobradas pelos bancos.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/5.png" style="max-width:750px;" alt="">
+                           <img class="img-fluid" src="../apartamento-na-planta/img5-2511201059.jpg" style="max-width:100%;" alt="bom-negocio">
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">AINDA TEM DÚVIDA?</h2>
@@ -180,12 +180,12 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="#">
-                                    <img class="" src="../apartamento-ideal/CAPA.png" alt="" height="80px">
+                                 <a href="/apartamento-ideal">
+                                    <img class="" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="apartamento-ideal-post-anterior" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="#">
+                                 <a href="/apartamento-ideal">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
@@ -210,7 +210,7 @@
                               </div>
                               <div class="thumb">
                                  <a href="#">
-                                    <img class="img-fluid" src="assets/img/post/next.png" alt="">
+                                    <img class="img-fluid" src="assets/img/post/next.png" alt="proximo-post">
                                  </a>
                               </div>
                            </div>-->
@@ -229,7 +229,7 @@
                                             <input type="text" class="form-control" placeholder='Digite aqui o que deseja encontrar...' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite aqui o que deseja encontrar...'">
                                         </div>
                                     </div>
-                                    <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
+                                    <button class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
                                 </form>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">

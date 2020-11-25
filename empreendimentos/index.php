@@ -48,6 +48,7 @@ include "../estrutura/head.php";
                         <li><a href="#section-linebox-5" class="icon icon-plane"><span class="font-ruda">LANÇAMENTOS</span></a></li>
                         <li><a href="#section-linebox-4" class="icon icon-date"><span class="font-ruda">EM CONSTRUÇÃO</span></a></li>
                         <li><a href="#section-linebox-2" class="icon icon-gift"><span class="font-ruda">PRONTO PARA MORAR</span></a></li>
+                        <!--<li><a href="#section-linebox-2" class=""><span class="font-ruda"><img src="../empreendimentos/key.svg" style="width: 30px;"/> PRONTO PARA MORAR</span></a></li>-->
                         <li><a href="#section-linebox-3" class="icon icon-coffee"><span class="font-ruda">ENTREGUES</span></a></li>
 
                     </ul>

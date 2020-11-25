@@ -46,7 +46,7 @@
                         <!-- POST 01 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../apartamento-na-planta/CAPA.png" alt="">
+                                    <img class="card-img rounded-0" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="">
                                     <span class="blog_item_date">
                                         <h3>16</h3>
                                         <p>OUT</p>
@@ -69,7 +69,7 @@
                         <!-- POST 02 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../apartamento-ideal/CAPA.png" alt="">
+                                    <img class="card-img rounded-0" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="">
                                     <span class="blog_item_date">
                                         <h3>08</h3>
                                         <p>SET</p>
@@ -90,7 +90,7 @@
                         <!-- POST 03 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../arquitetura-decoracao/CAPA.png" alt="">
+                                    <img class="card-img rounded-0" src="../arquitetura-decoracao/CAPA-2511201059.jpg" alt="">
                                     <span class="blog_item_date">
                                         <h3>29</h3>
                                         <p>JUL</p>
@@ -112,7 +112,6 @@
                                 </div>
                             </article>
                         <!-- POST 03 FIM -->
-
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">
