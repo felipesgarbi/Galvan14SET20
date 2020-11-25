@@ -46,7 +46,8 @@
                         <!-- POST 01 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="">
+                                <a class="d-inline-block" href="/apartamento-na-planta">
+                                    <img class="card-img rounded-0" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta"></a>
                                     <span class="blog_item_date">
                                         <h3>16</h3>
                                         <p>OUT</p>
@@ -69,7 +70,8 @@
                         <!-- POST 02 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="">
+                                <a class="d-inline-block" href="/apartamento-ideal">
+                                    <img class="card-img rounded-0" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="apartamento-ideal"></a>
                                     <span class="blog_item_date">
                                         <h3>08</h3>
                                         <p>SET</p>
@@ -90,7 +92,8 @@
                         <!-- POST 03 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="../arquitetura-decoracao/CAPA-2511201059.jpg" alt="">
+                                <a class="d-inline-block" href="/arquitetura-decoracao">
+                                    <img class="card-img rounded-0" src="../arquitetura-decoracao/CAPA-2511201059.jpg" alt="arquitetura-decoracao"></a>
                                     <span class="blog_item_date">
                                         <h3>29</h3>
                                         <p>JUL</p>
@@ -100,7 +103,7 @@
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
                                         <h2 class="blog-head" style="color: #2d2d2d;">
                                         DICAS FÁCEIS e BARATAS para trazer mais CONFORTO 
-                                        para a sua casa durante DISTÂNCIAMENTO SOCIAL
+                                        para a sua casa durante o DISTÂNCIAMENTO SOCIAL
                                     </h2>
                                     </a>
                                     <p>

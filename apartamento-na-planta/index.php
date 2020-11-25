@@ -167,7 +167,7 @@
                         <p style="text-align:justify;">
                            Venha falar com a gente: (47) 9 8919-06060
                         </p>
-
+                        <h5 style="color:black;"><a href="#">#mercadoimobiliario</a> <a href="#">#construcaocivil</a></h5>
                      </div>
                   </div>
                   <div class="navigation-top">

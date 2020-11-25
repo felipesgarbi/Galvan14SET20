@@ -76,35 +76,17 @@ include "../estrutura/head.php";
                 <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                     <nav>
                         <ul>
-                            <li><a href="#section-linebox-1"><span class="font-ruda">3 QUARTOS - TIPO 01</span></a></li>
-                            <li><a href="#section-linebox-2"><span class="font-ruda">3 SUÍTES - TIPO 02</span></a></li>
+                            
+                            <li><a href="#section-linebox-1"><span class="font-ruda">3 SUÍTES - TIPO 01</span></a></li>
+                            <li><a href="#section-linebox-2"><span class="font-ruda">3 QUARTOS - TIPO 02</span></a></li>
                             <li><a href="#section-linebox-3"><span class="font-ruda">3 QUARTOS - TIPO 03</span></a></li>
                             <li><a href="#section-linebox-4"><span class="font-ruda">GIARDINO 01</span></a></li>
                             <li><a href="#section-linebox-5"><span class="font-ruda">GIARDINO 02</span></a></li>
                         </ul>
                     </nav>
                     <div class="content-wrap">
+                        
                         <section id="section-linebox-1">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-contarini/03Q-TP01.png" alt="03-quartos-tipo-01" width="80%">
-                                    </div>
-                                    <div class="col-sm-4 fundo-planta">
-
-                                        <p>- 107,05 m2 de área privativa </p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
-                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
-                                        <p>- Área de serviço separada</p>
-                                        <p>- Sacada com churrasqueira e vista para a serra</p>
-                                        <p>- Ventilação cruzada</p>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <section id="section-linebox-2">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
@@ -124,7 +106,7 @@ include "../estrutura/head.php";
                                 </div>
                             </div>
                         </section>
-                        <section id="section-linebox-3">
+                        <section id="section-linebox-2">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
@@ -138,9 +120,27 @@ include "../estrutura/head.php";
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section id="section-linebox-3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <img class="mb-2" src="../edificio-contarini/03Q-TP01.png" alt="03-quartos-tipo-01" width="80%">
+                                    </div>
+                                    <div class="col-sm-4 fundo-planta">
+
+                                        <p>- 107,05 m2 de área privativa </p>
+                                        <p>- 01 suíte + 02 dormitórios</p>
+                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- Cozinha, sala de jantar e sala de estar integradas</p>
+                                        <p>- Área de serviço separada</p>
+                                        <p>- Sacada com churrasqueira e vista para a serra</p>
+                                        <p>- Ventilação cruzada</p>
 
                                     </div>
-
                                 </div>
                             </div>
                         </section>
@@ -221,21 +221,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS PRELIMINARES - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress dezPorc">
+                        <div class="progress noventaeCincoPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">10%</div>
+                            <div class="progress-value">95%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>SERVIÇOS PRELIMINARES</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 17/11/2020</h6>
+                                <h6 class="textoCinza">atualizado em 25/11/2020</h6>
                             </div>
                         </p>
                     </div>
@@ -247,21 +247,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FUNDAÇÃO - INICIO *** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress zeroPorc">
+                        <div class="progress setentaeCincoPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">0%</div>
+                            <div class="progress-value">75%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>FUNDAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
+                                <h6 class="textoCinza">atualizado em 25/11/2020</h6>
                             </div>
                         </p>
                     </div>

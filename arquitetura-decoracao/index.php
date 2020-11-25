@@ -43,7 +43,7 @@
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
                         DICAS FÁCEIS e BARATAS para trazer mais
-                           CONFORTO para a sua casa durante DISTÂNCIAMENTO SOCIAL
+                           CONFORTO para a sua casa durante o DISTÂNCIAMENTO SOCIAL
                         </h2>
                         <p class="excert" style="text-align:justify;">
                            O distanciamento social trouxe um novo olhar para dentro das nossas casas.
@@ -134,9 +134,9 @@
                            separação de objetos, trazendo praticidade na hora de guardá-los e encontrá-los,
                            sem deixar aquela bagunça a mostra.
                         </p>
-
                      </div>
                   </div>
+                  <h5 style="color:black;"><a href="#">#arquiteturaedecoracao</a> <a href="#">#estilodevida</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
