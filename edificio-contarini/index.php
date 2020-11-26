@@ -76,7 +76,6 @@ include "../estrutura/head.php";
                 <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                     <nav>
                         <ul>
-                            
                             <li><a href="#section-linebox-1"><span class="font-ruda">3 SUÍTES - TIPO 01</span></a></li>
                             <li><a href="#section-linebox-2"><span class="font-ruda">3 QUARTOS - TIPO 02</span></a></li>
                             <li><a href="#section-linebox-3"><span class="font-ruda">3 QUARTOS - TIPO 03</span></a></li>
@@ -94,13 +93,14 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         
-                                        <p>- 104,58 m2 de área privativa</p>
-                                        <p>- 03 suítes</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 107 m2 de área privativa</p>
+                                        <p>- 3 suítes</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista para a serra</p>
-
+                                        <p>- Ventilação cruzada</p>
+                                        
                                     </div>
 
                                 </div>
@@ -114,9 +114,9 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         
-                                        <p>- 99,10 m2 de área privativa</p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 105 m2 de área privativa</p>
+                                        <p>- 1 suíte + 2 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira</p>
@@ -132,13 +132,12 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
-                                        <p>- 107,05 m2 de área privativa </p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 99 m2 de área privativa</p>
+                                        <p>- 1 suíte + 2 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista para a serra</p>
-                                        <p>- Ventilação cruzada</p>
 
                                     </div>
                                 </div>
@@ -154,8 +153,8 @@ include "../estrutura/head.php";
                                     <div class="col-sm-4 fundo-planta">
                                         
                                         <p>- 140,36 m2 de área privativa</p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 2 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Lavabo</p>
@@ -176,8 +175,8 @@ include "../estrutura/head.php";
                                     <div class="col-sm-4 fundo-planta">
                                         
                                         <p>- 124,47 m2 de área privativa</p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 2 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Área externa de 24,95 m2 com churrasqueira e espera para instalação de jacuzzi</p>
