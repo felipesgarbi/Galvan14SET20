@@ -332,6 +332,13 @@ body {
 .font-ruda{
   font-family: Ruda;
 }
+
+.iconeCinza{
+  color: #74777b !important;
+  fill: #74777b !important;
+  text-decoration-color: #74777b !important;
+}
+
 .font-daydream60{
   font-family: Daydream;
   font-size: 60px !important;

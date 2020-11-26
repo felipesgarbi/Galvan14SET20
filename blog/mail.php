@@ -57,6 +57,6 @@ try {
 	header('Location: ./?r=1');
 
 } catch (Exception $e) {
-	echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+	echo "Falha no envio da mensagem. Código de erro: {$mail->ErrorInfo}";
 }
 ?>
