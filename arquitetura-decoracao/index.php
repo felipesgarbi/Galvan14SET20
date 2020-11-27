@@ -31,19 +31,19 @@
       <!-- TOP DO BLOG FIM -->
 
       <!--? Blog Area Start -->
-      <section class="blog_area single-post-area section-padding">
+      <section class="blog_area single-post-area">
          <div class="container">
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
                         <h5>29/07/2020 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../arquitetura-decoracao/capa.png" alt="" />
+                        <img class="img-fluid" src="../arquitetura-decoracao/CAPA-2511201059.jpg" alt="arquitetura-decoracao-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
                         DICAS FÁCEIS e BARATAS para trazer mais
-                           CONFORTO para a sua casa durante DISTÂNCIAMENTO SOCIAL
+                           CONFORTO para a sua casa durante o DISTÂNCIAMENTO SOCIAL
                         </h2>
                         <p class="excert" style="text-align:justify;">
                            O distanciamento social trouxe um novo olhar para dentro das nossas casas.
@@ -77,7 +77,7 @@
                            indireta para garantir o conforto e aconchego necessário.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../arquitetura-decoracao/IMG1.jpg" style="max-width:750px;" alt=""/>
+                           <img class="img-fluid" src="../arquitetura-decoracao/img1-2511201059.jpg" style="max-width:100%;" alt="mais-luz-decoracao"/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">2. MAIS VERDE</h2>
@@ -91,7 +91,7 @@
                            manutenção e tenham boa resistência como as suculentas, cactos ou jiboias.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../arquitetura-decoracao/IMG2.png" style="max-width:750px;" alt=""/>
+                           <img class="img-fluid" src="../arquitetura-decoracao/img2-2511201059.jpg" style="max-width:100%;" alt="mais-verde-decoracao"/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">3. MAIS TEXTURA</h2>
@@ -100,7 +100,7 @@
                            ajudam a conferir melhor conforto sonoro e térmico ao ambiente.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../arquitetura-decoracao/IMG3.jpg" style="max-width:750px;" alt=""/>
+                           <img class="img-fluid" src="../arquitetura-decoracao/img3-2511201059.jpg" style="max-width:100%;" alt="mais-textura-decoracao"/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">4. MAIS COR</h2>
@@ -111,10 +111,10 @@
                         </p>
                         <p style="text-align:justify;">
                            Se você não está disposto a pintar as paredes não tem problema, você ainda pode
-                           trazr cor utilizando quadros e outros objetos decorativos.
+                           trazer cor utilizando quadros e outros objetos decorativos.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../arquitetura-decoracao/IMG4.jpg" style="max-width:750px;" alt=""/>
+                           <img class="img-fluid" src="../arquitetura-decoracao/img4-2511201059.jpg" style="max-width:100%;" alt="mais-cor"/>
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">5. MAIS ESPAÇO</h2>
@@ -127,16 +127,16 @@
                            evita que eles fiquem espalhados pelos outros ambientes e ainda ajuda na limpeza.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../arquitetura-decoracao/IMG5.jpg" style="max-width:750px;" alt=""/>
+                           <img class="img-fluid" src="../arquitetura-decoracao/img5-2511201059.jpg" style="max-width:100%" alt="mais-espaco"/>
                         </div>
                         <p class="pt-20" style="text-align:justify;">
                            Abuse das caixas e cestos organizadores, eles facilitam a classificação e
                            separação de objetos, trazendo praticidade na hora de guardá-los e encontrá-los,
                            sem deixar aquela bagunça a mostra.
                         </p>
-
                      </div>
                   </div>
+                  <h5 style="color:black;"><a href="#">#arquiteturaedecoracao</a> <a href="#">#estilodevida</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -145,30 +145,26 @@
                      
                      <div class="navigation-area">
                         <div class="row">
-                           <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
-                              
-                           </div>
                            <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div class="details">
                                  <p>Próximo Post</p>
-                                 <a href="#">
+                                 <a href="/apartamento-ideal">
                                     <h4 style="color: #2d2d2d;">5 PASSOS para encontrar o APARTAMENTO IDEAL</h4>
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="#">
+                                 <a href="/apartamento-ideal">
                                     <span class="lnr text-white ti-arrow-right"></span>
                                  </a>
                               </div>
                               <div class="thumb">
                                  <a href="/apartamento-ideal">
-                                    <img class="" src="apartamento-ideal/CAPA.png" alt="" height="80px">
+                                    <img class="" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="apartamento-ideal-capa-proximo-post" height="80px">
                                  </a>
                               </div>
                            </div>
                         </div>
                      </div>
-                     
                   </div>
 
                </div>
@@ -181,7 +177,7 @@
                                             <input type="text" class="form-control" placeholder='Digite aqui o que deseja encontrar...' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite aqui o que deseja encontrar...'">
                                         </div>
                                     </div>
-                                    <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
+                                    <button class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;" type="submit">Pesquisar</button>
                                 </form>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">

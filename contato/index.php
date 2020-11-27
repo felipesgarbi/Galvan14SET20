@@ -30,7 +30,7 @@ include "../estrutura/head.php";
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2">
-                                <h1 class="font-vagnotie text-white font-vagnotieEMP" style="font-size:68px">Queremos ouvir você!</h1>
+                                <h1 class="font-vagnotie text-white font-vagnotieCONT" style="font-size:68px">Queremos ouvir você!</h1>
                             </div>
                         </div>
                     </div>
@@ -97,11 +97,10 @@ include "../estrutura/head.php";
                                     </div>
                                 </div>
 
-                                <div class="col-lg-2 mb-40 paddingContact">
-                                    <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
-                                </div>
-                                <!--<div class="font-ruda textoAzul"><php echo $msg ></div>-->
-
+                                    <div class="col-lg-2 mb-40 paddingContact">
+                                        <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
+                                    </div>
+                                    <div class="f-right g-recaptcha" data-sitekey=”6LcPVu4ZAAAAAIC5XVfZ9efX_rtIcRShw93M-s_8“></div>
                             </form>
                         </div>
 
@@ -150,7 +149,8 @@ include "../estrutura/head.php";
     <!-- BOTÃO DO WHATSAPP FIM -->
 
     <!-- JS here -->
-
+    <!-- GOOGLE RECAPTCHA API -->
+    <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
     <script src="./../assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
     <script src="./../assets/js/vendor/jquery-1.12.4.min.js"></script>

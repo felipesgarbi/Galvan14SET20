@@ -307,6 +307,20 @@
 
 /* ######################################################## */
 
+/* LOADING 07.1 - 75% PROGRESS - START */
+.progress.setentaeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.setentaeCincoPorc .progress-right .progress-bar{
+    animation: loading-75R 1s linear forwards 1.8s;
+}
+.progress.setentaeCincoPorc .progress-left .progress-bar{
+    animation: loading-75L 1s linear forwards 1.8s;
+}
+/* LOADING 07.1 - 75% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 08 - 80% PROGRESS - START */
 .progress.oitentaPorc .progress-bar{
     border-color: #234e76;
@@ -326,6 +340,20 @@
     animation: loading-9 1s linear forwards 1.8s;
 }
 /* LOADING 09 - 90% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 09.1 - 95% PROGRESS - START */
+.progress.noventaeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.noventaeCincoPorc .progress-right .progress-bar{
+    animation: loading-95R 1s linear forwards 1.8s;
+}
+.progress.noventaeCincoPorc .progress-left .progress-bar{
+    animation: loading-95L 1s linear forwards 1.8s;
+}
+/* LOADING 09.1 - 95% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -490,6 +518,34 @@ input[type=text] {
 
 /* ######################################################## */
 
+/* LOADING 07.1 - 75% PROGRESS - START */
+
+@keyframes loading-75R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-75L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
+}
+
+/* LOADING 07.1 - 75% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 08 - 80% PROGRESS - START */
 
 @keyframes loading-8{
@@ -521,6 +577,34 @@ input[type=text] {
 }
 
 /* LOADING 09 - 90% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 09.1 - 95% PROGRESS - START */
+
+@keyframes loading-95R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-95L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(171deg);
+        transform: rotate(171deg);
+    }
+}
+
+/* LOADING 09.1 - 95% PROGRESS - END */
 
 /* ######################################################## */
 

@@ -45,11 +45,10 @@ include "../estrutura/head.php";
                 <nav>
                     <ul>
                         <li><a href="#section-linebox-6"></a></li>
-                        <li><a href="#section-linebox-5" class="icon icon-plane"><span class="font-ruda">LANÇAMENTOS</span></a></li>
-                        <li><a href="#section-linebox-4" class="icon icon-date"><span class="font-ruda">EM CONSTRUÇÃO</span></a></li>
-                        <li><a href="#section-linebox-2" class="icon icon-gift"><span class="font-ruda">PRONTO PARA MORAR</span></a></li>
-                        <li><a href="#section-linebox-3" class="icon icon-coffee"><span class="font-ruda">ENTREGUES</span></a></li>
-
+                        <li><a href="#section-linebox-5" class=""><span class="font-ruda"><img src="../empreendimentos/plan.svg" style="width: 30px;"/> LANÇAMENTOS</span></a></li>
+                        <li><a href="#section-linebox-4" class=""><span class="font-ruda"><img src="../empreendimentos/cement-truck.svg" style="width: 30px;"/> EM CONSTRUÇÃO</span></a></li>
+                        <li><a href="#section-linebox-2" class=""><span class="font-ruda"><img src="../empreendimentos/key.svg" style="width: 30px;"/> PRONTO PARA MORAR</span></a></li>
+                        <li><a href="#section-linebox-3" class=""><span class="font-ruda"><img src="../empreendimentos/city.svg" style="width: 30px;"/> ENTREGUES</span></a></li>
                     </ul>
                 </nav>
 
@@ -62,7 +61,6 @@ include "../estrutura/head.php";
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
                                 <div class="row no-gutters">
-
 
                                     <!-- ################################ -->
                                     <!-- ## EDIFICIO CONTARINI INÍCIO ### -->
@@ -154,12 +152,11 @@ include "../estrutura/head.php";
                                         <div class="grid">
                                         <a href="../edificio-contarini">
                                             <figure class="effect-bubba tamanho-empreendimento1">
+                                            <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02"/>
                                                 <figcaption>
                                                     <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
                                                 </figcaption>
-                                                <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
-
                                             </figure>
                                         </a>
                                         </div>
@@ -182,7 +179,7 @@ include "../estrutura/head.php";
                     <section id="section-linebox-2">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
-                                <div class="row no-gutters ">
+                                <div class="row no-gutters">
                                     <div class="col-xl-12 col-lg-12">
 
                                         <div class="grid">
@@ -273,7 +270,7 @@ include "../estrutura/head.php";
                                                 <figure class="effect-bubba tamanho-empreendimento2">
                                                     <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
                                                     <figcaption>
-                                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+                                                        <h2 style="font-family: Daydream; color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
                                                         <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
                                                     </figcaption>
                                                 </figure>
@@ -308,7 +305,7 @@ include "../estrutura/head.php";
         </section>
         <!-- Map Area End -->
 
-        <section class="wantToWork-area" style="background-image: url(assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
+        <section class="wantToWork-area" style="background-image: url(../assets/img/12125-NNZAB6-3.png); position: relative; background-size: contain; background-repeat: no-repeat;">
             <div class="container">
                 <div class="wants-wrapper w-padding3">
                     <div class="row align-items-center justify-content-between">
@@ -321,7 +318,7 @@ include "../estrutura/head.php";
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-4">
                             <div class="double-btn f-right">
-                                <a href="/empreendimentos" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">FALE COM A GALVAN</a> </div>
+                                <a href="/contato" class="button primary-bg text-white w-100 btn_1 boxed-btn" style="border-radius: 10px;">FALE COM A GALVAN</a> </div>
                         </div>
                     </div>
                 </div>

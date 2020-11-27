@@ -1,61 +1,62 @@
 <?php
-/* Envio de E-mail mail()
-Arquivo enviaContato.php - PHP
-criado: 16/08/2018
-atualizado: 12/05/2020
-Criado por: @Bross
-www.tosempreai.com.br
-mlvpirani@gmail.com
- ***********************************************************
- */
+// Import PHPMailer classes into the global namespace
+// These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+// Load Composer's autoloader
+require '../vendor/autoload.php';
+
+// Instantiation and passing `true` enables exceptions
+$mail = new PHPMailer(true);
+
+try {
+	//Server settings
+	//$mail->SMTPDebug = 2;
+	//$mail->Debugoutput = 'html';                    // Enable verbose debug output
+	$mail->isSMTP();                                            // Send using SMTP
+	$mail->Host       = 'mail.galvanengenharia.com';                    // Set the SMTP server to send through
+	$mail->SMTPAuth   = true;                                   // Enable SMTP authentication
+	$mail->Username   = 'atendimento@galvanengenharia.com';                     // SMTP username
+	$mail->Password   = 'vendas123';                               // SMTP password
+	$mail->SMTPSecure = 'TLS';
+	$mail->Port = 587;                                 // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
+	$mail->CharSet = 'UTF-8';
+	$mail->SMTPAutoTLS = false;
+	//Recipients
+	$mail->setFrom('atendimento@galvanengenharia.com', "Galvan Engenharia");
+	$mail->AllowEmpty = true;
+	$mail->addAddress('atendimento@galvanengenharia.com');               // Name is optional
+	//$mail->addCC('thyago-asp@hotmail.com');
+	//$mail->addBCC('thyago-asp@hotmail.com');
+	// Attachments
+	//  $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+	//  $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
 
 
-// Altera Aqui
-
-$site= "www.galvanengenharia.com";
-$nomeEmpresa = "Galvan Engenharia | O Amanhã a gente projeta hoje | Joinville/SC";
-$telefoneEmpresa = "+55 47 9.8919-0606";
-$urlLogo = "http://tosempreai.com.br/wp-content/uploads/2017/06/tosempreai.png";
-
-
-// Aqui simplesmente estou pegando os input do formulário via post
-
-$nome = $_POST["nome"];
-$telefone = $_POST["telefone"];
-$email = $_POST["email"];
-$mensagem = $_POST["mensagem"];
-$texto = "<h3> Formulário </h3><br>
+	$site = "www.galvanengenharia.com";
+	$nomeEmpresa = "Galvan Engenharia | O Amanhã a gente projeta hoje | Joinville/SC";
+	$telefoneEmpresa = "+55 47 9.8919-0606";
+	$nome = $_POST["nome"];
+	$telefone = $_POST["telefone"];
+	$email = $_POST["email"];
+	$mensagem = $_POST["mensagem"];
+	$texto = "<h3> Formulário </h3><br>
 			<b>Nome do Cliente:</b> $nome<br>
 			<b>Telefone:</b> $telefone<br>
 			<b>E-mail:</b> $email<br>
 			<b>Mensagem:</b> $mensagem<br>";
+	// Content
+	$mail->isHTML(true);                                  // Set email format to HTML
+	$mail->Subject = 'Olá, seu cliente preencheu um formulário de contato no site da Galvan Engenharia.';
+	$mail->Body    = $texto;
+	$mail->AltBody = '$texto';
 
-//AQUI ENVIO O PRIMEIRO EMAIL PARA O DESTINATARIO
-$emailDestino = "contato@gestordegabinete.com.br";
-$headers =  'MIME-Version: 1.0' . "\r\n"; 
-$headers .= 'From: Your name <info@address.com>' . "\r\n";
-$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+	$mail->send();
+	header('Location: ./?r=1');
 
-mail($emailDestino, 'Olá, seu cliente preencheu um formulário de contato no site da Galvan Engenharia.', $texto, $headers);
-
-//AQUI ENVIO O PARA O CLIENTE
-
-$headers2 = "MIME-Version: 1.0\r\n";
-$headers2 .= "Content-type: text/html; charset=UTF-8";
-$headers2 .= "From:" . $emailDestino . " \r\n";
-$texto .= "Olá, Tudo bem? Seu e-mail foi recebido por um de nossos atendentes,<br>
-			em breve responderemos!<br>
-			<br>
-			Departamento Comercial | Galvan Engenharia<br>
-			".$site."<br>
-			".$telefoneEmpresa."<br>
-			<br>
-			<img src='".$urlLogo."'>";
-
-mail($email, 'Olá, somos da Galvan Engenharia. Já recebemos a sua mensagem.', $texto, $headers2);
-
-//REDIRECIONO PARA PAGINA CONTATO.PHP
-//print '<script>location.href="./contato";</script>';
-echo "Mensagem enviada com sucesso!";
-
+} catch (Exception $e) {
+	echo "Falha no envio da mensagem. Código de erro: {$mail->ErrorInfo}";
+}
 ?>

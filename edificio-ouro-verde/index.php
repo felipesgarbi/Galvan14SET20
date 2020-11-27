@@ -82,9 +82,9 @@ include "../estrutura/head.php";
                 <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                     <nav>
                         <ul>
-                            <li><a href="#section-linebox-1"><span class="font-ruda">02 QUARTOS - TIPO 01</span></a></li>
-                            <li><a href="#section-linebox-2"><span class="font-ruda">02 QUARTOS - TIPO 02</span></a></li>
-                            <li><a href="#section-linebox-3"><span class="font-ruda">03 QUARTOS</span></a></li>
+                            <li><a href="#section-linebox-1"><span class="font-ruda">2 QUARTOS - TIPO 01</span></a></li>
+                            <li><a href="#section-linebox-2"><span class="font-ruda">2 QUARTOS - TIPO 02</span></a></li>
+                            <li><a href="#section-linebox-3"><span class="font-ruda">3 QUARTOS</span></a></li>
                             <li><a href="#section-linebox-4"><span class="font-ruda">COBERTURA</span></a></li>
                             <li><a href="#section-linebox-5"><span class="font-ruda">DUPLEX</span></a></li>
                             <li><a href="#section-linebox-6"><span class="font-ruda">GIARDINO 01</span></a></li>
@@ -96,12 +96,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo01-06111038.png" alt="02-quartos-tipo-01" width="80%">
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/02Q-tipo01-06111038.png" data-caption="2 QUARTOS - TIPO 01">
+                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo01-06111038.png" alt="2-quartos-tipo-01" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 69,36 m2 de área privativa </p>
-                                        <p>- 01 suíte + 01 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 1 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Sacada com churrasqueira</p>
@@ -114,12 +116,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo02-06111038.png" alt="02-quartos-tipo-02" width="80%">
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/02Q-tipo02-06111038.png" data-caption="2 QUARTOS - TIPO 02">
+                                        <img class="mb-2" src="../edificio-ouro-verde/02Q-tipo02-06111038.png" alt="2-quartos-tipo-02" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 76,36 m2 de área privativa </p>
-                                        <p>- 01 suíte + 01 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 1 dormitório</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Sacada com churrasqueira</p>
@@ -133,12 +137,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-ouro-verde/03Q-06111038.png" alt="03-quartos" width="80%">
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/03Q-06111038.png" data-caption="3 QUARTOS">
+                                        <img class="mb-2" src="../edificio-ouro-verde/03Q-06111038.png" alt="3-quartos" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 86,71 m2 de área privativa </p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 2 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Sacada com churrasqueira</p>
@@ -152,12 +158,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/cobertura-06111038.png" data-caption="COBERTURA">
                                         <img class="mb-2" src="../edificio-ouro-verde/cobertura-06111038.png" alt="apto-cobertura" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 128,77 m2 de área privativa </p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 2 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço</p>
                                         <p>- Ampla sacada com vista da cidade</p>
@@ -171,13 +179,17 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-9">
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/duplex01A-06111038.png" data-caption="DUPLEX - PISO INFERIOR">
                                         <img class="mb-2" src="../edificio-ouro-verde/duplex01A-06111038.png" alt="apto-duplex" width="45%">
+                                    </a>
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/duplex01B-06111038.png" data-caption="DUPLEX - PISO SUPERIOR">
                                         <img class="mb-2" src="../edificio-ouro-verde/duplex01B-06111038.png" alt="apto-duplex" width="45%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-3 fundo-planta">
                                         <p>- 117,48 m2 de área privativa </p>
-                                        <p>- 01 suíte + 01 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 1 dormitório</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Planta em conceito aberto</p>
                                         <p>- Ampla sacada com vista para a serra</p>
                                         <p>- Área de serviço</p>
@@ -191,12 +203,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/giardino01-06111038.png" data-caption="GIARDINO 01">
                                         <img class="mb-2" src="../edificio-ouro-verde/giardino01-06111038.png" alt="apto-giardino-01" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 125,79 m2 de área privativa </p>
-                                        <p>- 01 suíte + 01 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 1 dormitório</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Planta em conceito aberto</p>
                                         <p>- Área verde externa de 49,43 m2 com churrasqueira</p>
                                         <p>- Área de serviço</p>
@@ -210,12 +224,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-ouro-verde/giardino02-06111038.png" data-caption="GIARDINO 02">
                                         <img class="mb-2" src="../edificio-ouro-verde/giardino02-06111038.png" alt="apto-giardino-02" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 134,56 m2 de área privativa </p>
-                                        <p>- 01 suíte + 02 dormitórios</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suíte + 2 dormitórios</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Planta em conceito aberto</p>
                                         <p>- Área verde externa de 50,82 m2 com churrasqueira</p>
                                         <p>- Área de serviço</p>
@@ -511,6 +527,10 @@ include "../estrutura/head.php";
         <!-- Jquery Plugins, main Jquery -->
         <script src="./../assets/js/plugins.js"></script>
         <script src="./../assets/js/main.js"></script>
+
+        <!-- Códigos p/ elemento Fancybox -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
         <script src="./../assets/tabs/js/cbpFWTabs.js"></script>
         <script>
