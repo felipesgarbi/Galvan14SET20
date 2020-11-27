@@ -89,7 +89,9 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-contarini/03S-TP01.png" data-caption="03 SUÍTES - TIPO 01">
                                         <img class="mb-2" src="../edificio-contarini/03S-TP01.png" alt="03-suites-tipo-01" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         
@@ -110,7 +112,9 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-contarini/03Q-TP03.png" data-caption="03 QUARTOS - TIPO 02">
                                         <img class="mb-2" src="../edificio-contarini/03Q-TP03.png" alt="03-quartos-tipo-03" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         
@@ -128,7 +132,9 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-contarini/03Q-TP01.png" data-caption="03 QUARTOS - TIPO 03">
                                         <img class="mb-2" src="../edificio-contarini/03Q-TP01.png" alt="03-quartos-tipo-01" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
@@ -148,7 +154,9 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-contarini/GIARDINO01.png" data-caption="GIARDINO 01">
                                         <img class="mb-2" src="../edificio-contarini/GIARDINO01.png" alt="giardino-01" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         
@@ -170,7 +178,9 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-contarini/GIARDINO02.png" data-caption="GIARDINO 02">
                                         <img class="mb-2" src="../edificio-contarini/GIARDINO02.png" alt="giardino-02" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         
@@ -472,6 +482,11 @@ include "../estrutura/head.php";
         <!-- Jquery Plugins, main Jquery -->
         <script src="./../assets/js/plugins.js"></script>
         <script src="./../assets/js/main.js"></script>
+
+        <!-- Códigos p/ elemento Fancybox -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
 
         <script src="./../assets/tabs/js/cbpFWTabs.js"></script>
         <script>

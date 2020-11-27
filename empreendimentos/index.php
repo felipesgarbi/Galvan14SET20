@@ -44,23 +44,11 @@ include "../estrutura/head.php";
             <div class="tabs tabs-style-linebox">
                 <nav>
                     <ul>
-                        <!--<li><a href="#section-linebox-6"></a></li>
-                        <li><a href="#section-linebox-5" class="icon icon-plane"><span class="font-ruda">LANÇAMENTOS</span></a></li>
-                        <li><a href="#section-linebox-4" class="icon icon-date"><span class="font-ruda">EM CONSTRUÇÃO</span></a></li>
-                        <li><a href="#section-linebox-2" class="icon icon-gift"><span class="font-ruda">PRONTO PARA MORAR</span></a></li>
-                        <li><a href="#section-linebox-3" class="icon icon-coffee"><span class="font-ruda">ENTREGUES</span></a></li>-->
-
-                        <!-- ICONES NOVOS -->
-                        <!-- ICONES NOVOS -->
-                        
                         <li><a href="#section-linebox-6"></a></li>
                         <li><a href="#section-linebox-5" class=""><span class="font-ruda"><img src="../empreendimentos/plan.svg" style="width: 30px;"/> LANÇAMENTOS</span></a></li>
                         <li><a href="#section-linebox-4" class=""><span class="font-ruda"><img src="../empreendimentos/cement-truck.svg" style="width: 30px;"/> EM CONSTRUÇÃO</span></a></li>
                         <li><a href="#section-linebox-2" class=""><span class="font-ruda"><img src="../empreendimentos/key.svg" style="width: 30px;"/> PRONTO PARA MORAR</span></a></li>
                         <li><a href="#section-linebox-3" class=""><span class="font-ruda"><img src="../empreendimentos/city.svg" style="width: 30px;"/> ENTREGUES</span></a></li>
-
-                        <!-- ICONES NOVOS -->
-                        <!-- ICONES NOVOS -->
                     </ul>
                 </nav>
 
@@ -73,7 +61,6 @@ include "../estrutura/head.php";
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
                                 <div class="row no-gutters">
-
 
                                     <!-- ################################ -->
                                     <!-- ## EDIFICIO CONTARINI INÍCIO ### -->

@@ -70,9 +70,9 @@ include "../estrutura/head.php";
                 <div class="tabs tabs-style-linebox" style="font-size: 18px;">
                     <nav>
                         <ul>
-                            <li><a href="#section-linebox-1"><span class="font-ruda">02 QUARTOS</span></a></li>
-                            <li><a href="#section-linebox-2"><span class="font-ruda">03 QUARTOS - TIPO 01</span></a></li>
-                            <li><a href="#section-linebox-3"><span class="font-ruda">03 QUARTOS - TIPO 02</span></a></li>
+                            <li><a href="#section-linebox-1"><span class="font-ruda">2 QUARTOS</span></a></li>
+                            <li><a href="#section-linebox-2"><span class="font-ruda">3 QUARTOS - TIPO 01</span></a></li>
+                            <li><a href="#section-linebox-3"><span class="font-ruda">3 QUARTOS - TIPO 02</span></a></li>
                             <li><a href="#section-linebox-4"><span class="font-ruda">COBERTURA 01</span></a></li>
                             <li><a href="#section-linebox-5"><span class="font-ruda">COBERTURA 02</span></a></li>
                         </ul>
@@ -82,12 +82,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-di-pietra/02Q-1111201432.png" data-caption="2 QUARTOS">
                                         <img class="mb-2" src="../edificio-di-pietra/02Q-1111201432.png" alt="02-quartos" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 70,99 m2 de área privativa</p>
-                                        <p>- 01 suítes + 1 quarto</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suítes + 1 quarto</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista da cidade</p>
@@ -100,12 +102,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-di-pietra/03Q-tipo01-1111201432.png" data-caption="3 QUARTOS - TIPO 01">
                                         <img class="mb-2" src="../edificio-di-pietra/03Q-tipo01-1111201432.png" alt="03-quartos-tipo-01" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 89,32 m2 de área privativa </p>
-                                        <p>- 01 suítes + 02 quartos</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suítes + 2 quartos</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista da cidade</p>
@@ -117,12 +121,14 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-di-pietra/03Q-tipo02-1111201432.png" data-caption="3 QUARTOS - TIPO 02">
                                         <img class="mb-2" src="../edificio-di-pietra/03Q-tipo02-1111201432.png" alt="03-quartos-tipo-02" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 83,22 m2 de área privativa</p>
-                                        <p>- 01 suítes + 02 quartos</p>
-                                        <p>- 01 ou 02 vagas de garagem</p>
+                                        <p>- 1 suítes + 2 quartos</p>
+                                        <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista da cidade</p>
@@ -134,11 +140,13 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                        <img class="mb-2" src="../edificio-di-pietra/cobertura01-1111201432.png" alt="apto-cobertura01" width="80%">
+                                    <a data-fancybox="images" href="../edificio-di-pietra/cobertura01-1111201432.png" data-caption="COBERTURA 01">
+                                        <img class="mb-2" src="../edificio-di-pietra/cobertura01-1111201432.png" alt="apto-cobertura1" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 119,05 m2 de área privativa</p>
-                                        <p>- 01 suíte + 01 quarto</p>
+                                        <p>- 1 suíte + 1 quarto</p>
                                         <p>- Ambientes integrados</p>
                                         <p>- Cobertura externa de 32,84 m2 com churrasqueira</p>
                                         <p>- Preparo para jacuzzi</p>
@@ -151,11 +159,13 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
+                                    <a data-fancybox="images" href="../edificio-di-pietra/cobertura02-1111201432.png" data-caption="COBERTURA 02">
                                         <img class="mb-2" src="../edificio-di-pietra/cobertura02-1111201432.png" alt="apto-cobertura02" width="80%">
+                                    </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
                                         <p>- 123,31 m2 de área privativa</p>
-                                        <p>- 01 suíte + 01 quarto</p>
+                                        <p>- 1 suíte + 1 quarto</p>
                                         <p>- Cobertura externa de 31,16 m2 com churrasqueira</p>
                                         <p>- Preparo para jacuzzi</p>
                                     </div>
@@ -447,6 +457,11 @@ include "../estrutura/head.php";
         <!-- Jquery Plugins, main Jquery -->
         <script src="./../assets/js/plugins.js"></script>
         <script src="./../assets/js/main.js"></script>
+
+        <!-- Códigos p/ elemento Fancybox -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
 
         <script src="./../assets/tabs/js/cbpFWTabs.js"></script>
         <script>
