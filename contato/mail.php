@@ -16,19 +16,20 @@ try {
 	//$mail->SMTPDebug = 2;
 	//$mail->Debugoutput = 'html';                    // Enable verbose debug output
 	$mail->isSMTP();                                            // Send using SMTP
-	$mail->Host       = 'mail.fesper.com.br';                    // Set the SMTP server to send through
+	$mail->Host       = 'mail.galvanengenharia.com';                    // Set the SMTP server to send through
 	$mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-	$mail->Username   = 'thyago@fesper.com.br';                     // SMTP username
-	$mail->Password   = 'fesper@123';                               // SMTP password
+	$mail->Username   = 'atendimento@galvanengenharia.com';                     // SMTP username
+	$mail->Password   = 'vendas123';                               // SMTP password
 	$mail->SMTPSecure = 'TLS';
 	$mail->Port = 587;                                 // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 	$mail->CharSet = 'UTF-8';
 	$mail->SMTPAutoTLS = false;
 	//Recipients
-	$mail->setFrom('thyago@fesper.com.br', "Galvan Engenharia");
+	$mail->setFrom('atendimento@galvanengenharia.com', "Galvan Engenharia");
 	$mail->AllowEmpty = true;
-	$mail->addAddress('thyago-asp@hotmail.com');               // Name is optional
+	$mail->addAddress('atendimento@galvanengenharia.com');               // Name is optional
 	//$mail->addCC('thyago-asp@hotmail.com');
+	//$mail->addBCC('thyago-asp@hotmail.com');
 	// Attachments
 	//  $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
 	//  $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
