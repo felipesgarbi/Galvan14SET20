@@ -3,6 +3,7 @@
 
 <?php
 include "../estrutura/head.php";
+
 ?>
 
 <body>
@@ -52,6 +53,13 @@ include "../estrutura/head.php";
                             Seu contato foi registrado com sucesso.
                         </div>
 
+                    <?php
+                    } else if ($_GET["r"] == 2) {
+                    ?>
+                        <div class="alert alert-danger text-center mt-20" role="alert">
+                            Por favor, verifique o reCaptcha.
+                        </div>
+
                 <?php
                     }
                 }
@@ -97,11 +105,18 @@ include "../estrutura/head.php";
                                     </div>
                                 </div>
 
-                                    <div class="col-lg-2 mb-40 paddingContact">
-                                        <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
-                                    </div>
-                                    <div class="f-right g-recaptcha" data-sitekey=”6LcPVu4ZAAAAAIC5XVfZ9efX_rtIcRShw93M-s_8“></div>
+
+
+                                <div class="col-lg-2 mb-40 paddingContact">
+                                    <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
+
+                                </div>
+                                <div class="col-lg-2 mb-40 paddingContact">
+                                    <div class="g-recaptcha" data-sitekey="6LdW2O8ZAAAAAONr9c76J-0TJ_fbaaEEzklNqE-a"></div>
+                                </div>
+
                             </form>
+
                         </div>
 
                         <div class="col-md-3 text-center">
@@ -150,7 +165,7 @@ include "../estrutura/head.php";
 
     <!-- JS here -->
     <!-- GOOGLE RECAPTCHA API -->
-    <script src='https://www.google.com/recaptcha/api.js?hl=pt-BR'></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script src="./../assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
     <script src="./../assets/js/vendor/jquery-1.12.4.min.js"></script>
