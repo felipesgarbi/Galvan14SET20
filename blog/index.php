@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js" lang="zxx">
 
 <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php"; ?>
@@ -47,7 +47,8 @@
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-na-planta">
-                                        <img class="card-img rounded-0" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta"></a>
+                                        <img class="card-img rounded-0" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta" />
+                                    </a>
                                     <span class="blog_item_date">
                                         <h3>16</h3>
                                         <p>OUT</p>
@@ -71,7 +72,8 @@
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-ideal">
-                                        <img class="card-img rounded-0" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="apartamento-ideal"></a>
+                                        <img class="card-img rounded-0" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="apartamento-ideal" />
+                                    </a>
                                     <span class="blog_item_date">
                                         <h3>08</h3>
                                         <p>SET</p>
@@ -93,7 +95,8 @@
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
-                                        <img class="card-img rounded-0" src="../arquitetura-decoracao/CAPA-2511201059.jpg" alt="arquitetura-decoracao"></a>
+                                        <img class="card-img rounded-0" src="../arquitetura-decoracao/CAPA-2511201059.jpg" alt="arquitetura-decoracao" />
+                                    </a>
                                     <span class="blog_item_date">
                                         <h3>29</h3>
                                         <p>JUL</p>
