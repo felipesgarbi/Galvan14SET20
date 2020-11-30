@@ -43,7 +43,30 @@
                     <div class="col-lg-8 mb-5 mb-lg-0">
                         <div class="blog_left_sidebar">
 
-                            <!-- POST 01 INÍCIO -->
+                        <!-- POST 01 INÍCIO -->
+                        <article class="blog_item">
+                                <div class="blog_item_img">
+                                    <a class="d-inline-block" href="/compra-e-venda">
+                                        <img class="card-img rounded-0" src="../compra-e-venda/CAPA.jpg" alt="compra-e-venda" />
+                                    </a>
+                                    <span class="blog_item_date">
+                                        <h3>30</h3>
+                                        <p>NOV</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="/compra-e-venda">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">5 PASSOS na DOCUMENTAÇÃO de COMPRA e VENDA de um imóvel</h2>
+                                    </a>
+                                    <p>
+                                        Você sabe quais as etapas para obter a documentação de compra e venda do seu imóvel?
+                                        <br/>Se você ainda tem dúvidas, vem conferir esse post que a gente explicou tudinho.
+                                    </p>
+                                </div>
+                            </article>
+                            <!-- POST 01 FIM -->
+
+                            <!-- POST 02 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-na-planta">
@@ -66,9 +89,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 01 FIM -->
+                            <!-- POST 02 FIM -->
 
-                            <!-- POST 02 INÍCIO -->
+                            <!-- POST 03 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-ideal">
@@ -89,9 +112,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 02 FIM -->
+                            <!-- POST 03 FIM -->
 
-                            <!-- POST 03 INÍCIO -->
+                            <!-- POST 04 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
@@ -117,7 +140,7 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 03 FIM -->
+                            <!-- POST 04 FIM -->
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">

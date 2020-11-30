@@ -36,38 +36,24 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
+                        <h5>30/11/2020 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <h5>16/10/2020 - Por: Galvan Engenharia</h5>
-                        <img class="img-fluid" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta-capa">
+                        <img class="img-fluid" src="../compra-e-venda/CAPA.jpg" alt="compra-e-venda-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                           5 MEDOS de comprar um APARTAMENTO NA PLANTA
+                        <b>5 PASSOS</b> na <b>DOCUMENTAÇÃO</b> de <b>COMPRA e VENDA</b> de um imóvel
                         </h2>
                         <p class="excert" style="text-align:justify;">
-                           A compra de um imóvel é um grande passo na vida de qualquer pessoa. 
-                           O sonho de ter um apartamento totalmente novo, com instalações modernas 
-                           e com um preço acessível pode estar ao seu alcance muito antes do que você imagina!
+                           Você sabe quais as etapas para obter a documentação de compra e venda do seu imóvel?
+                           </br>
+                           Se você ainda tem dúvidas, vem conferir esse post que a gente explicou tudinho.
                         </p>
 
-                        <p class="excert" style="text-align:justify;">
-                           O preço de um imóvel na planta já é atrativo, agora imagine conseguir parcelar 
-                           a entrada ou ainda quitar o seu imóvel com taxas de correção bem inferiores àquelas 
-                           praticadas pelos bancos. É ou não é uma excelente oportunidade de negócio?
+                        <p style="text-align:justify;">
+                           Está decidido a fechar negócio naquele imóvel dos seus sonhos e chegou a hora de providenciar a papelada. Então, vamos lá!
+                           <br/> Para saber como encontrar o imóvel ideal<a href="apartamento-ideal"><b style="color:seagreen"> CLIQUE AQUI.</b></a>
                         </p>
-
-                        <p class="pt-20"><i>Mas, comprar um imóvel na planta não é muito arriscado?</i></p>
-                        <p class="excert" style="text-align:justify;">
-                           Essa é um a pergunta muito comum. Mas não se preocupe, 
-                           com um pouco de informação e alguns cuidados a compra do seu imóvel na planta, 
-                           vai ser um sucesso!
-                        </p>
-
-                        <p class="excert" style="text-align:justify;">
-                           Aqui no blog a gente esclarece as principais dúvidas na hora de comprar um imóvel na 
-                           planta. Vem com a gente conferir essas dicas e fazer um bom negócio!
-                        </p>
-
                         <!--<div class="quote-wrapper">
                            <div class="quotes">
                               MCSE boot camps have its supporters and its detractors. Some people do not understand why you
@@ -76,100 +62,69 @@
                               self-imposed MCSE training.
                            </div>
                         </div>-->
-                        <h2 class="pt-40" style="color: #2d2d2d;">1. SERÁ QUE VOU RECEBER O MEU IMÓVEL? E SE A OBRA ATRASAR?</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">1. CONTRATO DE COMPRA E VENDA</h2>
                         <p style="text-align:justify;">
-                           Esse é um medo muito frequente na compra de um imóvel na planta, embora esse 
-                           risco tenha diminuído muito com legislações mais rígidas.
+                           Primeiramente você e seu parceiro de negócio deverão elaborar um CONTRATO DE COMPRA E VENDA, 
+                           que pode ser feita pelo corretor de imóveis ou um advogado.
                         </p>
                         <p style="text-align:justify;">
-                           Por isso, é muito importante pesquisar a reputação da construtora, o 
-                           histórico de entregas e se certificar de que ela possui toda a documentação para a 
-                           realização da obra aprovada.
+                           Neste documento serão descritas as condições de compra e venda, formas de pagamento, prazos, 
+                           cláusulas rescisórias, juros e multas.
                         </p>
                         <p style="text-align:justify;">
-                           Multas por atraso na entrega e cláusulas rescisórias devem fazer parte do contrato.
-                        </p>
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/img1-2511201059.jpg" style="max-width:100%;" alt="se-a-obra-atrasar">
-                        </div>
-
-                        <h2 class="pt-40" style="color: #2d2d2d;">2. SERÁ QUE VOU TER O RECURSO FINANCEIRO NECESSÁRIO?</h2>
-                        <p style="text-align:justify;">
-                           Faltar dinheiro e acabar ficando endividado é outra preocupação frequente.
-                        </p>
-                        <p style="text-align:justify;">
-                           Busque se informar sobre custos futuros como: custos com a documentação 
-                           (ITBI e escrituras), bem como a taxa de correção do saldo devedor.
-                        </p>
-                        <p style="text-align:justify;">
-                           Também é importante se planejar financeiramente em relação a despesas com a mudança, 
-                           rescisão de contrato de aluguel e mobília.
-                        </p>
-                        <p style="text-align:justify;">
-                           Ter um fundo de reserva também traz mais tranquilidade nessa hora.
+                           É importante que você saiba que o contrato de compra e venda NÃO tem validade de 
+                           transferência de propriedade do imóvel.
                         </p>
                         <div class="feature-img">
-                        <img class="img-fluid" src="../apartamento-na-planta/img2-2511201059.jpg" style="max-width:100%;" alt="vou-ter-recurso-financeiro">
+                           <img class="img-fluid" src="../compra-e-venda/img1.jpg" style="max-width:100%;" alt="contrato-de-compra-e-venda"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">3. SERÁ QUE VOU CONSEGUIR FINANCIAR?</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">2. ESCRITURA PÚBLICA</h2>
                         <p style="text-align:justify;">
-                           Converse com seu corretor e/ou com a construtora, eles irão esclarecer alguns 
-                           pré-requisitos para que seu crédito seja aprovado.
+                           Se você comprou um imóvel na planta, terá que esperar a instituição de condomínio para prosseguir com 
+                           a documentação de transferência do imóvel.
                         </p>
                         <p style="text-align:justify;">
-                           Em seguida, procure uma instituição financeira de sua confiança para obter 
-                           uma carta de crédito.
+                           Caso contrário, poderá partir para o passo 2, a ESCRITURA PÚBLICA.
                         </p>
                         <p style="text-align:justify;">
-                           Evite fazer outras dívidas durante a construção.
+                        Se você for financiar o imóvel , o contrato do banco irá substituir a escritura pública.
+                        </p>
+                        <p style="text-align:justify;">
+                           Este é um documento de transição entre o CONTRATO e a TRANSFERÊNCIA DE MATRÍCULA 
+                           propriamente dita. E é nesse momento que é pago o ITBI (Imposto sobre Transmissão de Bens Imóveis).
+                        </p>
+                        <p style="text-align:justify;">
+                           A Escritura Pública é feita no Tabelionato de Notas, e reúne informações sobre a negociação 
+                           e as partes envolvidas, mas ainda NÃO é o documento de transferência de propriedade do imóvel.
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/img3-2511201059.jpg" style="max-width:100%;" alt="financiar-imovel">
+                           <img class="img-fluid" src="../compra-e-venda/img2.jpg" style="max-width:100%;" alt="escritura-publica"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">4. E SE O APARTAMENTO FOR MUITO PEQUENO OU O ACABAMENTO NÃO ME AGRADAR?</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">3. REGISTRO DE IMÓVEL</h2>
                         <p style="text-align:justify;">
-                           Comece visitando outros empreendimentos da construtora, isso te ajudará a ter noção dos 
-                           espaços e do padrão de acabamento que ela oferece.
+                           Pronto, chegou a hora de ter o tão sonhado imóvel no SEU NOME.
                         </p>
                         <p style="text-align:justify;">
-                           Analise a planta baixa do imóvel e meça os móveis que você pretende levar na mudança.
+                           Para isso, você precisará fazer o REGISTRO DE IMÓVEL NA MATRÍCULA no Cartório de 
+                           Registro de Imóveis, com a averbação da transferência de titularidade na matrícula do imóvel.
                         </p>
                         <p style="text-align:justify;">
-                           Uma das vantagens de se adquirir um imóvel na planta é que você pode optar por mudar algum 
-                           revestimento ou ainda alterar alguns espaços, então APROVEITE!
+                           Este documento contém todo histórico ligado ao imóvel, tais como: localização, metragem do 
+                           terreno, proprietários antigos e atuais, número de cadastro junto à prefeitura, etc.
+                        </p>
+                        <p style="text-align:justify;">
+                           Enfim, o imóvel é de fato SEU!
                         </p>
                         <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/img4-2511201059.jpg" style="max-width:100%;" alt="apartamento-pequeno-acabamento">
+                           <img class="img-fluid" src="../compra-e-venda/img3.jpg" style="max-width:100%;" alt="registro-de-imovel"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">5. SERÁ QUE É REALMENTE UM BOM NEGÓCIO?</h2>
-                        <p style="text-align:justify;">
-                           Comprar um imóvel na planta tem muitas vantagens:
-                        </p>
-                        <p style="text-align:justify;">
-                           - O preço dos imóveis na planta são, em geral, menores aos praticados no mercado e, com isso, 
-                           além de pagar menos, o seu imóvel vai valorizar.
-                        </p>
-                        <p style="text-align:justify;">
-                           - A negociação facilitada e os descontos oferecidos pelas construtoras também são bastante atrativos.
-                        </p>
-                        <p style="text-align:justify;">
-                           - Você pode parcelar a entrada e as taxas de correção das construtoras durante a obra geralmente são 
-                           bem inferiores às cobradas pelos bancos.
-                        </p>
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../apartamento-na-planta/img5-2511201059.jpg" style="max-width:100%;" alt="bom-negocio">
-                        </div>
-
-                        <h2 class="pt-40" style="color: #2d2d2d;">AINDA TEM DÚVIDA?</h2>
-                        <p style="text-align:justify;">
-                           Venha falar com a gente: (47) 9 8919-06060
-                        </p>
-                        <h5 style="color:black;"><a href="#">#mercadoimobiliario</a> <a href="#">#construcaocivil</a></h5>
                      </div>
                   </div>
+                  </br>
+                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -180,43 +135,42 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/apartamento-ideal">
-                                    <img class="" src="../apartamento-ideal/CAPA-2511201059.jpg" alt="apartamento-ideal-post-anterior" height="80px">
+                                 <a href="/apartamento-na-planta">
+                                    <img class="" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/apartamento-ideal">
+                                 <a href="/apartamento-na-planta">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/apartamento-ideal">
-                                    <h4 style="color: #2d2d2d;">5 PASSOS para encontrar o APARTAMENTO IDEAL</h4>
+                                 <a href="/apartamento-na-planta">
+                                    <h4 style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h4>
                                  </a>
                               </div>
                            </div>
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                           <!--<div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div class="details">
                                  <p>Próximo Post</p>
-                                 <a href="/compra-e-venda">
-                                    <h4 style="color: #2d2d2d;">5 PASSOS na DOCUMENTAÇÃO de COMPRA e VENDA de um imóvel</h4>
+                                 <a href="#">
+                                    <h4 style="color: #2d2d2d;">Telescopes 101</h4>
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/compra-e-venda">
+                                 <a href="#">
                                     <span class="lnr text-white ti-arrow-right"></span>
                                  </a>
                               </div>
                               <div class="thumb">
-                                 <a href="/compra-e-venda">
-                                    <img class="img-fluid" src="../compra-e-venda/CAPA.jpg" alt="compra-e-venda-proximo-post">
+                                 <a href="#">
+                                    <img class="img-fluid" src="assets/img/post/next.png" alt="proximo-post">
                                  </a>
                               </div>
-                           </div>
+                           </div>-->
                         </div>
                      </div>
-                     
                   </div>
 
                </div>
@@ -349,7 +303,7 @@
    <script src="../assets/js/jquery.counterup.min.js"></script>
    <script src="../assets/js/waypoints.min.js"></script>
    <script src="../assets/js/jquery.countdown.min.js"></script>
-   <script src="../assets/js/hover-direction-snake.min.js"></script>
+   <script src="./assets/js/hover-direction-snake.min.js"></script>
 
    <!-- contact js -->
    <script src="../assets/js/contact.js"></script>
