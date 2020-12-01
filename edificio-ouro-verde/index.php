@@ -250,7 +250,7 @@ include "../estrutura/head.php";
             <!--?  Map Area start  -->
 
             <section class="Map-area mb-20">
-                <div class="d-none d-sm-block w-100">
+                <div class="d-sm-block w-100">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.6442105233255!2d-48.84670938517154!3d-26.273208273162545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94deafd17f092387%3A0x28fc8e499443ecee!2sR.%20Ouro%20Verde%2C%2098%20-%20Sagua%C3%A7u%2C%20Joinville%20-%20SC%2C%2089221-540!5e0!3m2!1spt-BR!2sbr!4v1604507333951!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
                     </iframe>
                 </div>

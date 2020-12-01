@@ -205,7 +205,7 @@ include "../estrutura/head.php";
             <!--?  Map Area start  -->
 
             <section class="Map-area mb-20">
-                <div class="d-none d-sm-block w-100">
+                <div class="d-sm-block w-100">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.6329934998066!2d-48.84583904999246!3d-26.27357217309511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94deafd3c707665b%3A0x2cb71c02be5d03d!2sR.%20Indaial%2C%201003%20-%20Sagua%C3%A7u%2C%20Joinville%20-%20SC%2C%2089221-400!5e0!3m2!1spt-BR!2sbr!4v1605112927841!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
                     </iframe>
                 </div>
