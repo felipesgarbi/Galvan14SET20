@@ -84,7 +84,7 @@
                            Pesquise o preço médio dos imóveis na região escolhida e avalie se eles cabem
                            no seu orçamento.
                            </br>
-                           Comprar um apartamento na planta pode significar uma boa economia (para saber mais<a href="apartamento-na-planta"><b style="color:seagreen"> CLIQUE AQUI</b></a>).
+                           Comprar um apartamento na planta pode significar uma boa economia (para saber mais<a href="../apartamento-na-planta"><b style="color:seagreen"> CLIQUE AQUI</b></a>).
                            </br>
                            Avalie também as opções de financiamento.
                         </p>

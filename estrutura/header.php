@@ -19,7 +19,7 @@
                     </div>
                 </div>
             </div>
-            <div class="header-bottom header-sticky">
+            <div class="header-bottom header-sticky trans-0-4">
                 <div class="container">
                     <div class="row align-items-center">
                         <!-- Logo -->

@@ -85,7 +85,7 @@ include "../estrutura/head.php";
 
                                     <div class="col-lg-4 mb-10">
                                         <div class="md-form mb-0">
-                                            <input type="text" id="telefone" name="telefone" class="formContact" placeholder="Seu telefone (obrigatório)" required="">
+                                            <input type="text" id="telefone" name="telefone" class="formContact" placeholder="Seu telefone (obrigatório)" required="" onkeypress="$(this).mask('(00) 0000-00009')">
                                         </div>
                                     </div>
 
@@ -206,6 +206,9 @@ include "../estrutura/head.php";
     <!-- Jquery Plugins, main Jquery -->
     <script src="./../assets/js/plugins.js"></script>
     <script src="./../assets/js/main.js"></script>
+
+    <!-- Jquery mask plugin -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
 
 
 

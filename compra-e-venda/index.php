@@ -52,7 +52,7 @@
 
                         <p style="text-align:justify;">
                            Está decidido a fechar negócio naquele imóvel dos seus sonhos e chegou a hora de providenciar a papelada. Então, vamos lá!
-                           <br/> Para saber como encontrar o imóvel ideal<a href="apartamento-ideal"><b style="color:seagreen"> CLIQUE AQUI.</b></a>
+                           <br/> Para saber como encontrar o imóvel ideal<a href="../apartamento-ideal"><b style="color:seagreen"> CLIQUE AQUI.</b></a>
                         </p>
                         <!--<div class="quote-wrapper">
                            <div class="quotes">

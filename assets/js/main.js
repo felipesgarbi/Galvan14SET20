@@ -13,7 +13,7 @@
 /* 2. sticky And Scroll UP */
     $(window).on('scroll', function () {
       var scroll = $(window).scrollTop();
-      if (scroll < 130) {
+      if (scroll < 1) {
         $(".header-sticky").removeClass("sticky-bar");
         $('#back-top').fadeOut(1000);
       } else {
