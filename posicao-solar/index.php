@@ -36,24 +36,14 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>30/11/2020 - Por: Galvan Engenharia</h5>
+                        <h5>15/01/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../compra-e-venda/CAPA.jpg" alt="compra-e-venda-capa"/>
+                        <img class="img-fluid" src="../posicao-solar/CAPA.png" alt="posicao-solar-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>5 PASSOS</b> na <b>DOCUMENTAÇÃO</b> de <b>COMPRA e VENDA</b> de um imóvel
-                        </h2>
-                        <p class="excert" style="text-align:justify;">
-                           Você sabe quais as etapas para obter a documentação de compra e venda do seu imóvel?
-                           </br>
-                           Se você ainda tem dúvidas, vem conferir esse post que a gente explicou tudinho.
-                        </p>
-
-                        <p style="text-align:justify;">
-                           Está decidido a fechar negócio naquele imóvel dos seus sonhos e chegou a hora de providenciar a papelada. Então, vamos lá!
-                           <br/> Para saber como encontrar o imóvel ideal<a href="../apartamento-ideal"><b style="color:seagreen"> CLIQUE AQUI.</b></a>
-                        </p>
+                        <b>Como escolher a melhor POSIÇÃO SOLAR de um IMÓVEL?</b></h2>
+                        
                         <!--<div class="quote-wrapper">
                            <div class="quotes">
                               MCSE boot camps have its supporters and its detractors. Some people do not understand why you
@@ -62,69 +52,59 @@
                               self-imposed MCSE training.
                            </div>
                         </div>-->
-                        <h2 class="pt-40" style="color: #2d2d2d;">1. CONTRATO DE COMPRA E VENDA</h2>
-                        <p style="text-align:justify;">
-                           Primeiramente você e seu parceiro de negócio deverão elaborar um CONTRATO DE COMPRA E VENDA, 
-                           que pode ser feita pelo corretor de imóveis ou um advogado.
-                        </p>
-                        <p style="text-align:justify;">
-                           Neste documento serão descritas as condições de compra e venda, formas de pagamento, prazos, 
-                           cláusulas rescisórias, juros e multas.
-                        </p>
-                        <p style="text-align:justify;">
-                           É importante que você saiba que o contrato de compra e venda NÃO tem validade de 
-                           transferência de propriedade do imóvel.
-                        </p>
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../compra-e-venda/img1.jpg" style="max-width:100%;" alt="contrato-de-compra-e-venda"/>
+
+                        <div class="quote-wrapper">
+                           <h4 class="" style="color: #2d2d2d;"><b>Você sabia que uma boa posição solar traz consigo muitas vantagens?</b></h4>
+                           <div class="quotes">
+                              - maior conforto térmico;
+                              <br>- menor consumo de energia elétrica;
+                              <br>- menos umidade ambiente;
+                              <br>- menor incidência de fungos e ácaros;
+                              <br>- valorização do imóvel,
+                              <br><b>são algumas delas.</b>
+                           </div>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">2. ESCRITURA PÚBLICA</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">Mas afinal, qual é a melhor posição solar?</h2>
                         <p style="text-align:justify;">
-                           Se você comprou um imóvel na planta, terá que esperar a instituição de condomínio para prosseguir com 
-                           a documentação de transferência do imóvel.
+                        Para quem vive no hemisfério sul <i>(como nós, joinvillenses)</i> os imóveis com face <b>NORTE</b>, são os mais ensolarados, recebendo sol ao longo de todo o dia, especialmente no inverno.
+                        <br>Ainda assim, é preciso ficar atento a presença de prédios ou grandes árvores que prejudiquem a incidência de Sol no imóvel.
                         </p>
-                        <p style="text-align:justify;">
-                           Caso contrário, poderá partir para o passo 2, a ESCRITURA PÚBLICA.
-                        </p>
-                        <p style="text-align:justify;">
-                        Se você for financiar o imóvel , o contrato do banco irá substituir a escritura pública.
-                        </p>
-                        <p style="text-align:justify;">
-                           Este é um documento de transição entre o CONTRATO e a TRANSFERÊNCIA DE MATRÍCULA 
-                           propriamente dita. E é nesse momento que é pago o ITBI (Imposto sobre Transmissão de Bens Imóveis).
-                        </p>
-                        <p style="text-align:justify;">
-                           A Escritura Pública é feita no Tabelionato de Notas, e reúne informações sobre a negociação 
-                           e as partes envolvidas, mas ainda NÃO é o documento de transferência de propriedade do imóvel.
-                        </p>
+                        
                         <div class="feature-img">
-                           <img class="img-fluid" src="../compra-e-venda/img2.jpg" style="max-width:100%;" alt="escritura-publica"/>
+                           <img class="img-fluid" src="../posicao-solar/img2.png" style="max-width:100%;" alt="face-norte"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">3. REGISTRO DE IMÓVEL</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">E os imóveis com face LESTE/OESTE?</h2>
                         <p style="text-align:justify;">
-                           Pronto, chegou a hora de ter o tão sonhado imóvel no SEU NOME.
+                        Essas são as posições intermediárias, o LESTE recebe o sol da manhã que é menos intenso, enquanto que o OESTE recebe o sol da tarde mais quente.
+                        <br>Nesses imóveis é importante avaliar como o sol incide sobre os cômodos, em especial, salas e quartos.
+                        <br>O sol da manhã (leste) garante um ambiente arejado e aquecido no início do dia e mais fresco no fim da tarde, o que é bastante vantajoso.
                         </p>
-                        <p style="text-align:justify;">
-                           Para isso, você precisará fazer o REGISTRO DE IMÓVEL NA MATRÍCULA no Cartório de 
-                           Registro de Imóveis, com a averbação da transferência de titularidade na matrícula do imóvel.
-                        </p>
-                        <p style="text-align:justify;">
-                           Este documento contém todo histórico ligado ao imóvel, tais como: localização, metragem do 
-                           terreno, proprietários antigos e atuais, número de cadastro junto à prefeitura, etc.
-                        </p>
-                        <p style="text-align:justify;">
-                           Enfim, o imóvel é de fato SEU!
-                        </p>
+                        
                         <div class="feature-img">
-                           <img class="img-fluid" src="../compra-e-venda/img3.jpg" style="max-width:100%;" alt="registro-de-imovel"/>
+                           <img class="img-fluid" src="../posicao-solar/img3.jpg" style="max-width:100%;" alt="face-leste-oeste"/>
                         </div>
 
+                        <h2 class="pt-40" style="color: #2d2d2d;">Mas, e se o imóvel for face SUL?</h2>
+                        <p style="text-align:justify;">
+                        Apesar de ser a posição solar menos favorável, com sol incidindo poucas horas durante o dia, algumas dicas podem te ajudar a trazer mais conforto para este imóvel.
+                           <br>- desencostar os móveis das paredes evitando pontos de umidade;
+                           <br>- usar piso vinílico para melhorar o conforto térmico;
+                           <br>- usar tecidos sintéticos em almofadas, cortinas e tapetes, que além de reter o calor são menos propensos a fungos e ácaros.
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../posicao-solar/img4.png" style="max-width:100%;" alt="face-norte"/>
+                        </div>
+                        <br/>
+                        <p style="text-align:justify;">
+                           Agora que você já sabe tudo sobre a importância da incidência solar sobre um imóvel, venha conhecer o RESIDENCIAL CONTARINI e aproveitar a excelente posição solar desse empreendimento encantador.
+                        </p>
                      </div>
                   </div>
                   </br>
-                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a></h5>
+                  <h5 style="color:black;"><a href="#">#construcaocivil </a><a href="#">#mercadoimobiliario</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -135,42 +115,40 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/apartamento-na-planta">
-                                    <img class="" src="../apartamento-na-planta/CAPA-2511201059.jpg" alt="apartamento-na-planta-capa" height="80px">
+                                 <a href="/compra-e-venda">
+                                    <img class="" src="../compra-e-venda/CAPA.jpg" alt="compra-e-venda-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/apartamento-na-planta">
+                                 <a href="/compra-e-venda">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/apartamento-na-planta">
-                                    <h4 style="color: #2d2d2d;">5 MEDOS de comprar um APARTAMENTO NA PLANTA</h4>
+                                 <a href="/compra-e-venda">
+                                    <h4 style="color: #2d2d2d;">5 PASSOS na DOCUMENTAÇÃO de COMPRA e VENDA de um imóvel</h4>
                                  </a>
                               </div>
                            </div>
-                           
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                           <!--<div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div class="details">
                                  <p>Próximo Post</p>
-                                 <a href="/posicao-solar">
-                                    <h4 style="color: #2d2d2d;">Como escolher a melhor POSIÇÃO SOLAR de um IMÓVEL?</h4>
+                                 <a href="#">
+                                    <h4 style="color: #2d2d2d;">Telescopes 101</h4>
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/posicao-solar">
+                                 <a href="#">
                                     <span class="lnr text-white ti-arrow-right"></span>
                                  </a>
                               </div>
                               <div class="thumb">
-                                 <a href="/posicao-solar">
-                                    <img class="img-fluid" src="../posicao-solar/CAPA.png" alt="posicao-solar">
+                                 <a href="#">
+                                    <img class="img-fluid" src="assets/img/post/next.png" alt="proximo-post">
                                  </a>
                               </div>
-                           </div>
-
+                           </div>-->
                         </div>
                      </div>
                   </div>

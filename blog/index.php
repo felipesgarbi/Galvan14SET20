@@ -46,6 +46,29 @@
                         <!-- POST 01 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
+                                    <a class="d-inline-block" href="/posicao-solar">
+                                        <img class="card-img rounded-0" src="../posicao-solar/CAPA.png" alt="posicao-solar" />
+                                    </a>
+                                    <span class="blog_item_date">
+                                        <h3>15</h3>
+                                        <p>JAN</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="/compra-e-venda">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">Como escolher a melhor POSIÇÃO SOLAR de um IMÓVEL?</h2>
+                                    </a>
+                                    <h4 class="" style="color: #2d2d2d;"><b>Você sabia que uma boa posição solar traz consigo muitas vantagens?</b></h4>
+                                          Maior conforto térmico, menor consumo de energia elétrica, 
+                                          menos umidade ambiente, menor incidência de fungos e ácaros, 
+                                          valorização do imóvel, etc. São algumas delas.
+                                </div>
+                            </article>
+                            <!-- POST 01 FIM -->
+
+                        <!-- POST 02 INÍCIO -->
+                        <article class="blog_item">
+                                <div class="blog_item_img">
                                     <a class="d-inline-block" href="/compra-e-venda">
                                         <img class="card-img rounded-0" src="../compra-e-venda/CAPA.jpg" alt="compra-e-venda" />
                                     </a>
@@ -64,9 +87,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 01 FIM -->
+                            <!-- POST 02 FIM -->
 
-                            <!-- POST 02 INÍCIO -->
+                            <!-- POST 03 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-na-planta">
@@ -89,9 +112,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 02 FIM -->
+                            <!-- POST 03 FIM -->
 
-                            <!-- POST 03 INÍCIO -->
+                            <!-- POST 04 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-ideal">
@@ -112,9 +135,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 03 FIM -->
+                            <!-- POST 04 FIM -->
 
-                            <!-- POST 04 INÍCIO -->
+                            <!-- POST 05 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
@@ -140,7 +163,7 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 04 FIM -->
+                            <!-- POST 05 FIM -->
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">
