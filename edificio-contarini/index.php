@@ -230,21 +230,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS PRELIMINARES - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress noventaeCincoPorc">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">95%</div>
+                            <div class="progress-value">100%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>SERVIÇOS PRELIMINARES</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 25/11/2020</h6>
+                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
                             </div>
                         </p>
                     </div>
@@ -256,21 +256,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FUNDAÇÃO - INICIO *** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress setentaeCincoPorc">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">75%</div>
+                            <div class="progress-value">100%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>FUNDAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 25/11/2020</h6>
+                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
                             </div>
                         </p>
                     </div>
@@ -282,21 +282,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ESTRUTURA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress zeroPorc">
+                        <div class="progress cincoPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">0%</div>
+                            <div class="progress-value">5%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>ESTRUTURA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
+                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
                             </div>
                         </p>
                     </div>

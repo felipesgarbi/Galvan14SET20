@@ -210,7 +210,7 @@
     border-right: 0;
     -webkit-transform-origin: center right;
     transform-origin: center right;
-    animation: loading-1 1.8s linear forwards;
+    animation: loading-00L 1.8s linear forwards;
 }
 .progress .progress-value{
     width: 90%;
@@ -230,6 +230,30 @@
 /* ########## PROGRESS BAR CLASS NAMING - START ########### */
 /* ######################################################## */
 
+/* ######################################################## */
+
+/* LOADING 00 - 0% PROGRESS - START */
+.progress.zeroPorc .progress-right .progress-bar{
+    animation: loading-00 1s linear forwards 1.8s;
+}
+/* LOADING 0 - 0% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 00.1 - 5% PROGRESS - START */
+.progress.cincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.CincoPorc .progress-right .progress-bar{
+    animation: loading-00R 1s linear forwards 1.8s;
+}
+.progress.CincoPorc .progress-left .progress-bar{
+    animation: loading-00L 1s linear forwards 1.8s;
+}
+/* LOADING 00.1 - 5% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 01 - 10% PROGRESS - START */
 .progress.dezPorc .progress-bar{
     border-color: #234e76;
@@ -238,6 +262,20 @@
     animation: loading-1 1s linear forwards 1.8s;
 }
 /* LOADING 01 - 10% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 01.1 - 15% PROGRESS - START */
+.progress.quinzePorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.quinzePorc .progress-right .progress-bar{
+    animation: loading-1R 1s linear forwards 1.8s;
+}
+.progress.quinzePorc .progress-left .progress-bar{
+    animation: loading-1L 1s linear forwards 1.8s;
+}
+/* LOADING 01.1 - 15% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -252,6 +290,20 @@
 
 /* ######################################################## */
 
+/* LOADING 02.1 - 25% PROGRESS - START */
+.progress.vinteeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.vinteeCincoPorc .progress-right .progress-bar{
+    animation: loading-2R 1s linear forwards 1.8s;
+}
+.progress.vinteeCincoPorc .progress-left .progress-bar{
+    animation: loading-2L 1s linear forwards 1.8s;
+}
+/* LOADING 02.1 - 25% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 03 - 30% PROGRESS - START */
 .progress.trintaPorc .progress-bar{
     border-color: #234e76;
@@ -260,6 +312,20 @@
     animation: loading-3 1s linear forwards 1.8s;
 }
 /* LOADING 03 - 30% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 03.1 - 35% PROGRESS - START */
+.progress.trintaeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.trintaeCincoPorc .progress-right .progress-bar{
+    animation: loading-3R 1s linear forwards 1.8s;
+}
+.progress.trintaeCincoPorc .progress-left .progress-bar{
+    animation: loading-3L 1s linear forwards 1.8s;
+}
+/* LOADING 03.1 - 35% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -274,6 +340,20 @@
 
 /* ######################################################## */
 
+/* LOADING 04.1 - 45% PROGRESS - START */
+.progress.quarentaeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.quarentaeCincoPorc .progress-right .progress-bar{
+    animation: loading-4R 1s linear forwards 1.8s;
+}
+.progress.quarentaeCincoPorc .progress-left .progress-bar{
+    animation: loading-4L 1s linear forwards 1.8s;
+}
+/* LOADING 04.1 - 45% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 05 - 50% PROGRESS - START */
 .progress.cinquentaPorc .progress-bar{
     border-color: #234e76;
@@ -285,6 +365,20 @@
 
 /* ######################################################## */
 
+/* LOADING 05.1 - 55% PROGRESS - START */
+.progress.cinquentaeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.cinquentaeCincoPorc .progress-right .progress-bar{
+    animation: loading-5R 1s linear forwards 1.8s;
+}
+.progress.cinquentaeCincoPorc .progress-left .progress-bar{
+    animation: loading-5L 1s linear forwards 1.8s;
+}
+/* LOADING 05.1 - 55% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 06 - 60% PROGRESS - START */
 .progress.sessentaPorc .progress-bar{
     border-color: #234e76;
@@ -292,7 +386,24 @@
 .progress.sessentaPorc .progress-right .progress-bar{
     animation: loading-6 1s linear forwards 1.8s;
 }
+.progress.sessentaPorc .progress-left .progress-bar{
+    animation: loading-60 1s linear forwards 1.8s;
+}
 /* LOADING 06 - 60% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 06.1 - 65% PROGRESS - START */
+.progress.sessentaeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.sessentaeCincoPorc .progress-right .progress-bar{
+    animation: loading-6R 1s linear forwards 1.8s;
+}
+.progress.sessentaeCincoPorc .progress-left .progress-bar{
+    animation: loading-6L 1s linear forwards 1.8s;
+}
+/* LOADING 06.1 - 65% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -302,6 +413,9 @@
 }
 .progress.setentaPorc .progress-right .progress-bar{
     animation: loading-7 1s linear forwards 1.8s;
+}
+.progress.noventaPorc .progress-left .progress-bar{
+    animation: loading-70 1s linear forwards 1.8s;
 }
 /* LOADING 07 - 70% PROGRESS - END */
 
@@ -328,7 +442,24 @@
 .progress.oitentaPorc .progress-right .progress-bar{
     animation: loading-8 1s linear forwards 1.8s;
 }
+.progress.noventaPorc .progress-left .progress-bar{
+    animation: loading-80 1s linear forwards 1.8s;
+}
 /* LOADING 08 - 80% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 08.1 - 85% PROGRESS - START */
+.progress.oitentaeCincoPorc .progress-bar{
+    border-color: #234e76;
+}
+.progress.oitentaeCincoPorc .progress-right .progress-bar{
+    animation: loading-85R 1s linear forwards 1.8s;
+}
+.progress.oitentaeCincoPorc .progress-left .progress-bar{
+    animation: loading-85L 1s linear forwards 1.8s;
+}
+/* LOADING 08.1 - 85% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -338,6 +469,9 @@
 }
 .progress.noventaPorc .progress-right .progress-bar{
     animation: loading-9 1s linear forwards 1.8s;
+}
+.progress.noventaPorc .progress-left .progress-bar{
+    animation: loading-90 1s linear forwards 1.8s;
 }
 /* LOADING 09 - 90% PROGRESS - END */
 
@@ -371,14 +505,6 @@
 /* LOADING 10 - 100% PROGRESS - END */
 
 /* ######################################################## */
-
-/* LOADING 00 - 0% PROGRESS - START */
-.progress.zeroPorc .progress-right .progress-bar{
-    animation: loading-00 1s linear forwards 1.8s;
-}
-/* LOADING 0 - 0% PROGRESS - END */
-
-/* ######################################################## */
 /* ########### PROGRESS BAR CLASS NAMING - END ############ */
 /* ######################################################## */
 
@@ -401,6 +527,34 @@ input[type=text] {
 /* ########### PROGRESS BAR ADJUSTMENTS - START ########### */
 /* ######################################################## */
 
+/* LOADING 00.1 - 5% PROGRESS - START */
+
+@keyframes loading-00R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-00L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(12deg);
+        transform: rotate(12deg);
+    }
+}
+
+/* LOADING 00.1 - 5% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 01 - 10% PROGRESS - START */
 @keyframes loading-1{
     0%{
@@ -416,6 +570,34 @@ input[type=text] {
 /* LOADING 01 - 10% PROGRESS - END */
 
 /* ######################################################## */
+
+/* ######################################################## */
+
+/* LOADING 01.1 - 15% PROGRESS - START */
+
+@keyframes loading-1R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(54deg);
+        transform: rotate(54deg);
+    }
+}
+
+@keyframes loading-1L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+
+/* LOADING 01.1 - 15% PROGRESS - END */
 
 /* LOADING 02 - 20% PROGRESS - START */
 
@@ -434,6 +616,34 @@ input[type=text] {
 
 /* ######################################################## */
 
+/* LOADING 02.1 - 25% PROGRESS - START */
+
+@keyframes loading-2R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+    }
+}
+
+@keyframes loading-2L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+
+/* LOADING 02.1 - 25% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 03 - 30% PROGRESS - START */
 @keyframes loading-3{
     0%{
@@ -447,6 +657,34 @@ input[type=text] {
 }
 
 /* LOADING 03 - 30% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 03.1 - 35% PROGRESS - START */
+
+@keyframes loading-3R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(126deg);
+        transform: rotate(126deg);
+    }
+}
+
+@keyframes loading-3L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+
+/* LOADING 03.1 - 35% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -467,6 +705,34 @@ input[type=text] {
 
 /* ######################################################## */
 
+/* LOADING 04.1 - 45% PROGRESS - START */
+
+@keyframes loading-4R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(162deg);
+        transform: rotate(162deg);
+    }
+}
+
+@keyframes loading-4L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+
+/* LOADING 04.1 - 45% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 05 - 50% PROGRESS - START */
 
 @keyframes loading-5{
@@ -484,6 +750,34 @@ input[type=text] {
 
 /* ######################################################## */
 
+/* LOADING 05.1 - 55% PROGRESS - START */
+
+@keyframes loading-5R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-5L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(18deg);
+        transform: rotate(18deg);
+    }
+}
+
+/* LOADING 05.1 - 55% PROGRESS - END */
+
+/* ######################################################## */
+
 /* LOADING 06 - 60% PROGRESS - START */
 
 @keyframes loading-6{
@@ -492,12 +786,51 @@ input[type=text] {
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(216deg);
-        transform: rotate(216deg);
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-60{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(36deg);
+        transform: rotate(36deg);
     }
 }
 
 /* LOADING 06 - 60% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 06.1 - 65% PROGRESS - START */
+
+@keyframes loading-6R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-6L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(54deg);
+        transform: rotate(54deg);
+    }
+}
+
+/* LOADING 06.1 - 65% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -509,8 +842,19 @@ input[type=text] {
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(252deg);
-        transform: rotate(252deg);
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-70{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(72deg);
+        transform: rotate(72deg);
     }
 }
 
@@ -554,12 +898,51 @@ input[type=text] {
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(288deg);
-        transform: rotate(288deg);
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-80{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(108deg);
+        transform: rotate(108deg);
     }
 }
 
 /* LOADING 08 - 80% PROGRESS - END */
+
+/* ######################################################## */
+
+/* LOADING 08.1 - 85% PROGRESS - START */
+
+@keyframes loading-8R{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-8L{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(126deg);
+        transform: rotate(126deg);
+    }
+}
+
+/* LOADING 08.1 - 85% PROGRESS - END */
 
 /* ######################################################## */
 
@@ -571,8 +954,19 @@ input[type=text] {
         transform: rotate(0deg);
     }
     100%{
-        -webkit-transform: rotate(324deg);
-        transform: rotate(324deg);
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+@keyframes loading-90{
+    0%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(144deg);
+        transform: rotate(144deg);
     }
 }
 
