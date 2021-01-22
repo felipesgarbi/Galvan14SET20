@@ -64,10 +64,13 @@ include "../estrutura/head.php";
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mb-10 w-100">
-                            <img class="mb-2" src="../assets/img/FotosContarini/1-HALLENTRADA-.jpg" alt="hall-de-entrada-contarini" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosContarini/4-PISCINA-.jpg" alt="piscina-contarini" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosContarini/5-APARTAMENTO-.jpg" alt="apartamento-contarini" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosContarini/7-SUITE-.jpg" alt="suite-contarini" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/1-HALLENTRADA-.jpg" alt="hall-de-entrada-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/2-LOUNGE-.jpg" alt="lounge-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/3-ESPACORELAX-.jpg" alt="espaco-relax-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/4-PISCINA-.jpg" alt="piscina-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/4-SALAODEFESTAS-.jpg" alt="salao-de-festas-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/5-APARTAMENTO-.jpg" alt="apartamento-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/7-SUITE-.jpg" alt="suite-contarini" width="100%">
                         </div>
                     </div>
                 </div>
