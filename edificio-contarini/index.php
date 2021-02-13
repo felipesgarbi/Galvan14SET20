@@ -64,10 +64,13 @@ include "../estrutura/head.php";
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mb-10 w-100">
-                            <img class="mb-2" src="../assets/img/FotosContarini/1-HALLENTRADA-.jpg" alt="hall-de-entrada-contarini" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosContarini/4-PISCINA-.jpg" alt="piscina-contarini" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosContarini/5-APARTAMENTO-.jpg" alt="apartamento-contarini" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosContarini/7-SUITE-.jpg" alt="suite-contarini" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/1-HALLENTRADA-.jpg" alt="hall-de-entrada-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/2-LOUNGE-.jpg" alt="lounge-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/3-ESPACORELAX-.jpg" alt="espaco-relax-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/4-PISCINA-.jpg" alt="piscina-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/4-SALAODEFESTAS-.jpg" alt="salao-de-festas-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/5-APARTAMENTO-.jpg" alt="apartamento-contarini" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosContarini/7-SUITE-.jpg" alt="suite-contarini" width="100%">
                         </div>
                     </div>
                 </div>
@@ -230,21 +233,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS PRELIMINARES - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress noventaeCincoPorc">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">95%</div>
+                            <div class="progress-value">100%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>SERVIÇOS PRELIMINARES</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 25/11/2020</h6>
+                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
                             </div>
                         </p>
                     </div>
@@ -256,21 +259,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FUNDAÇÃO - INICIO *** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress setentaeCincoPorc">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">75%</div>
+                            <div class="progress-value">100%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>FUNDAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 25/11/2020</h6>
+                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
                             </div>
                         </p>
                     </div>
@@ -282,21 +285,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ESTRUTURA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress zeroPorc">
+                        <div class="progress cincoPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">0%</div>
+                            <div class="progress-value">5%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>ESTRUTURA</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
+                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
                             </div>
                         </p>
                     </div>
