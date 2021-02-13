@@ -36,13 +36,13 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>15/01/2021 - Por: Galvan Engenharia</h5>
+                        <h5>11/02/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../posicao-solar/CAPA.png" alt="posicao-solar-capa"/>
+                        <img class="img-fluid" src="../evitar-mau-cheiro/CAPA.png" alt="evitar-mau-cheiro-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>Como escolher a melhor POSIÇÃO SOLAR de um IMÓVEL?</b></h2>
+                        <b>MAU CHEIRO DE ESGOTO em casa. O que pode ser?</b></h2>
                         
                         <!--<div class="quote-wrapper">
                            <div class="quotes">
@@ -53,58 +53,44 @@
                            </div>
                         </div>-->
 
-                        <div class="quote-wrapper">
-                           <h4 class="" style="color: #2d2d2d;"><b>Você sabia que uma boa posição solar traz consigo muitas vantagens?</b></h4>
-                           <div class="quotes">
-                              - maior conforto térmico;
-                              <br>- menor consumo de energia elétrica;
-                              <br>- menos umidade ambiente;
-                              <br>- menor incidência de fungos e ácaros;
-                              <br>- valorização do imóvel,
-                              <br><b>são algumas delas.</b>
-                           </div>
-                        </div>
-
-                        <h2 class="pt-40" style="color: #2d2d2d;">Mas afinal, qual é a melhor posição solar?</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">VERIFIQUE SE A INSTALAÇÃO DO SIFÃO ESTÁ CORRETA</h2>
                         <p style="text-align:justify;">
-                        Para quem vive no hemisfério sul <i>(como nós, joinvillenses)</i> os imóveis com face <b>NORTE</b>, são os mais ensolarados, recebendo sol ao longo de todo o dia, especialmente no inverno.
-                        <br>Ainda assim, é preciso ficar atento a presença de prédios ou grandes árvores que prejudiquem a incidência de Sol no imóvel.
+                        A curva em U no sifão acumula água, e é ela quem evita que o cheiro do esgoto retorne.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../posicao-solar/img2.png" style="max-width:100%;" alt="face-norte"/>
+                           <img class="img-fluid" src="../evitar-mau-cheiro/img1.png" style="max-width:100%;" alt="curva-em-u"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">E os imóveis com face LESTE/OESTE?</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">VERIFIQUE A PRESENÇA DE ÁGUA DENTRO DOS RALOS</h2>
                         <p style="text-align:justify;">
-                        Essas são as posições intermediárias, o LESTE recebe o sol da manhã que é menos intenso, enquanto que o OESTE recebe o sol da tarde mais quente.
-                        <br>Nesses imóveis é importante avaliar como o sol incide sobre os cômodos, em especial, salas e quartos.
-                        <br>O sol da manhã (leste) garante um ambiente arejado e aquecido no início do dia e mais fresco no fim da tarde, o que é bastante vantajoso.
+                        Essas são as posições intermediárias, o LESTE reNo interior dos ralos existe uma caixa sifonada, que acumula água para impedir que os gases do esgoto retornem.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../posicao-solar/img3.jpg" style="max-width:100%;" alt="face-leste-oeste"/>
+                           <img class="img-fluid" src="../evitar-mau-cheiro/img2.png" style="max-width:100%;" alt="agua-dentro-do-ralo"/>
                         </div>
-
-                        <h2 class="pt-40" style="color: #2d2d2d;">Mas, e se o imóvel for face SUL?</h2>
                         <p style="text-align:justify;">
-                        Apesar de ser a posição solar menos favorável, com sol incidindo poucas horas durante o dia, algumas dicas podem te ajudar a trazer mais conforto para este imóvel.
-                           <br>- desencostar os móveis das paredes evitando pontos de umidade;
-                           <br>- usar piso vinílico para melhorar o conforto térmico;
-                           <br>- usar tecidos sintéticos em almofadas, cortinas e tapetes, que além de reter o calor são menos propensos a fungos e ácaros.
+                        Deve ter pelo menos 5 cm de água para garantir uma boa vedação.
+                        </br>
+                        Atenção, verifique se o sifão está no lugar.
+                        </p>
+
+                        <h2 class="pt-40" style="color: #2d2d2d;">VERIFIQUE TUBULAÇÕES ABERTAS OU COM FOLGA</h2>
+                        <p style="text-align:justify;">
+                        Este é um problema comum em pontos de instalação de máquinas de lavar louça ou roupa.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../posicao-solar/img4.png" style="max-width:100%;" alt="face-norte"/>
+                           <img class="img-fluid" src="../evitar-mau-cheiro/img3.png" style="max-width:100%;" alt="tubulacoes-abertas-ou-com-folga"/>
                         </div>
-                        <br/>
                         <p style="text-align:justify;">
-                           Agora que você já sabe tudo sobre a importância da incidência solar sobre um imóvel, venha conhecer o RESIDENCIAL CONTARINI e aproveitar a excelente posição solar desse empreendimento encantador.
+                        O uso de um adaptador para máquina de lavar elimina este problema.
                         </p>
                      </div>
                   </div>
                   </br>
-                  <h5 style="color:black;"><a href="#">#construcaocivil </a><a href="#">#mercadoimobiliario</a></h5>
+                  <h5 style="color:black;"><a href="#">#curiosidades</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -115,42 +101,40 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/compra-e-venda">
-                                    <img class="" src="../compra-e-venda/CAPA.jpg" alt="compra-e-venda-capa" height="80px">
+                                 <a href="/posicao-solar">
+                                    <img class="" src="../posicao-solar/CAPA.png" alt="posicao-solar-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/compra-e-venda">
+                                 <a href="/posicao-solar">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/compra-e-venda">
-                                    <h4 style="color: #2d2d2d;">5 PASSOS na DOCUMENTAÇÃO de COMPRA e VENDA de um imóvel</h4>
+                                 <a href="/posicao-solar">
+                                    <h4 style="color: #2d2d2d;">Como escolher a melhor POSIÇÃO SOLAR de um IMÓVEL?</h4>
                                  </a>
                               </div>
                            </div>
-
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                           <!--<div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div class="details">
                                  <p>Próximo Post</p>
-                                 <a href="/evitar-mau-cheiro">
-                                    <h4 style="color: #2d2d2d;">MAU CHEIRO DE ESGOTO em casa. O que pode ser?</h4>
+                                 <a href="#">
+                                    <h4 style="color: #2d2d2d;">Telescopes 101</h4>
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/evitar-mau-cheiro">
+                                 <a href="#">
                                     <span class="lnr text-white ti-arrow-right"></span>
                                  </a>
                               </div>
                               <div class="thumb">
-                                 <a href="/evitar-mau-cheiro">
-                                    <img class="img-fluid" src="../evitar-mau-cheiro/CAPA.png" alt="evitar-mau-cheiro">
+                                 <a href="#">
+                                    <img class="img-fluid" src="assets/img/post/next.png" alt="proximo-post">
                                  </a>
                               </div>
-                           </div>
-
+                           </div>-->
                         </div>
                      </div>
                   </div>

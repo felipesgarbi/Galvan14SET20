@@ -46,6 +46,27 @@
                         <!-- POST 01 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
+                                    <a class="d-inline-block" href="/evitar-mau-cheiro">
+                                        <img class="card-img rounded-0" src="../evitar-mau-cheiro/CAPA.png" alt="evitar-mau-cheiro" />
+                                    </a>
+                                    <span class="blog_item_date">
+                                        <h3>11</h3>
+                                        <p>FEV</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="/evitar-mau-cheiro">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">MAU CHEIRO DE ESGOTO em casa. O que pode ser?</h2>
+                                    </a>
+                                    <h4 class="" style="color: #2d2d2d;">Verifique se a instalação do sifão está correta.
+                                        </br>A curva em U no sifão acumula água, e é ela quem evita que o cheiro do esgoto retorne.</h4>
+                                </div>
+                            </article>
+                        <!-- POST 01 FIM -->
+
+                        <!-- POST 02 INÍCIO -->
+                        <article class="blog_item">
+                                <div class="blog_item_img">
                                     <a class="d-inline-block" href="/posicao-solar">
                                         <img class="card-img rounded-0" src="../posicao-solar/CAPA.png" alt="posicao-solar" />
                                     </a>
@@ -64,9 +85,9 @@
                                           valorização do imóvel, etc. São algumas delas.
                                 </div>
                             </article>
-                            <!-- POST 01 FIM -->
+                            <!-- POST 02 FIM -->
 
-                        <!-- POST 02 INÍCIO -->
+                        <!-- POST 03 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/compra-e-venda">
@@ -87,9 +108,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 02 FIM -->
+                            <!-- POST 03 FIM -->
 
-                            <!-- POST 03 INÍCIO -->
+                            <!-- POST 04 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-na-planta">
@@ -112,9 +133,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 03 FIM -->
+                            <!-- POST 04 FIM -->
 
-                            <!-- POST 04 INÍCIO -->
+                            <!-- POST 05 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-ideal">
@@ -135,9 +156,9 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 04 FIM -->
+                            <!-- POST 05 FIM -->
 
-                            <!-- POST 05 INÍCIO -->
+                            <!-- POST 06 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
@@ -163,7 +184,7 @@
                                     </p>
                                 </div>
                             </article>
-                            <!-- POST 05 FIM -->
+                            <!-- POST 06 FIM -->
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">
