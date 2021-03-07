@@ -36,13 +36,13 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>11/02/2021 - Por: Galvan Engenharia</h5>
+                        <h5>07/03/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../evitar-mau-cheiro/CAPA.png" alt="evitar-mau-cheiro-capa"/>
+                        <img class="img-fluid" src="../morar-bairro-saguacu/CAPA.png" alt="morar-bairro-saguacu-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>MAU CHEIRO DE ESGOTO em casa. O que pode ser?</b></h2>
+                        <b>5 MOTIVOS para viver no SAGUAÇU</b></h2>
                         
                         <!--<div class="quote-wrapper">
                            <div class="quotes">
@@ -53,44 +53,64 @@
                            </div>
                         </div>-->
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">VERIFIQUE SE A INSTALAÇÃO DO SIFÃO ESTÁ CORRETA</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">1. LOCALIZAÇÃO</h2>
                         <p style="text-align:justify;">
-                        A curva em U no sifão acumula água, e é ela quem evita que o cheiro do esgoto retorne.
+                           Além de estar localizado na região central da cidade, o Saguaçu é cortado por importantes vias, como a Rua Dona Francisca e a Rua Iririú, facilitiando muito o deslocamento para qualquer ponto da nossa cidade.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../evitar-mau-cheiro/img1.png" style="max-width:100%;" alt="curva-em-u"/>
+                           <img class="img-fluid" src="../morar-bairro-saguacu/img1.png" style="max-width:100%;" alt="localizacao-bairro-saguacu-joinville"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">VERIFIQUE A PRESENÇA DE ÁGUA DENTRO DOS RALOS</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">2. INFRAESTRUTURA</h2>
                         <p style="text-align:justify;">
-                        Essas são as posições intermediárias, o LESTE reNo interior dos ralos existe uma caixa sifonada, que acumula água para impedir que os gases do esgoto retornem.
+                           No Saguaçu você vai encontrar tudo que você precisa: restaurantes, supermercados, padarias, farmácias, academias, lojas de diversos segmentos, prédios comerciais, shopping, faculdades, além de ótimos e tradicionais colégios.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../evitar-mau-cheiro/img2.png" style="max-width:100%;" alt="agua-dentro-do-ralo"/>
+                           <img class="img-fluid" src="../morar-bairro-saguacu/img2.png" style="max-width:100%;" alt="infraestrutura-bairro-saguacu-joinville"/>
                         </div>
+                        
+
+                        <h2 class="pt-40" style="color: #2d2d2d;">3. LAZER E CULTURA</h2>
                         <p style="text-align:justify;">
-                        Deve ter pelo menos 5 cm de água para garantir uma boa vedação.
-                        </br>
-                        Atenção, verifique se o sifão está no lugar.
+                        Rua do Lazer, Zoobotânico e Parque Hemirocallis são algumas das opções de lazer que o Saguaçu oferece aos seus moradores. 
+                        </br> Enquanto que a escola de Teatro Bolshoi, o centreventos Cau Hansen, o Museu Arqueológico de Sambaqui ou o Museu Nacional de Imigração são excelentes opções culturais que estão coladinhas ao bairro.
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../morar-bairro-saguacu/img3.png" style="max-width:100%;" alt="lazer-cultura-bairro-saguacu-joinville"/>
+                        </div>
+
+                        <h2 class="pt-40" style="color: #2d2d2d;">4. CONTATO COM A NATUREZA</h2>
+                        <p style="text-align:justify;">
+                           Por abrigar importantes áreas de proteção permanente, como o Morro do Boa Vista e Morro do Finder, o bairro Saguaçu é abraçado pelo verde, garantindo aos seus moradores um perfeito equilíbrio entre a vida urbana e a natureza. 
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../morar-bairro-saguacu/img4-2.png" style="max-width:100%;" alt="natureza-bairro-saguacu-joinville"/>
+                           <h6><i>Vista do Residencial Ouro Verde no Bairro Saguaçu</i></h6>
+                        </div>
+               
+                        <h2 class="pt-40" style="color: #2d2d2d;">5. SEGURANÇA E QUALIDADE DE VIDA</h2>
+                        <p style="text-align:justify;">
+                           Tranquilidade e segurança transitam pelas ruas do Saguaçu, que conta com uma vizinhança calma tradicional. Caminhadas em família e a prática de atividades físicas tornam-se muito mais prazerosos aqui. 
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../morar-bairro-saguacu/img5.png" style="max-width:100%;" alt="seguranca-bairro-saguacu-joinville"/>
+                        </div>
+
+                        <p>Por esses motivos o Saguaçu fascina seus moradores, e tem atraído cada vez mais o interesse de muitos joinvillenses.
+                        </br>E este foi o bairro escolhido por nós da Galvan Engenharia para concretizar sonhos!
+                        </br><b>Venha conhecer nossos empreendimentos!</b>
                         </p>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">VERIFIQUE TUBULAÇÕES ABERTAS OU COM FOLGA</h2>
-                        <p style="text-align:justify;">
-                        Este é um problema comum em pontos de instalação de máquinas de lavar louça ou roupa.
-                        </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../evitar-mau-cheiro/img3.png" style="max-width:100%;" alt="tubulacoes-abertas-ou-com-folga"/>
-                        </div>
-                        <p style="text-align:justify;">
-                        O uso de um adaptador para máquina de lavar elimina este problema.
-                        </p>
                      </div>
                   </div>
                   </br>
-                  <h5 style="color:black;"><a href="#">#curiosidades</a></h5>
+
+                  <h5 style="color:black;"><a href="#">#estilodevida #construcaocivil #joinville</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -101,41 +121,40 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/posicao-solar">
-                                    <img class="" src="../posicao-solar/CAPA.png" alt="posicao-solar-capa" height="80px">
+                                 <a href="/evitar-mau-cheiro">
+                                    <img class="" src="../evitar-mau-cheiro/CAPA.png" alt="evitar-mau-cheiro-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/posicao-solar">
+                                 <a href="/evitar-mau-cheiro">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/posicao-solar">
-                                    <h4 style="color: #2d2d2d;">Como escolher a melhor POSIÇÃO SOLAR de um IMÓVEL?</h4>
+                                 <a href="/evitar-mau-cheiro">
+                                    <h4 style="color: #2d2d2d;">MAU CHEIRO DE ESGOTO em casa. O que pode ser?</h4>
                                  </a>
                               </div>
                            </div>
-
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                           <!--<div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div class="details">
                                  <p>Próximo Post</p>
-                                 <a href="/morar-bairro-saguacu">
-                                    <h4 style="color: #2d2d2d;">5 MOTIVOS para viver no SAGUAÇU</h4>
+                                 <a href="#">
+                                    <h4 style="color: #2d2d2d;">Telescopes 101</h4>
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/morar-bairro-saguacu">
+                                 <a href="#">
                                     <span class="lnr text-white ti-arrow-right"></span>
                                  </a>
                               </div>
                               <div class="thumb">
-                                 <a href="/morar-bairro-saguacu">
-                                    <img class="img-fluid" src="../morar-bairro-saguacu/CAPA.png" alt="morar-bairro-saguacu">
+                                 <a href="#">
+                                    <img class="img-fluid" src="assets/img/post/next.png" alt="proximo-post">
                                  </a>
                               </div>
-                           </div>
+                           </div>-->
                         </div>
                      </div>
                   </div>

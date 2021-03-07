@@ -46,6 +46,33 @@
                         <!-- POST 01 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
+                                    <a class="d-inline-block" href="/morar-bairro-saguacu">
+                                        <img class="card-img rounded-0" src="../morar-bairro-saguacu/CAPA.png" alt="evitar-mau-cheiro" />
+                                    </a>
+                                    <span class="blog_item_date">
+                                        <h3>07</h3>
+                                        <p>MAR</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="/morar-bairro-saguacu">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">5 MOTIVOS para viver no SAGUAÇU</h2>
+                                    </a>
+                                    <h4 class="" style="color: #2d2d2d;">Além de estar localizado na região central da cidade, 
+                                        o Saguaçu é cortado por importantes vias, como a Rua Dona Francisca e a Rua Iririú, facilitiando 
+                                        muito o deslocamento para qualquer ponto da nossa cidade.
+                                    </h4>
+                                    <a class="d-inline-block" href="/morar-bairro-saguacu">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
+
+                                </div>
+                            </article>
+                        <!-- POST 01 FIM -->
+
+                        <!-- POST 02 INÍCIO -->
+                        <article class="blog_item">
+                                <div class="blog_item_img">
                                     <a class="d-inline-block" href="/evitar-mau-cheiro">
                                         <img class="card-img rounded-0" src="../evitar-mau-cheiro/CAPA.png" alt="evitar-mau-cheiro" />
                                     </a>
@@ -61,10 +88,13 @@
                                     <h4 class="" style="color: #2d2d2d;">Verifique se a instalação do sifão está correta.
                                         </br>A curva em U no sifão acumula água, e é ela quem evita que o cheiro do esgoto retorne.</h4>
                                 </div>
+                                <a class="d-inline-block" href="/evitar-mau-cheiro">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
                             </article>
-                        <!-- POST 01 FIM -->
+                        <!-- POST 02 FIM -->
 
-                        <!-- POST 02 INÍCIO -->
+                        <!-- POST 03 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/posicao-solar">
@@ -76,7 +106,7 @@
                                     </span>
                                 </div>
                                 <div class="blog_details">
-                                    <a class="d-inline-block" href="/compra-e-venda">
+                                    <a class="d-inline-block" href="/posicao-solar">
                                         <h2 class="blog-head" style="color: #2d2d2d;">Como escolher a melhor POSIÇÃO SOLAR de um IMÓVEL?</h2>
                                     </a>
                                     <h4 class="" style="color: #2d2d2d;"><b>Você sabia que uma boa posição solar traz consigo muitas vantagens?</b></h4>
@@ -84,10 +114,13 @@
                                           menos umidade ambiente, menor incidência de fungos e ácaros, 
                                           valorização do imóvel, etc. São algumas delas.
                                 </div>
+                                <a class="d-inline-block" href="/posicao-solar">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
                             </article>
-                            <!-- POST 02 FIM -->
+                            <!-- POST 03 FIM -->
 
-                        <!-- POST 03 INÍCIO -->
+                        <!-- POST 04 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/compra-e-venda">
@@ -107,10 +140,13 @@
                                         <br/>Se você ainda tem dúvidas, vem conferir esse post que a gente explicou tudinho.
                                     </p>
                                 </div>
+                                <a class="d-inline-block" href="/compra-e-venda">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
                             </article>
-                            <!-- POST 03 FIM -->
+                            <!-- POST 04 FIM -->
 
-                            <!-- POST 04 INÍCIO -->
+                            <!-- POST 05 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-na-planta">
@@ -132,10 +168,13 @@
                                         você imagina!
                                     </p>
                                 </div>
+                                <a class="d-inline-block" href="/apartamento-na-planta">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
                             </article>
-                            <!-- POST 04 FIM -->
+                            <!-- POST 05 FIM -->
 
-                            <!-- POST 05 INÍCIO -->
+                            <!-- POST 06 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-ideal">
@@ -155,10 +194,13 @@
                                         tantas opções disponíveis no mercado?
                                     </p>
                                 </div>
+                                <a class="d-inline-block" href="/apartamento-ideal">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
                             </article>
-                            <!-- POST 05 FIM -->
+                            <!-- POST 06 FIM -->
 
-                            <!-- POST 06 INÍCIO -->
+                            <!-- POST 07 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
@@ -183,8 +225,11 @@
                                         e playground para quem tem filhos.
                                     </p>
                                 </div>
+                                <a class="d-inline-block" href="/arquitetura-e-decoracao">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
                             </article>
-                            <!-- POST 06 FIM -->
+                            <!-- POST 07 FIM -->
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">
