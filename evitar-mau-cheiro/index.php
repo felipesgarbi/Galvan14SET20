@@ -64,7 +64,7 @@
 
                         <h2 class="pt-40" style="color: #2d2d2d;">VERIFIQUE A PRESENÇA DE ÁGUA DENTRO DOS RALOS</h2>
                         <p style="text-align:justify;">
-                        Essas são as posições intermediárias, o LESTE reNo interior dos ralos existe uma caixa sifonada, que acumula água para impedir que os gases do esgoto retornem.
+                        No interior dos ralos existe uma caixa sifonada, que acumula água para impedir que os gases do esgoto retornem.
                         </p>
                         
                         <div class="feature-img">
