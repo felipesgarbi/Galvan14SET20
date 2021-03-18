@@ -5,6 +5,45 @@
 include "../estrutura/head.php";
 ?>
 
+<!-- Global site tag (gtag.js) - Google Ads: 407063613 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-407063613"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'AW-407063613');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+    ! function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1100850563751157');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1100850563751157&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
 <body>
     <!-- ? Preloader Start -->
     <div id="preloader-active">
@@ -39,14 +78,14 @@ include "../estrutura/head.php";
                             Um lugar para você viver intensamente!</p>
 
                         <p class="mb-20 textoCinza font-ruda" style="text-align: justify;">
-                        Localizado no bairro Saguaçu, o Residencial Contarini é um verdadeiro refúgio no 
-                        coração pulsante da cidade. Seus espaços comuns são únicos e encantadores, 
-                        envolvendo natureza, conforto e qualidade de vida.</p>
+                            Localizado no bairro Saguaçu, o Residencial Contarini é um verdadeiro refúgio no
+                            coração pulsante da cidade. Seus espaços comuns são únicos e encantadores,
+                            envolvendo natureza, conforto e qualidade de vida.</p>
 
                         <p class="textoCinza font-ruda" style="text-align: justify;">
-                        São 3 tipos de plantas com excelente distribuição de espaço, 
-                        com ambientes integrados e sacadas amplas privilegiando a iluminação natural. 
-                        Escolha o que melhor se encaixa ao seu estilo!</p>
+                            São 3 tipos de plantas com excelente distribuição de espaço,
+                            com ambientes integrados e sacadas amplas privilegiando a iluminação natural.
+                            Escolha o que melhor se encaixa ao seu estilo!</p>
 
                     </div>
 
@@ -87,17 +126,17 @@ include "../estrutura/head.php";
                         </ul>
                     </nav>
                     <div class="content-wrap">
-                        
+
                         <section id="section-linebox-1">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../edificio-contarini/03S-TP01.png" data-caption="03 SUÍTES - TIPO 01">
-                                        <img class="mb-2" src="../edificio-contarini/03S-TP01.png" alt="03-suites-tipo-01" width="80%">
-                                    </a>
+                                        <a data-fancybox="images" href="../edificio-contarini/03S-TP01.png" data-caption="03 SUÍTES - TIPO 01">
+                                            <img class="mb-2" src="../edificio-contarini/03S-TP01.png" alt="03-suites-tipo-01" width="80%">
+                                        </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        
+
                                         <p>- 107 m2 de área privativa</p>
                                         <p>- 3 suítes</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
@@ -105,7 +144,7 @@ include "../estrutura/head.php";
                                         <p>- Área de serviço separada</p>
                                         <p>- Sacada com churrasqueira e vista para a serra</p>
                                         <p>- Ventilação cruzada</p>
-                                        
+
                                     </div>
 
                                 </div>
@@ -115,12 +154,12 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../edificio-contarini/03Q-TP03.png" data-caption="03 QUARTOS - TIPO 02">
-                                        <img class="mb-2" src="../edificio-contarini/03Q-TP03.png" alt="03-quartos-tipo-03" width="80%">
-                                    </a>
+                                        <a data-fancybox="images" href="../edificio-contarini/03Q-TP03.png" data-caption="03 QUARTOS - TIPO 02">
+                                            <img class="mb-2" src="../edificio-contarini/03Q-TP03.png" alt="03-quartos-tipo-03" width="80%">
+                                        </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        
+
                                         <p>- 105 m2 de área privativa</p>
                                         <p>- 1 suíte + 2 dormitórios</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
@@ -135,9 +174,9 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../edificio-contarini/03Q-TP01.png" data-caption="03 QUARTOS - TIPO 03">
-                                        <img class="mb-2" src="../edificio-contarini/03Q-TP01.png" alt="03-quartos-tipo-01" width="80%">
-                                    </a>
+                                        <a data-fancybox="images" href="../edificio-contarini/03Q-TP01.png" data-caption="03 QUARTOS - TIPO 03">
+                                            <img class="mb-2" src="../edificio-contarini/03Q-TP01.png" alt="03-quartos-tipo-01" width="80%">
+                                        </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
@@ -152,17 +191,17 @@ include "../estrutura/head.php";
                                 </div>
                             </div>
                         </section>
-                        
+
                         <section id="section-linebox-4">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../edificio-contarini/GIARDINO01.png" data-caption="GIARDINO 01">
-                                        <img class="mb-2" src="../edificio-contarini/GIARDINO01.png" alt="giardino-01" width="80%">
-                                    </a>
+                                        <a data-fancybox="images" href="../edificio-contarini/GIARDINO01.png" data-caption="GIARDINO 01">
+                                            <img class="mb-2" src="../edificio-contarini/GIARDINO01.png" alt="giardino-01" width="80%">
+                                        </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        
+
                                         <p>- 140,36 m2 de área privativa</p>
                                         <p>- 1 suíte + 2 dormitórios</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
@@ -171,7 +210,7 @@ include "../estrutura/head.php";
                                         <p>- Lavabo</p>
                                         <p>- Área externa de 36,25 m2 com churrasqueira e espera para instalação de jacuzzi</p>
                                         <p>- Ventiação cruzada</p>
-                                        
+
                                     </div>
 
                                 </div>
@@ -181,19 +220,19 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../edificio-contarini/GIARDINO02.png" data-caption="GIARDINO 02">
-                                        <img class="mb-2" src="../edificio-contarini/GIARDINO02.png" alt="giardino-02" width="80%">
-                                    </a>
+                                        <a data-fancybox="images" href="../edificio-contarini/GIARDINO02.png" data-caption="GIARDINO 02">
+                                            <img class="mb-2" src="../edificio-contarini/GIARDINO02.png" alt="giardino-02" width="80%">
+                                        </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
-                                        
+
                                         <p>- 124,47 m2 de área privativa</p>
                                         <p>- 1 suíte + 2 dormitórios</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
                                         <p>- Área de serviço separada</p>
                                         <p>- Área externa de 24,95 m2 com churrasqueira e espera para instalação de jacuzzi</p>
-                                    
+
                                     </div>
 
                                 </div>
@@ -243,12 +282,12 @@ include "../estrutura/head.php";
                             <div class="progress-value">100%</div>
                         </div>
                         <p>
-                            <div class="col-md-12 text-center">
-                                <h5><b>SERVIÇOS PRELIMINARES</b></h5>
-                            </div>
-                            <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
-                            </div>
+                        <div class="col-md-12 text-center">
+                            <h5><b>SERVIÇOS PRELIMINARES</b></h5>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <h6 class="textoCinza">atualizado em 19/01/2021</h6>
+                        </div>
                         </p>
                     </div>
                     <!-- ****************************** -->
@@ -269,12 +308,12 @@ include "../estrutura/head.php";
                             <div class="progress-value">100%</div>
                         </div>
                         <p>
-                            <div class="col-md-12 text-center">
-                                <h5><b>FUNDAÇÃO</b></h5>
-                            </div>
-                            <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
-                            </div>
+                        <div class="col-md-12 text-center">
+                            <h5><b>FUNDAÇÃO</b></h5>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <h6 class="textoCinza">atualizado em 19/01/2021</h6>
+                        </div>
                         </p>
                     </div>
                     <!-- ****************************** -->
@@ -295,12 +334,12 @@ include "../estrutura/head.php";
                             <div class="progress-value">5%</div>
                         </div>
                         <p>
-                            <div class="col-md-12 text-center">
-                                <h5><b>ESTRUTURA</b></h5>
-                            </div>
-                            <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">atualizado em 19/01/2021</h6>
-                            </div>
+                        <div class="col-md-12 text-center">
+                            <h5><b>ESTRUTURA</b></h5>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <h6 class="textoCinza">atualizado em 19/01/2021</h6>
+                        </div>
                         </p>
                     </div>
                     <!-- ****************************** -->
@@ -321,12 +360,12 @@ include "../estrutura/head.php";
                             <div class="progress-value">0%</div>
                         </div>
                         <p>
-                            <div class="col-md-12 text-center">
-                                <h5><b>ALVENARIA</b></h5>
-                            </div>
-                            <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
-                            </div>
+                        <div class="col-md-12 text-center">
+                            <h5><b>ALVENARIA</b></h5>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <h6 class="textoCinza">não iniciado</h6>
+                        </div>
                         </p>
                     </div>
                 </div>
@@ -351,12 +390,12 @@ include "../estrutura/head.php";
                             <div class="progress-value">0%</div>
                         </div>
                         <p>
-                            <div class="col-md-12 text-center">
-                                <h5><b>REVESTIMENTO</b></h5>
-                            </div>
-                            <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
-                            </div>
+                        <div class="col-md-12 text-center">
+                            <h5><b>REVESTIMENTO</b></h5>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <h6 class="textoCinza">não iniciado</h6>
+                        </div>
                         </p>
                     </div>
                     <!-- ****************************** -->
@@ -377,12 +416,12 @@ include "../estrutura/head.php";
                             <div class="progress-value">0%</div>
                         </div>
                         <p>
-                            <div class="col-md-12 text-center">
-                                <h5><b>ACABAMENTO</b></h5>
-                            </div>
-                            <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
-                            </div>
+                        <div class="col-md-12 text-center">
+                            <h5><b>ACABAMENTO</b></h5>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <h6 class="textoCinza">não iniciado</h6>
+                        </div>
                         </p>
                     </div>
                     <!-- ****************************** -->
@@ -403,12 +442,12 @@ include "../estrutura/head.php";
                             <div class="progress-value">0%</div>
                         </div>
                         <p>
-                            <div class="col-md-12 text-center">
-                                <h5><b>FINALIZAÇÃO</b></h5>
-                            </div>
-                            <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
-                            </div>
+                        <div class="col-md-12 text-center">
+                            <h5><b>FINALIZAÇÃO</b></h5>
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <h6 class="textoCinza">não iniciado</h6>
+                        </div>
                         </p>
                     </div>
                     <!-- ****************************** -->
