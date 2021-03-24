@@ -1,7 +1,6 @@
 <head>
-
-    <!-- TAG ADICIONADA POR FESPER -->
-    <!-- Global site tag (gtag.js) - Google Analytics
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2P89S9XQYZ"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -12,7 +11,7 @@
         gtag('js', new Date());
 
         gtag('config', 'G-2P89S9XQYZ');
-    </script>-->
+    </script>
 
     <!-- Global site tag (gtag.js) - Google Ads: 407063613 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-407063613"></script>

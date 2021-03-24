@@ -46,6 +46,33 @@
                         <!-- POST 01 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
+                                    <a class="d-inline-block" href="/declarar-imovel-imposto-de-renda-2021">
+                                        <img class="card-img rounded-0" src="../declarar-imovel-imposto-de-renda-2021/CAPA.png" alt="declarar-imovel-imposto-de-renda-2021" />
+                                    </a>
+                                    <span class="blog_item_date">
+                                        <h3>24</h3>
+                                        <p>MAR</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="/declarar-imovel-imposto-de-renda-2021">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">Como declarar IMÓVEL no Imposto de Renda 2021</h2>
+                                    </a>
+                                    <h4 class="" style="color: #2d2d2d;">Imóveis devem ser declarados na aba BENS E DIREITOS.
+                                    </br> 
+                                        Caso o imóvel ja tenha sido registrado, você precisará informar a Matrícula do Imóvel e o nome do cartório, bem como o número da Inscrição Municipal (IPTU).
+                                    </h4>
+                                    <a class="d-inline-block" href="/declarar-imovel-imposto-de-renda-2021">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
+
+                                </div>
+                            </article>
+                        <!-- POST 01 FIM -->
+
+                        <!-- POST 02 INÍCIO -->
+                        <article class="blog_item">
+                                <div class="blog_item_img">
                                     <a class="d-inline-block" href="/morar-bairro-saguacu">
                                         <img class="card-img rounded-0" src="../morar-bairro-saguacu/CAPA.png" alt="evitar-mau-cheiro" />
                                     </a>
@@ -68,9 +95,9 @@
 
                                 </div>
                             </article>
-                        <!-- POST 01 FIM -->
+                        <!-- POST 02 FIM -->
 
-                        <!-- POST 02 INÍCIO -->
+                        <!-- POST 03 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/evitar-mau-cheiro">
@@ -92,9 +119,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                        <!-- POST 02 FIM -->
+                        <!-- POST 03 FIM -->
 
-                        <!-- POST 03 INÍCIO -->
+                        <!-- POST 04 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/posicao-solar">
@@ -118,9 +145,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 03 FIM -->
+                            <!-- POST 04 FIM -->
 
-                        <!-- POST 04 INÍCIO -->
+                        <!-- POST 05 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/compra-e-venda">
@@ -144,9 +171,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 04 FIM -->
+                            <!-- POST 05 FIM -->
 
-                            <!-- POST 05 INÍCIO -->
+                            <!-- POST 06 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-na-planta">
@@ -172,9 +199,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 05 FIM -->
+                            <!-- POST 06 FIM -->
 
-                            <!-- POST 06 INÍCIO -->
+                            <!-- POST 07 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-ideal">
@@ -198,9 +225,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 06 FIM -->
+                            <!-- POST 07 FIM -->
 
-                            <!-- POST 07 INÍCIO -->
+                            <!-- POST 08 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
@@ -229,7 +256,7 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 07 FIM -->
+                            <!-- POST 08 FIM -->
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">

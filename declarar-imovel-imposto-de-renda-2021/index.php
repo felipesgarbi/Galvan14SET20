@@ -36,13 +36,13 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>07/03/2021 - Por: Galvan Engenharia</h5>
+                        <h5>24/03/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../morar-bairro-saguacu/CAPA.png" alt="morar-bairro-saguacu-capa"/>
+                        <img class="img-fluid" src="../declarar-imovel-imposto-de-renda-2021/CAPA.png" alt="declarar-imovel-imposto-de-renda-2021-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>5 MOTIVOS para viver no SAGUAÇU</b></h2>
+                        <b>Como declarar IMÓVEL no Imposto de Renda 2021</b></h2>
                         
                         <!--<div class="quote-wrapper">
                            <div class="quotes">
@@ -53,64 +53,75 @@
                            </div>
                         </div>-->
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">1. LOCALIZAÇÃO</h2>
                         <p style="text-align:justify;">
-                           Além de estar localizado na região central da cidade, o Saguaçu é cortado por importantes vias, como a Rua Dona Francisca e a Rua Iririú, facilitiando muito o deslocamento para qualquer ponto da nossa cidade.
+                           <b><i class="fas fa-share"></i> Imóveis devem ser declarados na aba BENS E DIREITOS.</b>
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../morar-bairro-saguacu/img1.png" style="max-width:100%;" alt="localizacao-bairro-saguacu-joinville"/>
+                           <img class="img-fluid" src="../declarar-imovel-imposto-de-renda-2021/img1.png" style="max-width:100%;" alt="declarar-imovel-imposto-de-renda-2021"/>
+                        </div>
+                        <p></br>
+                        Caso o imóvel ja tenha sido registrado, você precisará informar a Matrícula do Imóvel e o nome do cartório, bem como o número da Inscrição Municipal (IPTU).
+                        </p>
+                        
+                        <div class="quote-wrapperModificado">
+                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 1 - Imóvel comprado antes de 2020 com financiamento</h2>
+                        <p style="text-align:justify;">
+                        Preencha os campos:
+                        </br>- Situação em 31/12/2019: Valor importado automaticamente pelo programa com base na sua declaração de 2019.
+                        </br>- Situação em 31/12/2020: <b><u>SOMA</u></b> do valor declarado em 2019 (campo situação em 31/12/2019) + parcelas pagas ao longo de 2020.
+                        </br><i><b>** Os valores ainda devidos ao banco através de financiamento deverão ser declarados na aba "DÍVIDA E ÔNUS REAIS", selecionando a opção "11-Estabelecimento bancário comercial".</b></i>
+                        </p>
+                        </div>
+                        
+                        <div class="quote-wrapperModificado">
+                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 2 - Imóvel comprado em 2020 com financiamento</h2>
+                        <p style="text-align:justify;">
+                        Preencha os campos:
+                        </br>- Situação em 31/12/2019: Zero (R$ 0,00).
+                        </br>- Situação em 31/12/2020: <b><u>SOMA</b></u> dos valores efetivamente pagos em 2020 (entrada + parcelas).
+                        </br><i><b>** Os valores ainda devidos ao banco através de financiamento deverão ser declarados na aba "DÍVIDA E ÔNUS REAIS", selecionando a opção "11-Estabelecimento bancário comercial".</b></i>
+                        </p>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">2. INFRAESTRUTURA</h2>
+                        <div class="quote-wrapperModificado">
+                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 3 - Imóvel comprado a vista em 2020</h2>
                         <p style="text-align:justify;">
-                           No Saguaçu você vai encontrar tudo que você precisa: restaurantes, supermercados, padarias, farmácias, academias, lojas de diversos segmentos, prédios comerciais, shopping, faculdades, além de ótimos e tradicionais colégios.
+                        Preencha os campos:
+                        </br>- Situação em 31/12/2019: Zero (R$ 0,00).
+                        </br>- Situação em 31/12/2020: Valor total do imóvel descrito em contrato.
                         </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../morar-bairro-saguacu/img2.png" style="max-width:100%;" alt="infraestrutura-bairro-saguacu-joinville"/>
-                        </div>
-                        
-
-                        <h2 class="pt-40" style="color: #2d2d2d;">3. LAZER E CULTURA</h2>
-                        <p style="text-align:justify;">
-                        Rua do Lazer, Zoobotânico e Parque Hemirocallis são algumas das opções de lazer que o Saguaçu oferece aos seus moradores. 
-                        </br> Enquanto que a escola de Teatro Bolshoi, o centreventos Cau Hansen, o Museu Arqueológico de Sambaqui ou o Museu Nacional de Imigração são excelentes opções culturais que estão coladinhas ao bairro.
-                        </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../morar-bairro-saguacu/img3.png" style="max-width:100%;" alt="lazer-cultura-bairro-saguacu-joinville"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">4. CONTATO COM A NATUREZA</h2>
+                        <div class="quote-wrapperModificado">
+                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 4 - Imóvel comprado na planta</h2>
                         <p style="text-align:justify;">
-                           Por abrigar importantes áreas de proteção permanente, como o Morro do Boa Vista e Morro do Finder, o bairro Saguaçu é abraçado pelo verde, garantindo aos seus moradores um perfeito equilíbrio entre a vida urbana e a natureza. 
+                        Esta situação segue as mesmas regras de um imóvel que não tenha sido comprado na planta, porém, como o imóvel ainda não foi financiado, não haverá valores devidos ao banco.
+                        </br>É importante descrever no campo "discriminação" a informação de que se trata de imóvel comprado na planta.
+                        </br>Desta forma, proceda preenchendo os campos:
+                        </br>- Situação em 31/12/2019: Para imóvel adquirido antes de 2020, o valor será importado pelo programa da declaração de 2019. Para imóvel adquirido em 2020, o valor será zero (R$ 0,00).
+                        </br> - Situação em 31/12/2020: SOMA do valor declarado em 2019 (campo situação em 31/12/2019) + parcelas pagas ao longo de 2020.
                         </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../morar-bairro-saguacu/img4-2.png" style="max-width:100%;" alt="natureza-bairro-saguacu-joinville"/>
-                           <h6><i>Vista do Residencial Ouro Verde no Bairro Saguaçu</i></h6>
                         </div>
-               
-                        <h2 class="pt-40" style="color: #2d2d2d;">5. SEGURANÇA E QUALIDADE DE VIDA</h2>
-                        <p style="text-align:justify;">
-                           Tranquilidade e segurança transitam pelas ruas do Saguaçu, que conta com uma vizinhança calma tradicional. Caminhadas em família e a prática de atividades físicas tornam-se muito mais prazerosos aqui. 
-                        </p>
                         
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../morar-bairro-saguacu/img5.png" style="max-width:100%;" alt="seguranca-bairro-saguacu-joinville"/>
+                        <div class="quote-wrapperModificado">
+                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 5 - Imóveis vendidos em 2020</h2>
+                        <p style="text-align:justify;">
+                        Preencha os campos:
+                        </br>- Situação em 31/12/2019: Valor importado automaticamente pelo programa com base na declaração de 2019.
+                        </br>- Situação em 31/12/2020: Zero (R$ 0,00).
+                        </br><i><b>** Em caso de lucro na venda do imóvel, será preciso preencher o programa de "GANHOS DE CAPITAL" disponível na Receita Federal.</b></i>
+                        </p>
                         </div>
 
-                        <p>Por esses motivos o Saguaçu fascina seus moradores, e tem atraído cada vez mais o interesse de muitos joinvillenses.
-                        </br>E este foi o bairro escolhido por nós da Galvan Engenharia para concretizar sonhos!
-                        </br><b>Venha conhecer nossos empreendimentos!</b>
+                        <p>Caso ainda tenha dúvidas, procure um contador de sua confiança.
                         </p>
 
                      </div>
                   </div>
                   </br>
 
-                  <h5 style="color:black;"><a href="#">#estilodevida #construcaocivil #joinville</a></h5>
+                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -121,40 +132,40 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/evitar-mau-cheiro">
-                                    <img class="" src="../evitar-mau-cheiro/CAPA.png" alt="evitar-mau-cheiro-capa" height="80px">
+                                 <a href="/morar-bairro-saguacu">
+                                    <img class="" src="../morar-bairro-saguacu/CAPA.png" alt="morar-bairro-saguacu-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/evitar-mau-cheiro">
+                                 <a href="/morar-bairro-saguacu">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/evitar-mau-cheiro">
-                                    <h4 style="color: #2d2d2d;">MAU CHEIRO DE ESGOTO em casa. O que pode ser?</h4>
+                                 <a href="/morar-bairro-saguacu">
+                                    <h4 style="color: #2d2d2d;">5 MOTIVOS para viver no SAGUAÇU</h4>
                                  </a>
                               </div>
                            </div>
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                           <!--<div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                               <div class="details">
                                  <p>Próximo Post</p>
-                                 <a href="/declarar-imovel-imposto-de-renda-2021">
-                                    <h4 style="color: #2d2d2d;">Como declarar IMÓVEL no Imposto de Renda 2021</h4>
+                                 <a href="#">
+                                    <h4 style="color: #2d2d2d;">Telescopes 101</h4>
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/declarar-imovel-imposto-de-renda-2021">
+                                 <a href="#">
                                     <span class="lnr text-white ti-arrow-right"></span>
                                  </a>
                               </div>
                               <div class="thumb">
-                                 <a href="/declarar-imovel-imposto-de-renda-2021">
-                                    <img class="img-fluid" src="../declarar-imovel-imposto-de-renda-2021/CAPA.png" alt="declarar-imovel-imposto-de-renda-2021">
+                                 <a href="#">
+                                    <img class="img-fluid" src="assets/img/post/next.png" alt="proximo-post">
                                  </a>
                               </div>
-                           </div>
+                           </div>-->
                         </div>
                      </div>
                   </div>

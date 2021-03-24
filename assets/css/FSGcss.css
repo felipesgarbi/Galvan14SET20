@@ -146,6 +146,22 @@
     margin-left: 160px; /* Same as the width of the sidebar */
     padding: 0px 10px;
   }
+
+  .single-post-area .quote-wrapperModificado {
+    background: rgba(130, 139, 178, 0.1);
+    padding: 15px;
+    line-height: 1.733;
+    color: #888888;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  
+  @media (min-width: 768px) {
+    /* line 1179, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_blog_page.scss */
+    .single-post-area .quote-wrapperModificado {
+      padding: 30px;
+    }
+  }
   
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
   @media screen and (max-height: 450px) {
