@@ -36,13 +36,13 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>24/03/2021 - Por: Galvan Engenharia</h5>
+                        <h5>04/05/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../declarar-imovel-imposto-de-renda-2021/CAPA.png" alt="declarar-imovel-imposto-de-renda-2021-capa"/>
+                        <img class="img-fluid" src="../dicas-varal-apartamento/CAPA.png" alt="dicas-varal-apartamento-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>Como declarar IMÓVEL no Imposto de Renda 2021</b></h2>
+                        <b>5 Dicas de VARAL para apartamento</b></h2>
                         
                         <!--<div class="quote-wrapper">
                            <div class="quotes">
@@ -53,75 +53,69 @@
                            </div>
                         </div>-->
 
+                        <h2 class="pt-40" style="color: #2d2d2d;">1. VARAL CABIDEIRO</h2>
                         <p style="text-align:justify;">
-                           <b><i class="fas fa-share"></i> Imóveis devem ser declarados na aba BENS E DIREITOS.</b>
+                        Uma ótima opção para aproveitar aquele espaço entre o armário alto e o balcão da lavanderia. 
+                        </br>Vantagens: mantém o ambiente organizado e facilita na hora de passar as roupas.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../declarar-imovel-imposto-de-renda-2021/img1.png" style="max-width:100%;" alt="declarar-imovel-imposto-de-renda-2021"/>
-                        </div>
-                        <p></br>
-                        Caso o imóvel ja tenha sido registrado, você precisará informar a Matrícula do Imóvel e o nome do cartório, bem como o número da Inscrição Municipal (IPTU).
-                        </p>
-                        
-                        <div class="quote-wrapperModificado">
-                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 1 - Imóvel comprado antes de 2020 com financiamento</h2>
-                        <p style="text-align:justify;">
-                        Preencha os campos:
-                        </br>- Situação em 31/12/2019: Valor importado automaticamente pelo programa com base na sua declaração de 2019.
-                        </br>- Situação em 31/12/2020: <b><u>SOMA</u></b> do valor declarado em 2019 (campo situação em 31/12/2019) + parcelas pagas ao longo de 2020.
-                        </br><i><b>** Os valores ainda devidos ao banco através de financiamento deverão ser declarados na aba "DÍVIDA E ÔNUS REAIS", selecionando a opção "11-Estabelecimento bancário comercial".</b></i>
-                        </p>
-                        </div>
-                        
-                        <div class="quote-wrapperModificado">
-                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 2 - Imóvel comprado em 2020 com financiamento</h2>
-                        <p style="text-align:justify;">
-                        Preencha os campos:
-                        </br>- Situação em 31/12/2019: Zero (R$ 0,00).
-                        </br>- Situação em 31/12/2020: <b><u>SOMA</b></u> dos valores efetivamente pagos em 2020 (entrada + parcelas).
-                        </br><i><b>** Os valores ainda devidos ao banco através de financiamento deverão ser declarados na aba "DÍVIDA E ÔNUS REAIS", selecionando a opção "11-Estabelecimento bancário comercial".</b></i>
-                        </p>
+                           <img class="img-fluid" src="../dicas-varal-apartamento/img1.png" style="max-width:100%;" alt="varal-tipo-cabideiro"/>
                         </div>
 
-                        <div class="quote-wrapperModificado">
-                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 3 - Imóvel comprado a vista em 2020</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">2. VARAL DE CHÃO</h2>
                         <p style="text-align:justify;">
-                        Preencha os campos:
-                        </br>- Situação em 31/12/2019: Zero (R$ 0,00).
-                        </br>- Situação em 31/12/2020: Valor total do imóvel descrito em contrato.
+                        Além de leves, dobráveis e resistentes, este modelo é portátil, o que permite que você aproveite o sol em diferentes locais do seu apartamento. Desvantagem: ocupa muito espaço quando em uso.
                         </p>
-                        </div>
-
-                        <div class="quote-wrapperModificado">
-                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 4 - Imóvel comprado na planta</h2>
-                        <p style="text-align:justify;">
-                        Esta situação segue as mesmas regras de um imóvel que não tenha sido comprado na planta, porém, como o imóvel ainda não foi financiado, não haverá valores devidos ao banco.
-                        </br>É importante descrever no campo "discriminação" a informação de que se trata de imóvel comprado na planta.
-                        </br>Desta forma, proceda preenchendo os campos:
-                        </br>- Situação em 31/12/2019: Para imóvel adquirido antes de 2020, o valor será importado pelo programa da declaração de 2019. Para imóvel adquirido em 2020, o valor será zero (R$ 0,00).
-                        </br> - Situação em 31/12/2020: SOMA do valor declarado em 2019 (campo situação em 31/12/2019) + parcelas pagas ao longo de 2020.
-                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../dicas-varal-apartamento/img2.png" style="max-width:100%;" alt="varal-tipo-de-chao"/>
                         </div>
                         
-                        <div class="quote-wrapperModificado">
-                        <h2 class="pt-40" style="color: #2d2d2d;">SITUAÇÃO 5 - Imóveis vendidos em 2020</h2>
+
+                        <h2 class="pt-40" style="color: #2d2d2d;">3. VARAL DE TETO</h2>
                         <p style="text-align:justify;">
-                        Preencha os campos:
-                        </br>- Situação em 31/12/2019: Valor importado automaticamente pelo programa com base na declaração de 2019.
-                        </br>- Situação em 31/12/2020: Zero (R$ 0,00).
-                        </br><i><b>** Em caso de lucro na venda do imóvel, será preciso preencher o programa de "GANHOS DE CAPITAL" disponível na Receita Federal.</b></i>
+                        Pode ser instalado tanto na área interna, quanto na externa.
+                        </br>Por ser elevado é discreto quando não esta em uso e, em geral, não molha quando chove.
+                        </br>Vantagem é resistente e suporta grande quantidade de roupa. 
                         </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../dicas-varal-apartamento/img3.png" style="max-width:100%;" alt="varal-tipo-de-teto"/>
                         </div>
 
-                        <p>Caso ainda tenha dúvidas, procure um contador de sua confiança.
+                        <h2 class="pt-40" style="color: #2d2d2d;">4. VARAL RETRÁTIL DE PAREDE</h2>
+                        <p style="text-align:justify;">
+                        Disponível em vários comprimentos, este tipo de varal é super discreto e não ocupa espaço quando fechado.
+                        </br> São uma ótima opção para instalar naquele cantinho da varanda.
+                        </br> Desvantagem: não suporta tanto peso. 
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../dicas-varal-apartamento/img4.png" style="max-width:100%;" alt="varal-tipo-retratil-de-parede"/>
+                        </div>
+               
+                        <h2 class="pt-40" style="color: #2d2d2d;">5. VARAL PARA ROUPAS ÍNTIMAS</h2>
+                        <p style="text-align:justify;">
+                        Esse modelo tem a grande vantagem de liberar espaço nos outros varais.
+                        </br> É compacto, pode ser guardado em qualquer gaveta, e portátil, podendo ser usado até dentro do box do banheiro. Não deixe de ter um!
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../dicas-varal-apartamento/img5.png" style="max-width:100%;" alt="varal-para-roupas-intimas"/>
+                        </div>
+
+                        </br><p><b><i class="far fa-lightbulb"></i> LEMBRE-SE</b>
+                        </br>- Tenha mais de um modelo que se adapte a diferentes espaços e necessidades.
+                        </br>- A quantidade de roupa a ser lavada deve ser compatível com a disponibilidade de varal que você possui.
+                        </br>- Posicione as roupas mais grossas a frente, mais próximo a janelas.
                         </p>
 
                      </div>
                   </div>
                   </br>
 
-                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a></h5>
+                  <h5 style="color:black;"><a href="#">#curiosidades</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -132,37 +126,19 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/morar-bairro-saguacu">
-                                    <img class="" src="../morar-bairro-saguacu/CAPA.png" alt="morar-bairro-saguacu-capa" height="80px">
+                                 <a href="/declarar-imovel-imposto-de-renda-2021">
+                                    <img class="" src="../declarar-imovel-imposto-de-renda-2021/CAPA.png" alt="declarar-imovel-imposto-de-renda-2021-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/morar-bairro-saguacu">
+                                 <a href="/declarar-imovel-imposto-de-renda-2021">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/morar-bairro-saguacu">
-                                    <h4 style="color: #2d2d2d;">5 MOTIVOS para viver no SAGUAÇU</h4>
-                                 </a>
-                              </div>
-                           </div>
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
-                              <div class="details">
-                                 <p>Próximo Post</p>
-                                 <a href="/dicas-varal-apartamento">
-                                    <h4 style="color: #2d2d2d;">5 Dicas de VARAL para apartamento</h4>
-                                 </a>
-                              </div>
-                              <div class="arrow">
-                                 <a href="/dicas-varal-apartamento">
-                                    <span class="lnr text-white ti-arrow-right"></span>
-                                 </a>
-                              </div>
-                              <div class="thumb">
-                                 <a href="/dicas-varal-apartamento">
-                                    <img class="img-fluid" src="../dicas-varal-apartamento/CAPA.png" alt="dicas-varal-apartamento">
+                                 <a href="/declarar-imovel-imposto-de-renda-2021">
+                                    <h4 style="color: #2d2d2d;">Como declarar IMÓVEL no Imposto de Renda 2021</h4>
                                  </a>
                               </div>
                            </div>

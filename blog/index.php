@@ -43,7 +43,35 @@
                     <div class="col-lg-8 mb-5 mb-lg-0">
                         <div class="blog_left_sidebar">
 
-                        <!-- POST 01 INÍCIO -->
+                    <!-- POST 01 INÍCIO -->
+                    <article class="blog_item">
+                                <div class="blog_item_img">
+                                    <a class="d-inline-block" href="/dicas-varal-apartamento">
+                                        <img class="card-img rounded-0" src="../dicas-varal-apartamento/CAPA.png" alt="dicas-varal-apartamento" />
+                                    </a>
+                                    <span class="blog_item_date">
+                                        <h3>04</h3>
+                                        <p>MAI</p>
+                                    </span>
+                                </div>
+                                <div class="blog_details">
+                                    <a class="d-inline-block" href="/dicas-varal-apartamento">
+                                        <h2 class="blog-head" style="color: #2d2d2d;">5 Dicas de VARAL para apartamento</h2>
+                                    </a>
+                                    <h4 class="" style="color: #2d2d2d;">VARAL CABIDEIRO
+                                    </br> 
+                                    Uma ótima opção para aproveitar aquele espaço entre o armário alto e o balcão da lavanderia.
+                                    </br>Vantagens: mantém o ambiente organizado e facilita na hora de passar as roupas.
+                                    </h4>
+                                    <a class="d-inline-block" href="/dicas-varal-apartamento">
+                                        <h6><b>clique aqui para continuar lendo >>></b></h6>
+                                    </a>
+
+                                </div>
+                            </article>
+                        <!-- POST 01 FIM -->
+
+                        <!-- POST 02 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/declarar-imovel-imposto-de-renda-2021">
@@ -68,9 +96,9 @@
 
                                 </div>
                             </article>
-                        <!-- POST 01 FIM -->
+                        <!-- POST 02 FIM -->
 
-                        <!-- POST 02 INÍCIO -->
+                        <!-- POST 03 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/morar-bairro-saguacu">
@@ -95,9 +123,9 @@
 
                                 </div>
                             </article>
-                        <!-- POST 02 FIM -->
+                        <!-- POST 03 FIM -->
 
-                        <!-- POST 03 INÍCIO -->
+                        <!-- POST 04 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/evitar-mau-cheiro">
@@ -119,9 +147,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                        <!-- POST 03 FIM -->
+                        <!-- POST 04 FIM -->
 
-                        <!-- POST 04 INÍCIO -->
+                        <!-- POST 05 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/posicao-solar">
@@ -145,9 +173,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 04 FIM -->
+                            <!-- POST 05 FIM -->
 
-                        <!-- POST 05 INÍCIO -->
+                        <!-- POST 06 INÍCIO -->
                         <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/compra-e-venda">
@@ -171,9 +199,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 05 FIM -->
+                            <!-- POST 06 FIM -->
 
-                            <!-- POST 06 INÍCIO -->
+                            <!-- POST 07 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-na-planta">
@@ -199,9 +227,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 06 FIM -->
+                            <!-- POST 07 FIM -->
 
-                            <!-- POST 07 INÍCIO -->
+                            <!-- POST 08 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/apartamento-ideal">
@@ -225,9 +253,9 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 07 FIM -->
+                            <!-- POST 08 FIM -->
 
-                            <!-- POST 08 INÍCIO -->
+                            <!-- POST 09 INÍCIO -->
                             <article class="blog_item">
                                 <div class="blog_item_img">
                                     <a class="d-inline-block" href="/arquitetura-decoracao">
@@ -256,7 +284,7 @@
                                         <h6><b>clique aqui para continuar lendo >>></b></h6>
                                     </a>
                             </article>
-                            <!-- POST 08 FIM -->
+                            <!-- POST 09 FIM -->
                             <nav class="blog-pagination justify-content-center d-flex">
                                 <ul class="pagination">
                                     <li class="page-item">
