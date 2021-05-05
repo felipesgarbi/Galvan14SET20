@@ -458,7 +458,7 @@
 .progress.oitentaPorc .progress-right .progress-bar{
     animation: loading-8 1s linear forwards 1.8s;
 }
-.progress.noventaPorc .progress-left .progress-bar{
+.progress.oitentaPorc .progress-left .progress-bar{
     animation: loading-80 1s linear forwards 1.8s;
 }
 /* LOADING 08 - 80% PROGRESS - END */
