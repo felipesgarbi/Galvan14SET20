@@ -137,7 +137,7 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
-                                        <p>- 107 m2 de área privativa</p>
+                                        <p>- 103 m2 de área privativa</p>
                                         <p>- 3 suítes</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
@@ -160,7 +160,7 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
-                                        <p>- 105 m2 de área privativa</p>
+                                        <p>- 99 m2 de área privativa</p>
                                         <p>- 1 suíte + 2 dormitórios</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
@@ -180,7 +180,7 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
-                                        <p>- 99 m2 de área privativa</p>
+                                        <p>- 94 m2 de área privativa</p>
                                         <p>- 1 suíte + 2 dormitórios</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
@@ -202,7 +202,7 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
-                                        <p>- 140,36 m2 de área privativa</p>
+                                        <p>- 142,6 m2 de área privativa</p>
                                         <p>- 1 suíte + 2 dormitórios</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
@@ -226,7 +226,7 @@ include "../estrutura/head.php";
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
 
-                                        <p>- 124,47 m2 de área privativa</p>
+                                        <p>- 118,7 m2 de área privativa</p>
                                         <p>- 1 suíte + 2 dormitórios</p>
                                         <p>- 1 ou 2 vagas de garagem</p>
                                         <p>- Cozinha, sala de jantar e sala de estar integradas</p>
