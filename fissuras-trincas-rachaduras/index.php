@@ -36,88 +36,70 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>04/05/2021 - Por: Galvan Engenharia</h5>
+                        <h5>17/06/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../dicas-varal-apartamento/CAPA.png" alt="dicas-varal-apartamento-capa"/>
+                        <img class="img-fluid" src="../fissuras-trincas-rachaduras/CAPA.jpg" alt="fissuras-trincas-rachaduras-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>5 Dicas de VARAL para apartamento</b></h2>
+                        <b>FISSURAS, TRINCAS e RACHADURAS quando devo me preocupar?</b></h2>
                         
-                        <!--<div class="quote-wrapper">
+                        <div class="quote-wrapper">
                            <div class="quotes">
-                              MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-                              should have to spend money on boot camp when you can get the MCSE study materials yourself at
-                              a fraction of the camp price. However, who has the willpower to actually sit through a
-                              self-imposed MCSE training.
+                           </br>Mesmo que a edificação seja nova, é comum o surgimento de pequenas "cicatrizes" nas paredes. Isso ocorre porque parte da construção ainda está se acomodando.
+                           </br>Mas então como saber quando devo me preocupar?
+                           </br>Vem com a gente entender um pouco mais sobre FISSURAS, TRINCAS e RACHADURAS.
                            </div>
-                        </div>-->
-
-                        <h2 class="pt-40" style="color: #2d2d2d;">1. VARAL CABIDEIRO</h2>
-                        <p style="text-align:justify;">
-                        Uma ótima opção para aproveitar aquele espaço entre o armário alto e o balcão da lavanderia. 
-                        </br>Vantagens: mantém o ambiente organizado e facilita na hora de passar as roupas.
-                        </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../dicas-varal-apartamento/img1.png" style="max-width:100%;" alt="varal-tipo-cabideiro"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">2. VARAL DE CHÃO</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">1. FISSURAS</h2>
                         <p style="text-align:justify;">
-                        Além de leves, dobráveis e resistentes, este modelo é portátil, o que permite que você aproveite o sol em diferentes locais do seu apartamento. Desvantagem: ocupa muito espaço quando em uso.
+                           Aberturas superficiais (aprox. 1mm), estreitas e alongadas que surgem na pintura e massa corrida, de modo geral não apresentam perigo, e são chamadas de <b>FISSURAS</b>. 
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../dicas-varal-apartamento/img2.png" style="max-width:100%;" alt="varal-tipo-de-chao"/>
+                           <img class="img-fluid" src="../fissuras-trincas-rachaduras/img1.jpg" style="max-width:100%;" alt="construcao-predio-concreto-fissuras"/>
                         </div>
-                        
+                        <p style="text-align:justify;">
+                           Estas fissuras ocorrem principalmente devido a retração (perda de água) dos materiais de acabamento como tintas e argamassas. 
+                        </p>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">3. VARAL DE TETO</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">2. TRINCAS</h2>
                         <p style="text-align:justify;">
-                        Pode ser instalado tanto na área interna, quanto na externa.
-                        </br>Por ser elevado é discreto quando não esta em uso e, em geral, não molha quando chove.
-                        </br>Vantagem é resistente e suporta grande quantidade de roupa. 
+                           Se a abertura for mais profunda, entre 1 e 3mm de espessura, e estiver atingindo outros elementos como azulejos e outros revestimentos, são chamadas de <b>TRINCAS</b>, e merecem uma atenção maior.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../dicas-varal-apartamento/img3.png" style="max-width:100%;" alt="varal-tipo-de-teto"/>
+                           <img class="img-fluid" src="../fissuras-trincas-rachaduras/img2.jpg" style="max-width:100%;" alt="construcao-predio-concreto-trincas"/>
+                        </div>
+                        <p style="text-align:justify;">
+                           Elas surgem principalmente devido a variação de temperatura (paredes com alta incidência de sol) que faz com que os materiais contraiam e dilatem com maior intensidade.
+                        </p>
+
+
+                        <h2 class="pt-40" style="color: #2d2d2d;">3. RACHADURAS</h2>
+                        <p style="text-align:justify;">
+                        Agora se a abertura for grande, com espessura acima de 3 mm, por onde podem entrar água, luz e vento; ou ainda, se ela estiver na diagonal com ângulo de 45º, é importante ficar alerta e acionar uma avaliação técnica imediatamente.
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../fissuras-trincas-rachaduras/img3.jpg" style="max-width:100%;" alt="construcao-predio-concreto-rachadura"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">4. VARAL RETRÁTIL DE PAREDE</h2>
                         <p style="text-align:justify;">
-                        Disponível em vários comprimentos, este tipo de varal é super discreto e não ocupa espaço quando fechado.
-                        </br> São uma ótima opção para instalar naquele cantinho da varanda.
-                        </br> Desvantagem: não suporta tanto peso. 
+                           Estas aberturas são chamadas de <b>RACHADURAS</b>, ocorrem devido à problemas estruturais e por isso requerem cuidado imediato.
                         </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../dicas-varal-apartamento/img4.png" style="max-width:100%;" alt="varal-tipo-retratil-de-parede"/>
-                        </div>
-               
-                        <h2 class="pt-40" style="color: #2d2d2d;">5. VARAL PARA ROUPAS ÍNTIMAS</h2>
-                        <p style="text-align:justify;">
-                        Esse modelo tem a grande vantagem de liberar espaço nos outros varais.
-                        </br> É compacto, pode ser guardado em qualquer gaveta, e portátil, podendo ser usado até dentro do box do banheiro. Não deixe de ter um!
-                        </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../dicas-varal-apartamento/img5.png" style="max-width:100%;" alt="varal-para-roupas-intimas"/>
-                        </div>
 
                         </br><p><b><i class="far fa-lightbulb"></i> LEMBRE-SE</b>
-                        </br>- Tenha mais de um modelo que se adapte a diferentes espaços e necessidades.
-                        </br>- A quantidade de roupa a ser lavada deve ser compatível com a disponibilidade de varal que você possui.
-                        </br>- Posicione as roupas mais grossas a frente, mais próximo a janelas.
+                        </br>- Trincas e fissuras devem ser sempre observadas e acompanhadas pois podem evoluir para uma rachadura.
+                        </br>- Na dúvida, contate o responsável técnico da obra.
                         </p>
 
                      </div>
                   </div>
                   </br>
 
-                  
-
-                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a></h5>
+                  <h5 style="color:black;"><a href="#">#curiosidades</a><a href="#"> #construcaocivil</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -128,37 +110,19 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/declarar-imovel-imposto-de-renda-2021">
-                                    <img class="" src="../declarar-imovel-imposto-de-renda-2021/CAPA.png" alt="declarar-imovel-imposto-de-renda-2021-capa" height="80px">
+                                 <a href="/dicas-varal-apartamento">
+                                    <img class="" src="../dicas-varal-apartamento/CAPA.png" alt="dicas-varal-apartamento-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/declarar-imovel-imposto-de-renda-2021">
+                                 <a href="/dicas-varal-apartamento">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/declarar-imovel-imposto-de-renda-2021">
-                                    <h4 style="color: #2d2d2d;">Como declarar IMÓVEL no Imposto de Renda 2021</h4>
-                                 </a>
-                              </div>
-                           </div>
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
-                              <div class="details">
-                                 <p>Próximo Post</p>
-                                 <a href="/fissuras-trincas-rachaduras">
-                                    <h4 style="color: #2d2d2d;">FISSURAS, TRINCAS e RACHADURAS quando devo me preocupar?</h4>
-                                 </a>
-                              </div>
-                              <div class="arrow">
-                                 <a href="/fissuras-trincas-rachaduras">
-                                    <span class="lnr text-white ti-arrow-right"></span>
-                                 </a>
-                              </div>
-                              <div class="thumb">
-                                 <a href="/fissuras-trincas-rachaduras">
-                                    <img class="img-fluid" src="../fissuras-trincas-rachaduras/CAPA.jpg" alt="fissuras-trincas-rachaduras">
+                                 <a href="/dicas-varal-apartamento">
+                                    <h4 style="color: #2d2d2d;">5 Dicas de VARAL para apartamento</h4>
                                  </a>
                               </div>
                            </div>
