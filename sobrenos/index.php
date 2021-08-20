@@ -48,7 +48,7 @@ include_once $_SERVER["DOCUMENT_ROOT"]."/estrutura/head.php"
                             <div class="section-tittle mb-35">
                                 <h2 class="font-ruda titulo-sobre"><i class="far fa-building"></i> A GALVAN ENGENHARIA</h2>
                             </div>
-                            <p>Em 2011, o desejo de unir nossa família através de um sonho começou a se realizar. Desde então, temos construído a Galvan Engenharia para oferecer a você espaços amplos, confortáveis e com acabamento de qualidade. Buscando localizações privilegiadas, valorizamos o seu tempo, proporcionando mais lazer, segurança e praticidade para o seu dia.</p>
+                            <p>Em 2012, o desejo de unir nossa família através de um sonho começou a se realizar. Desde então, temos construído a Galvan Engenharia para oferecer a você espaços amplos, confortáveis e com acabamento de qualidade. Buscando localizações privilegiadas, valorizamos o seu tempo, proporcionando mais lazer, segurança e praticidade para o seu dia.</p>
                         </div>
                     </div>
 
