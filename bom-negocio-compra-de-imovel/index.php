@@ -36,70 +36,82 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>17/06/2021 - Por: Galvan Engenharia</h5>
+                        <h5>23/08/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../fissuras-trincas-rachaduras/CAPA.jpg" alt="fissuras-trincas-rachaduras-capa"/>
+                        <img class="img-fluid" src="../bom-negocio-compra-de-imovel/CAPA.png" alt="bom-negocio-compra-de-imovel-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>FISSURAS, TRINCAS e RACHADURAS quando devo me preocupar?</b></h2>
+                        <b>Será que você está fazendo um bom negócio na compra do seu imóvel?</b></h2>
                         
-                        <div class="quote-wrapper">
+                        <!--<div class="quote-wrapper">
                            <div class="quotes">
                            </br>Mesmo que a edificação seja nova, é comum o surgimento de pequenas "cicatrizes" nas paredes. Isso ocorre porque parte da construção ainda está se acomodando.
                            </br>Mas então como saber quando devo me preocupar?
                            </br>Vem com a gente entender um pouco mais sobre FISSURAS, TRINCAS e RACHADURAS.
                            </div>
-                        </div>
+                        </div>-->
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">1. FISSURAS</h2>
+                        <span>
+                           É normal sentir insegurança e medo de se arrepender, quando estamos pensando em adquirir um produto de alto valor agregado e de longa duração. 
+                           </br>Você já pensou que mesmo que esteja adquirindo um imóvel para morar, ele não deixa de ser um investimento e vai fazer parte do seu patrimônio futuro?
+                           </br>Por isso, é importante que você fique atento àqueles fatores que fazem com que seu imóvel valorize ao longo do tempo.
+                           </br>Acompanhe nossas dicas para garantir que você fará um bom investimento!
+                        </span>
+
+                        <h2 class="pt-40" style="color: #2d2d2d;">1. BUSQUE...</h2>
                         <p style="text-align:justify;">
-                           Aberturas superficiais (aprox. 1mm), estreitas e alongadas que surgem na pintura e massa corrida, de modo geral não apresentam perigo, e são chamadas de <b>FISSURAS</b>. 
+                           Busque por bairros EM DESENVOLVIMENTO, além de oferecerem melhores preços, o valor do seu imóvel irá aumentar com o tempo.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../fissuras-trincas-rachaduras/img1.jpg" style="max-width:100%;" alt="construcao-predio-concreto-fissuras"/>
+                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img1.png" style="max-width:100%;" alt="bairros-em-desenvolvimento"/>
                         </div>
-                        <p style="text-align:justify;">
-                           Estas fissuras ocorrem principalmente devido a retração (perda de água) dos materiais de acabamento como tintas e argamassas. 
-                        </p>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">2. TRINCAS</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">2. CONSIDERE...</h2>
                         <p style="text-align:justify;">
-                           Se a abertura for mais profunda, entre 1 e 3mm de espessura, e estiver atingindo outros elementos como azulejos e outros revestimentos, são chamadas de <b>TRINCAS</b>, e merecem uma atenção maior.
+                           Considere comprar um IMÓVEL NA PLANTA, Em geral os preços são mais atrativos e a valorização do seu imóvel é garantida. <b>(Clique Aqui e Saiba mais sobre os 5 medos de comprar um imóvel na planta)</b>
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../fissuras-trincas-rachaduras/img2.jpg" style="max-width:100%;" alt="construcao-predio-concreto-trincas"/>
+                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img2.png" style="max-width:100%;" alt="comprar-imovel-na-planta"/>
                         </div>
+                        
+                        <h2 class="pt-40" style="color: #2d2d2d;">3. JUNTE SUAS ECONOMIAS...</h2>
                         <p style="text-align:justify;">
-                           Elas surgem principalmente devido a variação de temperatura (paredes com alta incidência de sol) que faz com que os materiais contraiam e dilatem com maior intensidade.
-                        </p>
-
-
-                        <h2 class="pt-40" style="color: #2d2d2d;">3. RACHADURAS</h2>
-                        <p style="text-align:justify;">
-                        Agora se a abertura for grande, com espessura acima de 3 mm, por onde podem entrar água, luz e vento; ou ainda, se ela estiver na diagonal com ângulo de 45º, é importante ficar alerta e acionar uma avaliação técnica imediatamente.
+                           Junte suas economias e dê o maior VALOR DE ENTRADA, assim você garante melhores condições de negociação e menores juros lá na frente.
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../fissuras-trincas-rachaduras/img3.jpg" style="max-width:100%;" alt="construcao-predio-concreto-rachadura"/>
+                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img3.png" style="max-width:100%;" alt="junte-as-suas-economias"/>
                         </div>
 
+                        <h2 class="pt-40" style="color: #2d2d2d;">4. COMPARE...</h2>
                         <p style="text-align:justify;">
-                           Estas aberturas são chamadas de <b>RACHADURAS</b>, ocorrem devido à problemas estruturais e por isso requerem cuidado imediato.
+                              Compare o R$/m2 e veja qual imóvel oferece a melhor vantagem financeira.
                         </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img4.png" style="max-width:100%;" alt="compare-o-metro-quadrado"/>
+                        </div>
 
-                        </br><p><b><i class="far fa-lightbulb"></i> LEMBRE-SE</b>
-                        </br>- Trincas e fissuras devem ser sempre observadas e acompanhadas pois podem evoluir para uma rachadura.
-                        </br>- Na dúvida, contate o responsável técnico da obra.
+                        <h2 class="pt-40" style="color: #2d2d2d;">5. FIQUE ATENTO...</h2>
+                        <p style="text-align:justify;">
+                           Fique atento ao padrão de ENTREGA. Em caso de imóveis na planta, leia com atenção o memorial descritivo. Para imóveis usados, faça uma vistoria rigorosa da estrutura do imóvel.
+                        </p>
+                        
+                        <div class="feature-img">
+                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img5.png" style="max-width:100%;" alt="fique-atento-memorial-descritivo"/>
+                        </div>
+
+                        </br>E, caso queira dar o primeiro passo para esse investimento, CONTE COM A GENTE!
                         </p>
 
                      </div>
                   </div>
                   </br>
 
-                  <h5 style="color:black;"><a href="#">#curiosidades</a><a href="#"> #construcaocivil</a></h5>
+                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -110,37 +122,19 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/dicas-varal-apartamento">
-                                    <img class="" src="../dicas-varal-apartamento/CAPA.png" alt="dicas-varal-apartamento-capa" height="80px">
+                                 <a href="/fissuras-trincas-rachaduras">
+                                    <img class="" src="../fissuras-trincas-rachaduras/CAPA.jpg" alt="fissuras-trincas-rachaduras-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/dicas-varal-apartamento">
+                                 <a href="/fissuras-trincas-rachaduras">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/dicas-varal-apartamento">
-                                    <h4 style="color: #2d2d2d;">5 Dicas de VARAL para apartamento</h4>
-                                 </a>
-                              </div>
-                           </div>
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
-                              <div class="details">
-                                 <p>Próximo Post</p>
-                                 <a href="/bom-negocio-compra-de-imovel">
-                                    <h4 style="color: #2d2d2d;">Será que você está fazendo um bom negócio na compra do seu imóvel?</h4>
-                                 </a>
-                              </div>
-                              <div class="arrow">
-                                 <a href="/bom-negocio-compra-de-imovel">
-                                    <span class="lnr text-white ti-arrow-right"></span>
-                                 </a>
-                              </div>
-                              <div class="thumb">
-                                 <a href="/bom-negocio-compra-de-imovel">
-                                    <img class="img-fluid" src="../bom-negocio-compra-de-imovel/CAPA.png" alt="bom-negocio-compra-de-imovel">
+                                 <a href="/fissuras-trincas-rachaduras">
+                                    <h4 style="color: #2d2d2d;">FISSURAS, TRINCAS e RACHADURAS quando devo me preocupar?</h4>
                                  </a>
                               </div>
                            </div>
