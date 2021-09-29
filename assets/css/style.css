@@ -6,8 +6,8 @@
 	  Support:
 	  Description:
 	  Version:
-	  
-------------------------------------------------- 
+
+-------------------------------------------------
 */
 /* CSS Index
 -------------------------------------------------
@@ -87,7 +87,7 @@
 }
 
 .size-empre{
-  height: 565px; 
+  height: 565px;
 }
 
 .btn:hover{
@@ -96,7 +96,7 @@
 .grid {
 	position: relative;
 	margin: 0 auto;
-	
+
 	max-width: 1000px;
 	list-style: none;
 	text-align: center;
@@ -105,7 +105,7 @@
 .img_logo{
   opacity: 1 !important;
   width: 70%;
-  
+
 }
 /* Common style */
 .grid figure {
@@ -365,7 +365,7 @@ body {
       margin-top: 139px;
       font-size: 37px;
       color: white;
-      text-shadow: black 0.1em 0.1em 0.2em;      
+      text-shadow: black 0.1em 0.1em 0.2em;
   }
 
   .font-vagnotieSOBRE{
@@ -374,7 +374,7 @@ body {
     font-size: 35px;
     text-align: center;
     color: white;
-    text-shadow: black 0.1em 0.1em 0.2em;      
+    text-shadow: black 0.1em 0.1em 0.2em;
   }
 
   .font-vagnotieCONT{
@@ -478,12 +478,17 @@ margin-left: 0%;
     text-align: center;
 }
 
+
 .margin-figcaption{
 
   margin-left: 0px !important;
 }
 }
 
+.checkbox-confirmation{
+  font-size: 12px;
+  margin-bottom: 20px;
+}
 .margin-figcaption{
 
   margin-left: 10px;
@@ -506,6 +511,11 @@ margin-left: 0%;
 .duvidas-contato{
   margin-top: 30px;
   font-size: 21px;
+}
+
+.contato-em-breve{
+  margin-top: 30px;
+  font-size: 18px;
 }
 /*---------------*/
 /***** Marley *****/
@@ -676,7 +686,7 @@ Efeito empreendimentos Layla
 */
 .teste{
   background: #00000073;
-  
+
 }
 
 figure.effect-layla {
@@ -701,7 +711,7 @@ figure.effect-layla:hover {
 }
 
 figure.effect-layla p:hover {
-  
+
   opacity: 1;
     -webkit-transition: opacity 0.35s;
     transition: opacity 0.35s;
@@ -1106,14 +1116,14 @@ hr {
 }
 
 @media (min-width: 767px) {
-  
+
   .tamanho-empreendimento1{
-    width: 437px !important;  
+    width: 437px !important;
     margin-left: 30%;
   }
 
   .tamanho-empreendimento2{
-    width: 437px !important;  
+    width: 437px !important;
     margin-left: 12.5%;
   }
 }
@@ -4024,7 +4034,7 @@ hr {
 /* line 89, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul li:hover > a {
   color: #969696;
-  
+
 }
 
 /* line 94, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
@@ -4671,7 +4681,7 @@ hr {
   color: #64676c;
   line-height: 1.6;
   margin-bottom: 58px;
- 
+
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5976,7 +5986,7 @@ hr {
 .footer-area .footer-form form input {
   width: 100%;
   height: 43px;
- 
+
   border: 1px solid #C2C5DB;
   background: no-repeat;
   color: #C2C5DB;
