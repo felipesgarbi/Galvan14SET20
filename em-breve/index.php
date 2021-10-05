@@ -64,42 +64,52 @@ include "../estrutura/head.php";
           }
         }
         ?>
-        <!--Section description-->
-        <p class="text-center w-responsive mx-auto font-ruda contato-em-breve">
-          Em breve tudo que realmente importa em um só lugar!
-
-        </p>
-
-        <p class="text-center w-responsive mx-auto font-ruda contato-em-breve">
-
-          Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida no melhor estilo.
-        </p>
-
-        <p class="text-center w-responsive mx-auto font-ruda contato-em-breve textoCinza">
-        Apartamentos tipo de 88 a 90,5m2 e giardinos de 118 a 129,5m2
-        </p>
         <div class="container">
-          <div class="row pt-40">
-            <div class="col-lg-9 mb-40">
-            <p class="w-responsive mx-auto font-ruda contato-em-breve ">
-            Cadastre-se e receba em primeira mão as informações de pré-lançamento deste empreendimento.
+          <div class="row">
+
+            <!--Section description-->
+            <p class="text-center w-responsive mx-auto font-ruda title-contato-em-breve">
+              Em breve tudo que realmente importa em um só lugar!
             </p>
+          </div>
+
+          <div class="row pt-40">
+            <div class="col-lg-7 mb-40">
+              <p class="text-center w-responsive mx-auto font-ruda contato-em-breve">
+
+                Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida no melhor estilo.
+              </p>
+
+              <p class="text-center w-responsive mx-auto font-ruda contato-em-breve textoCinza apartamento-desc">
+                Apartamentos de 88 a 90,5m² e Giardinos de 118 a 130m²
+              </p>
+
+              <p class="text-center w-responsive mx-auto font-ruda contato-em-breve endereco-desc">
+                    Rua Guaratuba, nº 135 - Saguaçu
+                    (na rua do BONJA)</p>
+
+            </div>
+
+            <div class="col-md-5 text-center">
+            <p class="w-responsive mx-auto font-ruda title-form-cadastro ">
+                Cadastre-se e receba em primeira mão as informações de pré-lançamento deste empreendimento.
+              </p>
               <form id="contact-form" name="contact-form" action="/em-breve/mail.php" method="POST">
 
                 <div class="row">
-                  <div class="col-lg-4 mb-10">
+                  <div class="col-lg-12 mb-10">
                     <div class="md-form mb-0">
                       <input type="text" id="nome" name="nome" class="formContact" placeholder="Seu nome (obrigatório)" required="">
                     </div>
                   </div>
 
-                  <div class="col-lg-4 mb-10">
+                  <div class="col-lg-12 mb-10">
                     <div class="md-form mb-0">
                       <input type="text" id="telefone" name="telefone" class="formContact" placeholder="Seu telefone (obrigatório)" required="" onkeypress="$(this).mask('(00) 0000-00009')">
                     </div>
                   </div>
 
-                  <div class="col-lg-4 mb-10">
+                  <div class="col-lg-12 mb-10">
                     <div class="md-form mb-0">
                       <input type="text" id="email" name="email" class="formContact" placeholder="Seu e-mail">
                     </div>
@@ -108,40 +118,22 @@ include "../estrutura/head.php";
                 </div>
 
                 <div class="row">
-                  <div class="col-lg-12">
+                  <div class="col-lg-12 div-check-de-acordo">
                     <input type="checkbox" name="deacordo" id="deacordo" required>
                     <label for="deacordo" class="font-ruda checkbox-confirmation">Estou de acordo em receber informações deste empreendimento e ser acessado para possível atendimento.</label>
                   </div>
                 </div>
-
-                <div class="col-lg-2 mb-40 paddingContact">
+                <div class="col-lg-8 mb-40 paddingContact">
+                  <div class="g-recaptcha" data-sitekey="6LdW2O8ZAAAAAONr9c76J-0TJ_fbaaEEzklNqE-a"></div>
+                </div>
+                <div class="col-lg-4 mb-40 paddingContact">
                   <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
 
                 </div>
-                <div class="col-lg-2 mb-40 paddingContact">
-                  <div class="g-recaptcha" data-sitekey="6LdW2O8ZAAAAAONr9c76J-0TJ_fbaaEEzklNqE-a"></div>
-                </div>
+
 
               </form>
 
-            </div>
-
-            <div class="col-md-3 text-center">
-              <ul class="list-unstyled mb-0">
-                <li><i class="textoCinza fas fa-map-marker-alt fa-2x"></i>
-                  <p class="font-ruda">
-                    Rua Guaratuba, nº 135 - Saguaçu
-                    (localizado na mesma rua do BONJA)</p>
-                </li>
-
-                <li><i class="textoCinza fab fa-whatsapp mt-4 fa-2x"></i>
-                  <p class="font-ruda">+55 47 9.8919-0606</p>
-                </li>
-
-                <li><i class="textoCinza fas fa-envelope mt-4 fa-2x"></i>
-                  <p class="font-ruda">atendimento@galvanengenharia.com</p>
-                </li>
-              </ul>
             </div>
           </div>
         </div>
