@@ -25,7 +25,7 @@ include "../estrutura/head.php";
   include "../estrutura/header.php" ?>
   <main>
     <!--? Hero Start -->
-    <div class="slider-area2 section-bg2" data-background="../assets/img/novoempreendimento/guara1.png" style="background-size: cover;">
+    <div class="slider-area2 section-bg2" data-background="../assets/img/novoempreendimento/guara2.png" style="background-size: cover;">
       <div class="slider-height2 d-flex align-items-center">
         <div class="container">
           <div class="row">
@@ -69,71 +69,67 @@ include "../estrutura/head.php";
 
             <!--Section description-->
             <p class="text-center w-responsive mx-auto font-ruda title-contato-em-breve">
-              Em breve tudo que realmente importa em um só lugar!
+              tudo que realmente importa em um só lugar!
             </p>
-          </div>
 
-          <div class="row pt-40">
-            <div class="col-lg-7 mb-40">
-              <p class="text-center w-responsive mx-auto font-ruda contato-em-breve">
+            <p class="text-center w-responsive mx-auto font-ruda contato-em-breve">
 
-                Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida no melhor estilo.
-              </p>
+              Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida no melhor estilo.
+            </p>
 
-              <p class="text-center w-responsive mx-auto font-ruda contato-em-breve textoCinza apartamento-desc">
-                Apartamentos de 88 a 90,5m² e Giardinos de 118 a 130m²
-              </p>
+            <p class="text-center w-responsive mx-auto font-ruda contato-em-breve textoCinza apartamento-desc">
+              Apartamentos de 88 a 90,5m² e Giardinos de 118 a 130m²
+            </p>
 
-              <p class="text-center w-responsive mx-auto font-ruda contato-em-breve endereco-desc">
-                    Rua Guaratuba, nº 135 - Saguaçu
-                    (na rua do BONJA)</p>
+            <p class="text-center w-responsive mx-auto font-ruda contato-em-breve endereco-desc">
+              Rua Guaratuba, nº 135 - Saguaçu
+              (na rua do BONJA)</p>
+            <div class="div-form">
+              <div class="text-center form-register">
+                <p class="w-responsive mx-auto font-ruda title-form-cadastro textoCinza ">
+                  receba informações de pré-lançamento deste empreendimento
+                </p>
+                <form id="contact-form" name="contact-form" action="/em-breve/mail.php" method="POST">
 
-            </div>
+                  <div class="row">
+                    <div class="col-lg-12 mb-10">
+                      <div class="md-form mb-0">
+                        <input type="text" id="nome" name="nome" class="formContact" placeholder="Seu nome (obrigatório)" required="">
+                      </div>
+                    </div>
 
-            <div class="col-md-5 text-center">
-            <p class="w-responsive mx-auto font-ruda title-form-cadastro ">
-                Cadastre-se e receba em primeira mão as informações de pré-lançamento deste empreendimento.
-              </p>
-              <form id="contact-form" name="contact-form" action="/em-breve/mail.php" method="POST">
+                    <div class="col-lg-12 mb-10">
+                      <div class="md-form mb-0">
+                        <input type="text" id="telefone" name="telefone" class="formContact" placeholder="Seu telefone (obrigatório)" required="" onkeypress="$(this).mask('(00) 0000-00009')">
+                      </div>
+                    </div>
 
-                <div class="row">
-                  <div class="col-lg-12 mb-10">
-                    <div class="md-form mb-0">
-                      <input type="text" id="nome" name="nome" class="formContact" placeholder="Seu nome (obrigatório)" required="">
+                    <div class="col-lg-12 mb-10">
+                      <div class="md-form mb-0">
+                        <input type="text" id="email" name="email" class="formContact" placeholder="Seu e-mail">
+                      </div>
+                    </div>
+
+                  </div>
+
+                  <div class="row">
+                    <div class="col-lg-12 div-check-de-acordo">
+                      <input type="checkbox" name="deacordo" id="deacordo" required>
+                      <label for="deacordo" class="font-ruda checkbox-confirmation">Estou de acordo em receber informações deste empreendimento e ser acessado para possível atendimento.</label>
                     </div>
                   </div>
+                  <div class="col-lg-8 mb-40 paddingContact">
+                    <div class="g-recaptcha" data-sitekey="6LdW2O8ZAAAAAONr9c76J-0TJ_fbaaEEzklNqE-a"></div>
+                  </div>
+                  <div class="col-lg-4 mb-40 paddingContact">
+                    <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
 
-                  <div class="col-lg-12 mb-10">
-                    <div class="md-form mb-0">
-                      <input type="text" id="telefone" name="telefone" class="formContact" placeholder="Seu telefone (obrigatório)" required="" onkeypress="$(this).mask('(00) 0000-00009')">
-                    </div>
                   </div>
 
-                  <div class="col-lg-12 mb-10">
-                    <div class="md-form mb-0">
-                      <input type="text" id="email" name="email" class="formContact" placeholder="Seu e-mail">
-                    </div>
-                  </div>
 
-                </div>
+                </form>
 
-                <div class="row">
-                  <div class="col-lg-12 div-check-de-acordo">
-                    <input type="checkbox" name="deacordo" id="deacordo" required>
-                    <label for="deacordo" class="font-ruda checkbox-confirmation">Estou de acordo em receber informações deste empreendimento e ser acessado para possível atendimento.</label>
-                  </div>
-                </div>
-                <div class="col-lg-8 mb-40 paddingContact">
-                  <div class="g-recaptcha" data-sitekey="6LdW2O8ZAAAAAONr9c76J-0TJ_fbaaEEzklNqE-a"></div>
-                </div>
-                <div class="col-lg-4 mb-40 paddingContact">
-                  <button type="submit" class="font-ruda button text-white w-100 btnContactNew" style="border-radius: 10px;">Enviar</button>
-
-                </div>
-
-
-              </form>
-
+              </div>
             </div>
           </div>
         </div>
