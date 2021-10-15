@@ -54,15 +54,23 @@
 
                         <span>
                         Conheça o índice aplicado na compra de imóveis na planta e como ele vai impactar no valor final do seu imóvel. 
-                           <p>CUB - Custo Unitário Básico da Construção Civil</p>
+                           </br>
+                           <b></br>"CUB - Custo Unitário Básico da Construção Civil"</b>
+                        
                            </br>O CUB leva em consideração fatores como variação de preço dos insumos, equipamentos e mão de obra para diferentes padrões de construção.
-                           </br>Seu cálculo é regional, variando de estado para estado, e o responsável pelo cálculo é o SINDUSCON de cada estado.
-                           <a>https://sinduscon-fpolis.org.br/</a>
-                           <p>Esse índice é utilizado como indexador contratual na compra de imóveis na planta.</p>
+                           </br>   
+                           </br>Seu cálculo é regional, variando de estado para estado, e o responsável pelo cálculo é o <b>SINDUSCON</b> de cada estado.
+                           
+                           </br>
+                           <a href="https://sinduscon-fpolis.org.br/">https://sinduscon-fpolis.org.br/</a>
+                           
+                           </br>
+                           </br>Esse índice é utilizado como indexador contratual na compra de imóveis na planta.
                            </br>Ele permite que a construtora pratique preços de venda menores ao longo da obra, sem ter que onerar o cliente estimando um aumento de custo durante o longo período da construção.
-                           <p>A correção do CUB é aplicada sobre o saldo DEVEDOR, e não sobre o valor total do imóvel.</p>
+                           </br>   
+                           </br>A correção do CUB é aplicada sobre o saldo DEVEDOR, e não sobre o valor total do imóvel.
                            </br>Por isso, quanto maior o valor da entrada e das parcelas pagas, menor a incidência de correção.
-                           <p>Como calcular o reajuste do CUB sobre as parcelas do meu imóvel?</p>
+                           <b></br>Como calcular o reajuste do CUB sobre as parcelas do meu imóvel?</p></b>
                         </span>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">1. Primeiro você deve transformar todo valor do contrato em CUB.</h2>
@@ -75,19 +83,16 @@
                         </div>
 
                         <h2 class="pt-40" style="color: #2d2d2d;">2. Suponhamos que você pagou uma entrada de R$100.000,00 na assinatura do contrato.</h2>
-                        <p style="text-align:justify;">
-                           Seu saldo devedor agora é de: 226,83 - 45,39 = 181,54 CUBs.
-                        </p>
+                        <span> Seu saldo devedor agora é de: 226,83 - 45,39 = 181,54 CUBs.</span>
                         
                         <div class="feature-img">
                            <img class="img-fluid" src="../desmistificando-o-cub/img2.png" style="max-width:100%;" alt="conversao-em-cubs"/>
                         </div>
                         
                         <h2 class="pt-40" style="color: #2d2d2d;">3. Imagine que você pretende pagar prestações de R$3.000,00 ao longo de 20 meses da obra</h2>
-                        <p style="text-align:justify;">
-                        O valor em reais a ser pago mensalmente irá varia de acordo com o CUB. Ex.: em junho/21 o valor da parcela será: 1,36 * R$2.307,92 (CUB de jun/21) = R$3.142,46
-                        </p>
                         
+                        <span>O valor em reais a ser pago mensalmente irá varia de acordo com o CUB. Ex.: em junho/21 o valor da parcela será: 1,36 * R$2.307,92 (CUB de jun/21) = R$3.142,46</span>
+                     
                         <div class="feature-img">
                            <img class="img-fluid" src="../desmistificando-o-cub/img3.png" style="max-width:100%;" alt="junte-as-suas-economias"/>
                         </div>
@@ -101,10 +106,9 @@
                            <img class="img-fluid" src="../desmistificando-o-cub/img4.png" style="max-width:100%;" alt="compare-o-metro-quadrado"/>
                         </div>
 
-
                         </br>Gostou?
-                        </br> Então, fique ligado que no próximo post vamos analisar: a série histórica do CUB/SC versus a taxa de juros do financiamento imobiliário.
-                        </br> E mostraremos o quanto comprar um imóvel na planta pode ser um bom negócio!
+                        </br>Então, fique ligado que no próximo post vamos analisar: a série histórica do CUB/SC versus a taxa de juros do financiamento imobiliário.
+                        </br>E mostraremos o quanto comprar um imóvel na planta pode ser um bom negócio!
 
                      </div>
                   </div>
@@ -121,19 +125,19 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/fissuras-trincas-rachaduras">
-                                    <img class="" src="../fissuras-trincas-rachaduras/CAPA.jpg" alt="fissuras-trincas-rachaduras-capa" height="80px">
+                                 <a href="/bom-negocio-compra-de-imovel">
+                                    <img class="" src="../bom-negocio-compra-de-imovel/CAPA.png" alt="bom-negocio-compra-de-imovel-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/fissuras-trincas-rachaduras">
+                                 <a href="/bom-negocio-compra-de-imovel">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/fissuras-trincas-rachaduras">
-                                    <h4 style="color: #2d2d2d;">FISSURAS, TRINCAS e RACHADURAS quando devo me preocupar?</h4>
+                                 <a href="/bom-negocio-compra-de-imovel">
+                                    <h4 style="color: #2d2d2d;">Será que você está fazendo um bom negócio na compra do seu imóvel?</h4>
                                  </a>
                               </div>
                            </div>

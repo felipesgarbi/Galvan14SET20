@@ -138,6 +138,26 @@
                                  </a>
                               </div>
                            </div>
+
+                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+                              <div class="details">
+                                 <p>Próximo Post</p>
+                                 <a href="/desmistificando-o-cub">
+                                    <h4 style="color: #2d2d2d;">Desmistificando o CUB</h4>
+                                 </a>
+                              </div>
+                              <div class="arrow">
+                                 <a href="/desmistificando-o-cub">
+                                    <span class="lnr text-white ti-arrow-right"></span>
+                                 </a>
+                              </div>
+                              <div class="thumb">
+                                 <a href="/desmistificando-o-cub">
+                                    <img class="img-fluid" src="../desmistificando-o-cub/CAPA.png" alt="desmistificando-o-cub">
+                                 </a>
+                              </div>
+                           </div>
+
                         </div>
                      </div>
                   </div>
