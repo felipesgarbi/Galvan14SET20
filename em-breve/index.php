@@ -73,7 +73,7 @@ include "../estrutura/head.php";
 
             <p class="text-center w-responsive mx-auto font-ruda contato-em-breve">
 
-              Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida no melhor estilo.
+              Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida.
             </p>
 
             <p class="text-center w-responsive mx-auto font-ruda contato-em-breve-textoapto textoCinza apartamento-desc">
