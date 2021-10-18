@@ -28,7 +28,7 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active w-100">
-                    <a href="/em-breve">
+                    <a href="/edificio-guara">
                         <div style="width: 100%; height: 100%;">
                             <img src="assets/img/inicial/1-guara.png" alt="" style="width: 100%;">
                         </div>
