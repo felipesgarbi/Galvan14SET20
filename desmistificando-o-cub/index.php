@@ -36,13 +36,13 @@
             <div class="row">
                <div class="col-lg-8 posts-list">
                   <div class="single-post">
-                        <h5>23/08/2021 - Por: Galvan Engenharia</h5>
+                        <h5>14/10/2021 - Por: Galvan Engenharia</h5>
                      <div class="feature-img">
-                        <img class="img-fluid" src="../bom-negocio-compra-de-imovel/CAPA.png" alt="bom-negocio-compra-de-imovel-capa"/>
+                        <img class="img-fluid" src="../desmistificando-o-cub/CAPA.png" alt="desmistificando-o-cub-capa"/>
                      </div>
                      <div class="blog_details">
                         <h2 style="color: #2d2d2d; text-align:justify;">
-                        <b>Será que você está fazendo um bom negócio na compra do seu imóvel?</b></h2>
+                        <b>Desmistificando o CUB</b></h2>
                         
                         <!--<div class="quote-wrapper">
                            <div class="quotes">
@@ -53,65 +53,68 @@
                         </div>-->
 
                         <span>
-                           É normal sentir insegurança e medo de se arrepender, quando estamos pensando em adquirir um produto de alto valor agregado e de longa duração. 
-                           </br>Você já pensou que mesmo que esteja adquirindo um imóvel para morar, ele não deixa de ser um investimento e vai fazer parte do seu patrimônio futuro?
-                           </br>Por isso, é importante que você fique atento àqueles fatores que fazem com que seu imóvel valorize ao longo do tempo.
-                           </br>Acompanhe nossas dicas para garantir que você fará um bom investimento!
+                        Conheça o índice aplicado na compra de imóveis na planta e como ele vai impactar no valor final do seu imóvel. 
+                           </br>
+                           <b></br>"CUB - Custo Unitário Básico da Construção Civil"</b>
+                        
+                           </br>O CUB leva em consideração fatores como variação de preço dos insumos, equipamentos e mão de obra para diferentes padrões de construção.
+                           </br>   
+                           </br>Seu cálculo é regional, variando de estado para estado, e o responsável pelo cálculo é o <b>SINDUSCON</b> de cada estado.
+                           
+                           </br>
+                           <a href="https://sinduscon-fpolis.org.br/">https://sinduscon-fpolis.org.br/</a>
+                           
+                           </br>
+                           </br>Esse índice é utilizado como indexador contratual na compra de imóveis na planta.
+                           </br>Ele permite que a construtora pratique preços de venda menores ao longo da obra, sem ter que onerar o cliente estimando um aumento de custo durante o longo período da construção.
+                           </br>   
+                           </br>A correção do CUB é aplicada sobre o saldo DEVEDOR, e não sobre o valor total do imóvel.
+                           </br>Por isso, quanto maior o valor da entrada e das parcelas pagas, menor a incidência de correção.
+                           <b></br>Como calcular o reajuste do CUB sobre as parcelas do meu imóvel?</p></b>
                         </span>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">1. BUSQUE...</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">1. Primeiro você deve transformar todo valor do contrato em CUB.</h2>
                         <p style="text-align:justify;">
-                           Busque por bairros EM DESENVOLVIMENTO, além de oferecerem melhores preços, o valor do seu imóvel irá aumentar com o tempo.
+                           
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img1.png" style="max-width:100%;" alt="bairros-em-desenvolvimento"/>
+                           <img class="img-fluid" src="../desmistificando-o-cub/img1.png" style="max-width:100%;" alt="valor-contrato-cub"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">2. CONSIDERE...</h2>
-                        <p style="text-align:justify;">
-                           Considere comprar um IMÓVEL NA PLANTA, Em geral os preços são mais atrativos e a valorização do seu imóvel é garantida. <b>(Clique Aqui e Saiba mais sobre os 5 medos de comprar um imóvel na planta)</b>
-                        </p>
+                        <h2 class="pt-40" style="color: #2d2d2d;">2. Suponhamos que você pagou uma entrada de R$100.000,00 na assinatura do contrato.</h2>
+                        <span> Seu saldo devedor agora é de: 226,83 - 45,39 = 181,54 CUBs.</span>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img2.png" style="max-width:100%;" alt="comprar-imovel-na-planta"/>
+                           <img class="img-fluid" src="../desmistificando-o-cub/img2.png" style="max-width:100%;" alt="conversao-em-cubs"/>
                         </div>
                         
-                        <h2 class="pt-40" style="color: #2d2d2d;">3. JUNTE SUAS ECONOMIAS...</h2>
-                        <p style="text-align:justify;">
-                           Junte suas economias e dê o maior VALOR DE ENTRADA, assim você garante melhores condições de negociação e menores juros lá na frente.
-                        </p>
+                        <h2 class="pt-40" style="color: #2d2d2d;">3. Imagine que você pretende pagar prestações de R$3.000,00 ao longo de 20 meses da obra</h2>
                         
+                        <span>O valor em reais a ser pago mensalmente irá varia de acordo com o CUB. Ex.: em junho/21 o valor da parcela será: 1,36 * R$2.307,92 (CUB de jun/21) = R$3.142,46</span>
+                     
                         <div class="feature-img">
-                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img3.png" style="max-width:100%;" alt="junte-as-suas-economias"/>
+                           <img class="img-fluid" src="../desmistificando-o-cub/img3.png" style="max-width:100%;" alt="junte-as-suas-economias"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">4. COMPARE...</h2>
+                        <h2 class="pt-40" style="color: #2d2d2d;">4. Agora vamos calcular o saldo devedor na entrega da obra (saldo a ser financiado)</h2>
                         <p style="text-align:justify;">
-                              Compare o R$/m2 e veja qual imóvel oferece a melhor vantagem financeira.
+                           
                         </p>
                         
                         <div class="feature-img">
-                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img4.png" style="max-width:100%;" alt="compare-o-metro-quadrado"/>
+                           <img class="img-fluid" src="../desmistificando-o-cub/img4.png" style="max-width:100%;" alt="compare-o-metro-quadrado"/>
                         </div>
 
-                        <h2 class="pt-40" style="color: #2d2d2d;">5. FIQUE ATENTO...</h2>
-                        <p style="text-align:justify;">
-                           Fique atento ao padrão de ENTREGA. Em caso de imóveis na planta, leia com atenção o memorial descritivo. Para imóveis usados, faça uma vistoria rigorosa da estrutura do imóvel.
-                        </p>
-                        
-                        <div class="feature-img">
-                           <img class="img-fluid" src="../bom-negocio-compra-de-imovel/img5.png" style="max-width:100%;" alt="fique-atento-memorial-descritivo"/>
-                        </div>
-
-                        </br>E, caso queira dar o primeiro passo para esse investimento, CONTE COM A GENTE!
-                        </p>
+                        </br>Gostou?
+                        </br>Então, fique ligado que no próximo post vamos analisar: a série histórica do CUB/SC versus a taxa de juros do financiamento imobiliário.
+                        </br>E mostraremos o quanto comprar um imóvel na planta pode ser um bom negócio!
 
                      </div>
                   </div>
                   </br>
 
-                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a></h5>
+                  <h5 style="color:black;"><a href="#">#mercadoimobiliario</a><a href="#">#construcaocivil</a></h5>
                   <div class="navigation-top">
                      <div class="d-sm-flex justify-content-between text-center">
                         <div class="col-sm-4 text-center my-2 my-sm-0">
@@ -122,42 +125,22 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                               <div class="thumb">
-                                 <a href="/fissuras-trincas-rachaduras">
-                                    <img class="" src="../fissuras-trincas-rachaduras/CAPA.jpg" alt="fissuras-trincas-rachaduras-capa" height="80px">
+                                 <a href="/bom-negocio-compra-de-imovel">
+                                    <img class="" src="../bom-negocio-compra-de-imovel/CAPA.png" alt="bom-negocio-compra-de-imovel-capa" height="80px">
                                  </a>
                               </div>
                               <div class="arrow">
-                                 <a href="/fissuras-trincas-rachaduras">
+                                 <a href="/bom-negocio-compra-de-imovel">
                                     <span class="lnr text-white ti-arrow-left"></span>
                                  </a>
                               </div>
                               <div class="details">
                                  <p>Post Anterior</p>
-                                 <a href="/fissuras-trincas-rachaduras">
-                                    <h4 style="color: #2d2d2d;">FISSURAS, TRINCAS e RACHADURAS quando devo me preocupar?</h4>
+                                 <a href="/bom-negocio-compra-de-imovel">
+                                    <h4 style="color: #2d2d2d;">Será que você está fazendo um bom negócio na compra do seu imóvel?</h4>
                                  </a>
                               </div>
                            </div>
-
-                           <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
-                              <div class="details">
-                                 <p>Próximo Post</p>
-                                 <a href="/desmistificando-o-cub">
-                                    <h4 style="color: #2d2d2d;">Desmistificando o CUB</h4>
-                                 </a>
-                              </div>
-                              <div class="arrow">
-                                 <a href="/desmistificando-o-cub">
-                                    <span class="lnr text-white ti-arrow-right"></span>
-                                 </a>
-                              </div>
-                              <div class="thumb">
-                                 <a href="/desmistificando-o-cub">
-                                    <img class="img-fluid" src="../desmistificando-o-cub/CAPA.png" alt="desmistificando-o-cub">
-                                 </a>
-                              </div>
-                           </div>
-
                         </div>
                      </div>
                   </div>

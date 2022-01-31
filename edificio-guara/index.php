@@ -21,11 +21,10 @@ include "../estrutura/head.php";
 
   <!-- Preloader Start -->
   <?php
-  $contact = "active";
   include "../estrutura/header.php" ?>
   <main>
     <!--? Hero Start -->
-    <div class="slider-area2 section-bg2" data-background="../assets/img/novoempreendimento/guara2.png" style="background-size: cover;">
+    <div class="slider-area2 section-bg2" data-background="../assets/img/novoempreendimento/top-guara2.png" style="background-size: cover;">
       <div class="slider-height2 d-flex align-items-center">
         <div class="container">
           <div class="row">
@@ -74,14 +73,14 @@ include "../estrutura/head.php";
 
             <p class="text-center w-responsive mx-auto font-ruda contato-em-breve">
 
-              Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida no melhor estilo.
+              Conectado ao seu estilo, pensado para desacelerar, conviver e celebrar a vida.
             </p>
 
-            <p class="text-center w-responsive mx-auto font-ruda contato-em-breve textoCinza apartamento-desc">
+            <p class="text-center w-responsive mx-auto font-ruda contato-em-breve-textoapto textoCinza apartamento-desc">
               Apartamentos de 88 a 90,5m² e Giardinos de 118 a 130m²
             </p>
 
-            <p class="text-center w-responsive mx-auto font-ruda contato-em-breve endereco-desc">
+            <p class="text-center w-responsive mx-auto font-ruda endereco-desc">
               Rua Guaratuba, nº 135 - Saguaçu
               (na rua do BONJA)</p>
             <div class="div-form">

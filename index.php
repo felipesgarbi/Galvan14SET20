@@ -28,16 +28,25 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active w-100">
-                <a href="/edificio-contarini"><div style="width: 100%; height: 100%;">
-                    <img src="assets/img/inicial/Conta4.png" alt="" style="width: 100%;">
-            </div></a>
+                    <a href="/edificio-guara">
+                        <div style="width: 100%; height: 100%;">
+                            <img src="assets/img/inicial/1-guara.png" alt="" style="width: 100%;">
+                        </div>
+                    </a>
+                </div>   
+
+                <div class="item w-100">
+                    <a href="/edificio-contarini">
+                        <div style="width: 100%; height: 100%;">
+                            <img src="assets/img/inicial/Conta4.png" alt="" style="width: 100%;">
+                        </div>
+                    </a>
                 </div>
+
                 <div class="item w-100">
                     <img src="assets/img/inicial/IMG2.png" alt="" style="width: 100%;">
                 </div>
-                <div class="item w-100">
-                <img src="assets/img/inicial/IMG3.png" alt="" style="width: 100%;">
-                </div>
+                
             </div>
 
             <!-- Controls -->
