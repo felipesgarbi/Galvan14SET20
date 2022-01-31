@@ -203,7 +203,7 @@
                                 </div>
                                 <div class="col-xl-4 col-lg-4">
                                     <div class="grid">
-                                        <a href="/edificio-contarini">
+                                        <a href="/edificio-guara">
                                             <figure class="effect-bubba">
 
                                                 <img class="img_fundo" src="assets/img/edificios/edGuara-(437x566)2.png" alt="img02" />
