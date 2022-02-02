@@ -99,7 +99,78 @@
                     <div class="gallery-area">
                         <div class="container-fluid p-0 fix">
                             <div class="row no-gutters ">
+                            <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-guara">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo" src="assets/img/edificios/edGuara-(437x566)2.png" alt="img02" />
+
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/LogoGuara.png" alt="img03" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Guaratuba, 135, </br>Bairro Saguaçu - Joinville</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
                                 <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-contarini">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
+
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-ouro-verde">
+                                            <figure class="effect-bubba ">
+
+                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
+                               
+                            </div>
+                        </div>
+                 </div>
+                </div>
+
+
+                <div class="item w-100">
+                <div class="gallery-area">
+                        <div class="container-fluid p-0 fix">
+                            <div class="row no-gutters ">
+                            <div class="col-xl-4 col-lg-4">
                                     <div class="grid">
                                         <a href="/edificio-contarini">
                                             <figure class="effect-bubba">
@@ -159,77 +230,8 @@
                                         </a>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                 </div>
-                </div>
-
-
-                <div class="item w-100">
-                <div class="gallery-area">
-                        <div class="container-fluid p-0 fix">
-                            <div class="row no-gutters ">
                                 
-                                <div class="col-xl-4 col-lg-4">
-                                    <div class="grid">
-                                        <a href="/edificio-ouro-verde">
-                                            <figure class="effect-bubba ">
-
-                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
-
-                                                <figcaption class="margin-figcaption">
-
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
-
-
-                                                    <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
-
-                                                </figcaption>
-
-                                            </figure>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-xl-4 col-lg-4 ">
-                                    <div class="grid">
-                                        <a href="/edificio-di-pietra">
-                                            <figure class="effect-bubba">
-
-                                                <img class="img_fundo" src="assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
-
-                                                <figcaption>
-
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
-
-
-                                                    <p class="localizacao-empre" style="color: white;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
-
-                                                </figcaption>
-
-                                            </figure>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-xl-4 col-lg-4">
-                                    <div class="grid">
-                                        <a href="/edificio-guara">
-                                            <figure class="effect-bubba">
-
-                                                <img class="img_fundo" src="assets/img/edificios/edGuara-(437x566)2.png" alt="img02" />
-
-                                                <figcaption class="margin-figcaption">
-
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/LogoGuara.png" alt="img03" /></h2>
-
-
-                                                    <p class="localizacao-empre" style="color: white;">Rua Guaratuba, 135, </br>Bairro Saguaçu - Joinville</p>
-
-                                                </figcaption>
-
-                                            </figure>
-                                        </a>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
                  </div>
