@@ -112,14 +112,6 @@ $(document).ready(function() {
     };
 
 
-
-    $.getJSON('./imagens.json', (res) => {
-        imagensEspaco(res);
-    });
-    $.getJSON('./produtos.json', (res) => {
-        cardapio(res)
-    });
-
     function iniciarIsotope() {
         var $topeContainer = $('.isotope-grid');
         var $grid = $topeContainer.each(function() {
