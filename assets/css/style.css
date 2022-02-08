@@ -456,6 +456,9 @@ body {
   right: 30px;
   left: 30px;
   padding: 10px 0;
+  font-size: 13px !important;
+  line-height: initial !important;
+  text-align: center !important;
 }
 .btn-empre{
   bottom: 30px;

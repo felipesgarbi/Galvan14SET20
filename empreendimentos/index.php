@@ -3,7 +3,8 @@
 
 <?php
 $sub = "1";
-include "../estrutura/head.php";
+include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php"; 
+
 ?>
 
 <body>
@@ -58,79 +59,168 @@ include "../estrutura/head.php";
 
                 <div class="content-wrap">
                     <section id="section-linebox-6">
-                        <div class="gallery-area">
-                            <div class="container-fluid p-0 fix">
-                                <div class="row no-gutters">
+                    <div id="carouselFadeEmpreen" class="carousel slide carousel-fade carousel-inicio" data-interval="false" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active w-100">
+                    <div class="gallery-area">
+                        <div class="container-fluid p-0 fix">
+                            <div class="row no-gutters ">
+                            <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-guara">
+                                            <figure class="effect-bubba">
 
-                                    <!-- ################################ -->
-                                    <!-- ## EDIFICIO CONTARINI INÍCIO ### -->
-                                    <!-- ################################ -->
+                                                <img class="img_fundo" src="assets/img/edificios/edGuara-(437x566)2.png" alt="img02" />
 
-                                    <div class="col-xl-4 col-lg-4">
-                                        <div class="grid">
-                                            <a href="../edificio-contarini">
-                                                <figure class="effect-bubba">
-                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
-                                                    <figcaption>
-                                                        <h2 style="font-family: Daydream;  color: white; font-size: 30px"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img03" /></h2>
-                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
-                                                    </figcaption>
-                                                </figure>
-                                            </a>
-                                        </div>
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/LogoGuara.png" alt="img03" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Guaratuba, 135, </br>Bairro Saguaçu - Joinville</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
                                     </div>
-
-                                    <!-- ################################ -->
-                                    <!-- #### EDIFICIO CONTARINI FIM #### -->
-                                    <!-- ################################ -->
-
-                                    <!-- ################################ -->
-                                    <!-- ## EDIFICIO OURO VERDE INÍCIO ## -->
-                                    <!-- ################################ -->
-
-                                    <div class="col-xl-4 col-lg-4">
-                                        <div class="grid">
-                                            <a href="../edificio-ouro-verde">
-                                                <figure class="effect-bubba">
-                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
-                                                    <figcaption>
-                                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
-                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
-                                                    </figcaption>
-                                                </figure>
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <!-- ################################ -->
-                                    <!-- #### EDIFICIO OURO VERDE FIM ### -->
-                                    <!-- ################################ -->
-
-                                    <!-- ################################ -->
-                                    <!-- ### EDIFICIO DI PIETRA INICIO ## -->
-                                    <!-- ################################ -->
-
-                                    <div class="col-xl-4 col-lg-4">
-                                        <div class="grid">
-                                            <a href="../edificio-di-pietra">
-                                                <figure class="effect-bubba">
-                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
-                                                    <figcaption>
-                                                        <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="../assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
-                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
-                                                    </figcaption>
-                                                </figure>
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <!-- ################################ -->
-                                    <!-- #### EDIFICIO DI PIETRA FIM #### -->
-                                    <!-- ################################ -->
-
                                 </div>
+                                <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-contarini">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
+
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-ouro-verde">
+                                            <figure class="effect-bubba ">
+
+                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
+                               
                             </div>
                         </div>
+                 </div>
+                </div>
+
+
+                <div class="item w-100">
+                <div class="gallery-area">
+                        <div class="container-fluid p-0 fix">
+                            <div class="row no-gutters ">
+                            <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-contarini">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
+
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4">
+                                    <div class="grid">
+                                        <a href="/edificio-ouro-verde">
+                                            <figure class="effect-bubba ">
+
+                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+
+                                                <figcaption class="margin-figcaption">
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-4 ">
+                                    <div class="grid">
+                                        <a href="/edificio-di-pietra">
+                                            <figure class="effect-bubba">
+
+                                                <img class="img_fundo" src="assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
+
+                                                <figcaption>
+
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+
+
+                                                    <p class="localizacao-empre" style="color: white;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
+
+                                                </figcaption>
+
+                                            </figure>
+                                        </a>
+                                    </div>
+                                </div>
+                                
+                               
+                            </div>
+                        </div>
+                 </div>
+                </div>
+                
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carouselFadeEmpreen" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carouselFadeEmpreen" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
                     </section>
 
                     <!-- ################################ -->
@@ -142,7 +232,7 @@ include "../estrutura/head.php";
                     <!-- ################################ -->
                     <!-- ### FILTRO LANÇAMENTO INICIO ### -->
                     <!-- ################################ -->
-
+                  
                     <section id="section-linebox-1">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
@@ -150,12 +240,12 @@ include "../estrutura/head.php";
                                     <div class="col-xl-12 col-lg-12">
 
                                         <div class="grid">
-                                        <a href="../edificio-contarini">
+                                        <a href="../edificio-guara">
                                             <figure class="effect-bubba tamanho-empreendimento1">
-                                            <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02"/>
+                                            <img class="img_fundo ml-0" src="../assets/img/edificios/edGuara-(437x566)2.png" alt="img02"/>
                                                 <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/LogoGuara.png" alt="img03" style="opacity:0%;" /></h2>
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Guaratuba, 135, </br>Bairro Saguaçu - Joinville</p>
                                                 </figcaption>
                                             </figure>
                                         </a>
@@ -175,29 +265,49 @@ include "../estrutura/head.php";
                     <!-- ################################ -->
                     <!-- ## FILTRO EM CONSTRUÇÃO INICIO # -->
                     <!-- ################################ -->
-
-                    <section id="section-linebox-2">
+                    <section id="section-linebox-4">
                         <div class="gallery-area">
                             <div class="container-fluid p-0 fix">
-                                <div class="row no-gutters">
-                                    <div class="col-xl-12 col-lg-12">
+                                <div class="row no-gutters ">
+                                    <div class="col-xl-6 col-lg-6">
 
                                         <div class="grid">
-                                        <a href="../edificio-contarini">
+                                        <a href="../edificio-guara">
                                             <figure class="effect-bubba tamanho-empreendimento1">
-                                                <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
+                                            <img class="img_fundo ml-0" src="../assets/img/edificios/edGuara-(437x566)2.png" alt="img02"/>
                                                 <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img03" style="opacity:0%;" /></h2>
-                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/LogoGuara.png" alt="img03" style="opacity:0%;" /></h2>
+                                                    <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Guaratuba, 135, </br>Bairro Saguaçu - Joinville</p>
                                                 </figcaption>
                                             </figure>
                                         </a>
                                         </div>
                                     </div>
+                                    <div class="col-xl-6 col-lg-6">
+                                        <a href="../edificio-contarini">
+
+                                            <div class="grid">
+                                            <a href="../edificio-contarini">
+                                                <figure class="effect-bubba tamanho-empreendimento2">
+                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02"/>
+                                                    <figcaption>
+                                                        <h2 style="font-family: Daydream; color: white;"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img02" /></h2>
+                                                        <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
+                                                    </figcaption>
+                                                </figure>
+                                            </a>
+                                            </div>
+
+                                        </a>
+                                    </div>
+                    
+
                                 </div>
                             </div>
                         </div>
                     </section>
+
+                   
 
                     <!-- ################################ -->
                     <!-- ## FILTRO EM CONSTRUÇÃO FIM #### -->
@@ -403,6 +513,8 @@ include "../estrutura/head.php";
             });
 
         })();
+
+    
     </script>
 
 </body>
