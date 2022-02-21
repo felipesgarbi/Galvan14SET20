@@ -350,21 +350,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ALVENARIA - INICIO ** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress noventaeCincoPorc">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">95%</div>
+                            <div class="progress-value">100%</div>
                         </div>
                         <p>
                         <div class="col-md-12 text-center">
                             <h5><b>ALVENARIA</b></h5>
                         </div>
                         <div class="col-md-12 text-center">
-                            <h6 class="textoCinza">atualizado em 20/08/2021</h6>
+                            <h6 class="textoCinza">atualizado em 19/02/2022</h6>
                         </div>
                         </p>
                     </div>
@@ -380,21 +380,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS REVESTIMENTO - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress trintaeCincoPorc">
+                        <div class="progress setentaeCincoPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">35%</div>
+                            <div class="progress-value">75%</div>
                         </div>
                         <p>
                         <div class="col-md-12 text-center">
                             <h5><b>REVESTIMENTO</b></h5>
                         </div>
                         <div class="col-md-12 text-center">
-                            <h6 class="textoCinza">atualizado em 20/08/2021</h6>
+                            <h6 class="textoCinza">atualizado em 19/02/2022</h6>
                         </div>
                         </p>
                     </div>
@@ -406,21 +406,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS ACABAMENTO - INICIO * -->
                     <!-- ****************************** -->
                     <div class="col-md-4 col-sm-6 mb-30">
-                        <div class="progress zeroPorc">
+                        <div class="progress quinzePorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">0%</div>
+                            <div class="progress-value">15%</div>
                         </div>
                         <p>
                         <div class="col-md-12 text-center">
                             <h5><b>ACABAMENTO</b></h5>
                         </div>
                         <div class="col-md-12 text-center">
-                            <h6 class="textoCinza">não iniciado</h6>
+                            <h6 class="textoCinza">atualizado em 19/02/2022</h6>
                         </div>
                         </p>
                     </div>

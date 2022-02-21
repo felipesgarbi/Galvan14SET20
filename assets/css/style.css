@@ -1830,6 +1830,10 @@ hr {
 /*-- Margin Bottom --*/
 /* line 525, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
 
+.mb-negative {
+  margin-bottom: -30px;
+}
+
 .mb-2 {
   margin-bottom: 3px;
 }
@@ -2441,6 +2445,11 @@ hr {
 
 /*-- Padding Top --*/
 /* line 539, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_common.scss */
+
+.pt-negative {
+  padding-top: -30px;
+}
+
 .pt-5 {
   padding-top: 5px;
 }
@@ -4150,6 +4159,24 @@ hr {
   /* line 75, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
   .main-header .main-menu ul li a {
     padding: 39px 0px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* CONDICIONAL MOBILE P/ ED GUARA */
+  .mob-edguara iframe {
+    margin-left: -180px;
+    width: 430%;
+    height: 500%;
+  }
+}
+
+@media (max-width: 575px) {
+  /* CONDICIONAL MOBILE P/ ED GUARA */
+  .mob-edguara iframe {
+    margin-left: -180px;
+    width: 430%;
+    height: 500%;
   }
 }
 

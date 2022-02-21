@@ -4,6 +4,46 @@
 <?php
 include "../estrutura/head.php";
 ?>
+
+<!-- Global site tag (gtag.js) - Google Ads: 407063613 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-407063613"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'AW-407063613');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+    ! function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1100850563751157');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1100850563751157&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
 <body>
     <!-- ? Preloader Start -->
     <div id="preloader-active">
@@ -17,7 +57,7 @@ include "../estrutura/head.php";
         </div>
     </div>
     <!-- Preloader Start -->
-    <?php include "../estrutura/header.php" ?>
+    <?php include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/header.php" ?>
     <main>
         <!--? Hero Start -->
         <div class="slider-area2 top-ouro section-bg2" data-background="../edificio-guara/TOP-Guara-2.png">
@@ -29,7 +69,7 @@ include "../estrutura/head.php";
         <div class="about-low-area">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 pt-30 text-justify ajustePt140EdOuroVerdeTitulo">
+                    <div class="col-md-6 pt-100 text-justify ajustePt140EdOuroVerdeTitulo">
                         <div class="section-tittle">
                             <h2 class="font-ruda">Residencial Guará</h2>
                         </div>
@@ -52,21 +92,13 @@ include "../estrutura/head.php";
                         valorizam o que mais importa: estar ao lado de quem se ama.</p>
 
                     </div>
-                    <div class="col-md-6 pt-20 text-center">
-                        <img class="mb-2" src="../assets/img/edGuara/Guara-Empreend.png" alt="hall-de-entrada-ouro-verde" alt="" width="100%" height="80%">
-                    </div>
-                    <!-- VIDEO DO EMPREENDIMENTO INÍCIO 
+
+                    <!-- VIDEO DO EMPREENDIMENTO INÍCIO -->
                     <div class="col-md-6 pt-20 text-center mb-40">
-                        <iframe 
-                            width="100%" 
-                            height="110%" 
-                            src="https://www.youtube.com/embed/20J2d28tcEY" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                            allowfullscreen>
-                        </iframe>
+                        <img class="mb-2" src="../assets/img/edGuara/Guara-Empreend.png" alt="hall-de-entrada-contarini" width="100%">
                     </div>
-                     VIDEO DO EMPREENDIMENTO FIM -->
+
+                    <!-- VIDEO DO EMPREENDIMENTO FIM -->
                 </div>
             </div>
 
@@ -74,17 +106,38 @@ include "../estrutura/head.php";
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mb-10 w-100">
-                            <img class="mb-2" src="../assets/img/FotosGuara/1-FACHADA.jpg" alt="fachada-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/2-HALLINTERNO.jpg" alt="hall-interno-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/3-WORKPLACE.jpg" alt="work-place-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/5-LOUNGE.jpg" alt="lounge-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/6-BRINQUEDOTECA.jpg" alt="brinquedoteca-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/7-ACADEMIA.jpg" alt="academia-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/8-SALAODEFESTAS.jpg" alt="salao-de-festas-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/9-SALAODEFESTAS.jpg" alt="salao-de-festas-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/12-LIVINGTIPO4.jpg" alt="living-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/13-SACADA.jpg" alt="sacada-guara" alt="" width="100%">
-                            <img class="mb-2" src="../assets/img/FotosGuara/14-SUITE.jpg" alt="suite-guara" alt="" width="100%">
+                            <div class="mob-edguara ml-180 mr-180">
+                                <iframe 
+                                    width="100%" 
+                                    height="500px" 
+                                    src="https://www.youtube.com/embed/4BQnM-Dv4WU" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                                </iframe>
+                            </div>
+                            <div class="mob-edguara ml-200 mr-200">
+                                <iframe 
+                                    width="100%" 
+                                    height="100%" 
+                                    src="https://www.youtube.com/embed/4BQnM-Dv4WU" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                                </iframe>
+                            </div>
+                        <img class="mb-2" src="../assets/img/FotosGuara/1-FACHADA-080220221350.jpg" alt="fachada-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/2-HALLINTERNO-080220221350.jpg" alt="hall-interno-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/3-WORKPLACE-080220221350.jpg" alt="work-place-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/4-PETPLACE-080220221350.jpg" alt="salao-de-festas-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/5-LOUNGE-080220221350.jpg" alt="lounge-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/6-BRINQUEDOTECA-080220221350.jpg" alt="brinquedoteca-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/7-ACADEMIA-080220221350.jpg" alt="academia-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/9-SALAODEFESTAS-080220221350.jpg" alt="salao-de-festas-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/8-SALAODEFESTAS-080220221350.jpg" alt="salao-de-festas-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/10-PISCINA-080220221350.jpg" alt="salao-de-festas-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/11-PLAYGROUND-080220221350.jpg" alt="salao-de-festas-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/12-LIVINGTIPO4-080220221350.jpg" alt="living-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/13-SACADA-080220221350.jpg" alt="sacada-guara" alt="" width="100%">
+                            <img class="mb-2" src="../assets/img/FotosGuara/14-SUITE-080220221350.jpg" alt="suite-guara" alt="" width="100%">
                         </div>
                     </div>
                 </div>
@@ -105,8 +158,8 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../assets/img/edGuara/Tipo01/Tipo1.png" data-caption="TIPO 01">
-                                        <img class="mb-2" src="../assets/img/edGuara/Tipo01/Tipo1.png" alt="tipo-01" width="80%">
+                                    <a data-fancybox="images" href="../assets/img/edGuara/Tipo01/Tipo1-.png" data-caption="TIPO 01">
+                                        <img class="mb-2" src="../assets/img/edGuara/Tipo01/Tipo1-.png" alt="tipo-01" width="80%">
                                     </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
@@ -124,8 +177,8 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../assets/img/edGuara/Tipo02e03/Tipo2e3.png" data-caption="TIPO 02 e 03">
-                                        <img class="mb-2" src="../assets/img/edGuara/Tipo02e03/Tipo2e3.png" alt="tipo-02-e-03" width="80%">
+                                    <a data-fancybox="images" href="../assets/img/edGuara/Tipo02e03/Tipo2e3-.png" data-caption="TIPO 02 e 03">
+                                        <img class="mb-2" src="../assets/img/edGuara/Tipo02e03/Tipo2e3-.png" alt="tipo-02-e-03" width="80%">
                                     </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
@@ -145,8 +198,8 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../assets/img/edGuara/Tipo04/Tipo4.png" data-caption="TIPO 04">
-                                        <img class="mb-2" src="../assets/img/edGuara/Tipo04/Tipo4.png" alt="tipo-04" width="80%">
+                                    <a data-fancybox="images" href="../assets/img/edGuara/Tipo04/Tipo4-.png" data-caption="TIPO 04">
+                                        <img class="mb-2" src="../assets/img/edGuara/Tipo04/Tipo4-.png" alt="tipo-04" width="80%">
                                     </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
@@ -166,8 +219,8 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../assets/img/edGuara/Giardino01/Giardino01.png" data-caption="GIARDINO 01">
-                                        <img class="mb-2" src="../assets/img/edGuara/Giardino01/Giardino01.png" alt="apto-giardino-01" width="80%">
+                                    <a data-fancybox="images" href="../assets/img/edGuara/Giardino01/Giardino01-.png" data-caption="GIARDINO 01">
+                                        <img class="mb-2" src="../assets/img/edGuara/Giardino01/Giardino01-.png" alt="apto-giardino-01" width="80%">
                                     </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
@@ -186,8 +239,8 @@ include "../estrutura/head.php";
                             <div class="container">
                                 <div class="row">
                                     <div class="col-sm-8">
-                                    <a data-fancybox="images" href="../assets/img/edGuara/Giardino02/Giardino02.png" data-caption="GIARDINO 02">
-                                        <img class="mb-2" src="../assets/img/edGuara/Giardino02/Giardino02.png" alt="apto-giardino-02" width="80%">
+                                    <a data-fancybox="images" href="../assets/img/edGuara/Giardino02/Giardino02-.png" data-caption="GIARDINO 02">
+                                        <img class="mb-2" src="../assets/img/edGuara/Giardino02/Giardino02-.png" alt="apto-giardino-02" width="80%">
                                     </a>
                                     </div>
                                     <div class="col-sm-4 fundo-planta">
@@ -237,21 +290,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS PRELIMINARES - INICIO -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress zeroPorc">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">0%</div>
+                            <div class="progress-value">100%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>SERVIÇOS PRELIMINARES</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
+                                <h6 class="textoCinza">atualizado em 20/02/2022</h6>
                             </div>
                         </p>
                     </div>
@@ -263,21 +316,21 @@ include "../estrutura/head.php";
                     <!-- SERVIÇOS FUNDAÇÃO - INICIO *** -->
                     <!-- ****************************** -->
                     <div class="col-md-3 col-sm-6 mb-30">
-                        <div class="progress zeroPorc">
+                        <div class="progress cemPorc">
                             <span class="progress-left">
                                 <span class="progress-bar"></span>
                             </span>
                             <span class="progress-right">
                                 <span class="progress-bar"></span>
                             </span>
-                            <div class="progress-value">0%</div>
+                            <div class="progress-value">100%</div>
                         </div>
                         <p>
                             <div class="col-md-12 text-center">
                                 <h5><b>FUNDAÇÃO</b></h5>
                             </div>
                             <div class="col-md-12 text-center">
-                                <h6 class="textoCinza">não iniciado</h6>
+                                <h6 class="textoCinza">atualizado em 20/02/2022</h6>
                             </div>
                         </p>
                     </div>
@@ -448,7 +501,7 @@ include "../estrutura/head.php";
         <!-- BOTÃO DO WHATSAPP FIM -->
 
         <!-- JS here -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
         <script src="./../assets/js/vendor/modernizr-3.5.0.min.js"></script>
         <!-- Jquery, Popper, Bootstrap -->
         <script src="./../assets/js/vendor/jquery-1.12.4.min.js"></script>
@@ -493,6 +546,7 @@ include "../estrutura/head.php";
         <!-- Códigos p/ elemento Fancybox -->
         <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
 
         <script src="./../assets/tabs/js/cbpFWTabs.js"></script>
         <script>
