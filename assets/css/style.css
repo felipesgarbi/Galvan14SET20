@@ -4086,6 +4086,33 @@ hr {
   }
 }
 
+/* ######## CONDIÇÃO MOBILE P/ VIDEO DO EDIFICIO GUARÁ ######### */
+/* ######## CONDIÇÃO MOBILE P/ VIDEO DO EDIFICIO GUARÁ ######### */
+/* ######## CONDIÇÃO MOBILE P/ VIDEO DO EDIFICIO GUARÁ ######### */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .mob-edguara iframe {
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .mob-edguara iframe {
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .mob-edguara iframe {
+    width: 100%;
+    height: 300px;
+  }
+}
+/* ######## CONDIÇÃO MOBILE P/ VIDEO DO EDIFICIO GUARÁ ######### */
+/* ######## CONDIÇÃO MOBILE P/ VIDEO DO EDIFICIO GUARÁ ######### */
+/* ######## CONDIÇÃO MOBILE P/ VIDEO DO EDIFICIO GUARÁ ######### */
+
 /* line 30, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top {
   background: #174264;
@@ -4159,24 +4186,6 @@ hr {
   /* line 75, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_headerMenu.scss */
   .main-header .main-menu ul li a {
     padding: 39px 0px;
-  }
-}
-
-@media only screen and (min-width: 576px) and (max-width: 767px) {
-  /* CONDICIONAL MOBILE P/ ED GUARA */
-  .mob-edguara iframe {
-    margin-left: -180px;
-    width: 430%;
-    height: 500%;
-  }
-}
-
-@media (max-width: 575px) {
-  /* CONDICIONAL MOBILE P/ ED GUARA */
-  .mob-edguara iframe {
-    margin-left: -180px;
-    width: 430%;
-    height: 500%;
   }
 }
 

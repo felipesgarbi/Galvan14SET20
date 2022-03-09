@@ -97,8 +97,29 @@ include "../estrutura/head.php";
                     <div class="col-md-6 pt-20 text-center mb-40">
                         <img class="mb-2" src="../assets/img/edGuara/Guara-Empreend.png" alt="hall-de-entrada-contarini" width="100%">
                     </div>
-
+                    
                     <!-- VIDEO DO EMPREENDIMENTO FIM -->
+                </div>
+            </div>
+            
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 mob-edguara w-100 mb-10">
+                        <iframe 
+                            width="100%" 
+                            height="500px" 
+                            src="https://www.youtube.com/embed/4BQnM-Dv4WU" 
+                            title="YouTube video player" 
+                            frameborder="0" 
+                            allow="accelerometer; 
+                                autoplay; 
+                                clipboard-write; 
+                                encrypted-media; 
+                                gyroscope; 
+                                picture-in-picture" 
+                            allowfullscreen>
+                        </iframe>
+                    </div>
                 </div>
             </div>
 
@@ -106,6 +127,7 @@ include "../estrutura/head.php";
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mb-10 w-100">
+                            <!-- COMENTADO, PQ EM VERSAO DESKTOP ESSE TAVA OK
                             <div class="mob-edguara ml-180 mr-180">
                                 <iframe 
                                     width="100%" 
@@ -114,7 +136,7 @@ include "../estrutura/head.php";
                                     frameborder="0" 
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                                 </iframe>
-                            </div>
+                            </div>-->
                         <img class="mb-2" src="../assets/img/FotosGuara/1-FACHADA-080220221350.jpg" alt="fachada-guara" alt="" width="100%">
                             <img class="mb-2" src="../assets/img/FotosGuara/2-HALLINTERNO-080220221350.jpg" alt="hall-interno-guara" alt="" width="100%">
                             <img class="mb-2" src="../assets/img/FotosGuara/3-WORKPLACE-080220221350.jpg" alt="work-place-guara" alt="" width="100%">
