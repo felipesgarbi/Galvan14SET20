@@ -104,7 +104,7 @@ include "../estrutura/head.php";
             
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12 mob-edguara w-100 mb-10">
+                    <div class="col-lg-12 mob-edguara mb-10">
                         <iframe 
                             width="100%" 
                             height="500px" 
