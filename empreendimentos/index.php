@@ -116,11 +116,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         <a href="/edificio-ouro-verde">
                                             <figure class="effect-bubba ">
 
-                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="edificio-guara" />
 
                                                 <figcaption class="margin-figcaption">
 
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="logo-guara" /></h2>
 
 
                                                     <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
@@ -147,11 +147,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         <a href="/edificio-contarini">
                                             <figure class="effect-bubba">
 
-                                                <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="img02" />
+                                                <img class="img_fundo" src="assets/img/edificios/ed-contarini437x566.jpeg" alt="edificio-contarini" />
 
                                                 <figcaption class="margin-figcaption">
 
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="img03" /></h2>
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/logoContarini.png" alt="logo-contarini" /></h2>
 
 
                                                     <p class="localizacao-empre" style="color: white;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
@@ -167,11 +167,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         <a href="/edificio-ouro-verde">
                                             <figure class="effect-bubba ">
 
-                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="img02" />
+                                                <img class="img_fundo" src="assets/img/edificios/ed-ouroverdei437x566.jpeg" alt="edificio-ouro-verde" />
 
                                                 <figcaption class="margin-figcaption">
 
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="img02" /></h2>
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/OuroVerdeLogo.png" alt="logo-ouro-verde" /></h2>
 
 
                                                     <p class="localizacao-empre" style="color: white;">Rua Ouro Verde, 98, </br>Bairro Saguaçu, Joinville - SC</p>
@@ -187,11 +187,11 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         <a href="/edificio-di-pietra">
                                             <figure class="effect-bubba">
 
-                                                <img class="img_fundo" src="assets/img/edificios/ed-dipietra437x566.jpeg" alt="img02" />
+                                                <img class="img_fundo" src="assets/img/edificios/ed-dipietra437x566.jpeg" alt="edificio-di-pietra" />
 
                                                 <figcaption>
 
-                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/DiPietraLogo.png" alt="img02" /></h2>
+                                                    <h2 style="font-family: Daydream;  color: white;"><img class="img_logo" src="assets/img/logo/DiPietraLogo.png" alt="logo-di-pietra" /></h2>
 
 
                                                     <p class="localizacao-empre" style="color: white;">Rua Piratuba, 1141, </br>Bairro Iririú, Joinville - SC</p>
@@ -242,9 +242,9 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         <div class="grid">
                                         <a href="../edificio-guara">
                                             <figure class="effect-bubba tamanho-empreendimento1">
-                                            <img class="img_fundo ml-0" src="../assets/img/edificios/edGuara-(437x566)2.png" alt="img02"/>
+                                            <img class="img_fundo ml-0" src="../assets/img/edificios/edGuara-(437x566)3.png" alt="edificio-guara-fundo"/>
                                                 <figcaption>
-                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/LogoGuara.png" alt="img03" style="opacity:0%;" /></h2>
+                                                    <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/LogoGuara.png" alt="edificio-guara-h2" style="opacity:0%;" /></h2>
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Guaratuba, 135, </br>Bairro Saguaçu - Joinville</p>
                                                 </figcaption>
                                             </figure>
@@ -274,7 +274,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                         <div class="grid">
                                         <a href="../edificio-guara">
                                             <figure class="effect-bubba tamanho-empreendimento1">
-                                            <img class="img_fundo ml-0" src="../assets/img/edificios/edGuara-(437x566)2.png" alt="img02"/>
+                                            <img class="img_fundo ml-0" src="../assets/img/edificios/edGuara-(437x566)2.png" alt="edificio-guara-fundo-ml0"/>
                                                 <figcaption>
                                                     <h2 style="font-family: Daydream;  color: white; font-size: 30px;"><img class="img_logo" src="../assets/img/logo/LogoGuara.png" alt="img03" style="opacity:0%;" /></h2>
                                                     <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Guaratuba, 135, </br>Bairro Saguaçu - Joinville</p>
@@ -289,7 +289,7 @@ include $_SERVER["DOCUMENT_ROOT"] . "/estrutura/head.php";
                                             <div class="grid">
                                             <a href="../edificio-contarini">
                                                 <figure class="effect-bubba tamanho-empreendimento2">
-                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="img02"/>
+                                                    <img class="img_fundo ml-0" src="../assets/img/edificios/ed-contarini437x566.jpeg" alt="edificio-contarini-fundo-ml0"/>
                                                     <figcaption>
                                                         <h2 style="font-family: Daydream; color: white;"><img class="img_logo" src="../assets/img/logo/logoContarini.png" alt="img02" /></h2>
                                                         <p class="localizacao-empre" style="color: white; font-size: 16px; font-weight: normal; line-height: 30px; text-align: center;">Rua Indaial, 1003, </br>Bairro Saguaçu, Joinville - SC</p>
