@@ -104,7 +104,7 @@
                                         <a href="/edificio-guara">
                                             <figure class="effect-bubba">
 
-                                                <img class="img_fundo" src="assets/img/edificios/edGuara-(437x566)2.png" alt="img02" />
+                                                <img class="img_fundo" src="assets/img/edificios/edGuara-(437x566)3.png" alt="img02" />
 
                                                 <figcaption class="margin-figcaption">
 
